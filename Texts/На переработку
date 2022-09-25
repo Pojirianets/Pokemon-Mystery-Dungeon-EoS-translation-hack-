@@ -1,0 +1,3379 @@
+((NAMING WINDOWS))
+What is your name?
+Ëàëïå ô âàò éíÿ?
+Please enter a team name.
+Ââåäéóå îàèâàîéå ëïíàîäú.
+Please enter a name.
+Ââåäéóå éíÿ.
+What is your partner's nickname?
+Ëàëïå éíÿ ô âàšåãï òðôóîéëà?
+Please choose the first letter.
+Âúáåñéóå ðåñâôý áôëâô.
+Enter the Friend Rescue password.
+Ââåäéóå ðàñïìû Friend Rescue.
+Please enter the Wonder Mail S password.
+Ââåäéóå ðàñïìû Wonder Mail S.
+Please enter the email address.
+Ââåäéóå email.
+What is your friend's team's name?
+Îàèâàîéå ëïíàîäú ô âàšåãï äñôãà?
+Friend Rescue Password
+Ðàñïìû Friend Rescue
+-
+"[CN]Controls
+
+  Move cursor:[CLUM_SET:123][CLUM_SET:130][M:B8]
+  Shift entry spot:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B21]
+  Confirm:[CLUM_SET:123][CLUM_SET:130][M:B2]
+  Cancel:[CLUM_SET:123][CLUM_SET:130][M:B3]
+  Move to End:[CLUM_SET:123][CLUM_SET:130][M:B0]
+  Switch keyboard:[CLUM_SET:123][CLUM_SET:130][M:B1]"
+ [CN]Ôðñàâìåîéå
+
+  Äâéãàóû ëôñòïñ:[CLUM_SET:123][CLUM_SET:130][M:B8]
+  Òäâéã óïœëé ââïäà:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B21]
+  Ðñéîÿóû:[CLUM_SET:123][CLUM_SET:130][M:B2]
+  Ïóíåîéóû:[CLUM_SET:123][CLUM_SET:130][M:B3]
+  Ðåñåöïä ë ëîïðëå Âòæ:[CLUM_SET:123][CLUM_SET:130][M:B0]
+  Òíåîéóû ñàòëìàäëô:[CLUM_SET:123][CLUM_SET:130][M:B1] 
+-
+"[CN]Controls
+
+  Move cursor:[CLUM_SET:123][CLUM_SET:130][M:B8]
+  Shift entry spot:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B8]
+  Confirm:[CLUM_SET:123][CLUM_SET:130][M:B2]
+  Cancel:[CLUM_SET:123][CLUM_SET:130][M:B3]
+  Move to End:[CLUM_SET:123][CLUM_SET:130][M:B0]"
+  [CN]Ôðñàâìåîéå
+
+  Äâéãàóû ëôñòïñ:[CLUM_SET:123][CLUM_SET:130][M:B8]
+  Òäâéã óïœëé ââïäà:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B8]
+  Ðñéîÿóû:[CLUM_SET:123][CLUM_SET:130][M:B2]
+  Ïóíåîéóû:[CLUM_SET:123][CLUM_SET:130][M:B3]
+  Ðåñåöïä ë ëîïðëå Âòæ:[CLUM_SET:123][CLUM_SET:130][M:B0]
+-
+Is the name [string0] OK?
+Âàò ôòóñàéâàåó éíÿ [string0]?
+-
+Please enter a name.
+Ðïçàìôêòóà, ââåäéóå éíÿ.
+-
+[CS:C]INS
+[CS:C]ÂÒÓ
+[CS:K]OVR
+[CS:K]ÐÑÈ
+-
+[M:D0]
+
+[M:D0]
+
+[M:D0]
+
+[M:D0]
+
+[M:D0]
+
+[M:D0]
+
+[M:D0]
+
+[M:D0]
+
+ABC
+
+[CS:E]ABC
+
+ÃЂ
+
+[CS:E]ÃЂ
+
+-
+
+-
+
+DEL
+ÔÄÌ
+END
+ÂÒÆ
+((PERSONALITY TEST))
+"You're running a marathon, and at the start
+you fall flat on your face! What will you do?"
+Âú áåçéóå íàñàõïî, îï â òàíïí îàœàìå âú
+òðïóúëàåóåòû é ðàäàåóå! Œóï âú áôäåóå
+äåìàóû?
+"You're at a movie theater. What are you there
+to see?"
+Âú îàöïäéóåòû â ëéîïóåàóñå. Œóï âú
+öïóéóå ðïòíïóñåóû?
+What's your studying style?
+Ëàë âú ðñéâúëìé ôœéóûòÿ?
+"You've been asked to do a difficult task.
+What will you do?"
+Âàò ðïðñïòéìé òäåìàóû óñôäîôý èàäàœô.
+Ëàë âú ðïòóôðéóå?
+Are you truly sincere when you apologize?
+Âú âòåãäà œåòóîú, ëïãäà ðñïòéóå ðñïþåîéÿ?
+Do you think you have good study habits?
+Ëàë âú òœéóàåóå, öïñïšï ìé âú ôœéóåòû?
+"There's a rumor around about a ghost haunting
+the school bathrooms! What do you do?"
+Ðñïšåì òìôö, œóï â šëïìûîïí óôàìåóå
+ðïòåìéìòÿ ðñéèñàë! Œóï âú áôäåóå äåìàóû?
+"Everyone's sharing a dessert, and there's an
+extra piece. What do you do?"
+Âòå äåìÿóòÿ äåòåñóïí, îï ïòóàìòÿ ïäéî
+ìéšîéê ëôòïœåë. Ëàë âú ðïòóôðéóå?
+How are your mornings?
+Ëàë ô âàò ðñïöïäéó ôóñï?
+"Everyone around you is laughing hard at
+something you think is pretty boring.
+What do you do?"
+Âòå òíåýóòÿ îàä œåí-óï, œóï ëàçåóòÿ âàí
+äïâïìûîï òëôœîúí. Œóï âú áôäåóå äåìàóû?
+"You want to reveal that you like someone a
+whole bunch! What do you do?"
+Âú öïóéóå ðïëàèàóû, œóï âàí ëóï-óï ïœåîû
+îñàâéóòÿ! Œóï âú áôäåóå äåìàóû?
+"You're on a stroll when a TV crew pounces
+on you for an interview. What do you do?"
+Âú ðñïãôìéâàåóåòû é âîåèàðîï òùåíïœîàÿ
+ãñôððà ò óåìåëàîàìà ðñïòéó âèÿóû ô âàò
+éîóåñâûý. Ëàë âú ðïòóôðéóå?
+Do you like lively parties?
+Âàí îñàâÿóòÿ ïçéâìåîîúå âåœåñéîëé?
+"The people at the next table are singing for
+someone's birthday. What do you do?"
+Ìýäé ò òïòåäîåãï òóïìéëà ðïýó â œåòóû
+œûåãï-óï äîÿ ñïçäåîéÿ. Ëàë âú ðïòóôðéóå?
+"You're in a completely silent assembly when
+you suddenly hear someone pass gas!
+How do you react?"
+Âú îà òïâåñšåîîï óéöïí òïáñàîéé é âäñôã
+ëóï-óï ðïáìéèïòóé ðïñóéó âïèäôö!
+Ëàë âú ïóñåàãéñôåóå?
+Do you like karaoke?
+Âàí îñàâéóòÿ ëàñàïëå?
+"Do you prefer to play outside rather than
+inside?"
+Âú òëïñåå ðñåäðïœóæóå éãñàóû îà ôìéøå,
+îåçåìé äïíà?
+"You see a big and comfortable bed.
+Your first reaction is to..."
+Âú âéäéóå áïìûšôý é ôäïáîôý ëñïâàóû.
+Âàšåê ðåñâïê ñåàëøéåê áôäåó...
+"You're hiking up a mountain when you reach
+diverging paths. Which kind do you take?"
+Âú ðïäîéíàåóåòû â ãïñô é îàóúëàåóåòû îà
+äâà ñàèîúö ðôóé. Ðï ëàëïíô ðôóé ðïêäåóå?
+"You discover a beat-up-looking treasure chest
+in some ruins. What do you do?"
+Â ñàèâàìéîàö âú îàöïäéóå òóàñúê îà âéä
+òôîäôë. Œóï âú áôäåóå äåìàóû?
+"Your friend takes a spectacular fall![K]
+What do you do?"
+Âàš äñôã ïœåîû üõõåëóîï ðàäàåó![K]
+Œóï âú áôäåóå äåìàóû?
+"You're daydreaming...when your friend sprays
+you with water! What do you do?"
+Âú ï œåí-óï äôíàåóå...é âîåèàðîï âàš äñôã
+áñúèãàåó îà âàò âïäïê! Ëàë ðïòóôðéóå?
+"Have you ever thought that if you dug in your
+backyard you could find buried treasure?"
+Èàäôíúâàìéòû ìé âú ï óïí, œóï åòìé âú
+ðïëïðàåóåòû âï äâïñå, âú îàêäåóå èàñúóúê
+ëìàä?
+"Have you ever told a joke that just completely
+fell flat?"
+Âú ëïãäà-îéáôäû ñàòòëàèúâàìé òïâåñšåîîï
+îåôäàœîôý šôóëô?
+"Hey, what's that?[K] There's someone behind you![K]
+So...did you look just now?"
+Üê, œóï üóï?[K] Òèàäé âàò ëóï-óï åòóû![K]
+Óàë œóï...âú ïáåñîôìéòû?
+"Your friend has made a meal that
+tastes terrible.[K]
+They ask, ""How is it?"" You say...?"
+Âàš äñôã ðñéãïóïâéì ôçàòîïå îà âëôò
+áìýäï.[K]
+Ïî òðñàšéâàåó: "Îñàâéóòÿ?" Âàš ïóâåó...?
+"You run into a new person that you haven't
+talked to very much before. What do you do?"
+Âú îàóúëàåóåòû îà œåìïâåëà, ò ëïóïñúí
+âú íàìï ñàèãïâàñéâàìé. Ëàë ðïòóôðéóå?
+"Good news and bad news... Which one do you
+want to hear first?"
+Åòóû öïñïšéå îïâïòóé é ðìïöéå... Ëàëéå
+âú öïóéóå ôòìúšàóû â ðåñâôý ïœåñåäû?
+"Have you ever realized you were hogging the
+conversation?"
+Âú ëïãäà-îéáôäû ïòïèîàâàìé, œóï 
+èàóÿãéâàåóå ñàèãïâïñ?
+"When you see a switch, do you feel an
+overwhelming urge to flip it?"
+Ëïãäà âú âéäéóå ðåñåëìýœàóåìû, œôâòóâôåóå
+ìé âú îåðñåïäïìéíïå çåìàîéå îàçàóû îà
+îåãï?
+"You find something at a great bargain price!
+What do you do?"
+Âú îàšìé ëàëôý-óï âåþû èà öïñïšôý øåîô!
+Œóï âú áôäåóå äåìàóû?
+"You're packing your classroom's snacks for a
+picnic when you get hungry. What do you do?"
+Âú ôðàëïâúâàåóå åäô, œóïáú òùåòóû åå,
+ëïãäà ðñïãïìïäàåóåòû. Ëàë âú ðïòóôðéóå?
+Do you want to be taller someday?
+Âú öïóéóå ëïãäà-îéáôäû âúñàòóé?
+"Do you think it's important to always aim to
+be the best?"
+Âú òœéóàåóå, œóï âàçîï áúóû ìôœšå âòåö?
+"Have you ever looked at your reflection in a
+mirror and thought, ""What a cool person""?"
+Âú ëïãäà-ìéáï ãìÿäåìé îà òåáÿ â èåñëàìï
+é äôíàìé ðñï òåáÿ: "Ëàë çå ÿ öïñïš(à)"?
+"If you saw someone doing something bad, could
+you scold them?"
+Åòìé âú âéäéóå, ëàë ëóï-óï äåìàåó ðìïöéå
+âåþé, òíïãìé ìé áú âú éö ðïñôãàóû?
+"Do you prefer to be busy or to have
+a lot of free time?"
+Âú ðñåäðïœéóàåóå áúóû èàîÿóúí œåìïâåëïí
+éìé éíåóû íîïãï òâïáïäîïãï âñåíåîé?
+"You're about to buy a popular game when
+someone else gets the last copy!
+How do you feel?"
+Âú âïó-âïó òíïçåóå ëôðéóû ðïðôìÿñîôý
+éãñô, îï ëóï-óï ôòðåâàåó ëôðéóû òåáå
+ðïòìåäîýý ëïðéý! Âàšà ñåàëøéÿ?
+"You notice that a toy you bought for full price
+yesterday is marked down to half price today!
+How do you feel?"
+Âú âéäéóå, œóï éãñôšëô, ëïóïñôý âú
+ëôðéìé âœåñà, ðñïäàýó èà ðïìøåîú!
+Âàšà ñåàëøéÿ?
+"Your friend is running a little late to meet you.
+Is that OK?"
+Âàš äñôã ïðàèäúâàåó îà âòóñåœô ò âàíé.
+Âàò âòå ôòóñàéâàåó?
+"You've just stuffed yourself with a good meal
+when a great dessert arrives. What do you do?"
+Âú óïìûëï œóï îàòúóéìéòû âëôòîïê åäïê,
+îï ðïäàìé ïóìéœîúê äåòåñó. 
+Ëàë âú ðïòóôðéóå?
+"You have a really important test tomorrow!
+What do you do?"
+Ô âàò èàâóñà ïœåîû âàçîúê üëèàíåî!
+Œóï âú áôäåóå äåìàóû?
+"You've been invited to a wonderful party. It's
+time for the party to start, but there's nobody
+there! You think...?"
+Âàò ðñéãìàòéìé îà âåœåñéîëô. Åê ðïñà áú
+ôçå îàœàóûòÿ, îï îéëïãï âòå åþæ îåó!
+Âú äôíàåóå...?
+"Do you think that, no matter what, life
+goes on?"
+Âú äôíàåóå, œóï, îåòíïóñÿ îé îà œóï, 
+çéèîû ðñïäïìçàåóòÿ?
+The phone's ringing![K] What do you do?
+Èâïîéó óåìåõïî![K] Œóï âú áôäåóå äåìàóû?
+"Your friends seem to be making plans to hang
+out, just out of earshot. You think..."
+Âú ðïäòìôšàìé, œóï âàšé äñôèûÿ öïóÿó
+ëôäà-óï ðïêóé. Âú äôíàåóå...
+Do you want to be famous?
+Âú öïóéóå áúóû éèâåòóîúí œåìïâåëïí?
+"You've been handed a large bag as a souvenir.
+What do you do?"
+Âàí äàìé áïìûšôý ôðàëïâëô ò œåí-óï â
+ðïäàñïë. Œóï âú áôäåóå äåìàóû?
+"Have you ever forgotten you bought something
+and bought another one?"
+Âú ëïãäà-ìéáï èàáúâàìé, ï ëàëïê-óï
+ðïëôðëå é ëôðéìé œóï-óï âï âóïñïê ñàè?
+"Once you've decided something, do you see it
+through to the end?"
+Ëàë óïìûëï âú œóï-óï ñåšéìé òäåìàóû,
+äïâïäéóå ìé âú üóï äåìï äï ëïîøà?
+"Have you ever said ""nice to meet you"" to
+someone you've met previously?"
+Âú ëïãäà-îéáôäû ãïâïñéìé "ðñéÿóîï 
+ðïèîàëïíéóûòÿ" ëïíô-óï, ò ëåí âòóñåœàìéòû
+ñàîåå?
+Did you make any New Year's resolutions?
+Âú ðñéîéíàìé ëàëéå-îéáôäû îïâïãïäîéå
+ñåšåîéÿ?
+"Do you think it's important to be fashionably
+late?"
+Âú òœéóàåóå, œóï âàçîï òìåäïâàóû íïäå?
+You've won big on a raffle ticket! You say...
+Âú ëñôðîï âúéãñàìé â ìïóåñåý!
+Âú ãïâïñéóå...
+"Do you think blaming something you did on
+someone else is sometimes necessary?"
+Òœéóàåóå ìé âú, œóï éîïãäà îåïáöïäéíï
+ïáâéîÿóû â óïí, œóï âú òäåìàìé, ëïãï-óï
+äñôãïãï?
+"Your friend suddenly won't listen to you, when
+everything was fine yesterday.
+What happened?"
+Âàš äñôã âîåèàðîï îå öïœåó ò âàíé
+ñàèãïâàñéâàóû, öïóÿ âœåñà âòå áúìï
+öïñïšï. Œóï òìôœéìïòû?
+"You take off your shoes to realize your socks
+are two different colors!
+What do you do?"
+Âú òîéíàåóå ïáôâû é âéäéóå, œóï âàšé
+îïòëé ñàèîïãï øâåóà! 
+Œóï âú áôäåóå äåìàóû?
+"You fail miserably! Everyone found out, and
+they're disappointed in you... What do you do?"
+Âú ò óñåòëïí ðñïâàìéìéòû! Âòå ôèîàìé ïá
+üóïí, é ïîé ñàèïœàñïâàîú â óåáå...
+Œóï áôäåóå äåìàóû?
+"Have you ever accidentally called a teacher
+""Mom"" or ""Dad""?"
+Âú ëïãäà-ìéáï òìôœàêîï îàèúâàìé ôœéóåìÿ
+"Íàíïê" éìé "Ðàðïê"?
+"Have you ever blurted something out without
+thinking about the consequences first?"
+Âú ëïãäà-ìéáï ñàèáàìóúâàìé œóï-óï, îå
+äôíàÿ ï ðïòìåäòóâéÿö?
+"You're in class when you realize that you really
+have to go to the restroom! What do you do?"
+Âú îàöïäéóåòû îà ôñïëå é ïòïèîàåóå, œóï
+âàí ïœåîû îàäï â óôàìåó! Œóï âú òäåìàåóå?
+"Your friend offers to treat you to dinner.
+What do you do?"
+Âàš äñôã ðñåäìàãàåó ôãïòóéóû âàò ôçéîïí.
+Œóï âú áôäåóå äåìàóû?
+"You see a cake that is past its expiration date,
+but only by one day. What do you do?"
+Âú âéäéóå ðéñïçåîïå, ô ëïóïñïãï éòóåë
+òñïë ãïäîïòóé, îï âòåãï ìéšû îà äåîû.
+Œóï âú áôäåóå äåìàóû?
+"You're eating at a very fancy restaurant known
+for its food. Which course do you select?"
+Âú èàëàèúâàåóå åäô â ñåòóïñàîå, éèâåòóîúí
+èà òâïý ëôöîý. Ëàëôý åäô áôäåóå áñàóû?
+Are you male or female?
+Âú íôçœéîà éìé çåîþéîà?
+Thank you for answering all those questions.[P]
+Òðàòéáï èà ïóâåó îà âòå üóé âïðñïòú.[P]
+"Did you play ""Explorers of Time"" or ""Explorers
+of Darkness""?"
+Éãñàìé ìé âú â "Explorers of Time" éìé
+"Explorers of Darkness"?
+I'm not giving up yet!
+Ÿ îå òäàíòÿ!
+Just give up.
+Ðñïòóï òäàóûòÿ.
+Shout, "START OVER!"
+Èàëñéœàóû: "ÈÀÎÏÂÏ!"
+An action movie.
+Áïåâéë.
+A drama.
+Äñàíô.
+A romantic movie.
+Ñïíàîóéëô.
+Working hard, every day.
+Ôðïñîï é åçåäîåâîï.
+If I remember to...
+Åòìé ÿ âòðïíîý...
+I just cover what I need to.
+Ðñïòóï œéóàý óï, œóï íîå îôçîï.
+I can't really do it alone...
+Ÿ îå íïãô ôœéóûòÿ â ïäéîïœëô...
+Do it myself.
+Òäåìàý òàíïòóïÿóåìûîï.
+Ask someone to help.
+Ðïðñïšô ëïãï-ìéáï ï ðïíïþé.
+Make someone else do it!
+Ðôòóû ëóï-óï äñôãïê òäåìàåó üóï!
+Of course.
+Ëïîåœîï.
+That's not easy to admit!
+Üóï îåìåãëï ðñéèîàóû!
+Yes.
+Äà.
+No.
+Îåó.
+Well, I never lose at sports!
+Îô, â òðïñóå ÿ îå ôòóôðàý!
+Scary...bathrooms!
+Òóñàšîï... óôàìåóú!
+Go in there anyway.
+Âòå ñàâîï ðïêóé óôäà.
+Don't tell anyone.
+Îéëïíô îå ñàòòëàèúâàóû.
+Let everyone know.
+Ðôòóû âòå ôèîàýó.
+First come, first served!
+Ëóï ôòðåì, óïó é òùåì!
+Always in a rush!
+Ðïòóïÿîîï â òðåšëå!
+Always perfect.
+Âòåãäà éäåàìûîï.
+They are OK.
+Ëàë ïáúœîï.
+Nothing, really.
+Â øåìïí, îéœåãï.
+Laugh along.
+Áôäô òíåÿóûòÿ òï âòåíé.
+It depends on the situation.
+Îàäï òíïóñåóû ðï òéóôàøéé.
+Show it a little by playing together.
+Ðïëàèàóû üóï òïâíåòóîïê éãñïê.
+Make it obvious by...playing a prank!
+Ïáïèîàœéóû üóï...ñïèúãñúšåí!
+State it clearly for all to hear!
+Òëàèàóû œæóëï, œóïáú âòå òìúšàìé!
+Keep it to myself! It's too risky!
+Ðñéäåñçô üíïøéé! Üóï ñéòëïâàîîï!
+Run away! How embarrassing!
+Ôáåãô! Ëàë îåìïâëï!
+Answer questions properly.
+Ïóâåœô îà âòå âïðñïòú.
+Yuck it up! Woo-hoo! I'm on TV!
+Œæñó âïèûíé! Ô-öô! Ÿ â óåìåâéèïñå!
+Yes.
+Äà.
+No.
+Îåó.
+Stay on the sidelines.
+Ÿ áôäô â òóïñïîå.
+Sing along!
+Ÿ áôäô ðïäðåâàóû!
+Walk away.
+Ÿ ôêäô ðñïœû.
+Roll on the floor laughing!
+Áôäô ëàóàóûòÿ ðï ðïìô ïó òíåöà!
+Just let it go by...
+Òäåìàý âéä, œóï îéœåãï îå áúìï...
+Who was that?!
+Ëóï üóï òäåìàì?!
+Yes.
+Äà.
+No.
+Îåó.
+Yes.
+Äà.
+No.
+Îåó.
+Jump on it!
+Ðñúãîô îà îåæ!
+Belly flop!
+Áïíáïœëà!
+Curl up.
+Òâåñîôòû îà îåê ëàìàœéëïí.
+Narrow.
+Ðï ôèëïíô ðôóé.
+Wide.
+Ðï šéñïëïíô ðôóé.
+Open it!
+Ïóëñïý åãï!
+Get help opening it.
+Ðïðñïšô ëïãï-óï åãï ïóëñúóû.
+Help my friend up!
+Ðïíïãô äñôãô ðïäîÿóûòÿ!
+Laugh! It's too funny!
+Ðïòíåýòû! Ëàë ôíïñéóåìûîï!
+Get mad!
+Ñàèïèìýòû!
+Get sad.
+Ñàòòóñïýòû.
+Woo-hoo! Water fight!
+Ô-öô! Âïäîúê áïê!
+Yes.
+Äà.
+No.
+Îåó.
+Yes.
+Äà.
+No.
+Îåó.
+Don't do that! It scared me!
+Îå îàäï óàë! Üóï òóñàšîï!
+OK, I admit it. You tricked me.
+Öïñïšï, ðñéèîàý. Íåîÿ ðñïâåìé.
+No way. I didn't fall for it.
+Âïó åþå. Ÿ îå ðïâåäôòû îà üóï.
+Huh? What?
+À? Œóï?
+"Terrible!"
+"Üóï ôçàòîï!"
+Just smile.
+Ðñïòóï ôìúáîôòû.
+"Um, it's...good."
+"Üí, ïîï... îåðìïöïå."
+Make small talk.
+Îåíîïãï ðïáïìóàý ò îéí.
+Say nothing!
+Îéœåãï îå òëàçô!
+Make an excuse to get away!
+Ðñéäôíàý ðñåäìïã, œóïáú ôêóé!
+The good news.
+Öïñïšéå îïâïòóé.
+The bad news.
+Ðìïöéå îïâïòóé.
+I don't want either.
+Îéëàëéå.
+Yes.
+Äà.
+No.
+Îåó.
+Yes.
+Äà.
+No.
+Îåó.
+Buy it right away!
+Òñàèô çå ëôðìý åæ!
+Think about whether you need it.
+Ðïäôíàý, îôçîà ìé ïîà íîå.
+Demand an even bigger discount!
+Ðïóñåáôý îà îåæ áïìûšåê òëéäëé!
+Eat just a tiny bit.
+Òùåí œôóïœëô.
+Hold myself back and pack it all up.
+Òäåñçôòû é ôðàëôý âòæ.
+What snacks? They're in my belly!
+Ëàëàÿ åäà? Âòå ôçå íîïê òùåäåîï!
+Totally!
+Ïðñåäåìåîîï!
+Of course not.
+Ëïîåœîï îåó.
+Of course!
+Ëïîåœîï!
+No.
+Îåó.
+Certainly!
+Ïðñåäåìåîîï!
+Well, not really...
+Îô, îå âòåãäà...
+Of course!
+Ëïîåœîï!
+Not really.
+Âñÿä ìé.
+Being busy.
+Áúóû èàîÿóúí.
+Free time!
+Òâïáïäîïãï âñåíåîé!
+In between.
+Ãäå-óï ðïòåñåäéîå.
+Whatever.
+Îô é ìàäîï.
+Annoyed. I was here first!
+Ñàòòåñçôòû. Âàò óôó îå òóïÿìï!
+I shed a few tears.
+Îåíîïãï âèãñôòóîô.
+Heartbroken...
+Ëàëïå ãïñå...
+Aaaargh!
+Àààààê!
+Bad timing, I guess...
+Ðïöïçå, îå ðïâåèìï...
+Yes.
+Äà.
+Not at all!
+Âïâòå îåó!
+Eat it. Who cares if I'm stuffed?
+Òùåí åãï. É œóï, œóï ÿ îå öïœô åòóû?
+Turn it down. It's too fattening!
+Ïóëàçôòû. Ÿ ñàòóïìòóåý!
+Yum! I love dessert the most! ♪
+Îÿí-îÿí! Äåòåñó - òàíïå ìôœšåå! ♪
+Study all night long.
+Áôäô ôœéóûòÿ âòý îïœû îàðñïìæó.
+Wing it! I'm sure it will be fine!
+Äà ìàäîï! Âòå áôäåó â ðïñÿäëå!
+Test?! I think I have a fever...
+Üëèàíåî?! Œóï-óï íîå îåèäïñïâéóòÿ...
+Did something happen?
+Œóï-óï òìôœéìïòû?
+Maybe I have the day wrong?
+Íïçåó, ÿ ðôóàý äàóô?
+Let's get this party started!
+Äà îàœîåóòÿ âåœåñéîëà!
+All the time!
+Ðïòóïÿîîï!
+Never.
+Îéëïãäà.
+Answer right away!
+Óôó-çå ïóâåœô!
+Wait a bit before answering.
+Ðïäïçäô îåíîïãï é ïóâåœô.
+Ignore it and let it ring.
+Ðñïéãîïñéñôý èâïîïë.
+I want to go too!
+Ÿ óïçå öïœô ðïêóé ò îéíé!
+No big deal.
+Îéœåãï óàëïãï.
+Will they invite me?
+À ïîé ðñéãìàòÿó íåîÿ?
+Yes.
+Äà.
+No.
+Îåó.
+Wait until I get home to open it.
+Ðñéäô äïíïê é ïóëñïý åæ óàí.
+Shake it!
+Ðïóñÿòô åæ!
+Open it!
+Ïóëñïý åæ!
+It's smaller than everyone else's...
+Ïîà íåîûšå, œåí ô âòåö...
+Yes.
+Äà.
+No.
+Îåó.
+Yes.
+Äà.
+No.
+Îåó.
+Yes.
+Äà.
+No.
+Îåó.
+Of course!
+Ëïîåœîï!
+Nope.
+Îå-à.
+What are those?
+Ëàëéå ñåšåîéÿ?
+Yes.
+Äà.
+No.
+Îåó.
+I don't know.
+Ÿ îå èîàý.
+Woo-hoo!
+Ýö-öôô!
+I can't believe it...
+Ÿ îå íïãô â üóï ðïâåñéóû...
+This is my little secret.
+Üóï áôäåó íïê íàìåîûëéê òåëñåó.
+Of course!
+Ëïîåœîï!
+No way!
+Âïâòå îåó!
+Maybe they're sick.
+Íïçåó, ïî áïìåî.
+They're lost in thought.
+Ïî ðñïòóï èàäôíàìòÿ.
+What?! Why?!
+Œóï?! Ðïœåíô?!
+Get embarrassed!
+Èàòíôþàýòû!
+Again?!
+Òîïâà?!
+I meant to do that!
+Óàë âòæ é èàäôíàîï!
+Try and hide.
+Áôäô ðñÿóàóûòÿ.
+Think of an excuse.
+Ðñéäôíàý ïóãïâïñëô.
+Drop down and play dead!
+Ðñéóâïñýòû íæñóâúí!
+Yes.
+Äà.
+No.
+Îåó.
+Yes.
+Äà.
+No.
+Îåó.
+Ask for permission to leave.
+Ðïðñïšôòû âúêóé.
+Sneak out.
+Âúòëïìûèîô éè ëìàòòà.
+Hold on until class ends!
+Áôäô òäåñçéâàóûòÿ äï ëïîøà ôñïëà!
+I'm there!
+Öïñïšï!
+Allow me.
+Ðïèâïìû íîå.
+Thanks...
+Òðàòéáï...
+Not a problem! Chow time!
+Îå ðñïáìåíà! Ðïñà ðïçåâàóû!
+Think about it briefly, then decide.
+Ðïäôíàý é ñåšô ðïèçå.
+Get someone to try it first.
+Ðôòóû ëóï-îéáôäû äñôãïê üóï åòó.
+Seared steak.
+Çàñåîîúê òóåêë.
+Healthy fish.
+Ðïìåèîôý ñúáô.
+Anything! It's all good!
+Œóï ôãïäîï! Ÿ âòæ òùåí!
+Male.
+Íôçœéîà.
+Female.
+Çåîþéîà.
+Yes.
+Äà.
+No.
+Îåó.
+-
+"You seem to be...[K]the hardy type! And you're so
+determined![P]
+You don't whine or feel sorry for yourself, and
+you never need help with anything. You also
+have a strong sense of responsibility.[P]
+You work toward your goals steadily and never
+require attention along the way.[P]
+Your resilient spirit is the only thing you need
+to guide you toward your goals.[P]
+But be careful! You risk wearing yourself out
+if you work too long all on your own![P]
+You should recognize that sometimes you need
+help from friends.[P]
+So, a hardy, determined type like you...[P]"
+Ðïöïçå, ô âàò...[K]ïóâàçîúê óéðàç! É âú
+ïœåîû ñåšéóåìûîú![P]
+Âú îéëïíô îå ðìàœåóåòû é îå çàìååóå òåáÿ,
+âàí îéëïãäà îå óñåáôåóòÿ œûÿ-ìéáï ðïíïþû.
+Ëñïíå óïãï, âú ïœåîû ïóâåóòóâåîîú.[P]
+Âú âòåãäà ôâåñåîîï äâéãàåóåòû ë øåìé
+é îéëïãäà îå óñåáôåóå ë òåáå âîéíàîéÿ.[P]
+Âàš òóïêëéê äôö - âòæ œóï âàí îôçîï äìÿ
+óïãï, œóïáú äïòóéœû òâïéö øåìåê.[P]
+Îô áôäûóå àëëôñàóîú! Âú ñéòëôåóå éèâåòóé
+òåáÿ, åòìé áôäåóå äïìãï óñôäéóûòÿ â
+ïäéîïœëô![P]
+Âú äïìçîú ïòïèîàóû, œóï éîïãäà, âàí
+îôçîà ðïíïþû âàšéö äñôèåê.[P]
+Éóàë, ïóâàçîúê é ñåšéóåìûîúê óéðàç
+ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Torchic[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óïñœéëïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Treecko[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óñéëëï[CR]![W:60]
+-
+"You seem to be...[K]the docile type! You're quite
+sensitive to others![P]
+You listen attentively and respectfully, and
+you're quick to pick up on things.[P]
+Because you're so good at listening, do you find
+that your friends tell you their problems and
+concerns often?[P]
+Perhaps people laugh at you sometimes for
+being so earnest and not recognizing jokes
+for what they are.[P]
+But you're always honestly surprised and
+bashful about this aspect of yourself...[K]
+And then honestly laugh about it![P]
+So, a docile, sensitive type like you...[P]"
+Ðïöïçå, ô âàò...[K]âïòðñééíœéâúê óéðàç! 
+Âú âåòûíà œôâòóâéóåìûîú ë äñôãéí![P]
+Âú òìôšàåóå âîéíàóåìûîï é ò ôâàçåîéåí, é
+âú áúòóñï òöâàóúâàåóå òôóû âåþåê.[P]
+Éè-èà óïãï, œóï âú óàë öïñïšï ôíååóå
+òìôšàóû, ëàçåóòÿ ìé âàí œóï âàšé äñôèûÿ
+ïœåîû œàòóï ãïâïñÿó ï òâïéö ðñïáìåíàö?[P]
+Âïèíïçîï, ìýäé éîïãäà òíåýóòÿ îàä âàíé èà
+óï, œóï âú óàë òåñûåèîú é îå ðïîéíàåóå
+šôóïë.[P]
+Îï âú âòåãäà éòëñåîîå ôäéâìÿåóåòû é
+òóåòîÿåóåòû òâïåê ïòïáåîîïòóé...[K]
+Ðïòìå œåãï, éòëñåîîå îàä îåê òíåæóåòû![P]
+Éóàë, œôâòóâéóåìûîúê é ñåšéóåìûîúê óéðàç
+ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Charmander[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Œàñíàîäåñïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Bulbasaur[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Áôìûáàèàâñïí[CR]![W:60]
+-
+"You seem to be...[K]the brave type![P]
+You don't know the meaning of fear!
+You're not afraid to keep moving forward in
+the face of danger.[P]
+You also have a strong sense of justice and
+can't turn a blind eye to someone
+in trouble.[P]
+But you sometimes push your own personal
+sense of justice a little too hard. Be careful
+that you don't get too pushy![P]
+So, a brave type like you...[P]"
+Ðïöïçå, ô âàò...[K]öñàáñúê óéðàç![P]
+Âú îå èîàåóå, œóï óàëïå òóñàö!
+Âú îå áïéóåòû šàãàóû îàâòóñåœô ïðàòîïòóé.[P]
+Ô âàò óàëçå ïáïòóñæîîïå œôâòóâï 
+òðñàâåäìéâïòóé é âú îå áïéóåòû ðïíïœû
+ëïíô-óï, ëóï îàöïäéóòÿ â ïðàòîïòóé.[P]
+Îï âú éîïãäà ðåñåãéáàåóå òï òâïéí
+œôâòóâïí òðñàâåäìéâïòóé. Îå ôâìåëàêóåòû
+üóéí, áôäûóå àëëôñàóîåå![P]
+Éóàë, öñàáñúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Pikachu[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Ðéëàœô[CR]![W:60]
+[R][CN]Will be a [CS:K]Charmander[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Œàñíàîäåñïí[CR]![W:60]
+-
+"You seem to be...[K]the jolly type![P]
+You have a good sense of humor, and you're
+compassionate. You're always making others
+around you laugh.[P]
+You have a sunny, positive outlook, and you
+have a vitality that raises the lowest of
+spirits to giddy heights![P]
+Yet, for all your great cheer, you're also open
+to tears...[P]
+But you bounce between laughter and tears so
+easily![K] What an adventure life must be like for
+you, bouncing around like that all day![P]
+So, a jolly type like you...[P]"
+Ðïöïçå, ô âàò...[K]âåòæìúê óéðàç![P]
+Ô âàò öïñïšåå œôâòóâï ýíïñà é âú
+òïòóñàäàóåìûîú. Âú âòåãäà íïçåóå
+ðïâåòåìéóû äñôãéö.[P]
+Ô âàò ðïèéóéâîúê âèãìÿä îà íéñ, é âú
+ïáìàäàåóå çéèîåîîïê òéìïê, ðïäîéíàýþåê
+îàòóñïåîéå äï ãïìïâïëñôçéóåìûîúö âúòïó![P]
+É âòå çå, îåòíïóñÿ îà âòý âàšô 
+çéèîåñàäïòóîïòóû, âàò ìåãëï ïáéäåóû äï
+òìåè...[P]
+Îï âú ïœåîû ðñïòóï íåîÿåóå îàòóñïåîéå![K]
+Ëàëàÿ ô âàò, îàâåñîïå, ôâìåëàóåìûîàÿ
+çéèîû, ò óàëïê ëàñôòåìûý üíïøéê![P]
+Éóàë, âåòæìúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Totodile[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óïóïäàêìïí[CR]![W:60]
+[R][CN]Will be an [CS:K]Eevee[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Éâé[CR]![W:60]
+-
+"You seem to be...[K]the impish type![P]
+You really like to play a lot! And you enjoy
+eating a lot![P]
+You love competition, but you hate losing.[P]
+Your personality seems crystal clear to others.
+With you, what you see is what you get!
+You cheer others with your dazzling smile.[P]
+But you may be afraid of showing what's in
+your heart and revealing your true self.[P]
+You may not want to keep your worries to
+yourself. You're only human, so ask your
+friends for advice when you need it.[P]
+So, an impish type like you...[P]"
+Ðïöïçå, ô âàò...[K]šàìïâìéâúê óéðàç![P]
+Âú ïœåîû ìýáéóå éãñàóû! É åþæ, âú ïœåîû
+ìýáéóå ðïëôšàóû![P]
+Âú ìýáéóå òïñåâîïâàóûòÿ, îï îå âúîïòéóå
+ðïñàçåîéê.[P]
+Âàšà ìéœîïòóû ëàçåóòÿ ÿòîïê ïëñôçàýþéí.
+Œóï âú öïóéóå - óï é ðïìôœàåóå!
+Âú ðïääåñçéâàåóå äñôãéö òâïåê ôìúáëïê.[P]
+Îï, âú, âïèíïçîï, ïðàòàåóåòû ñàòëñúóû
+òâïý éòóéîîôý òôþîïòóû.[P]
+Âàí îå îôçîï òäåñçéâàóû òåáÿ. Âú - âòåãï
+ìéšû œåìïâåë, ðïüóïíô îå òóåòîÿåóåòû
+òðñàšéâàóû òïâåóà ô òâïéö äñôèåê.[P]
+Éóàë, šàìïâìéâúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Piplup[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Ðéðìàðïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Chimchar[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Œéíœàñïí[CR]![W:60]
+-
+"You seem to be...[K]the naive type! You're so open
+and innocent![P]
+What a strong sense of curiosity you have!
+And you state your opinions purely, sharing
+exactly what you think.[P]
+You also have an artistic spirit that isn't
+restrained by social conventions! You startle
+people with your spontaneity and vision.[P]
+But when you overdo it, other people can have
+a hard time keeping up with you...[P]
+Have you noticed people looking at you oddly?[K]
+As if for no apparent reason?[P]
+So, a naive, innocent type like you...[P]"
+Ðïöïçå, ô âàò...[K]îàéâîúê óéðàç! Âú ïœåîû
+ïóëñúóú é îåâéîîú![P]
+Âú ïœåîû ìýáïðúóîú! Âú âúñàçàåóå òâïæ
+íîåîéå ëàë åòóû, ãïâïñÿ ñïâîï óï, œóï âú
+äôíàåóå.[P]
+Ô âàò óàëçå åòóû óâïñœåòëéê äôö, ëïóïñúê
+îå òäåñçéâàåóòÿ ôòìïâîïòóÿíé! Âú ðïñàçàåóå
+ìýäåê òâïåê ðñÿíïóïê é äàìûîïâéäîïòóûý.[P]
+Îï åòìé âú ðåñåôòåñäòóâôåóå, äñôãéí ìýäÿí
+íïçåó áúóû óñôäîï áúóû ò âàíé...[P]
+Âú èàíåœàìé, ëàë ìýäé ëïòÿóòÿ îà âàò?[K]
+Ðñé üóïí, áåè ëàëïê-ìéáï ðñéœéîú?[P]
+Éóàë, îàéâîúê, îåâéîîúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Chimchar[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Œéíœàñïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Skitty[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Òëéóóé[CR]![W:60]
+-
+"You seem to be...[K]the timid type. You're quite
+gentle![P]
+You're sometimes a little shy about new things,
+aren't you?[P]
+Do you miss out on some experiences because
+you get worried about the newness of the
+challenge?[P]
+Of course, there's also a great benefit in being
+cautious, isn't there?[P]
+After all, it keeps you nice and safe![K]
+You live life at your own speed, with no
+hurries and no worries![P]
+So, a timid and gentle type like you...[P]"
+Ðïöïçå, ô âàò...[K]ñïáëéê óéðàç. Âú
+äïâïìûîï íÿãëé![P]
+Âú éîïãäà îåíîïãï òóåòîÿåóåòû âòåãï
+îïâïãï, îå óàë ìé?[P]
+Âú ôðôòëàåóå îåëïóïñúå âïèíïçîïòóé éè-èà
+óïãï, œóï áïéóåòû îåéèâåòóîúö äìÿ âàò
+éòðúóàîéê?[P]
+Ëïîåœîï çå, ô ïòóïñïçîïòóé åòóû é öïñïšéå
+òóïñïîú, îå óàë ìé?[P]
+Â ëïîøå-ëïîøïâ, ïîà ïáåñåãàåó âàò![K]
+Âú çéâåóå â òâïåí òïáòóâåîîïí óåíðå, áåè
+òðåšëé é èàáïó![P]
+Éóàë, ñïáëéê é íÿãëéê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Cyndaquil[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Òéîäàëâéìïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Turtwig[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óïñóâéãïí[CR]![W:60]
+-
+"You seem to be...[K]the hasty type![P]
+You talk quickly! You eat quickly! You walk
+quickly![P]
+People often see you as a hard worker because
+you're always moving around so fast![P]
+But be careful! If you always rush so fast, you
+may make mistakes more often than others do.
+And what a waste that would be![P]
+Relax every now and then with a nice, deep
+breath![P]
+So, a hasty type like you...[P]"
+Ðïöïçå, ô âàò...[K]óïñïðìéâúê óéðàç![P]
+Âú ãïâïñéóå áúòóñï! Âú åäéóå áúòóñï! Âú
+öïäéóå áúòóñï![P]
+Ìýäé œàòóï âéäÿó â âàò óñôäïìýáéâïãï 
+ñàáïóîéëà, ðïóïíô œóï âú âòåãäà óàë
+áúòóñï ðåñåíåþàåóåòû![P]
+Îï áôäûóå ïòóïñïçîú! Åòìé âú áôäåóå óàë
+òðåšéóû, âú íïçåóå îàäåìàóû íîïãï ïšéáïë.
+Ëàë üóï áúìï áú ñàòóïœéóåìûîï![P]
+Âñåíÿ ïó âñåíåîé ñàòòìàáìÿêóåòû, äåìàÿ
+ãìôáïëéê âäïö![P]
+Éóàë, óïñïðìéâúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Shinx[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Šéîëòïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Pikachu[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Ðéëàœô[CR]![W:60]
+-
+"You seem to be...[K]the sassy type! Or at least
+somewhat sassy![P]
+You don't like taking orders. You're a little
+rebellious and like to disagree.[P]
+You're a lone wolf! You like to keep your
+distance from groups and go off to do things
+on your own.[P]
+Older folks may be the ones who find you the
+most disagreeable, even selfish.[P]
+But people younger than you tend to really
+admire you![P]
+So, a sassy type like you...[P]"
+Ðïöïçå, ô âàò...[K]îàöàìûîúê óéðàç! Îô,
+éìé â ëàëïê-óï íåñå îàöàìûîúê![P]
+Âú îå ìýáéóå ðïäœéîÿóûòÿ. Âú îåòëïìûëï
+îåðïëïñîú é ìýáéóå ïóâåñãàóû œôçéå
+íîåîéÿ.[P]
+Âú ëàë ïäéîïëéê âïìë! Âú îå ìýáéóå áúóû
+â ãñôððàö é ðñåäðïœéóàåóå âòæ äåìàóû
+â ïäéîïœëô.[P]
+Ìýäé ðïòóàñšå íïãôó áúóû óåíé, ëóï äôíàåó
+œóï âú îåðñéÿóîúê, üãïéòóéœîúê œåìïâåë.[P]
+Îï ìýäé ðïíìàäšå âàíé ïœåîû âïòöéþàýóòÿ![P]
+Éóàë, îàöàìûîúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Riolu[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Ñéïìô[CR]![W:60]
+[R][CN]Will be a [CS:K]Totodile[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óïóïäàêìïí[CR]![W:60]
+-
+"You seem to be...[K]the calm type![P]
+You're very compassionate and considerate, and
+you put friends ahead of yourself.[P]
+You're so generous and kindhearted that you
+can laugh, forgive, and forget when your
+friends make mistakes.[P]
+But be aware that your compassion can
+sometimes get the best of you, putting you too
+far behind everyone else![P]
+So, a calm type like you...[P]"
+Ðïöïçå, ô âàò...[K]òðïëïêîúê óéðàç![P]
+Âú ïœåîû òïòóñàäàóåìûîú é âîéíàóåìûîú, é
+âú òóàâéóå äñôèåê âúšå òåáÿ.[P]
+Âú óàë þåäñú é äïáñïòåñäåœîú, œóï íïçåóå
+òíåÿóûòÿ, ðñïþàóû é èàáúâàóû, ëïãäà âàšé
+äñôèûÿ òïâåñšàýó ãìôðïòóé.[P]
+Îï èîàêóå, œóï âàšå òïòóñàäàîéå éîïãäà
+íïçåó âèÿóû îàä âàíé âåñö, òóàâÿ âàò
+òìéšëïí äàìåëï ðïèàäé âòåö ïòóàìûîúö![P]
+Éóàë, òðïëïêîúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Chikorita[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Œéëïñéóïê[CR]![W:60]
+[R][CN]Will be a [CS:K]Cyndaquil[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Òéîäàëâéìïí[CR]![W:60]
+-
+"You seem to be...[K]the relaxed type![P]
+You're so casual, leisurely, and carefree.[K]
+You don't rush or stress yourself out, and you
+don't worry about anything.[P]
+You like to take a seat and kick up your feet![K]
+Oh, yes! You definitely have an easygoing
+personality, and you don't sweat the details.[P]
+People naturally flock to you because they find
+you to be a free spirit, which is so refreshing![P]
+So, a relaxed type like you...[P]"
+Ðïöïçå, ô âàò...[K]ñàòòìàáìåîîúê óéðàç![P]
+Âú óàë ðñïòóú, îåóïñïðìéâú é áåèèàáïóîú.[K]
+Âú îå óïñïðéóåòû é îå îàðñÿãàåóåòû, é âú
+îé ï œåí îå áåòðïëïéóåòû.[P]
+Âàí îñàâéóòÿ òàäéóûòÿ é èàäéñàóû îïãé![K]
+Ï, äà! Ô âàò ïðñåäåìåîîï òðïëïêîúê
+öàñàëóåñ, âú îå ðñéäàåóå èîàœåîéÿ äåóàìÿí.[P]
+Ìýäé, óÿîôóòÿ ë âàí, ðïóïíô œóï ïîé
+òœéóàýó âàò âïìûîúí œåìïâåëïí, é üóï óàë
+èäïñïâï![P]
+Éóàë, ñàòìàáìåîîúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Phanpy[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Õàîðé[CR]![W:60]
+[R][CN]Will be a [CS:K]Vulpix[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Âôìûðéëòïí[CR]![W:60]
+-
+"You seem to be...[K]the lonely type, at least
+a little bit![P]
+You might find that surprising, but do you think
+it might be a little true?[P]
+You know what they say, though...[K] We're all a
+bit lonely every now and then![P]
+You probably keep this fact of life to yourself,
+though.[P]
+But if there's one thing that brings us all
+together...[K]it's our need to go it solo![P]
+So, a lonely and solitary type like you...[P]"
+Ðïöïçå, ô âàò...[K]ïäéîïëéê óéðàç, ðï
+ëñàêîåê íåñå œôóû-œôóû![P]
+Âïèíïçîï, âàò üóï ôäéâéó, îï îå ëàçåóòÿ
+ìé âàí, œóï â üóïí åòóû äïìÿ ðñàâäú?[P]
+Îï, èîàåóå, ëàë ãïâïñÿó...[K] Âòå íú
+éîïê ñàè áúâàåí ïäéîïëé![P]
+Ïäîàëï âú, âåñïÿóîï, áôäåóå äåñçàóû üóïó
+çéèîåîîúê õàëó ðñé òåáå.[P]
+Îï åòìé åòóû œóï-óï, œóï ïáùåäéîÿåó îàò
+âòåö...[K]üóï îàšà îôçäà ðïáúóû ïäîéí![P]
+Éóàë, ïäéîïëéê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Bulbasaur[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Áôìûáàèàâñïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Mudkip[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Íàäëéðïí[CR]![W:60]
+-
+"You seem to be...[K]the quirky type![P]
+You want to be on the cutting edge of fashion!
+You want to own all the latest stuff, right?[P]
+But you grow bored of your old things and only
+like new things![P]
+You're true to your emotions, and you follow
+your desires.[P]
+People have a hard time keeping up with you
+because you change so quickly.[P]
+You may want to reflect upon how your words
+and actions affect others.[P]
+So, a quirky type like you...[P]"
+Ðïöïçå, ô âàò...[K]ðñéœôäìéâúê óéðàç![P]
+Âú âòåãäà òìåäéóå èà íïäîúíé âåÿîéÿíé!
+Âú âòåãäà öïóéóå âòæ òàíïå îïâïå, óàë?[P]
+Îï âàí îàäïåäàýó âàšé òóàñúå âåþé é
+îñàâÿóòÿ óïìûëï îïâúå![P]
+Âú âåñîú òâïéí üíïøéÿí é òìåäôåóå òâïéí
+çåìàîéÿí.[P]
+Ìýäé îå íïãôó ðïòðåóû èà âàíé, óàë ëàë
+âú ïœåîû éèíåîœéâú.[P]
+Âïèíïçîï, âàí èàöïœåóòÿ ðïñàèíúòìéóû ï
+óïí, ëàë âàšé òìïâà é äåêòóâéÿ âìéÿýó îà
+äñôãéö.[P]
+Éóàë, ðñéœôäìéâúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Squirtle[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Òëâéñóìïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Piplup[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Ðéðìàðïí[CR]![W:60]
+-
+"You seem to be...[K]the quiet type! And very calm![P]
+You're great with numbers, and you analyze
+information before making decisions.[P]
+You rarely make mistakes, because you make
+decisions so calmly and rationally.[P]
+You also may find it hard to guess what others
+are thinking, and they may find you a touch
+cold at times.[P]
+You may not want to keep your feelings to
+yourself so much of the time.[P]
+So, a quiet and calm type like you...[P]"
+Ðïöïçå, ô âàò...[K]óéöéê óéðàç!
+É ïœåîû òðïëïêîúê![P]
+Âú ïóìéœîï ñàèáéñàåóåòû â øéõñàö é 
+àîàìéèéñôåóå éîõïñíàøéý, ðñåçäå œåí
+ðñéîéíàóû ñåšåîéÿ.[P]
+Âú ñåäëï òïâåñšàåóå ïšéáëé, ðïóïíô œóï
+ðñéîéíàåóå ñåšåîéÿ ïœåîû òðïëïêîï é
+ñàøéïîàìûîï.[P]
+Âàí óàëçå íïçåó áúóû óñôäîï ôãàäàóû, œóï
+äôíàýó äñôãéå, é âñåíåîàíé ïîé íïãôó
+òœåòóû âàò îåíîïãï öïìïäîúí œåìïâåëïí.[P]
+Âïèíïçîï, âàí îå òóïéó óàë œàòóï äåñçàóû
+òâïé œôâòóâà ðñé òåáå.[P]
+Éóàë, óéöéê é òðïëïêîúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Treecko[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óñéëëï[CR]![W:60]
+[R][CN]Will be a [CS:K]Chikorita[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Œéëïñéóïê[CR]![W:60]
+-
+"You seem to be...[K]the rash type, just a little bit
+hasty at times![P]
+You may run out of your house and forget to
+lock the door once in a while.[P]
+And you may leave things like umbrellas
+behind when you leave places.[P]
+Maybe you even dash outside in your slippers
+every now and then![P]
+Perhaps you even wear your shirts inside out
+all the time![P]
+Oh, is that even rasher than you really are?
+So sorry![P]
+But know that your friends think your funny
+little flubs are adorable![P]
+So, a rash and hasty type like you...[K]
+Oh, wait! One more thing![P]
+You also sometimes reveal your friends'
+secrets by accident, don't you![K]
+Sorry. It had to be said![P]
+So, without further ado...[K]a rash and hasty
+type like you...[P]"
+Ðïöïçå, ô âàò...[K]áåèñàòòôäîúê óéðàç é
+âñåíåîàíé âú îåíîïãï óïñïðéóåòû![P]
+Âú íïçåóå âúáåçàóû éè òâïåãï äïíà, éîïãäà
+èàáúâàÿ èàðåñåóû äâåñû.[P]
+É âú íïçåóå èàáúâàóû óàëéå âåþé, ëàë
+èïîóéëé, ëïãäà ðïëéäàåóå ñàèîúå íåòóà.[P]
+Âïèíïçîï, âú éîïãäà âúáåãàåóå éè äïíà
+â òâïéö óàðïœëàö![P]
+Âïèíïçîï, âú äàçå âòå âñåíÿ îïòéóå òâïý
+ïäåçäô îàéèîàîëô![P]
+Ï, üóï åþå öôçå, œåí åòóû îà òàíïí äåìå?
+Ðñïšô ðñïþåîéÿ![P]
+Îï èîàêóå, œóï âàšé äñôèûÿ òœéóàýó âàšé
+èàáàâîúå ðñéœôäú ïœàñïâàóåìûîúíé![P]
+Éóàë, áåèñàòòôäîúê é óïñïðìéâúê óéðàç...[K]
+Ïê, íéîôóëô! Åþå ëïå-œóï![P]
+Âú óàëçå éîïãäà òìôœàêîï ñàòëñúâàåóå
+òåëñåóú òâïéö äñôèåê, îå óàë ìé?[K]
+Éèâéîÿýòû. Üóï îôçîï áúìï òëàèàóû![P]
+Éóàë, áåè ìéšîéö òìïâ...[K]áåèñàòòôäîúê
+é óïñïðìéâúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Mudkip[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Íàäëéðïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Torchic[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óïñœéëïí[CR]![W:60]
+-
+"You seem to be...[K]the bold type![P]
+You're so brave, and you never back down
+from anything! And you're also gutsy and brash
+in a way that others aren't![P]
+You're not shy about asking to take home all
+the leftovers at restaurants, right?[P]
+If someone's treating you to dinner, you have
+no problem with ordering lots of good stuff![P]
+And you aren't fazed by doing things that most
+others would think twice about doing.[P]
+Perhaps you don't even notice when others are
+upset with you![P]
+You know, you have the potential to become a
+truly great person...[K]because you'll be the last
+one standing![P]
+So, a bold type like you...[P]"
+Ðïöïçå, ô âàò...[K]òíåìúê óéðàç![P]
+Âú óàë öñàáñú, é âú îéëïãäà îé ïó œåãï
+îå ïóòóôðàåóå! Åþå âú áåòòóñàšîú é ôíååóå
+äåêòóâïâàóû óàë, ëàë îå ôíåýó äñôãéå!P]
+Âú îå òóåòîÿåóåòû ðñïòéóû èàáñàóû äïíïê
+âòå ïòóàóëé â ñåòóïñàîàö, âåñîï?[P]
+Åòìé ëóï-óï ôãïþàåó âàò ôçéîïí, âú áåè
+ðñïáìåí èàëàèúâàåóå íîïãï âëôòîúö áìýä![P]
+É âàò îå òíôþàåó äåìàóû óï, ï œåí
+áïìûšéîòóâï äñôãéö ðïäôíàìé áú äâàçäú.[P]
+Âïèíïçîï, âú äàçå îå èàíåœàåóå, ëïãäà
+äñôãéå ñàòòóñàéâàýóòÿ éè-èà âàò![P]
+Âú èîàåóå, ô âàò åòóû ðïóåîøéàì òóàóû
+ðï-îàòóïÿþåíô âåìéëéí œåìïâåëïí...[K] âåäû
+âú áôäåóå ðïòìåäîéí, ëóï âúîåòåó âòæ![P]
+Éóàë, òíåìúê óéðàç ëàë âú...[P]
+-
+[R][CN]Will be a [CS:K]Turtwig[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Óïñóâéãïí[CR]![W:60]
+[R][CN]Will be a [CS:K]Squirtle[CR]![W:60]
+[R][CN]Áôäåó [CS:K]Òëâéñóìïí[CR]![W:60]
+-
+À óåðåñû, âàšà [CS:E]àôñà[CR] ðïäâåñãîåóòÿ àîàìéèô.[C]
+Âàšà [CS:E]àôñà[CR] üóï âàšà éèìôœàåíàÿ üîåñãéÿ![P]
+-
+Ñàòòìàáûóåòû. Ôòðïëïêóåòû...[K] é íÿãëï
+îàçíéóå îà Áàîóéë.
+-
+Âïó óàë...[W:45] Áôäûóå îåðïäâéçîú...[W:60]
+Ãìôáïëï âäïöîéóå...[W:90]é âúäïöîéóå...[W:120]
+-
+Âàšà [CS:E]àôñà[CR] ïðñåäåìåîà.[W:45]
+Ôáåñéóå ðàìåø ò Òåîòïñîïãï Üëñàîà.
+-
+Your [CS:E]aura[CR] is...
+Âàšà [CS:E]àôñà[CR]...
+[R][CN]a stately silver![W:120]
+[R][CN]ñïòëïšîï-òåñåáñÿîîàÿ![W:120]
+[R][CN]a subdued brown![W:120]
+[R][CN]óôòëìï-ëïñéœîåâàÿ![W:120]
+[R][CN]a fiery red![W:120]
+[R][CN]ïãîåîîï-ëñàòîàÿ![W:120]
+[R][CN]an uplifting pink![W:120]
+[R][CN]ïáïäñÿýþå-ñïèïâàÿ![W:120]
+[R][CN]a stunning orange![W:120]
+[R][CN]éèôíéóåìûîï-ïñàîçåâàÿ![W:120]
+[R][CN]an energetic yellow![W:120]
+[R][CN]üîåñãéœîï-çåìóàÿ![W:120]
+[R][CN]a brilliant green![W:120]
+[R][CN]ÿñëï-èåìåîàÿ![W:120]
+[R][CN]a refreshing green![W:120]
+[R][CN]áïäñÿþå-èåìåîàÿ![W:120]
+[R][CN]a deep green![W:120]
+[R][CN]óåíîï-èåìåîàÿ![W:120]
+[R][CN]a gentle mint green![W:120]
+[R][CN]îåçîàÿ íÿóîï-èåìåîàÿ![W:120]
+[R][CN]a clear aqua blue![W:120]
+[R][CN]øâåóà œéòóïê íïñòëïê âïìîú![W:120]
+[R][CN]a cool sky blue![W:120]
+[R][CN]îåáåòîï-ãïìôáàÿ![W:120]
+[R][CN]a smart marine blue![W:120]
+[R][CN]íïñòëàÿ òéîÿÿ![W:120]
+[R][CN]a mystic purple![W:120]
+[R][CN]íéòóéœåòëé-ðôñðôñîàÿ![W:120]
+[R][CN]an elegant violet![W:120]
+[R][CN]üìåãàîóîï-õéïìåóïâàÿ![W:120]
+[R][CN]a vivid pink![W:120]
+[R][CN]ÿñëï-ñïèïâàÿ![W:120]
+-
+"And finally...[K]
+Who will be your partner?[P]"
+É îàëïîåø...[K]
+Ëóï áôäåó âàšéí òðôóîéëïí?[P]
+-
+Choose the PokÃ©mon you want for a partner.
+Âúáåñéóå Ðïëåíïîà òåáå â òðôóîéëé.
+-
+Is [kind:0] who you want?
+Öïóéóå âèÿóû Ðïëåíïîà [kind:0]?
+-
+"OK! That's it! You're all ready to go![P]
+You're off to the world of PokÃ©mon![P]
+Be strong! Stay smart! And be victorious![P]"
+Öïñïšï! Âïó é âòæ! Âú ðïìîïòóûý ãïóïâú![P]
+Òåêœàò âú ïóðñàâéóåòû â íéñ Ðïëåíïîïâ![P]
+Áôäûóå òéìûîú! Ôíîú! É ïäåñçéóå ðïáåäô![P]
+-
+Yes.
+Äà.
+No.
+Îåó.
+"[CN]Welcome![C]
+[CN]This is the portal that leads to the
+[CN]world inhabited only by PokÃ©mon.[C]
+[CN]Beyond this gateway, many new
+[CN]adventures and fresh experiences
+[CN]await your arrival![C]
+[CN]Before you depart for adventure,
+[CN]you must answer some questions.[C]
+[CN]Be truthful when you answer them![C]
+[CN]Now, are you ready?[C]
+[CN]Then...[K]let the questions begin![C]"
+[CN]Äïáñï ðïçàìïâàóû![C]
+[CN]Üóï ðïñóàì, ëïóïñúê âåäåó â íéñ,
+[CN]ãäå çéâôó óïìûëï Ðïëåíïîú.[C]
+[CN]Îà âàšåí ðôóé, âàò çäåó íîïçåòóâï
+[CN]îïâúö ðñéëìýœåîéê é òïâåñšåîîï
+[CN]äñôãéå ïþôþåîéÿ![C]
+[CN]Ðñåçäå œåí âú ïóðñàâéóåòû â ðñéëìýœåîéå,
+[CN]âàí îôçîï ïóâåóéóû îà âïðñïòú.[C]
+[CN]Ïóâåœàêóå îà îéö óïìûëï ðñàâäô![C]
+[CN]Éóàë, âú ãïóïâú?[C]
+[CN]Óïãäà...[K]äà îàœîåóòÿ ïðñïò![C]
+Don't move your finger quite yet.
+Îå ôáéñàêóå ðàìåø.
+-
+Moves
+Ðñéæíú
+Items
+Âåþé
+Team
+Ãñôððà
+Others
+Ðñïœåå
+Ground
+Èåíìÿ
+Belly:[CLUM_SET:160][digits:0]/[digits:1]
+Òúóïòóû:[CLUM_SET:160][digits:0]/[digits:1]
+Rest
+Ïóäúö
+Exit
+Îàèàä
+Money:[CLUM_SET:160][CS:E][gold_left:0][CR][M:S0]
+Äåîûãé:[CLUM_SET:160][CS:E][gold_left:0][CR][M:S0]
+Weather:[CLUM_SET:160][weather:0]
+Ðïãïäà:[CLUM_SET:160][weather:0]
+Play:[CLUM_SET:160][time:0]
+Âñåíÿ:[CLUM_SET:160][time:0]
+[string0][CLUM_SET:68][value:0:3]/[value:1:3]
+-
+Others
+Ðñïœåå
+Options
+Îàòóñïêëé
+Window
+Âéä ïëïî
+Map
+Ëàñóà
+Message log
+Ìïã òïïáþåîéê
+Mission objectives
+Øåìé èàäàîéÿ
+Recruitment search
+Ðïéòë ñåëñôóïâ
+Dungeon hints
+Òðñàâëà
+-
+Rest
+Ïóäúö
+Quicksave
+Òïöñàîåîéå
+Give Up
+Ïóòóôðéóû
+-
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] hurled the [item:0].
+[string0] íåóàåó [item:0].
+Hurl
+Íåóîôóû
+[string0] threw the [item:0].
+[string0] ëéäàåó ðñåäíåó [item:0].
+Throw
+Ëéîôóû
+[string0] equipped the [item:0].
+[string0] ïäåâàåó ðñåäíåó [item:0].
+Equip
+Ïäåóû
+[string0] ate the [item:0].
+[string0] òùåäàåó [item:0].
+Eat
+Òùåòóû
+[string0] swallowed the [item:0].
+[string0] ðñïãìàóúâàåó [item:0].
+Ingest
+Ãìïóàóû
+[string0] peeled the [item:0].
+[string0] ïœéþàåó [item:0].
+Peel
+Ïœéòóéóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] equipped the [item:0].
+[string0] ïäåâàåó ðñåäíåó [item:0].
+Equip
+Ïäåóû
+[string0] equipped the [item:0].
+[string0] ïäåâàåó ðñåäíåó [item:0].
+Equip
+Ïäåóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+[string0] used the [item:0].
+[string0] ðñéíåîÿåó ðñåäíåó [item:0].
+Use
+Ðñéíåîéóû
+Yes
+Äà
+No
+Îåó
+-
+One-Item Inventory
+Ïäîïòìïóïâúê Éîâåîóàñû
+Treasure Bag
+Òôíëà ò Øåîîïòóÿíé
+Ground
+Èåíìÿ
+-
+Level:[CLUM_SET:96][digits:0]
+Ôñïâåîû:[CLUM_SET:96][digits:0]
+Exp. Pts.:[CLUM_SET:96][CS:E][experience:1][CR]
+Ïœëé Ïðúóà:[CLUM_SET:96][CS:E][experience:1][CR]
+To next level:[CLUM_SET:96][CS:E][experience:0][CR]
+Äï Ôñïâîÿ:[CLUM_SET:96][CS:E][experience:0][CR]
+HP:[CLUM_SET:96][value:0:3]/[value:1:3]
+ÏÈ:[CLUM_SET:96][value:0:3]/[value:1:3]
+Attack:[CLUM_SET:45][CLUM_SET:80]Defense:[CLUM_SET:120]
+Àóàëà:[CLUM_SET:45][CLUM_SET:80]Èàþéóà:[CLUM_SET:120]
+Sp. Atk.:[CLUM_SET:45][CLUM_SET:80]Sp. Def.:[CLUM_SET:120]
+Òð. Àóë.:[CLUM_SET:45][CLUM_SET:80]Òð. Èþó.:[CLUM_SET:120]
+-
+Item:[CLUM_SET:45][CLUM_SET:52]None
+Ðñåäíåó: [CLUM_SET:45][CLUM_SET:52]Îåó ðñåäíåóà
+Item:[CLUM_SET:45][CLUM_SET:52][string0]
+Ðñåäíåó: [CLUM_SET:45][CLUM_SET:52][string0]
+IQ:[CLUM_SET:45][CLUM_SET:52][string0]
+IQ:[CLUM_SET:45][CLUM_SET:52][string0]
+Tactic:[CLUM_SET:45][CLUM_SET:52][string0]
+Óàëóéëà:[CLUM_SET:45][CLUM_SET:52][string0]
+Species:[CLUM_SET:54][CS:K][string0][CR](â™‚)
+Âéä:[CLUM_SET:54][CS:K][string0][CR](♂)
+Species:[CLUM_SET:54][CS:K][string0][CR](â™Ђ)
+Âéä:[CLUM_SET:54][CS:K][string0][CR](♀)
+Species:[CLUM_SET:54][CS:K][string0][CR](-)
+Âéä:[CLUM_SET:54][CS:K][string0][CR](-)
+"Category:
+[CLUM_SET:22][string0] PokÃ©mon"
+Ëàóåãïñéÿ:
+[CLUM_SET:22][string0] Ðïëåíïî
+Joined at:
+Íåòóï âòóñåœé:
+No statuses
+Áåè òóàóôò-üõõåëóïâ
+No IQ
+Áåè IQ
+Size:[CLUM_SET:54][string0]
+Ñàèíåñ:[CLUM_SET:54][string0]
+[CLUM_SET:22][dungeon:0]
+
+Evolution: [CLUM_SET:54]Not possible now
+Üâïìýøéÿ: [CLUM_SET:54]Ðïëà îåâïèíïçîà
+Evolution: [CLUM_SET:54]Possible now
+Üâïìýøéÿ: [CLUM_SET:54]Âïèíïçîà
+Evolution: [CLUM_SET:54]No further
+Üâïìýøéÿ: [CLUM_SET:54]Îåâïèíïçîà
+-
+Stats
+Öàñàëóåñéòóéëé
+Features
+Ïòïáåîîïòóé
+Type:
+Óéð:
+Abilities:
+Òðïòïáîïòóé:
+Info
+Éîõïñíàøéÿ
+[string0]
+
+Type:
+Óéð:
+Level: [CLUM_SET:49][digits:0]
+Ôñïâåîû: [CLUM_SET:49][digits:0]
+HP:[CLUM_SET:49][value:0:3]/[value:1:3]
+ÏÈ:[CLUM_SET:49][value:0:3]/[value:1:3]
+Attack:[CLUM_SET:45][CLUM_SET:80]Defense:[CLUM_SET:120]
+Àóàëà:[CLUM_SET:45][CLUM_SET:80]Èàþéóà:[CLUM_SET:120]
+Sp. Atk.:[CLUM_SET:45][CLUM_SET:80]Sp. Def.:[CLUM_SET:120]
+Òð. Àóë.:[CLUM_SET:45][CLUM_SET:80]Òð. Èþó.:[CLUM_SET:120]
+-
+Gender:
+Ðïì:
+"Next IQ Skill to learn:
+[CLUM_SET:32]""[wiseness:]"""
+Òìåäôýþéê îàâúë IQ:
+[CLUM_SET:32]"[wiseness:]"
+Learned all IQ Skills!
+Âòå IQ îàâúëé éèôœåîú!
+-
+Status
+Òóàóôò
+IQ Skills
+Îàâúëé IQ
+-
+Clear
+Ÿòîï
+Sunny
+Òïìîåœîï
+Sandstorm
+Ðåòœàî. áôñÿ
+Cloudy
+Ïáìàœîï
+Rain
+Äïçäû
+Hail
+Ãñàä
+Fog
+Óôíàî
+Snow
+Òîåã
+-
+Window Option
+Âéä Ïëïî
+Frame Type
+Óéð Ñàíëé
+-
+Message log
+Ìïã òïïáþåîéê
+-
+Message log
+Ìïã òïïáþåîéê
+Mission objectives
+Øåìé èàäàîéÿ
+Recruitment search
+Ðïéòë ñåëñôóïâ
+-
+Mission objectives
+Øåìé èàäàîéÿ
+Go as far as possible.
+Éäóé óàë äàìåëï, îàòëïìûëï üóï âïèíïçîï.
+[CN]You have not accepted any jobs.
+[CN]Ô âàò îåó ðñéîÿóúö èàäàîéê.
+-
+Options
+Îàòóñïêëé
+Touch Screen
+Òåîòïñîúê Üëñàî
+Off
+Âúëìýœåî
+Menu only
+Âëì. â íåîý
+Use anywhere
+Âëìýœåî
+Top screen
+Âåñöîéê üëñàî
+Controls
+Ôðñàâìåîéå
+Team stats
+Ãñôððà
+Text log
+Òïïáþåîéÿ
+Map and team
+Ëàñóà+ãñôððà
+Job
+Øåìé èàäàîéÿ
+Bottom screen
+Îéçîéê üëñàî
+No map
+Áåè ëàñóú
+Clear map
+Ðñïèñ. ëàñóà
+Shaded map
+Îåðñèœ.ëàñóà
+Grids
+Òåóëà
+Off
+Ïóëìýœåîà
+On
+Âëìýœåîà
+Speed
+Òëïñïòóû
+Regular
+Ïáúœîàÿ
+Fast
+Áúòóñàÿ
+Far-off pals
+Ãñôððà âäàìåëå
+Self
+Âéä îà òåáÿ
+Look
+Âéä îà îéö
+Damage turn
+Ñåàëøéÿ îà ôñïî
+No
+Îåó
+Yes
+Äà
+[M:B8] attack
+Àóàëà îà [M:B8]
+Off
+Âúëìýœåîï
+On
+Âëìýœåîï
+Check direction
+Òâåñëà îàðñàâì.
+Off
+Âúëìýœåîà
+On
+Âëìýœåîà
+[CN]Change settings?
+[CN]Ðïíåîÿóû îàòóñïêëé?
+Yes
+Äà
+No
+Îåó
+-
+Dungeon Hints
+Òðñàâëà
+Controls
+Ôðñàâìåîéå
+Touch Screen
+Òåîòïñîúê Üëñàî
+Items
+Ðñåäíåóú
+Moves
+Ðñéæíú
+Linking Moves
+Òâÿèëà Ðñéæíïâ
+Wonder Tile
+Œôäï-Ëìåóëà
+Kecleon Shop
+Íàãàèéî Ëåëìåïîïâ
+Quicksave
+Òïöñàîåîéå
+-
+Moves
+Ðñéæíú
+Tactics
+Óàëóéëà
+Summary
+Òâïäëà
+Talk
+Ðïãïâïñéóû
+Info
+Éîõïñíàøéÿ
+Set
+Èàäàóû
+Switch
+Òíåîéóû
+Link
+Òâÿèàóû
+Delink
+Ñàèäåìéóû
+Forget
+Èàáúóû
+Use
+Ðñéíåîéóû
+Throw
+Áñïòéóû
+Trigger
+Àëóéâéñïâàóû
+Proceed
+Éäóé
+Hurl
+Íåóîôóû
+Switch
+Ðåñåëìýœéóû
+Farewell
+Ðñïþàîéå
+Cancel
+Ïóíåîà
+Quicksave
+Òïöñàîåîéå
+Use
+Ðñéíåîéóû
+Talk
+Ðïãïâïñéóû
+Give Up
+Ïóòóôðéóû
+Switch
+Ðåñåëìýœéóû
+Check IQ
+Òâåñéóû IQ
+Use
+Ðñéíåîéóû
+Use
+Ðñéíåîéóû
+Deselect
+Ôáñàóû
+Send Home
+Âúòìàóû Äïíïê
+Use
+Ðñéíåîéóû
+Give
+Äàóû
+Take
+Èàáñàóû
+Use
+Ðñéíåîéóû
+[M:D1]no use
+[M:D1]áåè ðñéí.
+Swap
+Ðïíåîÿóû
+Leader
+Ìéäåñ
+Set
+Èàäàóû
+Deselect
+Ôáñàóû
+Swap
+Ðïíåîÿóû
+Pick Up
+Ðïäîÿóû
+Summary
+Òâïäëà
+Throw
+Áñïòéóû
+Rescue
+Òðàòóé
+Tactics meeting
+Èàäàóû óàëóéëô
+-
+Exit
+Âúöïä
+[M:S1]???
+
+[string:0]'s moves
+Ðñéæíú [string:0]
+↑Shift
+↑Òíåòóéóû
+↓Shift
+↓Òíåòóéóû
+Someone
+Ëóï-óï
+Someone
+Ëóï-óï
+-
+Exit
+Âúöïä
+-
+Talk
+Ðïãïâïñéóû
+Use
+Ðñéíåîéóû
+Use
+Ðñéíåîéóû
+-
+Place
+Ôáñàóû
+Pick Up
+Ðïäîÿóû
+Swap
+Òíåîéóû
+Throw
+Áñïòéóû
+Info
+Éîõï
+-
+Item: [string0]
+Ðñåäíåó: [string0]
+[M:S1]Nothing
+[M:S1]Îåó ðñåäíåóà
+To?
+Ëïíô?
+For?
+Ëïíô?
+-
+Tactics: [string:0]
+Óàëóéëà: [string:0]
+Tactics: Everyone
+Óàëóéëà: Äìÿ âòåö
+Team Leader
+Ìéäåñ ãñôððú
+-
+Let's go together
+Éäæí âíåòóå
+You go the other way
+Éäé äñôãéí ðôóæí
+Go after foes
+Áåê âñàãïâ
+Avoid the first hit
+Éèáåãàê ðåñâïãï ôäàñà
+All for one
+Âòå èà ïäîïãï
+Group safety
+Ðñéëñúâàê ãñôððô
+Avoid trouble
+Éèáåãàê ïðàòîïòóåê
+Be patient
+Áôäû óåñðåìéâåå
+Keep your distance
+Òïöñàîÿê äéòóàîøéý
+Wait there
+Çäé èäåòû
+Get away from here
+Ôöïäé ïóòýäà
+Òíåîéóû
+-
+  Turn on the spot:[CLUM_SET:103][CLUM_SET:110][M:B5]+[M:B8]
+  Run:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B8]
+  Walk diagonally:[CLUM_SET:103][CLUM_SET:110][M:B7]+[M:B8]
+  Use set move:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B2]
+  Throw set ammo:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B7]
+  Display log:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B3]
+  Wait/heal HP:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B2]
+  Map:[CLUM_SET:103][CLUM_SET:110][M:B1]
+  Inventory:[CLUM_SET:103][CLUM_SET:110][M:B3]
+  
+  Ðïâïñïó îà íåòóå:[CLUM_SET:103][CLUM_SET:110][M:B5]+[M:B8]
+  Áåã:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B8]
+  Öïäûáà ðï äéàãïîàìé:[CLUM_SET:103][CLUM_SET:110][M:B7]+[M:B8]
+  Ðñéíåîéóû ðñéæí:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B2]
+  Íåóîôóû òîàñÿä:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B7]
+  Ðïëàèàóû ìïã:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B3]
+  Çäàóû/ñåãåî. ÏÈ:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B2]
+  Ëàñóà:[CLUM_SET:103][CLUM_SET:110][M:B1]
+  Âåþé:[CLUM_SET:103][CLUM_SET:110][M:B3]
+-
+Touch the Map
+  Walk:[CLUM_SET:96][CLUM_SET:103]Tap and hold
+  Run:[CLUM_SET:96][CLUM_SET:103]Tap twice and hold
+Touch an Enemy
+  Attack:[CLUM_SET:96][CLUM_SET:103]Tap enemy
+  Use set move:[CLUM_SET:96][CLUM_SET:103]Tap enemy twice
+Touch Player Character
+  Open menu:[CLUM_SET:96][CLUM_SET:103]Tap
+  Turn on the spot:[CLUM_SET:96][CLUM_SET:103]Tap and hold
+  Wait/heal HP:[CLUM_SET:96][CLUM_SET:103]Tap twice and hold
+  
+Ëàòàîéÿ äìÿ ëàñóú
+  Éäóé:[CLUM_SET:96][CLUM_SET:103]Ëïòîéóåòû + ôäåñç.
+  Áåçàóû:[CLUM_SET:96][CLUM_SET:103]Äâà ëàòàîéÿ + ôäåñç.
+Ëàòàîéÿ äìÿ âñàãïâ
+  Àóàëïâàóû:[CLUM_SET:96][CLUM_SET:103]Ëïòîéóåòû âñàãà
+  Éòð. Ðñéæí:[CLUM_SET:96][CLUM_SET:103]Äâà ëàòàîéÿ îà âñàãå
+Ëàòàîéÿ äìÿ Éãñïëà
+  Ïóëñúóû íåîý:[CLUM_SET:96][CLUM_SET:103]Ëàòàîéå
+  Ðïâïñïó îà íåòóå:[CLUM_SET:96][CLUM_SET:103]Ëïòîéóåòû + ôäåñç.
+  Çäàóû/ñåãåî. ÏÈ:[CLUM_SET:96][CLUM_SET:103]Äâà ëàòàîéÿ + ôäåñç.
+-
+[CN]Controls
+
+  Walk:[CLUM_SET:103][CLUM_SET:110][M:B8]
+  Run:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B8]
+  Open menu:[CLUM_SET:103][CLUM_SET:110][M:B4]
+  Cancel:[CLUM_SET:103][CLUM_SET:110][M:B3]
+  Attack:[CLUM_SET:103][CLUM_SET:110][M:B2]
+  Use set move:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B2]
+  Throw set ammo:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B7]
+  Display log:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B3]
+  Turn on the spot:[CLUM_SET:103][CLUM_SET:110][M:B5]+[M:B8]
+  Wait/heal HP:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B2]
+  
+[CN]Ôðñàâìåîéå
+
+  Öïäûáà:[CLUM_SET:103][CLUM_SET:110][M:B8]
+  Áåã:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B8]
+  Ïóëñúóû íåîý:[CLUM_SET:103][CLUM_SET:110][M:B4]
+  Ïóíåîà:[CLUM_SET:103][CLUM_SET:110][M:B3]
+  Àóàëà:[CLUM_SET:103][CLUM_SET:110][M:B2]
+  Ðñéíåîéóû ðñéæí:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B2]
+  Íåóîôóû òîàñÿä:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B7]
+  Ðïëàèàóû ìïã:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B3]
+  Ðïâïñïó îà íåòóå:[CLUM_SET:103][CLUM_SET:110][M:B5]+[M:B8]
+  Çäàóû/ñåãåî. ÏÈ:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B2]
+-
+All PokÃ©mon can hold one item at a time. Some
+items, when held, raise stats or prevent status
+problems (such as a [CS:I]Bow[CR]). When a Berry is
+held, however, it will be eaten by the PokÃ©mon
+when needed (such as an [CS:I]Oran Berry[CR]).
+
+All held items are [CS:C]put back in the Bag[CR] when the
+team member goes on standby, so be sure to
+give new team members a held item!
+
+Âòå Ðïëåíïîú íïãôó äåñçàóû ïäéî ðñåäíåó èà
+ñàè. Ðñé ôäåñçéâàîéé, îåëïóïñúå ðñåäíåóú
+(óàëéå ëàë [CS:I]Áàîóéë[CR]) íïãôó ðïâúòéóû
+àóñéáôóú éìé èàþéþàóû ïó òóàóôò-üõõåëóïâ.
+Ðñé îïšåîéé Ÿãïäú (ðï óéðô [CS:I]Ÿãïäú Ðåìûòé[CR]),
+ïîà áôäåó òùåäåîà ðñé ïðñåäåìæîîúö ôòìïâéÿö.
+
+Ëïãäà œìåî ãñôððú ôöïäéó, åãï ðñåäíåó
+[CS:C]ôáéñàåóòÿ â Òôíëô[CR], ðïüóïíô ôáåäéóåòû œóï
+ñàèäàìé ðñåäíåóú âàšéí îïâúí œìåîàí ãñôððú!
+-
+"There are two kinds of attack [CS:E]moves[CR]: physical
+attacks and special attacks. Physical attacks
+are based on the stats [CS:E]Attack[CR] and [CS:E]Defense[CR].
+Special attacks are based on the stats [CS:E]Special[CR]
+[CS:E]Attack[CR] and [CS:E]Special Defense[CR].
+
+All [CS:E]moves[CR] affect targets in a specific range.
+Examples: in front of the user, in the line of
+sight, and all targets in the room. Check the
+description of each [CS:E]move[CR] for these details!"
+
+Åòóû äâà óéðà [CS:E]ðñéæíïâ[CR]: õéèéœåòëéå ðñéæíú é
+ïòïáúå ðñéæíú. Öàñàëóåñéòóéëé [CS:E]Àóàëé[CR] é
+[CS:E]Èàþéóú[CR] òâÿèàîú ò Õéèéœåòëéíé ðñéæíàíé.
+Öàñàëóåñéòóéëé [CS:E]Òð. Àóàëé[CR] é [CS:E]Òð. Èàþéóú[CR]
+òâÿèàîú òï Òðåøéàìûîúíé ðñéæíàíé.
+
+Âòå [CS:E]ðñéæíú[CR] âìéÿýó îà øåìé â ïðñåäåìæîîïí
+ñàäéôòå. Ë ðñéíåñô: âðåñåäé àóàëôýþåãï,
+ðï ìéîéé âéäéíïòóé, âòå øåìé â ëïíîàóå.
+Òíïóñéóå [CS:E]ïðéòàîéå[CR] ðñéæíïâ!
+-
+You can link [CS:E]moves[CR] at the [CS:K]Electivire[CR] Link Shop
+or with a [CS:I]Link Box[CR]. [CS:E]Linked moves[CR] are used, one
+after the other, as a chained combo delivered
+in a single turn. Using a [CS:E]linked move[CR] to defeat
+an enemy will earn you bonus Exp. Points.
+
+Though using [CS:E]linked moves[CR] makes the team's
+[CS:E]Belly[CR] empty faster, it's worth the trouble,
+especially when trying to beat tough enemies!
+
+Âú íïçåóå òâÿèúâàóû [CS:E]ðñéæíú[CR] ô [CS:K]Üìåëóéâàêñà[CR]
+éìé ò ðïíïþûý [CS:I]Òâÿèû-Ÿþéëà[CR]. [CS:E]Òâÿèàîîúå[CR]
+[CS:E]ðñéæíú[CR] éòðïìûèôýóòÿ äñôã èà äñôãïí â ïäéî
+öïä, ðï øåðïœëå. Ðñéíåîåîéå [CS:E]òâÿèàîîïãï[CR]
+[CS:E]ðñéæíà[CR] äàòó âàí áïìûšå Ïœëïâ Ïðúóà.
+
+Ðñéíåîåîéå [CS:E]òâÿèàîîïãï ðñéæíà[CR] òîéçàåó
+[CS:E]Òúóïòóû[CR], îï éö òóïéó éòðïìûèïâàóû, œóïáú
+ðïáåäéóû ïðàòîúö âñàãïâ!
+-
+"The [CS:E]Attack[CR] and [CS:E]Defense[CR] stats of your team
+members may become temporarily reduced by
+enemies' [CS:E]moves[CR] and other dungeon effects!
+
+If that happens, search for a floor tile with an
+arrow, then step on it to get rid of the stat
+reduction. Caution: this tile will remove stat
+boosts as well!"
+
+Öàñàëóåñéòóéëé [CS:E]Àóàëé[CR] é [CS:E]Èàþéóú[CR] íïãôó áúóû
+âñåíåîîï òîéçåîú [CS:E]ðñéæíàíé[CR] âñàãïâ é ïòïáúíé
+üõõåëóàíé ðïäèåíåìéê!
+
+Åòìé óàëïå òìôœéóòÿ, îàêäéóå ëìåóëô îà
+ðïìô òï èîàëïí òóñåìëé, ðïòìå œåãï
+îàòóôðéóå îà îåæ, œóïáú ôáñàóû éèíåîåîéÿ
+öàñàëóåñéòóéë! Ïáñàóéóå âîéíàîéå: üóà
+ëìåóëà óàëçå ôáåñåó ðïìïçéóåìûîúê ðñéñïòó
+öàñàëóåñéòóéë!
+-
+"You may find [CS:K]Kecleon[CR] selling its wares on a
+red rug in dungeons. If you want to buy a
+priced item, pick it up, then speak to [CS:K]Kecleon[CR].
+If you want to sell something, put it on the
+rug, then speak to [CS:K]Kecleon[CR].
+
+If you walk off the rug while holding
+merchandise or if you use the item while on
+the rug, you'll have to pay for it. Caution:
+you'll be labeled a [CS:C]thief[CR] if you can't pay!"
+
+Éîïãäà íïçîï îàêóé [CS:K]Ëåëìåïîà[CR], ðñïäàýþåãï
+óïâàñú îà ëñàòîïí ëïâñå. Œóïáú ëôðéóû
+ðñåäíåó, âïèûíéóå åãï é ðïãïâïñéóå ò
+[CS:K]Ëåëìåïîïí[CR]. Œóïáú ðñïäàóû ðñåäíåó, áñïòûóå
+åãï îà ëïâåñ é ðïãïâïñéóå ò [CS:K]Ëåëìåïîïí[CR].
+
+Åòìé âú òïêäåóå ò ëïâñà, ìéáï ðñéíåîéóå
+ðïäïáñàîîúê ðñåäíåó, âàí îôçîï áôäåó èà
+îåãï èàðìàóéóû. Îï ðïíîéóå: âú òóàîåóå
+[CS:C]âïñïí[CR], åòìé ô âàò îå áôäåó äåîåã!
+-
+"Let's say that you (the player) want to take a
+break while inside a dungeon. You can! Select
+the [CS:E]Rest[CR] option, then [CS:E]Quicksave[CR]. You can then
+turn off the game and resume play later.
+
+Caution: If you resume play using [CS:E]Quicksave[CR],
+then want to later turn off the power, you
+must then save again! If you don't, you'll lose
+all progress (including money, items, and Exp.
+Points) since your last save at a save point."
+
+Äïðôòóéí, œóï âú (éãñïë) öïóéóå ïóäïöîôóû
+âï âñåíÿ ðïöïäà â ðïäèåíåìûå. Üóï íïçîï!
+Âúáåñéóå [CS:E]Ïóäúö[CR], èàóåí [CS:E]Òïöñàîåîéå[CR]. Ðïòìå
+üóïãï, âú íïçåóå âúëìýœéóû éãñô é
+ðñïäïìçéóû éãñàóû ðïèçå.
+
+Âîéíàîéå: Åòìé âïèïáîïâéóû éãñô ðñé ðïíïþé
+[CS:E]Òïöñàîåîéÿ[CR], óï âàí îôçîï áôäåó òîïâà
+òïöñàîéóûòÿ! Åòìé üóï îå òäåìàóû, óï âú
+ðïóåñÿåóå òâïê ðñïãñåòò â ðïäèåíåìûå!
+-
+IQ Skills
+Îàâúëé IQ
+Switch
+Âëì/âúëì
+Info
+Éîõï
+Exit
+Âúöïä
+-
+Type-Advantage Master
+Íàòóåñ Óéð-Ðñåéíôþåòóâ
+Item Catcher
+Ìïâåø Ðñåäíåóïâ
+Course Checker
+Ðñïâåñëà Ðñåðÿóòóâéê
+Sure-Hit Attacker
+Óïœîúê Àóàëôýþéê
+Quick Dodger
+Áúòóñúê Ôâïñïó
+PP Checker
+Òâåñëà ÏÒ
+Nontraitor
+Îå-Ðñåäàóåìû
+Status Checker
+Ðñïâåñëà Òóàóôòà
+Exp. Go-Getter
+Ïöïóîéë èà Ïðúóïí
+Efficiency Expert
+Üëòðåñó Üõõåëóéâîïòóé
+Weak-Type Picker
+Ïöïóîéë îà Òìàáúö
+All-Terrain Hiker
+Âåèäåöïäîïòóû
+Absolute Mover
+Éäåàìûîúê Ðñïöïäœéë
+Trap Avoider
+Éèáåãàóåìû Ìïâôšåë
+House Avoider
+Éèáåãàóåìû Èàòàä
+Energy Saver
+Òáåñåãàóåìû Üîåñãéé
+Nonsleeper
+Áåòòïîîéøà
+Self-Curer
+Òàíï-Øåìéóåìû
+Trap Seer
+Èîàýþéê Ìïâôšåë
+Lava Evader
+Éèáåãàóåìû Ìàâú
+Dedicated Traveler
+Ðñåäàîîúê Ðôóîéë
+Item Master
+Íàòóåñ Ðñåäíåóïâ
+Exclusive Move-User
+Éòðïìûèôýþéê Ðñéæíú
+Escapist
+Áåãìåø
+Lock-Picker
+Âèìïíþéë
+Stair Sensor
+Éòëàóåìû Ìåòóîéø
+Coin Watcher
+Éòëàóåìû Íïîåó
+Exp. Elite
+Äïáúóœéë Ïðúóà
+Sharpshooter
+Òîàêðåñ
+Fast Friend
+Äñôçåìýáîïòóû
+PP Saver
+Òáåñåãàóåìû ÏÒ
+Bodyguard
+Óåìïöñàîéóåìû
+Cautious Creeper
+Ïòóïñïçîúê Ðñïîúñà
+Aggressor
+Àãñåòòïñ
+Defender
+Èàþéóîéë
+Intimidator
+Ôòóñàšéóåìû
+Survivalist
+Âúçéâàìûþéë
+Trap Buster
+Ñàèñôšéóåìû Ìïâôšåë
+Counter Hitter
+Ëïîóñàóàëôýþéê
+Extra Striker
+Âóïñïê Ôäàñ
+Hit-and-Runner
+Îàðàäåîéå é Áåãòóâï
+Parry Expert
+Üëòðåñó Ðàñéñïâàîéÿ
+Quick Striker
+Áúòóñúê Àóàëôýþéê
+No-Charger
+Áåè Ðïäãïóïâëé
+Wary Fighter
+Ïòóïñïçîúê Áïåø
+Gap Prober
+Òëâïèîïê Àóàëôýþéê
+Power Pitcher
+Òéìûîúê Íåóàóåìû
+Concentrator
+Ëïîøåîóñàóïñ
+Counter Basher
+Ëïîóñ-Ëñôšéóåìû
+Cheerleader
+Áïìåìûþéë
+Nature Gifter
+Äàñéóåìû Ðñéñïäú
+Wise Healer
+Íôäñúê Ìåëàñû
+Quick Healer
+Áúòóñúê Ñåãåîåñàóïñ
+Acute Sniffer
+Ïòóñúê Îýöàœ
+Deep Breather
+Ãìôáïëéå Âäïöé
+Brick-Tough
+Ëñåðïòóû Óåìà
+Multitalent
+Íîïãïãñàîîúê
+Time Tripper
+Éèãéáàóåìû Âñåíåîé
+Erratic Player
+Îåðñåäòëàèôåíúê
+Practice Swinger
+Ðñàëóéëà Ôäàñïâ
+No-Defeatist
+Îå-Ðïñàçåîåø
+Haggler
+Óïñãïâåø
+Clutch Performer
+Öâàóëà èà Çéèîû
+Critical Dodger
+Ëñéóéœåòëéê Ôâïñïó
+Map Surveyor
+Èîàýþéê Ëàñóô
+Pierce Hurler
+Ðñïáéâàóåìû-Íåóàóåìû
+Collector
+Òïáéñàóåìû
+True Powerist
+Éòóéîîúê Áïåø
+-
+"Shift moves:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B20]
+Switch set moves:[CLUM_SET:123][CLUM_SET:130][M:B1]"
+Òíåòóéóû ðñéæíú:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B20]
+Âëì/âúëì èàäàîîúê ðñéæí:[CLUM_SET:123][CLUM_SET:130][M:B1]
+
+"Link moves:[CLUM_SET:123][CLUM_SET:130][M:B6]+[M:B2]
+Shift moves:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B20]
+Switch set moves:[CLUM_SET:123][CLUM_SET:130][M:B1]"
+Òâÿèàóû ðñéæíú:[CLUM_SET:123][CLUM_SET:130][M:B6]+[M:B2]
+Òíåòóéóû ðñéæíú:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B20]
+Âëì/âúëì èàäàîîúê ðñéæí:[CLUM_SET:123][CLUM_SET:130][M:B1]
+-
+Stairs
+Ìåòóîéøà
+Warp Zone
+Âàñð-Èïîà
+Rescue Point
+Óïœëà Òðàòåîéÿ
+Hidden Stairs
+Òëñúóàÿ Ìåòóîéøà
+Info
+Éîõï
+Cancel
+Ïóíåîà
+-
+??????????
+Áôìûáàèàâñ
+Éâéèàâñ
+Âåîôèàâñ
+Œàñíàîäåñ
+Œàñíåìåïî
+Œàñéèàñä
+Òëâéñóì
+Âàñóïñóì
+Áìàòóïêè
+Ëàóåñðé
+Íåóàðïä
+Áàóóåñõñé
+Âéäì
+Ëàëôîà
+Áéäñéìì
+Ðéäçé
+Ðéäçåïóóï
+Ðéäçåïó
+Ñàóóàóà
+Ñàóéëåêó
+Òðéñïô
+Õéñïô
+Üëàîò
+Àñáïë
+Ðéëàœô
+Ñàêœô
+Òüîäšñý
+Òüîäòìüš
+Îéäïñàî♀
+Îéäïñéîà
+Îéäïëâéî
+Îéäïñàî♂
+Îéäïñéîï
+Îéäïëéîã
+Ëìåõüêñé
+Ëìåõüêáì
+Âôìûðéëò
+Îàêîóåêìè
+Äçéãìéðàõõ
+Âéãìéóàõõ
+Èôáàó
+Ãïìáàó
+Ïääéš
+Ãìôí
+Âàêìðìôí
+Ðàñàò
+Ðàñàòåëó
+Âåîïîàó
+Âåîïíïó
+Äéãìåóó
+Äàãóñéï
+Íÿôó
+Ðåñòéàî
+Ðòéäàë
+Ãïìäàë
+Íàîëé
+Ðñàêíåêð
+Ãñïôìéó
+Àñëàîàêî
+Ðïìéâàã
+Ðïìéâéñì
+Ðïìéñüó
+Àáñà
+Ëàäàáñà
+Àìàëàèàí
+Íàœïð
+Íàœïë
+Íàœàíð
+Áåììòðñàôó
+Âéðéîáåìì
+Âéëóñéáåìì
+Óåîóàëôì
+Óåîóàëñôüì
+Äçåïäýä
+Ãñàâåìåñ
+Ãïìåí
+Ðïîéóà
+Ñàðéäàš
+Òìïôðïë
+Òìïôáñï
+Íàãîåíàêó
+Íàãîåóïî
+Õàñõåóœ'ä
+Äïäôï
+Äïäñéï
+Òééì
+Äûýãïîã
+Ãñàêíåñ
+Íàë
+Šåììäåñ
+Ëìïêòóåñ
+Ãàòóìé
+Öïîóåñ
+Ãåîãàñ
+Ïîéëò
+Äñïôèé
+Ãéðîï
+Ëñàááé
+Ëéîãìåñ
+Âïìóïñá
+Üìåëóñïä
+Üëèåãëûýó
+Üëèåããôóïñ
+Ëûýáïî
+Íàñïâàë
+Öéóíïîìé
+Öéóíïîœàî
+Ìéëéóàîã
+Ëïõõéîã
+Âéèéîã
+Ñàêöïñî
+Ñàêäïî
+Œåîòé
+Óàîãåìà
+Ëàîãàòöàî
+Öïñòé
+Òéäñà
+Ãïìäéî
+Òéëéîã
+Òóàñûý
+Òóàñíé
+Íñ. Íàêí
+Òàêóåñ
+Äçéîëò
+Üìåëóàáàèè
+Íàãíàñ
+Ðéîòéñ
+Óàôñïò
+Íüäçéëàñð
+Ãÿñàäïò
+Ìàðñàò
+Äéóóï
+Éâéèàâñ
+Âàðïñåïî
+Äçïìóåïî
+Õìàñåïî
+Ðïñéãïî
+Ïíàîéó
+Ïíàòóàñ
+Ëàáôóï
+Ëàáôóïðò
+Àüñïäàëóéì
+Òîïñìàëò
+Àñóéëôîï
+Èàðäïò
+Íïìóñåò
+Äñàóéîé
+Äñàãïîüêñ
+Äñàãïîàêó
+Íûýóô
+Íûý
+Œéëïñéóà
+Áüêìéõ
+Íåãàîéôí
+Òéîäàëâéì
+Ëâéìàâà
+Óàêõìïôçî
+Óïóïäàêì
+Ëñïëïîàâ
+Õåñàìéãàóñ
+Òåîóñåó
+Õôññåó
+Öôóöôó
+Îïëóàôì
+Ìåäéáà
+Ìåäéàî
+Òðéîàñàë
+Àñéàäïò
+Ëñïáàó
+Œéîœïô
+Ìàîóôñî
+Ðéœô
+Ëìåõõà
+Éãìéáàõõ
+Óïãåðé
+Óïãåóéë
+Îàóô
+Ëòàóô
+Íüñéð
+Õìàõõé
+Àíõàñïò
+Áåììïòòïí
+Íàñéìì
+Àèôíàñéìì
+Òôäïâôäï
+Ðïìéóïä
+Öïððéð
+Òëéðìôí
+Äçàðìàõõ
+Üêðïí
+Òàîëåñî
+Òàîõìïñà
+Ÿîíà
+Âôðåñ
+Ëâàãòàêñ
+Üòðåïî
+Àíáñåïî
+Íàñëñïô
+Òìïôëéîã
+Íéòäñéâôò
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Àîïôî
+Âïááàõõåó
+Çéñàõàñéç
+Ðàêîëï
+Õïññåóñåòò
+Äàîòðàñò
+Ãìàêãåñ
+Òóéìéëò
+Òîàááôì
+Ãñàîáôì
+Ëâéìõéš
+Òéèïñ
+Šàëì
+Ãåñàëñïòò
+Òîéèåì
+Óåääéôñòà
+Ôñòàñéîã
+Òìàãíà
+Íàãëàñãï
+Òâéîôá
+Ðàêìïòâàêî
+Ëïñòïìà
+Ñåíïñåêä
+Ïëóéììåñé
+Äåìéáæñä
+Íàîóéî
+Òëàñíïñé
+Öàôîäàôñ
+Öàôîäôí
+Ëéîãäñà
+Õàîðé
+Äïîõàî
+Ðïñéãïî2
+Òóàîóìåñ
+Òíéñãì
+Óàêñïã
+Öéóíïîóïð
+Òíôœàí
+Üìåëéä
+Íàãáé
+Íéìóàîë
+Áìéòòé
+Ñàêëïô
+Üîóåê
+Òôéëôî
+Ìàñâéóàñ
+Ðûýðéóàñ
+Óéñàîéóàñ
+Ìôãéÿ
+Öï-Ïö
+Òåìåáé
+Òåìåáé
+Óñéëëï
+Ãñïâàêì
+Òåðóàêì
+Óïñœéë
+Ëïíáàòëåî
+Áìåêèéëåî
+Íàäëéð
+Íàñšóïíð
+Òâàíðåñó
+Ðôœéåîà
+Íàêóéåîà
+Èéãèàãôî
+Ìàêîôî
+Âôñíðì
+Òéìëôî
+Áûýóéõìàê
+Ëàòëôî
+Äàòóïëò
+Ìïóàä
+Ìïíáñå
+Ìôäéëïìï
+Òéäïó
+Îàèìéõ
+Šéõóñé
+Óåêìïô
+Òâåììïô
+Âéîãàìì
+Ðåìéððåñ
+Ñàìûóò
+Ëéñìéÿ
+Ãàñäåâôàñ
+Òæñòëéó
+Íàòëàñüêî
+Šñôíéš
+Áñåìôí
+Òìàëïó
+Âéãïñïó
+Òìàëéîã
+Îéîëàäà
+Îéîäçàòë
+Šåäéîûÿ
+Âéòíôñ
+Ìàôäñåä
+Üëòðìàôä
+Íàëôöéóà
+Öàñéÿíà
+Àèôñéìì
+Îïòðàòò
+Òëéóóé
+Äåìëüóóé
+Òàáìàê
+Íàâàêì
+Àñïî
+Ìàêñïî
+Àãñïî
+Íåäéóàêó
+Íåäéœåí
+Üìåëóñàêë
+Íàîåëóñéë
+Ðìýòì
+Íéîôî
+Âïìáéó
+Éììýíàêè
+Ñïèåìéÿ
+Ãàìðéî
+Òâàìïó
+Ëàñâàîûÿ
+Šàñðåäï
+Âåêìíåñ
+Âåêìïñä
+Îàíåì
+Ëàíåñàðó
+Óïñëïàì
+Òðïéîë
+Ãñàíðéã
+Òðéîäà
+Óñàðéîœ
+Âéáñàâà
+Õìàêãïî
+Ëàëîåÿ
+Ëàëóýñî
+Òâàáìô
+Àìûóàñéÿ
+Èàîãôò
+Òåâàêðåñ
+Ìôîàóïî
+Òïìñïë
+Áàñáïœ
+Âéòëàš
+Ëïñõéš
+Ëñïäàîó
+Áàìóïê
+Ëìüêäïì
+Ìéìéð
+Ëñüäéìé
+Àîïñéó
+Àñíàìûäï
+Õéáàò
+Íéìïóéë
+Ëàòóõïñí
+Ëàòóõïñí
+Ëàòóõïñí
+Ëàòóõïñí
+Ëåëìåïî
+Ëåëìåïî
+Šàððåó
+Áàîåóó
+Äàòëàìì
+Äàòëìïðò
+Óñïðéôò
+Œàêíåëï
+Àáòïì
+Âàêîïó
+Òîïñàîó
+Ãìüêìé
+Òõéì
+Òéìåï
+Âàìñüêî
+Ëìàíðåñì
+Öàîóåêì
+Ãïñáéòò
+Ñåìéëàîó
+Ìàâäéòë
+Áüêãïî
+Šåìãïî
+Òàìàíåîò
+Áåìäàí
+Íåóàîã
+Íåóàãñïòò
+Ñåäçéñïë
+Ñåäçéàêò
+Ñåäçéòóéì
+Ìàóéàò
+Ìàóéïò
+Ëàêïãñ
+Ãñàôäïî
+Ñåêëâàèà
+Äèéñàóé
+Äåïëòéò
+Äåïëòéò
+Äåïëòéò
+Äåïëòéò
+Óïñóâéã
+Ãñïóì
+Óïñóåññà
+Œéíœàñ
+Íïîõåñîï
+Éîõåñîåêð
+Ðéðìàð
+Ðñéîðìàð
+Éíðïìåïî
+Òóàñìé
+Òóàñàâéÿ
+Òóàñàðóïñ
+Áéäôõ
+Áéáàñåì
+Ëñéëåóïó
+Ëñéëåóýî
+Šéîëò
+Ìýëòéï
+Ìýëòñüê
+Áàäûý
+Ñïôèñüêä
+Ëñàîéäïò
+Ñàíðàñäïò
+Šéìäïî
+Áàòóéïäïî
+Áôñíé
+Áôñíé
+Áôñíé
+Âïñíàäàí
+Âïñíàäàí
+Âïñíàäàí
+Íïóéí
+Ëïíáé
+Âåòðéëâéî
+Ðàœéñéòô
+Áôéèåìû
+Õìïàóèåìû
+Œåñôáé
+Œåññéí
+Œåññéí
+Šåììïò
+Šåììïò
+Ãàòóñïäïî
+Ãàòóñïäïî
+Àíáéðïí
+Äñéõìôî
+Äñéõáìéí
+Áàîéñé
+Ìïðàîîé
+Íéòíàãéôò
+Öïîœëñïô
+Ãìåêíÿô
+Ðôñàãìé
+Œéîìéîã
+Òóàîëé
+Òëôîóàîë
+Áñïîèïñ
+Áñïîèïîã
+Áïîòìàê
+Íàêí Íì.
+Öàððéîé
+Œàóïó
+Òðéñéóïíá
+Ãéáì
+Ãàáàêó
+Ãàñœïíð
+Íàîœìàëò
+Ñéïìô
+Ìôëàñéï
+Ãéððïðïóàò
+Ãéððïäïî
+Òëïñôðé
+Äñàðéïî
+Ëñïãàîë
+Óïëòéëñïàë
+Ëàñîéâàêî
+Õéîîåïî
+Ìýíéîåïî
+Íàîóàêë
+Òîïâåñ
+Àáïíàòîïô
+Âéâàêì
+Íàãîåèïî
+Ìéëéìéëé
+Ñàêðåñéïñ
+Óàîãñïôò
+Üìåëóéâàêñ
+Íàãíïñóàñ
+Óïãåëéòò
+Ÿîíåãà
+Ìéõåïî
+Ãìàòåïî
+Ãìàêòëïñ
+Íàíïòâàêî
+Ðïñéãïî-Z
+Ãàììüêä
+Ðñïáïðàòò
+Äàòëîôàñ
+Õñïòìàòò
+Ñïóïí
+Ýëòé
+Íåòðñéó
+Àèåìûõ
+Äéàìãà
+Ðàìëéÿ
+Öéóñàî
+Ñåäçéãéãàò
+Ãéñàóéîà
+Ëñåòòåìéÿ
+Õéïî
+Íàîàõé
+Äàñëñàê
+Šåêíéî
+Šåêíéî
+Ãéñàóéîà
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+Äéàìãà
+Ïáíàîëà
+Òóàóôÿ
+Âéãìéóàõõ
+Ñåäçéãéãàò
+Áñïîèïîã
+Öéóíïîìé
+Œàêíåëï
+Âéãìéóàõõ
+Ýëòé
+Àèåìûõ
+Íåòðñéó
+Òàîõìïñà
+Äéãìåóó
+Äàãóñéï
+Ëïñõéš
+Ìàôäñåä
+Áéäôõ
+Œàóïó
+Ãñïâàêì
+Äàòëîôàñ
+Òàáìàê
+Äàñëñàê
+Íàíà
+Ãñïâàêì
+Äàòëîôàñ
+Äàòëîôàñ
+Òåîóñåó
+Áåììïòòïí
+-
+??????????
+Òåíåîîïê
+Òåíåîîïê
+Òåíåîîïê
+Ÿþåñéœîúê
+Ïãîåîîúê
+Ïãîåîîúê
+Œåñåðàöïâúê
+Œåñåðàöïâúê
+Íïììýòëïâúê
+Ãôòåîéœîúê
+Ëïëïî
+Áàáïœëïâúê
+Çôœéîúê
+Ëïëïî
+Ðœåìéîúê
+Ðóéœéê
+Ðóéœéê
+Ðóéœéê
+Íúšéîúê
+Íúšéîúê
+Ðóéœéê
+Ëìýâàòóúê
+Èíåéîúê
+Ëïáñà
+Íúšéîúê
+Íúšéîúê
+Íúšéîúê
+Íúšéîúê
+Ÿäïñïãéê
+Ÿäïñïãéê
+Òâåñìÿþéê
+Ÿäïñïãéê
+Ÿäïñïãéê
+Òâåñìÿþéê
+Òëàèïœîúê
+Òëàèïœîúê
+Ìéòéê
+Ìéòéê
+Šàñïïáñàèîúê
+Šàñïïáñàèîúê
+Ìåóôœàÿ íúšû
+Ìåóôœàÿ íúšû
+Óñàâÿîïê
+Óñàâÿîïê
+Øâåóïœîúê
+Ãñéáîïê
+Ãñéáîïê
+Îàòåëïíúê
+Íïóúìûëïâúê
+Ëñïóïâúê
+Ëñïóïâúê
+Ëïšàœéê
+Ëïšàœéê
+Ôóéîúê
+Ôóéîúê
+Ïáåèûÿîéê
+Ïáåèûÿîéê
+Þåîÿœéê
+Ìåãåîäàñîúê
+Ãïìïâàòóéëïâúê
+Ãïìïâàòóéëïâúê
+Ãïìïâàòóéëïâúê
+Ðòéöéœåòëéê
+Ðòéöéœåòëéê
+Ðòéöéœåòëéê
+Òâåñöòéìûîúê
+Òâåñöòéìûîúê
+Òâåñöòéìûîúê
+Øâåóïœîúê
+Íôöïìïâëà
+Íôöïìïâëà
+Íåäôèéê
+Íåäôèéê
+Ëàíåîîúê
+Ëàíåîîúê
+Òâåñöóÿçåìúê
+Ïãîåëïîòëéê
+Ïãîåëïîòëéê
+Âÿìúê
+Ëñàá-ïóšåìûîéë
+Íàãîéóîúê
+Íàãîéóîúê
+Ôóéîúê
+Ðóéœéê
+Ðóéœéê
+Íïñòëïê ìåâ
+Íïñòëïê ìåâ
+Óïëòéœîúê
+Óïëòéœîúê
+Äâôòóâïñœàóúê
+Äâôòóâïñœàóúê
+Ãàèïâúê
+Ãàèïâúê
+Óåîåâïê
+Ëàíåîîúê
+Ãéðîïóéœåòëéê
+Ãéðîïóéœåòëéê
+Ëñàáïâúê
+Þéðàýþéê
+Šàñïïáñàèîúê
+Šàñïïáñàèîúê
+Ÿêøåâúê
+Ëïëïòïâúê
+Ïäéîïëéê
+Ëïòóåöñàîéóåìû
+Ðéîàýþéê
+Ôäàñÿýþéê
+Ìéçôþéê
+Ÿäïâéóúê
+Ÿäïâéóúê
+Šéðàòóúê
+Òâåñìÿþéê
+Ÿêøåâúê
+Ìïèà
+Ñïäéóåìû
+Äñàëïîéê
+Äñàëïîéê
+Ñúáéê
+Ñúáéê
+Èâåèäïðïäïáîúê
+Èàãàäïœîúê
+Áàñûåñîúê
+Áïãïíïì
+Œåìïâåëïðïäïáîúê
+Üìåëóñéèôýþéê
+Ïãîåîîúê
+Çôœéîúê
+Áúœéê
+Ñúáéê
+Ÿñïòóîúê
+Óñàîòðïñóîúê
+Óñàîòõïñíéñôýþéê
+Üâïìýøéïîîúê
+Ðïóïëïâúê
+Íïìîéåâúê
+Ðìàíåîîúê
+Âéñóôàìûîúê
+Òðéñàìûîúê
+Òðéñàìûîúê
+Íïììýòëïâúê
+Íïììýòëïâúê
+Éòëïðàåíúê
+Òðÿþéê
+Íïñïèîúê
+Üìåëóñéœåòëéê
+Ðìàíåîîúê
+Äñàëïîéê
+Äñàëïîéê
+Äñàëïîéê
+Ãåîåóéœåòëéê
+Îïâåêšéê
+Ìéòóâåîîúê
+Ìéòóâåîîúê
+Óñàâÿîïê
+Ïãîåîîúê
+Âôìëàîéœåòëéê
+Âôìëàîéœåòëéê
+Áïìûšåñïóúê
+Áïìûšåñïóúê
+Áïìûšåñïóúê
+Ïòóïñïçîúê
+Äìéîîïóåìúê
+Òïâéîúê
+Òïâéîúê
+Ðÿóéèâåèäîúê
+Ðÿóéèâåèäîúê
+Îéóåâïê
+Äìéîîïîïãéê
+Ìåóôœàÿ íúšû
+Ðñéíàîéâàýþéê
+Òâåóÿþéêòÿ
+Íúšéîúê
+Èâåèäïðïäïáîúê
+Šàñïïáñàèîúê
+Šéðàòóúê šàñ
+Òœàòóìéâúê
+Ðóéœéê
+Íéòóéœåòëéê
+Šåñòóÿîïê
+Šåñòóÿîïê
+Òâåóÿþéêòÿ
+Øâåóïœîúê
+Íúšéîúê
+Ëñïìéœéê
+Éíéóàøéïîîúê
+Ìÿãôšàœéê
+Öìïðœàóúê
+Öìïðœàóúê
+Öìïðœàóúê
+Äìéîîïöâïòóúê
+Òåíåîîïê
+Òïìîåœîúê
+Ëñúìàóúê
+Âïäîúê
+Âïäîúê
+Òïìîåœîúê
+Ìôîîúê
+Óåíîúê
+Ëïñïìåâòëéê
+Âéèçàþéê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Òéíâïìûîúê
+Óåñðåìéâúê
+Äìéîîïšåéê
+Íåšïœîéëïâúê
+Íåšïœîéëïâúê
+Òôöïðôóîúê
+Òëïñðéïîïâúê
+Òóàìåèíåéîúê
+Òëàèïœîúê
+Òëàèïœîúê
+Šàñïïáñàèîúê
+Þéðøïâúê
+Ðìåòîåâúê
+Ïäîïñïãéê
+Øàñàðàýþéê
+Íåäâåçïîïë
+Ãéáåñîéñôýþéê
+Ìàâïâúê
+Ìàâïâúê
+Òâéîïê
+Òâéîïê
+Ëïñàììïâúê
+Ðïóïëïâúê
+Ðïóïëïâúê
+Äïòóàâìÿýþéê
+Òëàó
+Áñïîå-Ðóéœéê
+Óåíîúê
+Óåíîúê
+Äñàëïîéê
+Äìéîîïîïòúê
+Áñïîéñïâàîîúê
+Âéñóôàìûîúê
+Áïìûšåñïãéê
+Ñéòôýþéê
+Äåñôþéêòÿ
+Òóïÿþéê îà ñôëàö
+Øåìôýþéê
+Üìåëóñéœåòëéê
+Ôãïìûîúê
+Ëïñïâéê
+Òœàòóìéâúê
+Ãñïíïâïê
+Âôìëàîéœåòëéê
+Òéÿýþéê
+Ëàíåîîïšëôñúê
+Ðàîøéñîúê
+Áñïîéñïâàîîúê
+Îúñÿýþéê
+Ñàäôçîúê
+Âîåâñåíåîîúê
+Âîåâñåíåîîúê
+Ãåëëïîïâúê
+Ãåëëïîïâúê
+Ìåòîïê
+Øúðìÿœéê
+Ðóéœéê
+Ðïìúöàýþéê
+Èåíîïâïäîúê
+Èåíîïâïäîúê
+Èåíîïâïäîúê
+Ëôòàœéê
+Ëôòàœéê
+Åîïóïâúê
+Òóñåíéóåìûîúê
+Ãôòåîéœîúê
+Ëïëïî
+Áàáïœëïâúê
+Ëïëïî
+Íïóúìûëïâúê
+Ëôâšéîëïâúê
+Ñàäïòóîúê
+Áåèèàáïóîúê
+Çåìôäåâúê
+Öéóñúê
+Òëâåñîúê
+Ìàòóïœëïâúê
+Ìàòóïœëïâúê
+Œàêëà
+Ðåìéëàîéê
+Œôâòóâéóåìûîúê
+Üíïøéïîàìûîúê
+Ïáîéíàýþéê
+Âïäïíåñëïâúê
+Òìåäÿþéê
+Ãñéáîïê
+Ãñéáîïê
+Ïóìúîéâàýþéê
+Ïáåèûÿîéê
+Ìåîéâúê
+Óñåîéñôýþéêòÿ
+Îéîèäÿ
+Ïáïìïœëà
+Šåðœôþéê
+Ãïìïòéòóúê
+Ãñïíïãìàòîúê
+Öñàáñúê
+Áïêøïâúê
+Ôèïñœàóúê
+Ëïíðàò
+Ëïšàœéê
+Çåíàîîúê
+Óæíîúê
+Ïáíàîúâàýþéê
+Òóàìûîïê
+Òóàìûîïê
+Òóàìûîïê
+Íåäéóéñôýþéê
+Íåäéóéñôýþéê
+Üìåëóñéœåòëéê
+Üìåëóñéœåòëéê
+Ðïääåñçéâàýþéê
+Ðïääåñçéâàýþéê
+Òâåóìÿœëïâúê
+Òâåóìÿœëïâúê
+Šéðàòóúê
+Ðåñåâàñéâàýþéê
+Ÿäïâéóúê
+Çåòóïëéê
+Èâåñéîúê
+Ëéóïâúê
+Ëéóïâúê
+Ïîåíåìúê
+Éèâåñãàýþéê
+Ôãïìûîúê
+Òëàœôþéê
+Íàîéðôìéñýþéê
+Ðÿóîéòóúê
+Ñïýþéê ÿíú
+Âéáñàøéïîîúê
+Íéòóéœåòëéê
+Ëàëóôòïâúê
+Ïóðôãéâàýþéê
+Öìïðœàóúê
+Îàðåâàýþéê
+Íàîãôòóïâúê
+Èíåéîúê
+Íåóåïñéóîúê
+Íåóåïñéóîúê
+Âéáñéòòïâúê
+Âéáñéòòïâúê
+Èìïäåêòëéê
+Îåãïäÿêòëéê
+Ãìéîÿîúê
+Ãìéîÿîúê
+Ìéìéåâúê
+Íïììýòëïâúê
+Ëñåâåóëïâúê
+Ðìàòóéîœàóúê
+Ñúáéê
+Ôöïçåîîúê
+Ðïãïäîúê
+Ðïãïäîúê
+Ðïãïäîúê
+Ðïãïäîúê
+Íàòëéñôýþéêòÿ
+Íàòëéñôýþéêòÿ
+Íàñéïîåóïœîúê
+Íàñéïîåóïœîúê
+Ðïóôòóïñïîîéê
+Èàíàîéâàýþéê
+Õñôëóïâúê
+Ëïìïëïìûœéëïâúê
+Ëàóàòóñïõéœåòëéê
+Òâåóìúê
+Òîåçîúê
+Ìéøï
+Öìïðàýþéê
+Ëàóàýþéêòÿ
+Ìåäïëïìûîúê
+Äâôòóâïñœàóúê
+Ãìôáïëïâïäîúê
+Ýçîïíïñòëéê
+Äïìãïìåóîéê
+Òáìéçàýþéê
+Ëàíåîîïãïìïâúê
+Âúîïòìéâúê
+Äñàëïîéê
+Òóàìûîïê Šàñ
+Òóàìûîïê Ëïãïóû
+Òóàìûîúå Îïãé
+Ëàíåîîúê
+Àêòáåñãïâúê
+Òóàìûîïê
+Âåœîúê
+Âåœîúê
+Ïëåàîéœåòëéê
+Ëïîóéîåîóàìûîúê
+Îåáåòîúê
+Çåìàîéå
+ÄÎË
+ÄÎË
+ÄÎË
+ÄÎË
+Ìéòóâåîîúê
+Ñïþà
+Ëïîóéîåîó
+Íàñóúšëïâúê
+Éãñéâúê
+Ðìàíåîîúê
+Ðéîãâéîéê
+Ðéîãâéîéê
+Éíðåñàóïñòëéê
+Òëâïñøïâúê
+Òëâïñøïâúê
+Öéþîéœåòëéê
+Áïáñéîúê
+Áïáñéîúê
+Òâåñœëïâúê
+Òâåñœëïâúê
+Òéÿýþéê
+Éòëñÿþéê
+Ðñïòâåœéâàýþéê
+Ðïœëà
+Áôëåóîúê
+Óàñàîÿþéê
+Óàñàîÿþéê
+Èàþéþåîîúê
+Èàþéþåîîúê
+Íåšïœîéëïâúê
+Íåšïœîéëïâúê
+Íåšïœîéëïâúê
+Íåšïœîéëïâúê
+Íåšïœîéëïâúê
+Íåšïœîéëïâúê
+Íïóúìûëïâúê
+Ðœåìéîúê
+Ôìåê
+Üìåëóñïáåìéœéê
+Âúäñà
+Âúäñà
+Âéšîåâúê
+Øâåóôþéê
+Øâåóôþéê
+Òìéèîåâúê
+Òìéèîåâúê
+Òìéèîåâúê
+Òìéèîåâúê
+Äìéîîïöâïòóúê
+Šàñïïáñàèîúê
+Àüñïòóàóéœåòëéê
+Ëñïìéœéê
+Ëñïìéœéê
+Íàãéœåòëéê
+Èàðñàâìÿýþéê
+Ëïšàœéê
+Ëïšàœéê
+Ëïìïëïìûœéëïâúê
+Òëôîòïâúê
+Òëôîòïâúê
+Áñïîèïâúê
+Ëïìïëïìûîúê
+Áïîòàê
+Íéí
+Éãñéâúê
+Íôèúëàìûîúê
+Èàðñåóîúê
+Èåíîïàëôìéê
+Ðåþåñîúê
+Òëïñïòóîïê
+Ðïåäàýþéê
+Üíàîàøéïîîúê
+Àôñïâúê
+Ãéððïðïóàí
+Óÿçåìïâåòîúê
+Òëïñðéïîïâúê
+Òëïñðéïîïâúê
+Óïëòéœîúê
+Óïëòéœîúê
+Íôöïìïâëà
+Ëñúìàóàÿ Ñúáà
+Îåïîïâúê
+Òëàó
+Íåñèìïå Äåñåâï
+Íåñèìïå Äåñåâï
+Ëïãóéòóúê
+Íàãîéóîúê
+Ìéçôþéê
+Òâåñìÿþéê
+Ìéàîîúê
+Üìåëóñéœåòëéê
+Âèñúâîïê
+Ðñàèäîôýþéê
+Íåãà-Òóñåëïèà
+Èåìåîåýþéê
+Òîåçîúê
+Òëïñðéïîïâúê
+Íàíïîóïâúê
+Âéñóôàìûîúê
+Ëìéîëïâúê
+Ëïíðàò
+Öâàóàýþéê
+Òîåçîúê
+Ðìàèíåîîúê
+Èîàîéê
+Üíïøéê
+Âïìé
+Óåíðïñàìûîúê
+Ðñïòóñàîòóâåîîúê
+Ìàâïâúê
+Ëïìïòòàìûîúê
+Ñåîåãàó
+Ìôîîúê
+Ðôóåšåòóâôýþéê
+Ðôóåšåòóâôýþéê
+Óåíîåêšéê
+Áìàãïäàñîúê
+Áìàãïäàñîúê
+Ñåîåãàó
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+Óåíðïñàìûîúê
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+??????????
+-
+
+-
