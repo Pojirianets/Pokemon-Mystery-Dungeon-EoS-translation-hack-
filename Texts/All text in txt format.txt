@@ -15953,2803 +15953,1404 @@ find here? I'm so excited!"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__344
 
 Nothing
-
 Stick
-
 Iron Thorn
-
 Silver Spike
-
 Gold Fang
-
 Cacnea Spike
-
 Corsola Twig
-
 Gravelerock
-
 Geo Pebble
-
 Gold Thorn
-
 Rare Fossil
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 No-Slip Cap
-
 Y-Ray Specs
-
 Gaggle Specs
-
 Mobile Scarf
-
 Heal Ribbon
-
 Twist Band
-
 Scope Lens
-
 Patsy Band
-
 No-Stick Cap
-
 Pierce Band
-
 Joy Ribbon
-
 X-Ray Specs
-
 Persim Band
-
 Power Band
-
 Pecha Scarf
-
 Insomniscope
-
 Warp Scarf
-
 Tight Belt
-
 Sneak Scarf
-
 Gold Ribbon
-
 Goggle Specs
-
 Diet Ribbon
-
 Trap Scarf
-
 Racket Band
-
 Def. Scarf
-
 Stamina Band
-
 Plain Ribbon
-
 Special Band
-
 Zinc Band
-
 Detect Band
-
 Space Globe
-
 Dodge Scarf
-
 Bounce Band
-
 Curve Band
-
 Whiff Specs
-
 No-Aim Scope
-
 Lockon Specs
-
 Munch Belt
-
 Pass Scarf
-
 Weather Band
-
 Friend Bow
-
 Beauty Scarf
-
 Sun Ribbon
-
 Lunar Ribbon
-
 Golden Mask
-
 Amber Tear
-
 Icy Flute
-
 Fiery Drum
-
 Terra Cymbal
-
 Aqua-Monica
-
 Rock Horn
-
 Grass Cornet
-
 Sky Melodica
-
 Miracle Chest
-
 Wonder Chest
-
 IQ Booster
-
 Heal Seed
-
 Oran Berry
-
 Sitrus Berry
-
 Eyedrop Seed
-
 Reviver Seed
-
 Blinker Seed
-
 Doom Seed
-
 X-Eye Seed
-
 Life Seed
-
 Rawst Berry
-
 Hunger Seed
-
 Quick Seed
-
 Pecha Berry
-
 Cheri Berry
-
 Totter Seed
-
 Sleep Seed
-
 Plain Seed
-
 Warp Seed
-
 Blast Seed
-
 Ginseng
-
 Joy Seed
-
 Chesto Berry
-
 Stun Seed
-
 Gabite Scale
-
 Golden Seed
-
 Vile Seed
-
 Pure Seed
-
 Violent Seed
-
 Vanish Seed
-
 [M:D1]$$$
-
 Max Elixir
-
 Protein
-
 Calcium
-
 Iron
-
 Nectar
-
 Dropeye Seed
-
 Reviser Seed
-
 Slip Seed
-
 Via Seed
-
 Zinc
-
 Apple
-
 Big Apple
-
 Grimy Food
-
 Huge Apple
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 Golden Apple
-
 Mix Elixir
-
 Oren Berry
-
 Dough Seed
-
 White Gummi
-
 Red Gummi
-
 Blue Gummi
-
 Grass Gummi
-
 Yellow Gummi
-
 Clear Gummi
-
 Orange Gummi
-
 Pink Gummi
-
 Brown Gummi
-
 Sky Gummi
-
 Gold Gummi
-
 Green Gummi
-
 Gray Gummi
-
 Purple Gummi
-
 Royal Gummi
-
 Black Gummi
-
 Silver Gummi
-
 Wonder Gummi
-
 Gravelyrock
-
 [M:D1]$$$
-
 Upgrade
-
 King's Rock
-
 Thunderstone
-
 Deepseascale
-
 Deepseatooth
-
 Sun Stone
-
 Moon Stone
-
 Fire Stone
-
 Water Stone
-
 Metal Coat
-
 Leaf Stone
-
 Dragon Scale
-
 Link Cable
-
 Dubious Disc
-
 Protector
-
 Reaper Cloth
-
 Razor Fang
-
 Razor Claw
-
 Electirizer
-
 Magmarizer
-
 Oval Stone
-
 Dawn Stone
-
 Shiny Stone
-
 Dusk Stone
-
 Coronet Rock
-
 Mossy Rock
-
 Frozen Rock
-
 [M:D1]$$$
-
 Gone Pebble
-
 Wander Gummi
-
 Prize Ticket
-
 Silver Ticket
-
 Gold Ticket
-
 Prism Ticket
-
 Mystery Part
-
 Secret Slab
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 Wonder Egg
-
 Gracidea
-
 Sky Gift
-
 [M:D1]$$$
-
 Key
-
 PokГ©
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 Lost Loot
-
 [M:I0]Used TM
-
 [M:I0]Focus Punch
-
 [M:I0]Dragon Claw
-
 [M:I0]Water Pulse
-
 [M:I0]Calm Mind
-
 [M:I0]Roar
-
 [M:I0]Toxic
-
 [M:I0]Hail
-
 [M:I0]Bulk Up
-
 [M:I0]Bullet Seed
-
 [M:I0]Hidden Power
-
 [M:D1]$$$
-
 [M:I0]Taunt
-
 [M:I0]Ice Beam
-
 [M:I0]Blizzard
-
 [M:I0]Hyper Beam
-
 [M:I0]Light Screen
-
 [M:I0]Protect
-
 [M:D1]$$$
-
 [M:I0]Giga Drain
-
 [M:I0]Safeguard
-
 [M:I0]Frustration
-
 [M:I0]SolarBeam
-
 [M:I0]Iron Tail
-
 [M:I0]Thunderbolt
-
 [M:I0]Thunder
-
 [M:I0]Earthquake
-
 [M:I0]Return
-
 [M:I0]Dig
-
 [M:I0]Psychic
-
 [M:I0]Shadow Ball
-
 [M:I0]Brick Break
-
 [M:D1]$$$
-
 [M:I0]Reflect
-
 [M:I0]Shock Wave
-
 [M:I0]Flamethrower
-
 [M:I0]Sludge Bomb
-
 [M:D1]$$$
-
 [M:I0]Fire Blast
-
 [M:D1]$$$
-
 [M:I0]Aerial Ace
-
 [M:I0]Torment
-
 [M:I0]Facade
-
 [M:I0]Secret Power
-
 [M:I0]Rest
-
 [M:I0]Attract
-
 [M:I0]Thief
-
 [M:I0]Steel Wing
-
 [M:I0]Skill Swap
-
 [M:D1]$$$
-
 [M:I0]Overheat
-
 [M:I0]Roost
-
 [M:I0]Focus Blast
-
 [M:I0]Energy Ball
-
 [M:I0]False Swipe
-
 [M:I0]Brine
-
 [M:I0]Fling
-
 [M:I0]Charge Beam
-
 [M:I0]Endure
-
 [M:I0]Dragon Pulse
-
 [M:I0]Drain Punch
-
 [M:I0]Will-O-Wisp
-
 [M:I0]Silver Wind
-
 [M:I0]Embargo
-
 [M:I0]Explosion
-
 [M:I0]Shadow Claw
-
 [M:I0]Payback
-
 [M:I0]Recycle
-
 [M:I0]Giga Impact
-
 [M:I0]Rock Polish
-
 [M:I0]Wide Slash
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:I0]Vacuum-Cut
-
 [M:I0]Dive
-
 [M:I0]Flash
-
 [M:I0]Stone Edge
-
 [M:I0]Avalanche
-
 [M:I0]Thunder Wave
-
 [M:I0]Gyro Ball
-
 [M:I0]Swords Dance
-
 [M:I0]Stealth Rock
-
 [M:I0]Psych Up
-
 [M:I0]Captivate
-
 [M:I0]Dark Pulse
-
 [M:I0]Rock Slide
-
 [M:I0]X-Scissor
-
 [M:I0]Sleep Talk
-
 [M:I0]Natural Gift
-
 [M:I0]Poison Jab
-
 [M:I0]Dream Eater
-
 [M:I0]Grass Knot
-
 [M:I0]Swagger
-
 [M:I0]Pluck
-
 [M:I0]U-turn
-
 [M:I0]Substitute
-
 [M:I0]Flash Cannon
-
 [M:I0]Trick Room
-
 [M:I0]Cut
-
 [M:I0]Fly
-
 [M:I0]Surf
-
 [M:I0]Strength
-
 [M:I0]Defog
-
 [M:I0]Rock Smash
-
 [M:I0]Waterfall
-
 [M:I0]Rock Climb
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:I1]Hail Orb
-
 [M:I1]Sunny Orb
-
 [M:I1]Rainy Orb
-
 [M:I1]Evasion Orb
-
 [M:I1]Sandy Orb
-
 [M:I1]Rocky Orb
-
 [M:I1]Snatch Orb
-
 [M:I1]See-Trap Orb
-
 [M:I1]Mug Orb
-
 [M:I1]Rebound Orb
-
 [M:I1]Lob Orb
-
 [M:I1]Switcher Orb
-
 [M:I1]Blowback Orb
-
 [M:I1]Warp Orb
-
 [M:I1]Transfer Orb
-
 [M:I1]Slow Orb
-
 [M:I1]Quick Orb
-
 [M:I1]Luminous Orb
-
 [M:I1]Petrify Orb
-
 [M:I1]Stayaway Orb
-
 [M:I1]Pounce Orb
-
 [M:I1]Trawl Orb
-
 [M:I1]Cleanse Orb
-
 [M:D1]$$$
-
 [M:I1]Decoy Orb
-
 [M:I1]Slumber Orb
-
 [M:I1]Totter Orb
-
 [M:I1]Two-Edge Orb
-
 [M:I1]Silence Orb
-
 [M:I1]Escape Orb
-
 [M:I1]Scanner Orb
-
 [M:I1]Radar Orb
-
 [M:I1]Drought Orb
-
 [M:I1]Trapbust Orb
-
 [M:I1]Rollcall Orb
-
 [M:I1]Invisify Orb
-
 [M:I1]One-Shot Orb
-
 [M:I1]Identify Orb
-
 [M:D1]$$$
-
 [M:I1]Shocker Orb
-
 [M:I1]Sizebust Orb
-
 [M:I1]One-Room Orb
-
 [M:I1]Fill-In Orb
-
 [M:I1]Trapper Orb
-
 [M:D1]$$$
-
 [M:I1]Itemizer Orb
-
 [M:I1]Hurl Orb
-
 [M:I1]Mobile Orb
-
 [M:D1]$$$
-
 [M:I1]Stairs Orb
-
 [M:I1]Longtoss Orb
-
 [M:I1]Pierce Orb
-
 [M:D1]$$$
-
 [M:I1]Spurn Orb
-
 [M:I1]Foe-Hold Orb
-
 [M:I1]All-Mach Orb
-
 [M:I1]Foe-Fear Orb
-
 [M:I1]All-Hit Orb
-
 [M:I1]Foe-Seal Orb
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 Link Box
-
 [M:D1]$$$
-
 Gorgeous Box
-
 Gorgeous Box
-
 Gorgeous Box
-
 Heavy Box
-
 Heavy Box
-
 Heavy Box
-
 Shiny Box
-
 Shiny Box
-
 Shiny Box
-
 Nifty Box
-
 Nifty Box
-
 Nifty Box
-
 Dainty Box
-
 Dainty Box
-
 Dainty Box
-
 Glittery Box
-
 Glittery Box
-
 Glittery Box
-
 Pretty Box
-
 Pretty Box
-
 Pretty Box
-
 Deluxe Box
-
 Deluxe Box
-
 Deluxe Box
-
 Light Box
-
 Light Box
-
 Light Box
-
 Cute Box
-
 Cute Box
-
 Cute Box
-
 Hard Box
-
 Hard Box
-
 Hard Box
-
 Sinister Box
-
 Sinister Box
-
 Sinister Box
-
 [FT:1]A[FT:0]-Stone
-
 [FT:1]B[FT:0]-Stone
-
 [FT:1]C[FT:0]-Stone
-
 [FT:1]D[FT:0]-Stone
-
 [FT:1]E[FT:0]-Stone
-
 [FT:1]F[FT:0]-Stone
-
 [FT:1]G[FT:0]-Stone
-
 [FT:1]H[FT:0]-Stone
-
 [FT:1]I[FT:0]-Stone
-
 [FT:1]J[FT:0]-Stone
-
 [FT:1]K[FT:0]-Stone
-
 [FT:1]L[FT:0]-Stone
-
 [FT:1]M[FT:0]-Stone
-
 [FT:1]N[FT:0]-Stone
-
 [FT:1]O[FT:0]-Stone
-
 [FT:1]P[FT:0]-Stone
-
 [FT:1]Q[FT:0]-Stone
-
 [FT:1]R[FT:0]-Stone
-
 [FT:1]S[FT:0]-Stone
-
 [FT:1]T[FT:0]-Stone
-
 [FT:1]U[FT:0]-Stone
-
 [FT:1]V[FT:0]-Stone
-
 [FT:1]W[FT:0]-Stone
-
 [FT:1]X[FT:0]-Stone
-
 [FT:1]Y[FT:0]-Stone
-
 [FT:1]Z[FT:0]-Stone
-
 [FT:1]![FT:0]-Stone
-
 [FT:1]?[FT:0]-Stone
-
 Silver Bow
-
 Brown Bow
-
 Red Bow
-
 Pink Bow
-
 Orange Bow
-
 Yellow Bow
-
 Lime Bow
-
 Green Bow
-
 Viridian Bow
-
 Minty Bow
-
 Sky Blue Bow
-
 Blue Bow
-
 Cobalt Bow
-
 Purple Bow
-
 Violet Bow
-
 Fuchsia Bow
-
 Prism Ruff
-
 Aqua Collar
-
 Volt Collar
-
 Fire Collar
-
 Light Collar
-
 Dusk Collar
-
 Virid Collar
-
 Icy Collar
-
 Pep Sash
-
 Counter Ruff
-
 Victory Belt
-
 Power Bangle
-
 Thundershard
-
 Fallen Star
-
 Fluff Dust
-
 Egg Shard
-
 Heroic Medal
-
 Chic Shard
-
 Yellow Jewel
-
 Red Jewel
-
 Blue Jewel
-
 Laugh Dust
-
 Guard Sand
-
 Purple Jewel
-
 White Jewel
-
 Brave Dust
-
 Heal Dew
-
 Marine Cache
-
 Freeze Veil
-
 Thunder Veil
-
 Fire Veil
-
 Havoc Robe
-
 Life Ring
-
 Bolt Fang
-
 Flare Fang
-
 Aqua Mantle
-
 Silver Veil
-
 Rainbow Veil
-
 Chrono Veil
-
 Rock Sash
-
 Ice Sash
-
 Steel Sash
-
 Heart Brooch
-
 Eon Veil
-
 Seabed Veil
-
 Terra Ring
-
 SkyHigh Veil
-
 Wish Mantle
-
 Revive Robe
-
 Shadow Veil
-
 Plasma Veil
-
 Edify Robe
-
 Charity Robe
-
 Hope Robe
-
 Time Shield
-
 Air Blade
-
 Searing Ring
-
 Ancient Ring
-
 Nether Veil
-
 Lunar Veil
-
 Tidal Cape
-
 Eclipse Robe
-
 White Silk
-
 Normal Dust
-
 White Gem
-
 Joy Globe
-
 Red Silk
-
 Fire Dust
-
 Fiery Gem
-
 Fiery Globe
-
 Blue Silk
-
 Water Dust
-
 Aqua Gem
-
 Aqua Globe
-
 Grass Silk
-
 Grass Dust
-
 Grass Gem
-
 Soothe Globe
-
 Yellow Silk
-
 Thunder Dust
-
 Thunder Gem
-
 Volt Globe
-
 Clear Silk
-
 Icy Dust
-
 Icy Gem
-
 Icy Globe
-
 Orange Silk
-
 Courage Dust
-
 Fight Gem
-
 Power Globe
-
 Pink Silk
-
 Poison Dust
-
 Poison Gem
-
 Poison Globe
-
 Brown Silk
-
 Ground Dust
-
 Earth Gem
-
 Terra Globe
-
 Sky Silk
-
 Sky Dust
-
 Sky Gem
-
 Sky Globe
-
 Gold Silk
-
 Psyche Dust
-
 Psyche Gem
-
 Psyche Globe
-
 Green Silk
-
 Wonder Dust
-
 Guard Gem
-
 Defend Globe
-
 Gray Silk
-
 Rock Dust
-
 Stone Gem
-
 Rock Globe
-
 Purple Silk
-
 Shady Dust
-
 Shadow Gem
-
 Nether Globe
-
 Royal Silk
-
 Dragon Dust
-
 Dragon Gem
-
 Dragon Globe
-
 Black Silk
-
 Dark Dust
-
 Dark Gem
-
 Dusk Globe
-
 Iron Silk
-
 Steel Dust
-
 Metal Gem
-
 Steel Globe
-
 Bulba-Claw
-
 Bulba-Fang
-
 Grass-Guard
-
 Leafy Tie
-
 Ivy-Claw
-
 Ivy-Fang
-
 Ivy-Crest
-
 Plant Torc
-
 Venus-Claw
-
 Venus-Fang
-
 Venus-Seal
-
 Solar Sash
-
 Char-Claw
-
 Char-Fang
-
 Fiery Heart
-
 Heat Armlet
-
 Charme-Claw
-
 Charme-Fang
-
 Charme-Crest
-
 Kindle Scarf
-
 Chariz-Claw
-
 Chariz-Fang
-
 Chariz-Seal
-
 Flame Bangle
-
 Squirt-Foam
-
 Squirt-Card
-
 Water-Guard
-
 Aqua Tie
-
 Wartor-Claw
-
 Wartor-Fang
-
 Wartor-Crest
-
 BubbleBangle
-
 Blasto-Claw
-
 Blasto-Card
-
 Blasto-Seal
-
 Hydro Band
-
 Pichu Hair
-
 Pichu Card
-
 Express Tag
-
 Shocker Cape
-
 Pikachu Hair
-
 Pikachu Card
-
 Volt Charm
-
 Volt Torc
-
 Raichu Hair
-
 Raichu Card
-
 Raichu Crest
-
 Zapper Scarf
-
 Meowth Claw
-
 Meowth Fang
-
 Coin Charm
-
 Bling Ruff
-
 Persian Claw
-
 Persian Fang
-
 Insight Rock
-
 Noble Scarf
-
 Chiko-Claw
-
 Chiko-Card
-
 Dawn Jewel
-
 Fresh Bow
-
 Bayleef Claw
-
 Bayleef Card
-
 Bayleef Seal
-
 Spice Bow
-
 Megani-Claw
-
 Megani-Card
-
 Shiny Charm
-
 Bright Veil
-
 Cynda-Hair
-
 Cynda-Claw
-
 Blazing Rock
-
 Storm Sash
-
 Quila-Hair
-
 Quila-Card
-
 Quila-Crest
-
 Volcano Torc
-
 Typhlo-Gasp
-
 Typhlo-Fang
-
 Typhlo-Seal
-
 Blast Bangle
-
 Totodi-Dew
-
 Totodi-Fang
-
 Water Heart
-
 Wash Bow
-
 Croco-Fang
-
 Croco-Card
-
 Swirl Rock
-
 Anger Scarf
-
 Feral-Claw
-
 Feral-Fang
-
 Feral-Crest
-
 Hydro Jaw
-
 Treeck-Thorn
-
 Treeck-Card
-
 Forest Ore
-
 Guard Ring
-
 Grovy-Shoot
-
 Grovy-Card
-
 Jungle-Tag
-
 Grass Blade
-
 Scept-Claw
-
 Scept-Card
-
 Scept-Seal
-
 Drain Bangle
-
 Torchic Hair
-
 Torchic Card
-
 Hot Pebble
-
 Fire Cape
-
 Combus-Sweat
-
 Combus-Claw
-
 Charge Tag
-
 Gutsy Band
-
 Blazi-Claw
-
 Blazi-Card
-
 Blazi-Seal
-
 Blaze Torc
-
 Mudkip Mud
-
 Mudkip Card
-
 Mud Jewel
-
 Speed Scarf
-
 Marsh-Mud
-
 Marsh-Card
-
 Marsh-Crest
-
 Marsh Torc
-
 Swamp-Mud
-
 Swamp-Card
-
 Swamp-Seal
-
 Swamp Bangle
-
 Skitty Fang
-
 Skitty Card
-
 Smile Pebble
-
 Heal Pendant
-
 Delcat-Hair
-
 Delcat-Fang
-
 Prim Pebble
-
 Guard Collar
-
 Lucky Leaf
-
 Turtwig Card
-
 Sprout Rock
-
 Leafy Hat
-
 Grotle Twig
-
 Grotle Claw
-
 Grotle Crest
-
 Woody Scarf
-
 Tort-Claw
-
 Tort-Horn
-
 Tort-Seal
-
 Forest Torc
-
 Chim-Hair
-
 Chim-Fang
-
 Nimble Charm
-
 Ember Cap
-
 Monfer-Hair
-
 Monfer-Fang
-
 Monfer-Crest
-
 Burst Sash
-
 Infern-Hair
-
 Infern-Fang
-
 Infern-Seal
-
 Blazing Ruff
-
 Piplup Foam
-
 Piplup Card
-
 Sea Ore
-
 Water Cape
-
 Prin-Foam
-
 Prin-Card
-
 Prin-Crest
-
 Aqua Blade
-
 Empol-Claw
-
 Empol-Horn
-
 Empol-Seal
-
 Marine Crown
-
 Munch-Drool
-
 Munch-Claw
-
 Tummy Charm
-
 Glutton Cape
-
 Snorlax Gasp
-
 Snorlax Fang
-
 Valor Charm
-
 Glee Scarf
-
 Scyther Fang
-
 Scyther Card
-
 Ambush Rock
-
 Strike Ruff
-
 Scizor Wing
-
 Scizor Card
-
 Steel Charm
-
 Red Armlet
-
 Lapras Song
-
 Lapras Card
-
 Wavy Charm
-
 Mystic Scarf
-
 Eevee Tail
-
 Eevee Card
-
 Evolve Charm
-
 [M:D1]Eevee
-
 Cleffa Dew
-
 Cleffa Card
-
 Starry Ore
-
 Comet Ring
-
 Clef-Claw
-
 Clef-Fang
-
 Moon Jewel
-
 Moon Scarf
-
 Clefa-Claw
-
 Clefa-Card
-
 Moon Rock
-
 Fairy Bow
-
 Iggly-Dew
-
 Iggly-Card
-
 Bouncy Charm
-
 Pretty Bow
-
 Jiggly-Song
-
 Jiggly-Card
-
 Slumber Rock
-
 Snooze Ring
-
 Wiggly-Hair
-
 Wiggly-Card
-
 Buddy Rock
-
 Friend Torc
-
 Togepi Dew
-
 Togepi Card
-
 Pure Heart
-
 Angel Scarf
-
 Togetic Wing
-
 Togetic Card
-
 Happy Rock
-
 Luck Brooch
-
 Togek-Wing
-
 Togek-Card
-
 Ovation Rock
-
 Glitter Robe
-
 Sneasel Claw
-
 Sneasel Card
-
 Dusk Jewel
-
 Cruel Ring
-
 Weavile Claw
-
 Weavile Fang
-
 Vile Tag
-
 Ruin Armlet
-
 Teddi-Claw
-
 Teddi-Card
-
 Honey Rock
-
 Heal Scarf
-
 Ursa-Claw
-
 Ursa-Fang
-
 Calming Rock
-
 Hiber Scarf
-
 Tyro-Sweat
-
 Tyro-Card
-
 Muscle Charm
-
 [M:D1]Tyrogue
-
 Smooch-Song
-
 Smooch-Card
-
 Kiss Charm
-
 Heart Tiara
-
 Jynx Song
-
 Jynx Card
-
 Frozen Ore
-
 Ruin Scarf
-
 Elekid Claw
-
 Elekid Card
-
 Jolt Charm
-
 Current Ring
-
 Electa-Claw
-
 Electa-Fang
-
 Charge Seal
-
 Volt Bangle
-
 Electi-Claw
-
 Electi-Card
-
 Voltaic Rock
-
 Voltaic Band
-
 Magby Claw
-
 Magby Card
-
 Ember Jewel
-
 Coal Ring
-
 Magmar Claw
-
 Magmar Card
-
 Erupt Ore
-
 Magma Scarf
-
 Magmor-Claw
-
 Magmor-Card
-
 Vulcan Rock
-
 Burning Torc
-
 Azuri-Dew
-
 Azuri-Card
-
 Fount Charm
-
 Water Float
-
 Marill Dew
-
 Marill Card
-
 Surfer Rock
-
 Brine Scarf
-
 Azuma-Dew
-
 Azuma-Card
-
 Stream Charm
-
 Dotted Scarf
-
 Plusle Tail
-
 Plusle Card
-
 Cheer Rock
-
 Pulse Bow
-
 Minun Tail
-
 Minun Card
-
 Volt Heart
-
 Spark Tie
-
 Cast-Dew
-
 Cast-Card
-
 Cloud Rock
-
 Weather Cape
-
 Wynaut Tail
-
 Wynaut Card
-
 Grin Charm
-
 Cheery Scarf
-
 Wobbu-Sweat
-
 Wobbu-Card
-
 Endure Rock
-
 Suffer Scarf
-
 Bidoof Tooth
-
 Bidoof Card
-
 Fall Charm
-
 Stolid Scarf
-
 Biba-Tooth
-
 Biba-Card
-
 River Charm
-
 Dam Scarf
-
 Shinx Claw
-
 Shinx Fang
-
 Flash Tag
-
 Energy Scarf
-
 Luxio Claw
-
 Luxio Fang
-
 Spark Tag
-
 Spark Scarf
-
 Luxray Claw
-
 Luxray Fang
-
 Glare Tag
-
 Glare Sash
-
 Pachi-Tooth
-
 Pachi-Card
-
 Rouse Charm
-
 Miracle Bow
-
 Buizel Fang
-
 Buizel Card
-
 Swimmer Rock
-
 Screw Torc
-
 Float-Fang
-
 Float-Card
-
 Rescue Rock
-
 Float Aid
-
 Drifloo-Gasp
-
 Drifloo-Card
-
 Wind Heart
-
 Draft Ring
-
 Drifbli-Gasp
-
 Drifbli-Card
-
 Easy Charm
-
 Breeze Scarf
-
 Cherubi Seed
-
 Cherubi Card
-
 Cute Ore
-
 Charm Bow
-
 Cherrim Dew
-
 Cherrim Card
-
 Sweet Aroma
-
 Petal Dress
-
 Bonsly Dew
-
 Bonsly Card
-
 Arid Tag
-
 Teary Cape
-
 Sudo-Sweat
-
 Sudo-Card
-
 Drain Rock
-
 Fake Torc
-
 Junior Beam
-
 Junior Card
-
 Mimic Pebble
-
 Copy Mask
-
 Mime Key
-
 Mime Card
-
 Bulwark Rock
-
 Barrier Bow
-
 Happiny Dew
-
 Happiny Card
-
 Play Tag
-
 Nurture Cape
-
 Chansey Song
-
 Chansey Card
-
 Lucky Charm
-
 Lucky Scarf
-
 Blissey Song
-
 Blissey Card
-
 Amity Rock
-
 Faith Ring
-
 Gible Fang
-
 Gible Card
-
 Dragon Jewel
-
 Dragon Tie
-
 Gabite Claw
-
 Gabite Fang
-
 Star Rock
-
 Meteor Torc
-
 Gar-Claw
-
 Gar-Fang
-
 Speed Tag
-
 Mach Scarf
-
 Riolu Tail
-
 Riolu Card
-
 Valiant Rock
-
 Emit Ring
-
 Lucario Fang
-
 Lucario Card
-
 Pledge Rock
-
 Ravage Ring
-
 Mantyke Beam
-
 Mantyke Card
-
 Waft Rock
-
 Ocean Bow
-
 Mantine Foam
-
 Mantine Card
-
 Sunset Rock
-
 Horizon Bow
-
 Phione Song
-
 Phione Card
-
 Wave Jewel
-
 Ripple Cape
-
 Vulpix Tail
-
 Vulpix Card
-
 Vulpix Tag
-
 Glowing Bow
-
 Nine-Hair
-
 Nine-Card
-
 Nine-Seal
-
 Afire Collar
-
 Phanpy Claw
-
 Phanpy Card
-
 Phanpy Tag
-
 Value Ruff
-
 Donphan Fang
-
 Donphan Card
-
 Don-Crest
-
 Armor Scarf
-
 Cater-Belt
-
 Defense Bow
-
 Glittery Bow
-
 Weedle Bow
-
 Kakuna Scarf
-
 Charge Scarf
-
 Pidgey Bow
-
 Pidgeo-Scarf
-
 Pidgeot Torc
-
 Ratta-Scarf
-
 Overcome Bow
-
 Quirky Bow
-
 Wing Scarf
-
 Leash Bow
-
 Shock Ruff
-
 Sand-Scarf
-
 Sandy Torc
-
 Pointy Scarf
-
 Return Scarf
-
 Impact Torc
-
 Halve Scarf
-
 Thorny Scarf
-
 King Sash
-
 Dodge Bow
-
 Absorb Scarf
-
 Odd Bow
-
 Guard Hat
-
 Aroma Scarf
-
 Moving Scarf
-
 Firm Hat
-
 Gaze Goggles
-
 Venomoth Bow
-
 Diglett Hat
-
 Dugtrio Bow
-
 Psyduck Hat
-
 Paddle Scarf
-
 Mankey Torc
-
 Nullify Belt
-
 Growl-Scarf
-
 Legend Bow
-
 Damp Bow
-
 Poli-Bow
-
 Bold Belt
-
 Predict Torc
-
 Psychic Torc
-
 Sparkle Ruff
-
 Impish Band
-
 Strong Belt
-
 Machamp Belt
-
 Bell-Bow
-
 Digest Scarf
-
 Victree-Torc
-
 Tangle Bow
-
 Tenta-Cape
-
 Geodude Torc
-
 Rocky Torc
-
 Rugged Sash
-
 Heated Bow
-
 Sunlight Bow
-
 Slowpoke Hat
-
 Slow-Scarf
-
 Magne-Torc
-
 Magneton Bow
-
 Bullseye Bow
-
 Buddy Torc
-
 Fight Torc
-
 Gentle Bow
-
 North Torc
-
 Grimy Scarf
-
 Slimy Bow
-
 Shell-Torc
-
 Cover Armor
-
 Gastly Veil
-
 Slip Scarf
-
 Sunglasses
-
 Trust Brooch
-
 Drowzee Tie
-
 Dream Coin
-
 Krabby Bow
-
 Super Sash
-
 Ball Scarf
-
 Electro-Bow
-
 Repel Scarf
-
 Exeggu-Sash
-
 Cubone Scarf
-
 Marowak Torc
-
 Licky Scarf
-
 Koffing Bow
-
 Weez-Scarf
-
 Solid Shield
-
 Pierce Drill
-
 Sticky Bow
-
 Kang-Apron
-
 Horsea Bow
-
 Swirl Scarf
-
 Goldeen Bow
-
 Seaking Bow
-
 Recover Torc
-
 Starmie Belt
-
 Pinsir Sash
-
 Rushing Bow
-
 Magikarp Bow
-
 Tempest Sash
-
 Ditto Torc
-
 AI Brooch
-
 Spike Brooch
-
 Aged Scarf
-
 Kabuto Hat
-
 Kabu-Torc
-
 Old Brooch
-
 Dragon Sash
-
 Aloft Mantle
-
 Mirage Cape
-
 Sentret Ruff
-
 Body Collar
-
 Expose Specs
-
 Noctowl Torc
-
 Morning Bow
-
 Ledian Bow
-
 Spina-Scarf
-
 Ariados Bow
-
 Slash Bow
-
 Shine Torc
-
 Lanturn Bow
-
 Lively Scarf
-
 Xatu Bow
-
 Wool Bow
-
 Fluffy Scarf
-
 Sacred Scarf
-
 Bright Tiara
-
 Rain Crown
-
 Zephyr Bow
-
 Skip-Scarf
-
 Cotton Torc
-
 Revenge Ruff
-
 Hasty Bow
-
 Sun Scarf
-
 Chitin Bow
-
 Wooper Bow
-
 Quag-Torc
-
 Murkrow Hat
-
 King Cap
-
 Misdrea-Cape
-
 Cryptic Sash
-
 Reverse Bow
-
 Robust Bow
-
 Dense Poncho
-
 Escape Scarf
-
 Takeoff Ruff
-
 Quartz Torc
-
 Snub-Cape
-
 Stern Sash
-
 Qwilfish Bow
-
 Shuckle Bow
-
 Horn Torc
-
 Lava Bow
-
 Torrid Scarf
-
 Frigid Bow
-
 Frost Torc
-
 Eager Brooch
-
 Reach Bow
-
 Psy Bow
-
 Snow Brooch
-
 Skar-Cape
-
 Dark Choker
-
 Pit Fang
-
 Tornado Bow
-
 Virtual Bow
-
 Delusion Bow
-
 Paint Scarf
-
 Milky Scarf
-
 Larvitar Bow
-
 Pupita-Scarf
-
 Crash Claw
-
 Pooch-Collar
-
 Dark Fang
-
 Merry Scarf
-
 Linoone Ruff
-
 Wurmple Bow
-
 Tough Scarf
-
 Vivid Silk
-
 Guard Bow
-
 Dustox Bow
-
 Kelp Hat
-
 Jolly Scarf
-
 Ludicolo Hat
-
 Seedot Hat
-
 Nuzleaf Bow
-
 Shiftry Belt
-
 Taillow Bow
-
 Midair Scarf
-
 Wingull Bow
-
 Stock Scarf
-
 Sensing Hat
-
 Magical Bow
-
 Caring Scarf
-
 Bliss Scarf
-
 Blocking Bow
-
 Mobile Bow
-
 Thwart Bow
-
 Slak-Scarf
-
 Vigor Sash
-
 Lazy Ruff
-
 Novice Scarf
-
 Ninja Ruff
-
 Awe Mantle
-
 Good Earring
-
 Nice Bangle
-
 Great Torc
-
 Makuhit-Belt
-
 Thrust Belt
-
 Nose-Torc
-
 Sable-Scope
-
 Deceit Mask
-
 Iron Torc
-
 Metal Bangle
-
 Iron Helmet
-
 Intuit Bow
-
 Ponder Sash
-
 Punish Torc
-
 Protect Mask
-
 Neon Scarf
-
 Evening Bow
-
 Thorned Torc
-
 Gulpin Bow
-
 Swalot Belt
-
 Carva-Sash
-
 Vicious Bow
-
 Spout Scarf
-
 Huge Bow
-
 Numel Bow
-
 Erupt Scarf
-
 Sooty Sash
-
 Spring Bow
-
 Scheme Scarf
-
 Hula Bow
-
 Desert Bow
-
 Vibra Scarf
-
 Red Glasses
-
 Desert Sash
-
 Cacturne Hat
-
 Tuft Bow
-
 Cloud Ruff
-
 Strong Sash
-
 Seviper Bow
-
 Lunaton-Torc
-
 Solrock Bow
-
 Soak Scarf
-
 Whiscash Bow
-
 Bossy Scarf
-
 Cower Sash
-
 Bal-Brooch
-
 Claydol Torc
-
 Bind Scarf
-
 Cradily Bow
-
 Guard Claw
-
 Rigid Cape
-
 Admire Scarf
-
 Grace Scarf
-
 Kecleon Torc
-
 Shuppet Cape
-
 Ominous Torc
-
 Duskull Ruff
-
 Illusion Bow
-
 Tropius Bow
-
 Chime-Scarf
-
 Perish Torc
-
 Chilly Hat
-
 Hail Scarf
-
 Sleet Bow
-
 Safe Scarf
-
 Walrein Torc
-
 Clam-Brooch
-
 Deep Torc
-
 Gore-Scarf
-
 Reli-Torc
-
 Luvdisc Torc
-
 Crag Helmet
-
 Outlast Bow
-
 Sala-Cape
-
 Beldum Torc
-
 Metang Scarf
-
 Meta-Torc
-
 Starly Bow
-
 Regret Torc
-
 Guts Sash
-
 Still Bow
-
 Kricke-Torc
-
 Budew Scarf
-
 Bouquet Cape
-
 Hard Helmet
-
 Skull Helmet
-
 Rebound Bow
-
 Block Brooch
-
 Straw Cape
-
 Worma-Bow
-
 Mothim Bow
-
 Nectar Bow
-
 Vespi-Torc
-
 Awake Bow
-
 Gastro-Torc
-
 Ambipom Bow
-
 Defrost Ruff
-
 Allure Coat
-
 Magic Hat
-
 Honch-Cape
-
 Glameow Bow
-
 Scary Belt
-
 Ching-Torc
-
 Stinky Scarf
-
 Stench Sash
-
 Image Brooch
-
 Mirror Torc
-
 Chatot Scarf
-
 Thick Scarf
-
 Grit Veil
-
 Skorupi Bow
-
 Dust Scarf
-
 Croa-Torc
-
 Toxi-Belt
-
 Carni-Bow
-
 Swim Bow
-
 Lumi-Torc
-
 Snowy Torc
-
 Frozen Cape
-
 Builder Sash
-
 Flabby Belt
-
 Rhyperi-Torc
-
 Clinging Bow
-
 Yanmega Bow
-
 Gliscor Cape
-
 Glacier Cape
-
 Best Scarf
-
 Gallant Torc
-
 Probo-Hat
-
 Unlucky Sash
-
 Froslass Bow
-
 Purify Veil
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
-
 [M:D1]$$$
 -
 Nothing
@@ -42173,33 +40774,59 @@ Basic Information:[CLUM_SET:100][M:B20]"
 
 
 Basic Information:[CLUM_SET:100][M:B20]"
-
+--
 [M:D1]No information available.
-
++++
+[M:D1]Нет информации.
+---
 "A weapon to be hurled. When hurled, it
 flies in a straight line to inflict damage
 on any PokГ©mon it hits."
-
++++
+Метательное оружие. При броске, оно
+летит по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A weapon to be hurled. When hurled, it
 flies in a straight line to inflict damage
 on any PokГ©mon it hits."
-
++++
+Метательное оружие. При броске, оно
+летит по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A weapon to be hurled. When hurled, it
 flies in a straight line to inflict damage
 on any PokГ©mon it hits."
-
++++
+Метательное оружие. При броске, оно
+летит по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A weapon to be hurled. When hurled, it
 flies in a straight line to inflict damage
 on any PokГ©mon it hits."
-
++++
+Метательное оружие. При броске, оно
+летит по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A weapon to be hurled. When hurled, it
 flies in a straight line to inflict damage
 on any PokГ©mon it hits."
-
++++
+Метательное оружие. При броске, оно
+летит по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A weapon to be hurled. When hurled, it
 flies in a straight line to inflict damage
 on any PokГ©mon it hits."
-
++++
+Метательное оружие. При броске, оно
+летит по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A weapon to be thrown. When thrown,
 it flies high in an arc to clear
 obstacles and strike the target.
@@ -42209,24 +40836,52 @@ or [LS:13706]Long Toss[LE] statuses.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Метательное оружие. При броске, оно
+высоко летит по дуговой траектории
+сквозь препятствия и наносит урон
+цели. Не подвержено влиянию
+статус-эффектов [LS:13708]Пробивание[LE] или
+[LS:13706]Дальнобойность[LE].
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A weapon to be thrown. When thrown,
 it flies high in an arc to clear
 obstacles and strike the target.
-It is not affected by [LS:13708]Pierce[LE] or
-[LS:13706]Long Toss[LE] statuses.
+It is not affected by [LS:13708]Pierce[LE]
+or [LS:13706]Long Toss[LE] statuses.
 
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Метательное оружие. При броске, оно
+высоко летит по дуговой траектории
+сквозь препятствия и наносит урон
+цели. Не подвержено влиянию
+статус-эффектов [LS:13708]Пробивание[LE] или
+[LS:13706]Дальнобойность[LE].
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A brilliantly shining thorn crafted from
 solid gold. It is a fantastically precious
 item that gives its owner serious
 bragging rights. When hurled, it flies in
 a straight line to inflict damage on any
 PokГ©mon it hits."
-
++++
+Великолепно сверкающий шип из
+чистого золота. Это невероятно
+ценный предмет, позволяющий своему
+владельцу покрасоваться перед
+окружающими. При броске, шип летит
+по прямой, нанося урон любому
+Покемону, в которого попадёт.
+---
 "A wondrous fossil that seems to
 brim with prehistoric energy. It
 is also a throwing weapon. When
@@ -42236,11 +40891,21 @@ target. It is not affected by [LS:13708]Pierce[LE]
 or [LS:13706]Long Toss[LE] statuses.
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Чудесная окаменелость, наполненная
+досторической энергией. Также
+является метательным оружием. При
+броске, оно летит по дуге сквозь
+препятствия, нанося урон по цели.
+Не подвержено влиянию [LS:13708]Пробивания[LE]
+или [LS:13706]Дальнобойности[LE].
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 [M:D1]$$$
 
 [M:D1]$$$
-
+---
 "While you are holding this, occasionally
 items in your Treasure Bag will become
 sticky. It looks a lot like the
@@ -42250,7 +40915,17 @@ to confuse them!
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+При удерживании этого предмета,
+вещи в вашей Сумке с Ценностями
+иногда будут становиться липкими.
+Очень напоминает [LS:10726]Не-Липучую Шапку[LE],
+поэтому не перепутайте их!
 
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "When the leader is holding this, items
 and enemies will not appear on the map.
 If anyone else holds this, they will be
@@ -42259,7 +40934,17 @@ looks a lot like the [LS:10729]X-Ray Specs[LE], so be
 careful not to confuse them!
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Если этот предмет держит лидер, то
+предметы и враги не будут показаны
+на карте. Если предмет держит
+кто-то другой, он получит статус
+эффект "[LS:13724]Ослепление[LE]".  Напоминает
+[LS:10729]Рентген-Очки[LE], поэтому не спутайте
+их с ними!
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that makes the PokГ©mon
 stand out, making it easier to be hit by
 enemies. It looks a lot like the
@@ -42269,19 +40954,43 @@ confuse them!
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет, который выделяет Покемона
+из толпы, заставляя врагов проще
+попадать по тому, кто держит этот
+предмет. Очень напоминает вещь
+[LS:10738]Защитные Очки[LE], поэтому не спутайте
+их с ними!
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that enables the PokГ©mon to
 move and attack through walls and
 move across inhospitable terrain, such
 as magma. Beware: the PokГ©mon's [CS:E]Belly[CR]
 will go down faster while traveling
 through walls."
-
++++
+Предмет для ношения, позволяющий
+Покемону ходить и атаковать сквозь
+стены и перемещаться по таким
+поверхностям, как магма. Внимание:
+при прохождении сквозь стены,
+[CS:E]Сытость[CR] Покемона будет снижаться
+быстрее.
+---
 "A held item that speeds up the
 PokГ©mon's natural [CS:E]HP[CR] healing. Beware:
 the PokГ©mon's [CS:E]Belly[CR] will go down faster
 when it holds this item."
-
++++
+Предмет для ношения, ускоряющий
+регенерацию [CS:E]ОЗ[CR] Покемона. Внимание:
+при ношении этого предмета,
+[CS:E]Сытость[CR] Покемона будет снижаться
+быстрее.
+---
 "A held item that prevents the PokГ©mon's
 [CS:E]Attack[CR] and [CS:E]Special Attack[CR] from being
 reduced. However, it does not protect
@@ -42291,30 +41000,67 @@ holder's moves, such as [LS:10187]Overheat[LE].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, оберегающий
+Покемона от снижения [CS:E]Атаки[CR] и
+[CS:E]Специальной Атаки[CR]. Однако, вещь
+не защищает от снижений атрибутов
+при применении собственных приёмов
+по типу [LS:10187]Перегрева[LE].
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that boosts the PokГ©mon's
 critical-hit rate for moves and attacks."
-
++++
+Предмет для ношения, увеличивающий
+шанс критического удара атакам и
+приёмам.
+---
 "A held item that increases the
 PokГ©mon's chances of taking critical
 hits from enemy moves and attacks."
-
++++
+Предмет для ношения, увеличивающий
+шанс на получение критического
+удара от вражеских атак и приёмов.
+---
 "A held item that prevents the PokГ©mon's
 items from getting sticky and gunked up
 by a trap."
-
++++
+Предмет для ношения, оберегающий
+предметы Покемона от слипания
+и потере их в ловушке.
+---
 "A held item that makes the PokГ©mon's
 thrown items pierce through all targets,
 walls, and obstacles without stopping.
 It has no effect on thrown rocks."
-
++++
+Предмет для ношения, который
+заставляет метательное оружие
+пробивать все цели, стены и
+препятствия без остановки. Не
+влияет на бросаемые камни.
+---
 "A held item that earns the PokГ©mon
 Exp. Points when taking damage."
-
++++
+Предмет для ношения, который
+даёт Покемону Очки Опыта при
+получении урона.
+---
 "A team-leader held item that enables the
 leader to see the locations of all items
 and enemies on the floor."
-
++++
+Предмет для ношения лидером группы,
+который позволяет ему видеть
+местонахождение всех предметов и
+врагов на этаже.
+---
 "A held item that prevents the PokГ©mon
 from getting a [LS:13598]Confused[LE] status.
 
@@ -42324,10 +41070,23 @@ from getting a [LS:13598]Confused[LE] status.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, оберегающий
+Покемона от получения статус
+эффекта [LS:13598]Замешательство[LE].
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that boosts the PokГ©mon's
 [CS:E]Attack[CR]."
-
++++
+Предмет для ношения, усиливающий
+[CS:E]Атаку[CR] Покемона.
+---
 "A held item that prevents a [LS:13572]Poisoned[LE]
 status or a [LS:13574]Badly Poisoned[LE] status from
 being inflicted on the PokГ©mon.
@@ -42337,7 +41096,17 @@ being inflicted on the PokГ©mon.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, оберегающий
+Покемона от получения статус
+эффектов [LS:13572]Отравления[LE] или 
+[LS:13574]Тяжёлого Отравления[LE].
 
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that prevents a
 [LS:13558]Sleep[LE] status condition, a
 [LS:13562]Nightmare[LE] status, a [LS:13566]Napping[LE]
@@ -42347,10 +41116,24 @@ PokГ©mon.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, оберегающий
+от статус-эффектов [LS:13558]Сна[LE], [LS:13562]Кошмаров[LE],
+[LS:13566]Отдыха[LE] и [LS:13564]Зевания[LE].
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that occasionally warps the
 PokГ©mon to another place on the floor."
-
++++
+Предмет для ношения, который
+случайным образом телепортирует
+Покемона в другое место на этаже.
+---
 "A held item that prevents the PokГ©mon's
 [CS:E]Belly[CR] from going down each turn.
 If the holder travels through a wall or
@@ -42360,16 +41143,34 @@ will still go down.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, который
+блокирует снижение [CS:E]Сытости[CR]. Если
+носитель будет проходить сквозь
+стены или применять [LS:13762]связанные[LE]
+приёмы, [CS:E]Сытость[CR] Покемона всё еще
+будет снижаться.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that prevents the PokГ©mon
 from awakening sleeping enemies. It
 works only on enemies that are asleep
 from the start."
-
++++
+Предмет для ношения, не дающий
+пробуждать спящих врагов. Работает
+только на тех врагах, которые
+спали в момент входа на этаж.
+---
 "An item that has no effect even if held
 by a PokГ©mon. It can be sold for a good
 price."
-
++++
+Предмет, не имеющий эффектов при
+ношении. Можно дорого продать.
+---
 "A held item that lets the PokГ©mon see
 hidden traps and PokГ©mon with [LS:13712]Invisible[LE]
 status.
@@ -42379,7 +41180,17 @@ status.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, позволяющий
+Покемону видеть скрытые ловушки и
+[LS:13712]Невидимых[LE] Покемонов.
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that changes the PokГ©mon's
 status to [LS:13688]Hungry Pal[LE], which empties its
 [CS:E]Belly[CR] and prevents it from being filled.
@@ -42389,47 +41200,100 @@ will go down faster.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, наделяющий
+Покемона статусом "[LS:13688]Голодающий[LE]",
+который снижает [CS:E]Сытость[CR] и не даёт
+её восполнить. Если этот предмет
+носит лидер группы, его [CS:E]Сытость[CR]
+будет снижаться быстрее.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that prevents traps from
 activating when the PokГ©mon steps on
 them."
-
++++
+Предмет для ношения, не дающий
+ловушкам активироваться, если
+Покемон наступит на них.
+---
 "A held item that helps awaken sleeping
 PokГ©mon enemies. It only works on
 PokГ©mon that were asleep from
 the start."
-
++++
+Предмет для ношения, который
+способствует пробуждению врагов.
+Работает только на тех врагах,
+которые спали в момент входа на
+этаж.
+---
 "A held item that boosts the PokГ©mon's
 [CS:E]Defense[CR]."
-
++++
+Предмет для ношения, усиливающий
+[CS:E]Защиту[CR] Покемона.
+---
 "A held item that slows how quickly the
 PokГ©mon's [CS:E]Belly[CR] goes down."
-
++++
+Предмет для ношения, замедляющий
+снижение [CS:E]Сытости[CR].
+---
 "An item that has no effect even if held
 by a PokГ©mon. "
-
++++
+Предмет, не имеющий эффектов при
+ношении.
+---
 "A held item that boosts the PokГ©mon's
 [CS:E]Special Attack[CR]."
-
++++
+Предмет для ношения, усиливающий
+[CS:E]Специальную Атаку[CR] Покемона.
+---
 "A held item that boosts the PokГ©mon's
 [CS:E]Special Defense[CR]."
-
++++
+Предмет для ношения, усиливающий
+[CS:E]Специальную Защиту[CR] Покемона.
+---
 "A held item that boosts the PokГ©mon's
 [CS:E]evasiveness[CR]."
-
++++
+Предмет для ношения, повышающий
+[CS:E]уклонение[CR] Покемона.
+---
 "The ultimate globe, it holds the power
 to pass through space and time itself.
 A held item that boosts the power of
 the PokГ©mon's moves. The effect
 is a significant increase in the
 power of moves used."
-
++++
+Уникальный шар, наделённый силой
+перемещений сквозь само время и
+пространство. Предмет для ношения
+усиливает мощь приёмов Покемонов.
+Эффект значительно усиливает мощь
+применяемых приёмов.
+---
 "A held item that prevents any thrown
 item from hitting the PokГ©mon."
-
++++
+Предмет для ношения, не дающий
+брошенным предметам попадать в
+Покемонов.
+---
 "A held item that makes thrown items
 bounce straight back from the PokГ©mon."
-
++++
+Предмет для ношения, заставляющий
+отскакивать брошенные в Покемона
+предметы.
+---
 "A held item that makes thrown items
 bounce off walls and fly sideways
 along walls. It has no effect if the
@@ -42439,24 +41303,51 @@ throws a rock.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, заставляющий
+брошенные предметы отскакивать от
+стен и разлетаться в стороны вдоль
+стен. Не будет действовать, если
+у Покемона есть статус [LS:13708]Пробивания[LE]
+либо он бросает камень.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A held item that prevents items thrown
 by the PokГ©mon from hitting another
 PokГ©mon."
-
++++
+Предмет для ношения, не дающий
+Покемону попадать предметами в
+других Покемонов.
+---
 "A held item that causes items thrown by
 the PokГ©mon to fly wildly in any
 direction."
-
++++
+Предмет для ношения, заставляющий
+брошенные Покемоном предметы
+лететь в случайном направлении.
+---
 "A held item that boosts the PokГ©mon's
 accuracy when it throws items at
 enemies."
-
++++
+Предмет для ношения, повышающий
+точность Покемона при броске
+предметов во врагов.
+---
 "A held item that slightly boosts the
 PokГ©mon's [CS:E]Attack[CR] and [CS:E]Special Attack[CR] but
 also makes the PokГ©mon's [CS:E]Belly[CR] go down
 faster."
-
++++
+Предмет для ношения, повышающий
+[CS:E]Атаку[CR] и [CS:E]Специальную Атаку[CR], но при
+этом, ускоряющий снижение [CS:E]Сытости[CR]
+Покемона.
+---
 "A held item that causes the PokГ©mon
 to shrug off any effects from moves
 and pass them on to an adjacent
@@ -42464,7 +41355,15 @@ PokГ©mon but also makes the
 PokГ©mon's [CS:E]Belly[CR] go down every time it
 happens. Note: the effects of some
 moves can't be passed."
-
++++
+Предмет для ношения, который
+заставляет Покемона снимать
+любые эффекты приёмов, передавая
+их ближайшим Покемонам, при этом
+снижая [CS:E]Сытость[CR] при срабатывании.
+Внимание: эффекты некоторых
+приёмов нельзя передавать.
+---
 "A held item that shields the PokГ©mon
 from weather, as if it's always in [LS:2646]Clear[LE]
 conditions.
@@ -42474,106 +41373,229 @@ conditions.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Предмет для ношения, который
+защищает Покемона от эффектов
+погоды, словно для него всегда
+действует [LS:2646]Ясная[LE] погода.
 
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A team-leader held item that makes it
 easier for the leader to recruit
 defeated PokГ©mon to the team."
-
++++
+Предмет для ношения лидером группы,
+который увеличивает шансы на
+вербовку побеждённого Покемона в
+команду.
+---
 "A dressy fashion accessory. It allows a
 certain kind of PokГ©mon to evolve."
-
++++
+Модный аксессуар. Требуется для
+эволюции определённого Покемона.
+---
 "A ribbon infused with sunshine. It
 allows a certain kind of PokГ©mon to
 evolve."
-
++++
+Лента, насыщенная солнечным светом.
+Нужна для эволюции определённого
+Покемона.
+---
 "A ribbon infused with moonlight. It
 allows a certain kind of PokГ©mon to
 evolve."
-
++++
+Лента, насыщенная лунным светом.
+Нужна для эволюции определённого
+Покемона.
+---
 "A legendary mask, rumored to be from a
 long-lost civilization. It has a beautiful
 glow that stirs up the emotions of all
 who see it. When held by the team
 leader, it is easier to recruit defeated
 PokГ©mon to the team."
-
++++
+Легендарная маска, по слухам,
+принадлежавшая давно исчезнувшей
+цивилизации. Она красиво сияет,
+вызывая эмоции у всех, кто её
+увидит. Если её носит лидер группы,
+то ему будет проще завербовать
+побежденного Покемона в группу.
+---
 "An amber liquid that sparkles like
 crystal-clear tears, rumored to be the
 most precious of even the rarest
 treasures. When held by the team
 leader, it is easier to recruit defeated
 PokГ©mon to the team."
-
++++
+Янтарная жидкость, сверкающая как
+кристально-чистые слёзы, по слухам,
+является самым ценным из редчайших
+сокровищ. Если её носит лидер
+группы, то ему будет проще
+завербовать побежденного Покемона
+в группу.
+---
 "An unusual flute that plays notes that
 are clear as ice, rumored to steal even
 the iciest of hearts. When held by the
 team leader, it is easier to recruit
 defeated Ice-type PokГ©mon to the team."
-
++++
+Необычная флейта, играющая чистые,
+словно лёд, звуки, по слухам может
+растопить даже самое холодное
+сердце. Если её носит лидер группы,
+то ему будет проще завербовать
+побеждённых Ледяных Покемонов
+в группу.
+---
 "An exotic drum that beats out rhythms
 that burn with fiery passion, rumored
 to steal fiery hearts. When held by the
 team leader, it is easier to recruit
 defeated Fire-type PokГ©mon to the
 team."
-
++++
+Необычный барабан, выбивающий
+зажигательный такт, по слухам
+может украсть пламенные сердца.
+Если его носит лидер группы, то
+ему будет проще завербовать
+побеждённых Огненных Покемонов
+в группу.
+---
 "A marvelous cymbal with a colossal
 crash that shakes the ground, rumored
 to steal even the most grounded hearts.
 When held by the team leader, it is
 easier to recruit defeated Ground-type
 PokГ©mon to the team."
-
++++
+Чудесная тарелка, сотрясающая
+землю своим грохотом, по слухам
+поражает даже самые приземлённые
+сердца. Если её носит лидер группы,
+то ему будет проще завербовать
+побеждённых Земляных Покемонов
+в группу.
+---
 "A remarkable harmonica that plays
 melodies serene as flowing water,
 rumored to steal watery hearts. When
 held by the team leader, this item
 makes it easier to recruit defeated
 Water-type PokГ©mon to the team."
-
++++
+Великолепная гармоника, играющая
+безмятежные, словно текущая вода,
+мелодии, по слухам способна
+поразить водные сердца. Если её
+носит лидер группы, то ему будет
+проще завербовать побеждённых
+Водных Покемонов в группу.
+---
 "A mystifying horn that blasts sound at
 rock-shattering volume, rumored to
 steal the rockiest of hearts. When held
 by the team leader, it is easier to
 recruit defeated Rock-type PokГ©mon to
 the team."
-
++++
+Загадочный рог, издающий мощный,
+раскалывающий камни звук, по
+слухам способен поразить самые
+каменные сердца. Если его носит
+лидер группы, то ему будет проще
+завербовать побеждённых Покемонов
+Каменного типа в группу.
+---
 "A festive cornet that is well suited for
 tunes that carry across grassy fields,
 rumored to steal hearts of grass. When
 held by the team leader, it is easier to
 recruit defeated Grass-type PokГ©mon to
 the team."
-
++++
+Торжественный рожок, издающий
+тянущиеся сквозь травяные поля
+звуки, по слухам способен
+полюбиться травянистым сердцам.
+Если его носит лидер группы,
+то ему будет проще завербовать
+побеждённых Травяных Покемонов
+в группу.
+---
 "A merry melodica that plays tunes airy
 as cloudless skies, rumored to steal
 flighty hearts. When held by the team
 leader, it is easier to recruit defeated
 Flying-type PokГ©mon to the team."
-
++++
+Легкая мелодика, которая играет
+воздушную, словно безоблачное
+небо, мелодию, по слухам может
+сразить небесные сердца. Если её
+носит лидер группы, то ему будет
+проще завербовать Летающих
+Покемонов в группу.
+---
 "A held item that earns the PokГ©mon
 extra Experience Points."
-
++++
+Предмет для ношения, увеличивающий
+количество получаемого опыта.
+---
 "A held item that earns the PokГ©mon
 bonus Experience Points."
-
++++
+Предмет для ношения, увеличивающий
+количество получаемого опыта.
+---
 "A held item that occasionally boosts
 the PokГ©mon's IQ as it moves
 between floors. Its effectiveness
 varies based on the dungeon."
-
++++
+Предмет для ношения, который
+иногда повышает IQ Покемона при
+перемещении между этажами. Его
+эффективность зависит от типа
+подземелья.
+---
 "A food item that heals many status
 problems. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, исцеляющая множество статус
+проблем. Также немного восполняет
+[CS:E]Сытость[CR] Покемона.
+---
 "A food item that restores [CS:E]HP[CR]. It also
 fills the PokГ©mon's [CS:E]Belly[CR] slightly."
-
++++
+Еда, восстанавливающая [CS:E]ОЗ[CR]. Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that restores [CS:E]HP[CR]. If the
 PokГ©mon already has full [CS:E]HP[CR], it will
 slightly boost its [CS:E]Maximum HP[CR]. It also
 slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, восстанавливающая [CS:E]ОЗ[CR]. Если
+у Покемона полные [CS:E]ОЗ[CR], она слегка
+увеличит его [CS:E]Максимальные ОЗ[CR].
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that grants [LS:13728]Eyedrops[LE] status,
 which reveals PokГ©mon with an
 [LS:13712]Invisible[LE] condition and hidden traps.
@@ -42583,7 +41605,17 @@ It also slightly fills the PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, наделяющая статус-эффектом
+"[LS:13728]Ясные Глаза[LE]", под действием
+которого Покемон может видеть
+[LS:13712]Невидимых[LE] Покемонов и скрытые
+ловушки. Также слегка восполняет
+[CS:E]Сытость[CR].
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "An item that revives a fainted PokГ©mon,
 then becomes a [LS:10790]Plain Seed[LE] after use. It
 can be used only by a PokГ©mon that
@@ -42593,7 +41625,17 @@ knows the [LS:10048]Item Master[LE] IQ Skill.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Прдемет, приводящий Покемона без
+сознания в чувство. Становится
+[LS:10790]Простым Зерном[LE] после применения.
+Этот предмет может быть применён
+только Покемоном, который знает
+Навык IQ "[LS:10048]Мастер Предметов[LE]".
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that gives [LS:13724]Blinker[LE] status
 to the user, which makes it unable to
 see other PokГ©mon, unclaimed items,
@@ -42603,11 +41645,25 @@ PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, наделяющая Покемона статус
+эффектом "[LS:13724]Ослепление[LE]", который
+не позволяет ему видеть других
+Покемонов и вещи на земле. Также
+слегка восполняет [CS:E]Сытость[CR].
 
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that reduces the PokГ©mon's
 level by 1. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, уменьшающая уровень Покемона
+на 1. Также слегка восполняет
+[CS:E]Сытость[CR].
+---
 "A food item that gives [LS:13726]Cross-Eyed[LE]
 status to the user. It also slightly fills
 the PokГ©mon's [CS:E]Belly[CR].
@@ -42617,11 +41673,25 @@ the PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, наделяющая Покемона статус
+эффектом "[LS:13726]Косоглазие[LE]". Также
+слегка восполняет [CS:E]Сытость[CR].
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that slightly boosts the
 PokГ©mon's [CS:E]Maximum HP[CR]. It also slightly
 fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, слегка увеличивающая
+[CS:E]Максимальные ОЗ[CR] Покемона. Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that heals a [LS:13570]Burn[LE] status
 condition. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR].
@@ -42631,7 +41701,17 @@ PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, исцеляющая [LS:13570]Ожог[LE]. Кроме того,
+восполняет [CS:E]Сытость[CR] Покемона.
 
+
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that slightly reduces the
 PokГ©mon's maximum [CS:E]Belly[CR] size.
 If it's eaten by someone besides a team
@@ -42641,11 +41721,26 @@ PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, слегка снижающая максимальную
+[CS:E]Сытость[CR] Покемона. Если она будет
+съедена не лидером группы, то
+съевший получит статус-эффект
+"[LS:13688]Голодающий[LE]". Также слегка
+восполняет [CS:E]Сытость[CR] Покемона.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that boosts the PokГ©mon's
 [CS:E]Movement Speed[CR] by 1 level. It also
 slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, увеличивающая [CS:E]Скорость[CR]
+[CS:E]Передвижения[CR] Покемона на 1
+уровень. Также слегка восполняет
+[CS:E]Сытость[CR] Покемона.
+---
 "A food item that heals a [LS:13572]Poisoned[LE] status
 condition or a [LS:13574]Badly Poisoned[LE] status
 condition. It also slightly fills the
@@ -42655,7 +41750,17 @@ PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, исцеляющая [LS:13572]Отравление[LE] или
+[LS:13574]Тяжёлое Отравление[LE]. Также слегка
+восполняет [CS:E]Сытость[CR] Покемона.
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that heals a [LS:13576]Paralysis[LE]
 status condition. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR].
@@ -42665,7 +41770,17 @@ PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, исцеляющая [LS:13576]Паралич[LE]. Также
+слегка восполняет [CS:E]Сытость[CR]
+Покемона.
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that inflicts a [LS:13598]Confused[LE]
 status condition, which makes the user's
 movements and attacks go astray. It
@@ -42675,7 +41790,17 @@ also slightly fills the PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, вводящая в [LS:13598]Замешательство[LE],
+под действием которой, атаки и
+действия Покемона становятся
+непредсказуемы. Также слегка
+восполняет [CS:E]Сытость[CR].
 
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that inflicts a [LS:13558]Sleep[LE] status
 condition, which makes the user
 incapable of action. It also slightly fills
@@ -42685,30 +41810,64 @@ the PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, вводящая в [LS:13558]Сон[LE], под действием
+которого, Покемон неспособен
+действовать. Также она слегка
+восполняет [CS:E]Сытость[CR].
 
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that has no special effect.
 It slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, не имеющая особых эффектов.
+Слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that warps the PokГ©mon to
 a different place on the floor. It also
 slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, телепортирующая Покемона в
+случайное место на этаже. Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that makes the user breathe
 high-damage fire at a PokГ©mon the user
 is facing, whether friend or enemy. It
 also slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, при употреблении которой,
+применивший выдыхает огонь в
+Покемона спереди, при этом не
+важно, враг это или друг. Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A drink that boosts the power of
 whatever move the user currently has
 at the top of their Moves Menu. This
 drink won't affect certain kinds of
 moves, so be careful! It also slightly
 fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Напиток, усиливающий тот приём,
+который находится в верхней строке
+Меню Приёмов. Этот напиток не
+повлияет на некоторые приёмы,
+поэтому будьте осторожнее! Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that raises the PokГ©mon's
 level by 1. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, увеличивающая уровень Покемона
+на 1. Также слегка восполняет
+[CS:E]Сытость[CR].
+---
 "A food item that gives [LS:13560]Sleepless[LE] status
 to the user, which prevents [LS:13558]Sleep[LE]. It
 also slightly fills the PokГ©mon's [CS:E]Belly[CR].
@@ -42718,7 +41877,17 @@ also slightly fills the PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, наделяющая [LS:13560]Бессонницей[LE],
+под действием которой Покемон не
+может впадать в [LS:13558]Сон[LE]. Также слегка
+восполняет [CS:E]Сытость[CR].
 
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that inflicts a [LS:13590]Petrified[LE]
 status. A PokГ©mon with the [LS:13590]Petrified[LE]
 status is incapable of action until an
@@ -42728,31 +41897,63 @@ slightly fills the PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, поражающая [LS:13590]Оцепенением[LE].
+[LS:13590]Оцепеневший[LE] Покемон неспособен
+действовать, пока он не будет
+атакован. Также слегка восполняет
+[CS:E]Сытость[CR].
 
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A scale taken from [CS:K]Gabite[CR], rumored to
 be a cure-all for all afflictions. It heals
 many status problems. It also slightly
 fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Чешуйка, содранная с [CS:K]Габайта[CR], по
+слухам исцеляет от любых статус
+эффектов. Лечит статус-проблемы.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A perplexing seed that sparkles with
 pure golden rays. It boosts the
 PokГ©mon's level by 5 when eaten. It
 also slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Непонятное зерно, испускающее
+чистые золотые лучи. При съедании
+увеличивает уровень Покемона на 5.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that reduces the PokГ©mon's
 [CS:E]Defense[CR] and [CS:E]Special Defense[CR] to their
 lowest levels. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, снижаюшая [CS:E]Защиту[CR] и [CS:E]Спец.[CR]
+[CS:E]Защиту[CR] до минимума. Также слегка
+восполняет [CS:E]Сытость[CR].
+---
 "A food item that warps the PokГ©mon to
 the room with the floor's stairway. It
 also slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, телепортирующая Покемона в
+комнату с лестницей. Также слегка
+восполняет [CS:E]Сытость[CR].
+---
 "A food item that boosts the PokГ©mon's
 [CS:E]Attack[CR] and [CS:E]Special Attack[CR] to their
 highest levels. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда, усиливающая [CS:E]Атаку[CR] и [CS:E]Спец.[CR]
+[CS:E]Атаку[CR] до максимума. Также слегка
+восполняет [CS:E]Сытость[CR].
+---
 "A food item that gives [LS:13712]Invisible[LE] status
 to the user. It also slightly fills the
 PokГ©mon's [CS:E]Belly[CR].
@@ -42762,30 +41963,60 @@ PokГ©mon's [CS:E]Belly[CR].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, наделяющая [LS:13712]Невидимостью[LE].
+Также слегка восполняет [CS:E]Сытость[CR].
 
+
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 [M:D1]$$$
-
+---
 "A drink that completely restores the [CS:E]PP[CR]
 of all the user's moves. It also slightly
 fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Напиток, полностью восполняющий
+[CS:E]ОС[CR] всех приёмов Покемона. Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A drink that permanently raises the
 PokГ©mon's [CS:E]Attack[CR]. It also slightly fills
 the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Напиток, навсегда усиливающий
+[CS:E]Атаку[CR] Покемона. Также слегка
+восполняет [CS:E]Сытость[CR].
+---
 "A drink that permanently raises the
 PokГ©mon's [CS:E]Special Attack[CR]. It also
 slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Напиток, навсегда усиливающий
+[CS:E]Специальную Атаку[CR] Покемона. Также
+слегка восполняет [CS:E]Сытость[CR].
+---
 "A drink that permanently raises the
 PokГ©mon's [CS:E]Defense[CR]. It also slightly fills
 the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Напиток, навсегда усиливающий
+[CS:E]Защиту[CR] Покемона. Также слегка
+восполняет [CS:E]Сытость[CR].
+---
 "A supersweet nectar that, when
 consumed, slightly fills the PokГ©mon's
 [CS:E]Belly[CR]. It will also raise the [CS:E]IQ[CR] of a
 team member."
-
++++
+Сладчайший нектар, который слегка
+восполнит [CS:E]Сытость[CR] Покемона.
+Также повысит [CS:E]IQ[CR] члену группы.
+---
 "A food item that gives the [LS:13730]Dropeye[LE]
 status, where the immediate
 surrounding area will be dark, even in
@@ -42795,7 +42026,17 @@ for the [LS:10777]Eyedrop Seed[LE].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Еда, наделяющая статус-эффектом
+"[LS:13730]Ясный Сглаз[LE]", под действием
+которого, окружающая местность
+будет тёмной, даже в комнатах.
+Также слегка восполняет [CS:E]Сытость[CR].
+Это Ложный Предмет, напоминающий 
+[LS:10777]Зерно Ясный Глаз[LE].
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "An item that revives a fainted
 PokГ©mon...right? And after reviving?
 It becomes a [LS:10790]Plain Seed[LE] after use.
@@ -42805,7 +42046,17 @@ It is a Lookalike Item for the
 [LS:10778]Reviver Seed[LE], so be careful!
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Предмет, приводящий Покемона без
+сознания в чувство...ведь так?
+И после этого? После применения
+становится [LS:10790]Простым Зерном[LE]. Может
+быть применен только Покемоном с
+Навыком IQ "[LS:10048]Мастер Предметов[LE]".
+Это Ложное [LS:10778]Зерно Оживления[LE]!
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that gives the [LS:13720]Slip[LE]
 status, where it is possible to walk
 on water. It also somewhat fills the
@@ -42815,7 +42066,17 @@ pleasantly surprised when you make
 a mistake on this one!
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Еда, наделяющая статус-эффектом
+"[LS:13720]Ускольжение[LE]", под действием
+которого можно ходить по воде.
+Также слегка восполняет [CS:E]Сытость[CR].
+Это Ложное [LS:10789]Зерно Усыпления[LE], но
+если вы съедите не то зерно, вы
+будете приятно удивлены!
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that causes the user to
 say, ""See ya!"" and warp elsewhere
 on the floor. It also somewhat fills the
@@ -42825,42 +42086,86 @@ for the [LS:10799]Vile Seed[LE], so be careful!
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, заставляющая применившего
+сказать "Пока!" и телепортироваться
+в другое место на этаже. Также
+слегка восполняет [CS:E]Сытость[CR]. Это
+Ложное [LS:10799]Зерно Зла[LE], поэтому не
+перепутайте эти предметы!
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A drink that permanently raises the
 PokГ©mon's [CS:E]Special Defense[CR]. It also
 slightly fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Напиток, навсегда усиливающий
+[CS:E]Специальную Защиту[CR] Покемона.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that somewhat fills the
 PokГ©mon's [CS:E]Belly[CR]. If the PokГ©mon
 already has a full [CS:E]Belly[CR], it will slightly
 enlarge its [CS:E]Belly[CR] size."
-
++++
+Еда, немного восполняющая [CS:E]Сытость[CR]
+Покемона. Если у Покемона уже
+максимум [CS:E]Сытости[CR], она слегка
+увеличит предел его [CS:E]Сытости[CR].
+---
 "A food item that amply fills the
 PokГ©mon's [CS:E]Belly[CR]. If the PokГ©mon
 already has a full [CS:E]Belly[CR], it will slightly
 enlarge its [CS:E]Belly[CR] size."
-
++++
+Еда, восполняющая [CS:E]Сытость[CR]
+Покемона. Если у Покемона уже
+максимум [CS:E]Сытости[CR], она слегка
+увеличит предел его [CS:E]Сытости[CR].
+---
 "A food item that somewhat fills the
 PokГ©mon's [CS:E]Belly[CR] but will also inflict a
 variety of status problems because it's
 covered in filthy grime. Be careful of
 what you eat!"
-
++++
+Еда, немного восполняющая [CS:E]Сытость[CR]
+Покемона, но также поразит его
+разными статус-проблемами из-за
+того, что она покрыта в грязной
+жиже. Будьте аккуратнее с тем,
+что едите!
+---
 "A food item that completely fills the
 PokГ©mon's [CS:E]Belly[CR]. It also slightly
 enlarges the PokГ©mon's [CS:E]Belly[CR] size."
-
++++
+Еда, восполняющая [CS:E]Сытость[CR] Покемона
+до предела. Если у Покемона уже
+максимум [CS:E]Сытости[CR], она слегка
+увеличит предел его [CS:E]Сытости[CR].
+---
 [M:D1]$$$
 
 [M:D1]$$$
-
+---
 "A miraculous apple that glows with an
 alluring golden aura. It's far too
 precious and beautiful to even consider
 eating! If it were eaten, however, it
 would completely fill and greatly
 enlarge the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Чудесное яблоко с притягательно
+сверкающей золотой аурой. Оно
+слишком ценное и красивое, чтобы
+даже думать о том, чтобы его есть!
+Однако, если его съесть, то оно
+полностью восполнит [CS:E]Сытость[CR] и
+сильно увеличит его предел.
+---
 "A drink that restores the [CS:E]PP[CR] of all
 moves, but only for [CS:K]Linoone[CR].
 It also slightly fills the PokГ©mon's
@@ -42870,7 +42175,17 @@ can be used only on [CS:K]Linoone[CR],
 so be careful!
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Напиток, восполняющий [CS:E]ОС[CR] всех
+приёмов, но только для [CS:K]Лайнуна[CR].
+Также слегка восполняет [CS:E]Сытость[CR].
+Это Ложный [LS:10804]Макс. Эликсир[LE]. Помните,
+этот предмет можно применить
+только на [CS:K]Лайнуне[CR], поэтому будьте
+внимательны!
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that deals damage. It also
 somewhat fills the PokГ©mon's [CS:E]Belly[CR].
 It is a Lookalike Item for the
@@ -42880,7 +42195,17 @@ It is a Lookalike Item for the
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, наносящая урон. Также слегка
+восполняет [CS:E]Сытость[CR] Покемона.
+Это Ложная [LS:10775]Пельси Ягода[LE], поэтому
+будьте внимательны!
 
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that makes more [M:S0]
 appear on the next floor.
 It also somewhat fills the PokГ©mon's
@@ -42890,115 +42215,216 @@ you'll be very happy to make!
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Еда, после употребления которой,
+на следующем этаже появится больше
+[M:S0]. Также слегка восполняет
+[CS:E]Сытость[CR]. Это Ложное [LS:10780]Зерно Рока[LE],
+но эта ошибка из числа тех, что
+приятно совершить!
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Normal-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Нормального типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Fire-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Огненного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Water-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Водного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Grass-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Травяного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Electric-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Электрического типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Ice-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Ледяного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Fighting-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Боевого типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Poison-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Ядовитого типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Ground-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Земляного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Flying-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Летающего типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Psychic-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Психического типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Bug-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Жучьего типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Rock-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Каменного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Ghost-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Призрачного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Dragon-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Драконьего типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Dark-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Тёмного типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item that permanently
 raises the [CS:E]IQ[CR] of a team member.
 Steel-type PokГ©mon like it most.
 It also somewhat fills the PokГ©mon's
 [CS:E]Belly[CR]."
-
++++
+Еда, навсегда увеличивающая [CS:E]IQ[CR]
+члена группы. Больше всего её
+любят Покемоны Стального типа.
+Также слегка восполняет [CS:E]Сытость[CR].
+---
 "A food item with a curious
 texture unlike any other Gummi.
 It permanently raises the [CS:E]IQ[CR]
 of a team member. It also somewhat
 fills the PokГ©mon's [CS:E]Belly[CR]."
-
++++
+Еда с необычной консистенцией,
+непохожей на прочее Желе.
+Навсегда увеличивает [CS:E]IQ[CR] члена
+группы. Также слегка восполняет
+[CS:E]Сытость[CR].
+---
 "The Gravelyrock is a very hard,
 rock-like candy. When eaten, it
 somewhat fills the PokГ©mon's [CS:E]Belly[CR].
@@ -43008,119 +42434,254 @@ and [CS:K]Sudowoodo[CR]. It is a Lookalike Item
 for [LS:10712]Gravelerock[LE], so be sure to check
 carefully before using it!
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Гравлянь это очень твёрдая, будто
+камень, сладость. При поедании
+она слегка восполняет [CS:E]Сытость[CR].
+Навсегда увеличивает [CS:E]IQ[CR] члену
+группы. Действует на [CS:K]Бонслая[CR] и
+[CS:K]Судовудо[CR]. Это Ложный [LS:10712]Гравлень[LE],
+поэтому не спутайте эти вещи!
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 [M:D1]$$$
-
+---
 "A mysterious device filled with all sorts
 of data. It allows a certain kind of
 PokГ©mon to evolve."
-
++++
+Загадочное устройство, содержащее
+различную информацию. Требуется
+для эволюции определённого
+Покемона.
+---
 "An impressive icon that conveys a kingly
 nobility. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Поразительный символ, который
+олицетворяет королевское
+благородство. Требуется для
+эволюции определённых Покемонов.
+---
 "A peculiar stone inscribed with a
 thunderbolt pattern. It allows certain
 kinds of PokГ©mon to evolve."
-
++++
+Необычный камень с начертанным на
+нём символом молнии. Требуется
+для эволюции определённых
+Покемонов.
+---
 "A pretty scale that shines faintly. It
 allows a certain kind of PokГ©mon to
 evolve."
-
++++
+Красивая, мягко светящаяся чешуйка.
+Требуется для эволюции
+определённого Покемона.
+---
 "A supersharp fang with a subtle gleam.
 It allows a certain kind of PokГ©mon to
 evolve."
-
++++
+Сверхострый, мягко светящийся клык.
+Требуется для эволюции
+определённого Покемона.
+---
 "An odd stone that glows with sunny
 warmth. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Странный камень, сияющий солнечным
+теплом. Требуется для эволюции
+определённых Покемонов.
+---
 "An odd stone that gleams like the moon
 in the evening sky. It allows certain
 kinds of PokГ©mon to evolve."
-
++++
+Странный камень, светящийся словно
+луна в вечернем небе. Требуется
+для эволюции определённых
+Покемонов.
+---
 "A peculiar orange stone that radiates
 warmth like a flame. It allows certain
 kinds of PokГ©mon to evolve."
-
++++
+Необычный оранжевый камень, который
+излучает тепло, словно от пламени.
+Требуется для эволюции определённых
+Покемонов.
+---
 "A peculiar stone that holds the color
 of clearest blue. It allows certain kinds
 of PokГ©mon to evolve."
-
++++
+Необычный камень, налитый чистым
+синим цветом. Требуется для
+эволюции определённых Покемонов.
+---
 "A mysterious substance full of a special
 filmy metal. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Загадочная субстанция, полная
+особого вещества для металла.
+Требуется для эволюции определённых
+Покемонов.
+---
 "A peculiar stone inscribed with a leafy
 pattern. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Необычный камень с начертанным на
+нём символом листа. Требуется для
+эволюции определённых Покемонов.
+---
 "A thick, tough scale. It allows a certain
 kind of PokГ©mon to evolve."
-
++++
+Толстая, крепкая чешуйка. Нужна
+для эволюции определённого
+Покемона.
+---
 "An intriguing cable used for linking
 unknown devices. It allows certain kinds
 of PokГ©mon to evolve."
-
++++
+Загадочный кабель, необходимый
+для подключения неизвестных
+устройств. Требуется для эволюции
+определённых Покемонов.
+---
 "An enigmatic disc that overflows with
 dubious data. It allows a certain kind of
 PokГ©mon to evolve."
-
++++
+Загадочный диск, переполненный
+сомнительными данными. Требуется
+для эволюции определённого
+Покемона.
+---
 "A heavy, durable piece of protective
 equipment. It allows a certain kind of
 PokГ©mon to evolve."
-
++++
+Тяжелая, крепкая часть защитного
+снаряжения. Требуется для эволюции
+определённого Покемона.
+---
 "An eerie cloth imbued with horrifyingly
 strong spiritual energy. It allows a
 certain kind of PokГ©mon to evolve."
-
++++
+Жуткая ткань, наполненная ужасающе
+мощной духовной энергией. Нужна
+для эволюции определённого
+Покемона.
+---
 "A savagely sharp, piercing fang.
 It allows a certain kind of PokГ©mon
 to evolve."
-
++++
+Очень острый, заточенный клык.
+Требуется для эволюции
+определённого Покемона.
+---
 "A wickedly sharp claw perfect for
 raking enemies. It allows a certain kind
 of PokГ©mon to evolve."
-
++++
+Невероятно острый коготь, идеально
+подходящий для разрывания врагов.
+Требуется для эволюции
+определённого Покемона.
+---
 "A box full of a massive amount of
 electric energy. It allows a certain kind
 of PokГ©mon to evolve."
-
++++
+Коробка, полная огромного 
+количества электроэнергии.
+Требуется для эволюции
+определенного Покемона.
+---
 "A box brimming with a huge amount of
 magma energy. It allows a certain kind
 of PokГ©mon to evolve."
-
++++
+Коробка, источающая огромное
+количество магматической энергии.
+Требуется для эволюции
+определенного Покемона.
+---
 "A surprisingly smooth, rounded stone. It
 allows a certain kind of PokГ©mon to
 evolve."
-
++++
+Удивительно гладкий, круглый
+камень. Требуется для эволюции
+определённого Покемона.
+---
 "An odd stone that glints like an eye. It
 allows certain kinds of PokГ©mon to
 evolve."
-
++++
+Странный камень, сверкающий словно
+глаза. Требуется для эволюции
+определённых Покемонов.
+---
 "An odd stone that shines with dazzling
 light. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Странный камень, сияющий слепящим
+светом. Требуется для эволюции
+определённых Покемонов.
+---
 "An odd stone with a mesmerizing
 darkness. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Странный, источающий тьму камень.
+Требуется для эволюции определённых
+Покемонов.
+---
 "A rock that radiates a peculiar energy,
 rumored only to exist on Mt. Coronet, 
 a place that no one knows anything
 about. It allows certain kinds of
 PokГ©mon to evolve."
-
++++
+Камень, излучающий загадочную
+энергию, по слухам, имеющей своё
+происхождение с горы Коронет,
+места, о котором ничего не
+известно. Требуется для эволюции
+определённых Покемонов.
+---
 "A stone covered in lush moss that
 exudes the vitality of plants. It allows a
 certain kind of PokГ©mon to evolve."
-
++++
+Покрытый пышным мхом камень,
+который источает жизненную силу
+растений. Требуется для эволюции
+определенного Покемона.
+---
 "A stone that radiates deep chill, so it is
 easily mistaken for a chunk of ice. It
 allows a certain kind of PokГ©mon to
 evolve."
-
++++
+Камень, источающий пронизывающий
+холод, его легко спутать с куском
+льда. Требуется для эволюции
+определённого Покемона.
+---
 [M:D1]$$$
 
 "This item has a nostalgic feel and
@@ -43132,7 +42693,17 @@ status. A Lookalike Item for [LS:10713]Geo Pebble[LE].
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+Этот предмет вызывает ностальгию
+и заставляет применившего вспомнить
+своё сокровенное воспоминание. При
+применении, у Покемона начинают
+литься слёзы и он получает статус
+эффект "[LS:13656]Стойкость[LE]". Это Ложный
+Предмет [LS:10713]Джео-Камень[LE].
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "When used, this item causes the user's
 eyes to become gunky, and the user
 gets [LS:13724]Blinker[LE] status. A Lookalike Item
@@ -43142,49 +42713,99 @@ for [LS:10841]Wonder Gummi[LE], so be careful!
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+При использовании, глаза Покемона
+начинают слипаться и он получает
+статус-эффект "[LS:13724]Ослепление[LE]". Это
+Ложное [LS:10841]Чудо-Желе[LE], поэтому не
+перепутайте эти предметы!
 
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "If you take this [CS:I]Prize Ticket[CR] to [CS:N]Wynaut[CR]
 at the Recycle Shop, you can trade it
 for a chance to win Big Treasure."
-
++++
+Если вы отнесёте [CS:I]Призовой Билет[CR]
+[CS:N]Вайноту[CR] в Центр Переработки, вы
+сможете обменять его и попытаться
+выиграть Большое Сокровище.
+---
 "If you take this [CS:I]Silver Ticket[CR] to
 [CS:N]Wynaut[CR] at the Recycle Shop, you can
 trade it for a chance to win
 Big Treasure."
-
++++
+Если вы отнесёте [CS:I]Серебрянный Билет[CR]
+[CS:N]Вайноту[CR] в Центр Переработки, вы
+сможете обменять его и попытаться
+выиграть Большое Сокровище.
+---
 "If you take this [CS:I]Gold Ticket[CR] to [CS:N]Wynaut[CR]
 at the Recycle Shop, you can trade it
 for a chance to win Big Treasure."
-
++++
+Если вы отнесёте [CS:I]Золотой Билет[CR]
+[CS:N]Вайноту[CR] в Центр Переработки, вы
+сможете обменять его и попытаться
+выиграть Большое Сокровище.
+---
 "If you take this [CS:I]Prism Ticket[CR] to [CS:N]Wynaut[CR]
 at the Recycle Shop, you can trade it
 for a chance to win Big Treasure."
-
++++
+Если вы отнесёте [CS:I]Призм. Билет[CR]
+[CS:N]Вайноту[CR] в Центр Переработки, вы
+сможете обменять его и попытаться
+выиграть Большое Сокровище.
+---
 "A mysterious mechanical part
 of unknown purpose. It has lain
 undisturbed for eons, veiled by
 legendary mystery."
-
++++
+Загадочная механическая часть
+неизвестного механизма. Она
+пролежала нетронутой целую
+вечность, окутанная легендарной
+тайной.
+---
 "An ancient stone slab inscribed with
 what seems to be prehistoric legend,
 rumored to hold an incredible secret
 that has never yet been deciphered."
-
++++
+Древняя каменная табличка, на
+которой начертана древняя легенда,
+по слухам скрывающая в себе
+невероятный секрет, который до
+сих пор никто не разгадал.
+---
 [M:D1]$$$
 
 [M:D1]$$$
 
 [M:D1]$$$
-
+---
 "An Egg with bizarre colors that have
 never been seen before. What could this
 Egg be?"
-
++++
+Разноцветное яйцо неизвестного
+происхождения. Чем оно может быть?
+---
 "A beautiful flower that blooms on [CS:P]Sky
 Peak[CR] and in the [CS:P]Shaymin Village[CR]. Using
 it on [CS:K]Shaymin[CR] causes a Forme change
 from Land Forme to Sky Forme."
-
++++
+Красивый цветок, цветущий только на
+[CS:P]Небесном Пике[CR] и в [CS:P]Деревне Шейминов[CR].
+Применение на [CS:K]Шеймине[CR] сменит его
+Земную Форму на Небесную Форму.
+---
 "It is said that this wonderful gift falls
 from the sky. Give it to friends and
 guild members as a token of
@@ -43194,27 +42815,51 @@ appreciation and see what happens!
 [CS:K]Shaymin[CR]'s Delivery Service in the
 [CS:P]Shaymin Village[CR] will send this item to
 friends on your behalf."
++++
+Говорят, что этот удивительный
+подарок падает с небес. Подарите
+его друзьям и членам гильдии важно
+знак признательности и узнайте,
+что случится!
 
+Служба Доставки [CS:K]Шейминов[CR] из
+[CS:P]Деревни Шейминов[CR] отправит этот
+предмет от вашего имени.
+---
 [M:D1]$$$
-
+---
 "A key that unlocks a door inside a
 dungeon. Before you use a Key, be sure
 to stand before a door and face it
 directly."
-
++++
+Ключ, который открывает дверь в
+подземелье. Перед применением
+убедитесь, что вы стоите рядом с
+дверью и смотрите прямо на неё.
+---
 "Money used at shops and for other
 purchasing purposes."
-
++++
+Деньги, используемые в магазинах
+и для иных покупательских целей.
+---
 [M:D1]$$$
 
 [M:D1]$$$
-
+---
 "An ancient box rumored to have been
 stashed away by an exploration team
 long ago, said to be bursting with gold,
 silver, and other treasure. It is worth
 an enormous amount of money!"
-
++++
+Древняя коробка, по слухам, давным
+давно скрытая исследовательской
+группой, полная золота, серебра и
+прочих сокровищ. Она невероятно
+дорогая!
+---
 "The remains of the TM [item:2]
 after use. You can restore it to its
 original state using the move [LS:10483]Recycle[LE]
@@ -43224,7 +42869,17 @@ TMs can't be restored.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Остатки от ТМ [item:2].
+Этот предмет можно восстановить
+если применить приём [LS:10483]Переработка[LE],
+чтобы его можно было использовать
+ещё раз. Внимание: некоторые ТМ
+невозможно восстановить.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 "Teaches the move [LS:10221]Focus Punch[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move gives the user a [LS:13620]Focus Punch[LE]
@@ -43236,7 +42891,19 @@ this move.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
-
++++
+Обучает приёму [LS:10221]Волевой Удар[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём дает статус [LS:13620]Волевой Удар[LE],
+когда использующий набирает силу 1
+ход и атакует на 2 ходу. Этот
+приём нельзя [LS:13762]связать[LE].
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "Teaches the move [LS:10354]Dragon Claw[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move inflicts damage on the target.
@@ -43248,7 +42915,19 @@ Move inflicts damage on the target.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10354]Драко-Когти[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём наносит урон по цели.
 
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "Teaches the move [LS:10456]Water Pulse[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move inflicts damage on the target,
@@ -43260,7 +42939,19 @@ the target with a [LS:13598]Confused[LE] status.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10456]Водный Пульс[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём наносит дистанционный урон
+по цели. Также может ввести цель
+в [LS:13598]Замешательство[LE].
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "Teaches the move [LS:10465]Calm Mind[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move boosts the user's [CS:E]Special Attack[CR]
@@ -43272,7 +42963,19 @@ and [CS:E]Special Defense[CR] by 1 level.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10465]Ясный Разум[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём усиливает [CS:E]Специальную Атаку[CR]
+и [CS:E]Специальную Защиту[CR] применившего
+на 1 уровень.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+--
 "Teaches the move [LS:10430]Roar[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move knocks the target flying. If the
@@ -43284,7 +42987,19 @@ it sustains damage.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10430]Рёв[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём отправляет цель в полёт.
+Если она попадёт в стену или
+другого Покемона, она получит урон.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "Teaches the move [LS:10343]Toxic[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move afflicts the targeted enemy with a
@@ -43296,11 +43011,23 @@ takes damage every few turns.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
-
++++
+Обучает приёму [LS:10343]Токсичность[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём поражает врага статусом
+[LS:13574]Тяжёлое Отравление[LE]. Под действием
+эффекта [LS:13574]Тяжелого Отравления[LE], цель
+периодически получает урон.
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "[M:D1]$$$
 [C]
 [equip_list]"
-
+---
 "Teaches the move [LS:10411]Bulk Up[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move boosts the user's [CS:E]Attack[CR] and
@@ -43312,7 +43039,19 @@ Move boosts the user's [CS:E]Attack[CR] and
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10411]Прокачка[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём усиливает [CS:E]Атаку[CR] и [CS:E]Защиту[CR]
+применившего на 1 уровень.
 
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "Teaches the move [LS:10309]Bullet Seed[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move inflicts damage on the target,
@@ -43324,7 +43063,19 @@ during 1 turn.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10309]Семена-Пули[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём наносит дистанционный урон
+по цели, нанося ей от 2 до 5
+ударов за ход.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "Teaches the move [LS:10470]Hidden Power[LE], but
 won't if the PokГ©mon knows the move.[CS:E][BAR][CR]
 Move inflicts damage on the target. The
@@ -43336,7 +43087,19 @@ dungeon.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]
 [C]
 [equip_list]"
++++
+Обучает приёму [LS:10470]Скрытая Сила[LE], но
+только при условии, что Покемон
+еще не знает этот приём.[CS:E][BAR][CR]
+Приём наносит урон по цели. Тип
+и сила приёма зависят от типа
+подземелья.
 
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+[C]
+[equip_list]
+---
 "[M:D1]$$$
 [C]
 [equip_list]"
@@ -60185,7 +59948,7 @@ be restored.
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
+---
 $$$
 
 Hurl to attack enemy.
@@ -62985,7 +62748,7 @@ $$$
 $$$
 
 $$$
-
+---
 Secret
 
 Mud Trap
