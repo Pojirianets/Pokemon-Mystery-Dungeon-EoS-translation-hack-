@@ -6737,36 +6737,68 @@ Someone
 -
 Message log
 Лог сообщений
--
+---
+---
 "The weather has become [CS:E]Clear[CR]!
 It's really clear, warm, and pleasant."
-
++++
+Наступает [CS:E]Ясная[CR] погода!
+Она очень приятная, тёплая и хорошая.
+---
 "The weather has become [CS:E]Sunny[CR]!
 Fire-type moves are boosted, and Water-type
 moves are weakened."
-
++++
+Наступает [CS:E]Солнечная[CR] погода!
+Приёмы Огненного типа усилены, приёмы
+Водного типа ослаблены.
+---
 "The weather has become a [CS:E]Sandstorm[CR]!
 All PokГ©mon except for Ground-, Rock-, and
 Steel-type PokГ©mon will receive damage."
-
++++
+Поднялась [CS:E]Песчаная Буря[CR]!
+Все Покемоны будут получать урон, кроме
+Каменных, Земляных и Стальных типов.
+---
 "The weather has become [CS:E]Cloudy[CR]!
 All types of moves other than Normal type are
 weakened."
-
++++
+Наступает [CS:E]Облачная[CR] погода!
+Мощь приёмов всех типов, кроме приёмов
+Нормального типа ослаблены.
+---
 "The weather has become [CS:E]Rainy[CR]!
 The power of Water-type moves is boosted,
 and Fire-type moves are weakened."
-
++++
+Начался [CS:E]Дождь[CR]!
+Приёмы Водного типа усилены, приёмы
+Огненного типа ослаблены.
+---
 "The weather has become [CS:E]Hail[CR]!
 All PokГ©mon except Ice-type PokГ©mon will
 receive damage."
-
++++
+Начался [CS:E]Град[CR]!
+Все Покемоны будут получать урон, кроме
+Покемонов Ледяного типа.
+---
 "The weather has become [CS:E]Fog[CR]!
 Electric-type moves are weakened."
-
++++
+Наступает [CS:E]Туманная[CR] погода!
+Приёмы Электрического типа ослаблены.
+---
 "The weather has become [CS:E]Snow[CR]!
 The Movement Speed of Ice-type PokГ©mon is
 boosted by 1 level."
+---
+Начался [CS:E]Снегопад[CR]!
+Скорость Передвижения Ледяных
+Покемонов увеличена на 1 уровень.
++++
 -
 Clear
 Ясно
@@ -6784,70 +6816,99 @@ Fog
 Туман
 Snow
 Снег
--
+---
 Clear
-
+Ясно
 "The weather is clear, warm, and
 pleasant."
-
+Ясная, тёплая и приятная погода.
+---
 Sunny
-
+Солнечно
 "The sun blazes, which boosts the power
 of Fire-type moves and weakens
 Water-type moves."
-
+Солнце обжигает, усиливая мощь
+приёмов Огненного типа и ослабляя
+приёмы Водного типа.
+---
 Sandstorm
-
+Песчаная Буря
 "A sandstorm rages, which inflicts
 damage on all PokГ©mon except for
 Ground-type, Rock-type, and Steel-type
 PokГ©mon. It also boosts the [CS:E]Special[CR]
 [CS:E]Defense[CR] of Rock-type PokГ©mon."
-
+Песчаная буря бушует, нанося урон
+всем Покемонам, за исключением
+Покемонов Каменного, Земляного и
+Стального типов. Также усиливает
+[CS:E]Спец. Защиту[CR] Каменных Покемонов.
+---
 Cloudy
-
+Облачно
 "The weather grows cloudy and dark,
 which weakens the power of all types
 of moves except for the Normal type."
-
+Небо затягивается облаками, снижая
+мощь приёмов всех типов, кроме
+приёмов Нормального типа.
+---
 Rain
-
+Дождь
 "The weather turns rainy, which boosts
 the power of Water-type moves and
 weakens Fire-type moves."
-
+Дождь усиливает мощь приёмов
+Водного типа и ослабляя приёмы
+Огненного типа.
+---
 Hail
-
+Град
 "The weather turns bitterly cold and
 it hails, which inflicts damage on all
 PokГ©mon except Ice-type PokГ©mon."
-
+Воздух холодеет и начинается град,
+наносящий урон всем Покемонам,
+кроме Покемонов Ледяного типа.
+---
 Fog
-
+Туман
 "The weather grows foggy, which
 weakens the power of Electric-type
 moves."
-
+Туман клубится, ослабляя мощь
+приёмов Электрического типа.
+---
 Snow
-
+Снегопад
 "A snowstorm rages, which boosts the
 Movement Speed of Ice-type PokГ©mon
 by 1 level."
-
+Бушует снегопад, усиливая Скорость
+Передвижения Покемонов Ледяного
+типа на 1 уровень.
+---
 Mud Sport
-
+Игры В Грязи
 "The floor is put under the influence of
 [CS:J]Mud Sport[CR], which halves the power of
 Electric-type moves."
-
+Этаж находится под влиянием [CS:J]Игр[CR]
+[CS:J]В Грязи[CR], вдвое снижая мощь приёмов
+Электрического типа.
+---
 Water Sport
-
+Увлажнение
 "The floor is put under the influence of
 [CS:J]Water Sport[CR], which halves the power of
 Fire-type moves."
-
+Этаж находится под влиянием
+[CS:J]Увлажнения[CR], вдвое снижая мощь
+приёмов Огненного типа.
+---
 Defused
-
+Обезвреживание
 "The floor gains a [CS:J]Defused[CR] status, so no
 PokГ©mon can blow up in an [LS:2672]explosion[LE] or
 [LS:2674]huge explosion[LE].
@@ -6857,9 +6918,19 @@ PokГ©mon can blow up in an [LS:2672]explosion[LE] or
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Этаж становится [CS:J]Обезврежен[CR] и
+никакой Покемон не сможет создать
+[LS:2672]взрыв[LE] или [LS:2674]мощный взрыв[LE].
 
+
+
+
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 Thief Alert
-
+Тревога
 "A floor is put on Thief Alert when
 [CS:K]Kecleon[CR]'s dungeon shop is robbed! A
 small army of concealed [CS:K]Kecleon[CR] emerge
@@ -6869,9 +6940,19 @@ makes it hard to get away easily!
 
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+При воровстве предметов из лавки
+[CS:K]Кеклеона[CR], на этаже начинается
+Тревога! Небольшой отряд [CS:K]Кеклеонов[CR]
+демаскирует себя и начинают погоню
+за вором! Во время Тревоги нельзя
+применить [LS:11035]Орб Побега[LE], поэтому у
+вас не выйдет легко сбежать!
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 Gravity
-
+Гравитация
 "A floor is put under the influence of
 heavy [CS:J]Gravity[CR], which makes Flying-type
 PokГ©mon weak to Ground-type moves. It
@@ -6881,9 +6962,19 @@ may suppress moves that use flying or
 jumping, and negates the [LS:13742]Magnet Rise[LE]
 status.
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
-
++++
+На этаже усилена [CS:J]Гравитация[CR], что
+делает Летающих Покемонов уязвимыми
+к приёмам Земляного типа. Также
+убирает эффект Левитации, подавляет
+приёмы с применением скачка или
+полёта и игнорирует статус
+[LS:13742]Магнитный Подъем[LE].
+Выбор слова:[CLUM_SET:70][M:B4] или [M:B5]/Просмотр
+информации о слове: [M:B2]
+---
 explosion
-
+взрыв
 "The PokГ©mon or trap can explode,
 inflicting damage on itself and all
 PokГ©mon within a 1-tile range. The
@@ -6891,9 +6982,16 @@ explosion also halves the [CS:E]HP[CR] of all
 exploration-team members in range. It
 also destroys walls and items inside
 the blast zone."
-
++++
+Покемон или ловушка может создать
+взрыв, нанося урон себе и всем
+Покемонам в радиусе 1 клетки.
+Также взрыв вдвое снижает [CS:E]ОЗ[CR]
+всей группе в зоне поражения.
+Также уничтожает стены и предметы.
+---
 huge explosion
-
+мощный взрыв
 "The PokГ©mon or trap can explode
 savagely, inflicting damage on itself and
 all PokГ©mon within a 2-tile range. The
@@ -6901,7 +6999,14 @@ huge explosion halves the [CS:E]HP[CR] of all
 exploration-team members in range. It
 also destroys walls and items inside
 the blast zone."
--
++++
+Покемон или ловушка может создать
+мощный взрыв, нанося урон себе и
+всем Покемонам в радиусе 2 клеток.
+Также взрыв вдвое снижает [CS:E]ОЗ[CR]
+всей группе в зоне поражения.
+Также уничтожает стены и предметы.
+---
 IQ Skills
 Навыки IQ
 Switch
@@ -7278,80 +7383,89 @@ Train further toward excellence!
 Meet with [CS:N]Torkoal[CR].
 
 Explore!
-
+---
 [string:1] was defeated!
-
+[string:1] терпит поражение!
 [string:1] fainted!
-
+[string:1] теряет сознание!
 Oh no! [string:1] was defeated!
-
+О, нет! [string:1] терпит поражение!
 Oh no! [string:1] fainted!
-
+О, нет! [string:1] теряет сознание!
 "[string:1] was defeated! It left the
 exploration team!"
-
+[string:1] терпит поражение! Покемон
+покидает группу исследователей!
 "[string:1] fainted! It left the
 exploration team!"
-
+[string:1] теряет сознание! Покемон
+покидает группу исследователей!
 Oh no! [string:1] was defeated!
-
+О, нет! [string:1] терпит поражение!
 Oh no! [string:1] fainted!
-
+О, нет! [string:1] теряет сознание!
 [string:1] went back for now!
-
+[string:1] возвращается!
 Oh no! [string:1] fainted!
-
+О, нет! [string:1] теряет сознание!
 Your client [string:1] was defeated!
-
+Ваш клиент [string:1] терпит поражение!
 Your client [string:1] fainted!
-
+Ваш клиент [string:1] теряет сознание!
 [string:1] was defeated!
-
+[string:1] терпит поражение!
 [string:1] fainted!
-
+[string:1] теряет сознание!
 "[string:1] was defeated while awaiting
 rescue!"
-
+[string:1] терпит поражение в ожидании
+спасения!
 [string:1] fainted while awaiting rescue!
-
+[string:1] теряет сознание в ожидании
+спасения!
+---
 [string:0] was slowed!
-
+[string:0] замедляется!
 [string:0] returned to normal speed!
-
+Скорость Покемона [string:0] вернулась
+в норму!
 [string:0] is at double speed!
-
+[string:0] ускоряется в два раза!
 [string:0] is at triple speed!
-
+[string:0] ускоряется в три раза!
 [string:0] is at quadruple speed!
-
+[string:0] ускоряется в четыре раза!
+---
 No PokГ©mon will join the team in this dungeon.
-
+В подземелье никто не вступит в группу.
 There are no potential recruits.
-
+Здесь нет возможных рекрутов.
 Potential recruits ([CS:C]yellow[CR]: already befriended)
-
+Возможные рекруты ([CS:C]жёлтые[CR]: уже есть)
+---
 None
-
+Нет
 It seems to love this Gummi!
-
+Покемону очень понравился вкус Желе!
 It seems to like this Gummi!
-
+Покемону понравился вкус Желе!
 It doesn't seem to dislike this Gummi.
-
+Покемону не так уж и не нравится вкус
+Желе.
 It seemed to be somewhat satisfied.
-
+Покемон слегка удоволетворён.
 Its IQ rose sharply!
-
+IQ Покемона сильно увеличилось!
 Its IQ went up significantly!
-
+IQ Покемона значительно увеличилось!
 Its IQ went up somewhat!
-
+IQ Покемона немного увеличилось!
 Its IQ went up slightly!
-
+IQ Покемона слегка увеличилось!
 Its IQ didn't change.
-
+IQ Покемона не изменилось.
 [M:D1]
-
+---
 The [trap:0] splashed mud!
 
 A [CS:H]Sticky Trap[CR] has been activated!
@@ -7401,2710 +7515,4258 @@ A [trap:0] has been activated!
 A [trap:0] has been activated!
 
 There is nothing at [string:0]'s feet.
-
++++
+[trap:0] разбрызгивает грязь!
+Срабатывает [CS:H]Липкая Ловушка[CR]!
+Разбрызгивается слизь!
+Распылился газ, привлекающий Покемонов!
+[trap:0]!
+Срабатывает [trap:0]!
+Произошёл порыв ветра!
+Ловушка закружилась!
+Распылился усыпляющий газ!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Вылетают ядовитые шипы!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Под ногами [trap:0]!
+Срабатывает [trap:0]!
+Срабатывает [trap:0]!
+Под ногами Покемона [string:0] ничего
+нет.
+---
 Rescue chances left: [digits_c:0]
-
+Шансов на спасение: [digits_c:0]
 This team can't send out for help anymore!
-
+Эту группу больше нельзя отправить
+на помощь!
 Rescue challenges left: [digits_c:0]
-
+Испытаний на спасение: [digits_c:0]
 "This is your final chance at rescue!
 Try not to fail!"
-
+Это ваш последний шанс на спасение!
+Будьте осторожны!
 "Your client PokГ©mon has fainted!
 You can't make a rescue call!"
-
+Ваш Покемон-клиент потерял сознание!
+Невозможно совершить зов на спасение!
 Your partner [string:0] fainted!
-
+Спутник [string:0] теряет сознание!
 Your client [string:0] fainted!
-
+Клиент [string:0] теряет сознание!
 The accompanying [string:0] fainted!
-
+Помощник [string:0] теряет сознание!
 "Your client [name:0] couldn't join you.
 Let's return to Treasure Town."
-
+Клиент [name:0] не смог быть с вами.
+Вернёмся в Город Сокровищ.
 "You received one [item:0] to help with
 your task!"
-
+Вы получаете предмет [item:0]
+для вашего задания!
 "You received one [item:0] to help with
 your task, but you couldn't accept it."
-
+Вы получаете предмет [item:0]
+для вашего задания, но вы не можете
+принять его.
 "[string:0] is anchored! It can't switch
 places!"
-
+[string:0] пригвождён! Он не сможет
+поменяться местами!
 It became brighter on the floor!
-
+На этаже стало светлее!
 [string:1] took [digits_c:0] damage!
-
+[string:1] получает [digits_c:0] урона!
 [string:1]'s burn caused [digits_c:0] damage!
-
+[string:1] обжигается на [digits_c:0] урона!
 "[string:1] was squeezed for
 [digits_c:0] damage!"
-
+[string:1] сжимается, получая
+[digits_c:0] урона!
 "[string:1] took [digits_c:0] damage from
 poison!"
-
+[string:1] получает [digits_c:0] урона
+от яда!
 "[string:1] took [digits_c:0] recoil damage
 from the move!"
-
+[string:1] получает [digits_c:0] урона
+от отдачи приёма!
 "[string:1] was wrapped for
 [digits_c:0] damage!"
-
+[string:1] получает [digits_c:0] урона
+от обвивания!
 "[string:1] took [digits_c:0] damage from
 the counterattack!"
-
+[string:1] получает [digits_c:0] урона
+от ответного удара!
 "[string:1] was cursed for
 [digits_c:0] damage!"
-
+[string:1] получает [digits_c:0] урона
+от проклятия!
 "[string:1] awoke from its nightmare and
 took [digits_c:0] damage!"
-
+[string:1] пробуждается от кошмаров
+и получает [digits_c:0] урона!
 "[string:1] took [digits_c:0] damage from
 [CS:J]Leech Seed[CR]!"
-
+[string:1] получает [digits_c:0] урона
+от [CS:J]Зерён-Пиявок[CR]!
 "[string:1] stepped on [CS:H]spikes[CR] and took
 [digits_c:0] damage!"
-
+[string:1] наступает на шипы, получая
+[digits_c:0] урона!
 "[string:1] took [digits_c:0] damage from
 Perish Song!"
-
+[string:1] получает [digits_c:0] урона
+от Песни Гибели!
 "[string:1] took [digits_c:0] damage from
 Destiny Bond!"
-
+[string:1] получает [digits_c:0] урона
+от Уз Судьбы!
 "[string:1] was showered with sludge for
 [digits_c:0] damage!"
-
+[string:1] получает [digits_c:0] урона
+от слизи!
 "The Chestnut Trap hit [string:1] for
 [digits_c:0] damage!"
-
+[string:1] получает [digits_c:0] урона
+от Каштановой Ловушки!
 "The Chestnut Trap hit [string:1] for
 [digits_c:0] damage!"
-
+[string:1] получает [digits_c:0] урона
+от Каштановой Ловушки!
 [string:1] took [digits_c:0] damage!
-
+[string:1] получает [digits_c:0] урона!
 "The bad weather inflicted [digits_c:0] damage
 on [string:1]!"
-
+[string:1] получает [digits_c:0] урона
+от эффекта плохой погоды!
 "The move failed! [string:1] took
 [digits_c:0] damage!"
-
+Приём не удался! [string:1] получает
+[digits_c:0] урона!
 "[string:1] took [digits_c:0] recoil damage
 from the move!"
-
+[string:1] получает [digits_c:0] урона
+от отдачи приёма!
 "[string:1] took [digits_c:0] damage from
 [CS:H]Stealth Rock[CR]!"
-
+[string:1] получает [digits_c:0] урона
+от [CS:H]Камней-Ловушек[CR]!
 "[string:1] took [digits_c:0] damage from
 [CS:H]Toxic Spikes[CR]!"
-
+[string:1] получает [digits_c:0] урона
+от [CS:H]Токсичных Шипов[CR]!
 "[string:1] is on the verge of fainting
 after using that move!"
-
+[string:1] на грани потери сознания
+после применения этого приёма!
 "[string:1] took [digits_c:0] damage because
 of [c_i:2]!"
-
+[string:1] получает [digits_c:0] урона
+из-за: [c_i:2]!
 "[string:1]'s [c_i:2] is causing
 strain! It took [digits_c:0] damage!"
-
+[c_i:2] создаёт напряжение!
+[string:1] получает [digits_c:0] урона!
 "[string:1]'s [c_i:2] hurts it in
 sunny weather! It took [digits_c:0] damage!"
-
+[c_i:2] ранит Покемона на солнце!
+[string:1] получает [digits_c:0] урона!
 [string:0] found an item somewhere.
-
+[string:0] где-то находит предмет.
 The closed corridor was opened!
-
+Открывается закрытый проход!
 It can't be used here!
-
+Это нельзя здесь применить!
 You must open a door while facing it!
-
+Вам нужно повернуться к двери, чтобы
+открыть её!
 [string:0] was blown away!
-
+[string:0] сдувается ветром!
 It couldn't be blown away!
-
+Покемона нельзя сдуть ветром!
 [string:0] couldn't be blown away!
-
+[string:0] нельзя сдуть ветром!
 "[string:0] is anchored! It can't be blown
 away!"
-
+Покемон [string:0] пригвождён!
+Покемона нельзя сдуть ветром!
 The target's stench is overwhelming!
-
+Вонь цели ошеломляет!
 You haven't selected a move to be a set move.
-
+Вы не назначили приём.
 The set move can't be used.
-
+Назначенный приём нельзя применить.
 This move can't be used now!
-
+Этот приём нельзя применить!
 You're being constricted!
-
+Вы под действием ограничения!
 You can't move!
-
+Вы не можете двигаться!
 You can't move while rooted down!
-
+Вы не можете двигаться, пока
+пригвождены!
 You can't move while wrapping a foe!
-
+Вы не можете двигаться, пока
+обвиваете врага!
 The enemy has you wrapped! You can't move!
-
+Вас обвивает враг! Вы не можете
+двигаться!
 Switch places with your teammate?
-
+Поменяться местами с членом группы?
 The leader couldn't be switched!
-
+Нельзя сменить лидера!
 You haven't paid for the merchandise yet!
-
+Вы еще не заплатили за товар!
 You can't switch leaders while thieving!
-
+Нельзя сменить лидера во время кражи!
 [string:0] became the leader!
-
+[string:0] становится лидером!
 "Use/attack in facing direction:[CLUM_SET:150][M:B2]
 Change direction:[CLUM_SET:150][M:B8]
 Cancel:[CLUM_SET:150][M:B3]"
-
+Исп./атака по направлению:[CLUM_SET:150][M:B2]
+Сменить направление:[CLUM_SET:150][M:B8]
+Отмена:[CLUM_SET:150][M:B3]
 "The [item:0] is all sticky. You can't
 equip it!"
-
+Предмет [item:0] липкий.
+Вы не можете его надеть!
 Equipped the item [item:0].
-
+Вы экипируете предмет
+[item:0].
 "You selected [item:0] as the set item.
 Hold [M:B6], then press [M:B7] to hurl one."
-
+Задан предмет [item:0].
+Нажмите [M:B6] и [M:B7], чтобы метнуть его.
 "You selected [item:0] as the set item.
 Hold [M:B6], then press [M:B7] to throw one."
-
+Задан предмет [item:0].
+Нажмите [M:B6] и [M:B7], чтобы кинуть его.
 You deselected [item:0].
-
+Вы убираете [item:0].
 It's all sticky and doesn't work!
-
+Всё липкое и не применяется!
 "The [item:1] is all sticky! You can't
 move it."
-
+Предмет [item:1] липкий!
+Его нельзя переместить.
 "The [item:1] is all sticky! You can't
 move it."
-
+Предмет [item:1] липкий!
+Его нельзя переместить.
 "The [item:1] is all sticky! You can't
 move it."
-
+Предмет [item:1] липкий!
+Его нельзя переместить.
 "[string:1] took the [item:0] and
 put the [item:1] in the [gadget_bag]."
-
+[string:1] берёт [item:0]
+и убирает в: [gadget_bag].
 [string:1] got the [item:0].
-
+[string:1] берёт [item:0].
 The [gadget_bag] is full.
-
+[gadget_bag]: Нет места.
 "[string:0] put the [item:0] back
 in the [gadget_bag]."
-
+[string:0] кладёт [item:0]
+в: [gadget_bag].
 "The [item:0] was exchanged for
 the [item:1] in the [gadget_bag]."
-
+[item:0] меняется
+на предмет [item:1]
+в: [gadget_bag].
 [M:D1]Underfoot
-
+[M:D1]На земле
 You can't put it down here.
-
+Это нельзя здесь положить.
 "[string:0] put the [item:0] on the
 ground."
-
+[string:0] кладёт [item:0]
+на землю.
 [M:D1]Not Underfoot
-
+[M:D1]Не на земле
 You can't exchange items here.
-
+Здесь нельзя сменить предметы.
 You can't put anything down here.
-
+Здесь нельзя ничего класть.
 "The [item:1] on the ground was
 exchanged for the [item:0]."
-
+[item:1] на земле
+сменён на ваш предмет
+[item:0].
 A terrified PokГ©mon can't throw items!
-
+Ужасающийся Покемон не способен
+бросать предметы!
 [string:0] threw the [item:0]!
-
+[string:0] кидает [item:0]!
 [string:0] hurled the [item:0]!
-
+[string:0] метает [item:0]!
 You can't talk now.
-
+Вы не можете разговаривать.
 [string:0] can't talk just now.
-
+[string:0] пока не может говорить.
 "You attempted thievery! You're not seen as an
 exploration team!"
-
+Вы совершили попытку кражи! Вас больше
+не принимают за группу исследователей!
 You can't say farewell now.
-
+Вы пока не можете попрощаться.
 "Say farewell to this [string:0]? It will
 never be able to rejoin the team."
-
+Попрощаться с Покемоном [string:0]?
+Покемон больше не сможет вступить
+в группу.
 Send [string:0] back?
-
+Отправить Покемона [string:0] домой?
 Send [string:0] back?
-
+Отправить Покемона [string:0] домой?
 "Say farewell to [string:0] and dismiss
 it from the team?"
-
+Попрощаться с Покемоном [string:0]
+и убрать его из группы?
 [string:0] seemed disappointed and left.
-
+[string:0] огорчается и уходит.
 [string:0] went back.
-
+[string:0] возвращается.
 [string:0] seemed disappointed and left.
-
+[string:0] огорчается и уходит.
 [string:0] is cringing!
-
+[string:0] съёживается!
 [string:0] is paralyzed!
-
+[string:0] под действием паралича!
 The move failed!
-
+Приём не получился!
 There are no items that can be drawn close!
-
+Здесь нет предметов, которых можно
+притянуть!
 But a mysterious power prevented its use!
-
+Загадочная сила не даёт применить этот
+предмет!
 All unclaimed items were drawn close!
-
+Все предметы на земле притянулись!
 "[string:0] passed over the
 [item:0]."
-
+[string:0] проходит над предметом
+[item:0].
 "[string:0] is terrified! It didn't pick up
 the [item:0]."
-
+[string:0] в ужасе! Покемон не может
+взять предмет [item:0].
 Picked up the [item:0].
-
+Подобран предмет [item:0].
 "Picked up the [item:0] and
 put it in the [gadget_bag]."
-
+Подобран предмет [item:0]
+и убран в: [gadget_bag].
 Picked up the [item:0].
-
+Подобран предмет [item:0].
 "[string:0] couldn't pick up
 the [item:0]."
-
+[string:0] не может подобрать предмет
+[item:0].
 It bounced off the trap tile!
-
+Это отскакивает от ловушки!
 The [item:0] fell on the ground.
-
+[item:0] падает на землю.
 The [item:0] fell in the water.
-
+[item:0] падает в воду.
 The [item:0] was buried.
-
+[item:0] закапывается.
 The [item:0] was lost!
-
+[item:0] теряется!
 All the items were lost!
-
+Потеряны все предметы!
 Several items were lost!
-
+Потеряно несколько предметов!
 The [item:0] fell out of sight!
-
+[item:0] исчезает из
+поля зрения!
 "You have a delivery [CS:I]item[CR]. Return to the
 guild without delivering it?"
-
+Вы несёте [CS:I]предмет[CR] для доставки.
+Вернуться в гильдию не доставив его?
 The [item:0] flew at [string:0]!
-
+[item:0] летит в
+Покемона [string:0]!
 It missed [string:0]!
-
+Промах по Покемону [string:0]!
 [string:0] dodged the [item:0]!
-
+[string:0] уклоняется от предмета
+[item:0]!
 "The [item:0] bounced off
 [string:0]!"
-
+[item:0] отскакивает
+от Покемона [string:0]!
 The [item:0] flew out of sight!
-
+[item:0] исчезает из
+поля зрения!
 [string:0] caught the [item:0]!
-
+[string:0] ловит предмет
+[item:0]!
 [item:0] is all sticky! It doesn't work!
-
+[item:0] липкий!
+Он не работает!
 But nothing happened.
-
+Ничего не произошло.
 But nothing happened!
-
+Ничего не произошло!
 But nothing happened.
-
+Ничего не произошло.
 Its Self-Curer IQ skill prevented hunger!
-
+Навык IQ Само-Целитель сберёг от
+голода!
 [string:0] is [CS:J]famished[CR].
-
+[string:0] [CS:J]истощается[CR].
 [string:0] is already [CS:J]famished[CR].
-
+[string:0] уже в [CS:J]истощении[CR].
 But nothing happened.
-
+Ничего не произошло.
 Lucky! The move got a lot stronger!
-
+Повезло! Приём стал гораздо мощнее!
 [move:0] got stronger!
-
+[move:0] становится мощнее!
 It seems to be weakened here...
-
+Кажется, Покемон ослаблен...
 But there is no one in the way!
-
+Но на пути никого не было!
 Its IQ didn't change.
-
+IQ Покемона не изменилось.
 It can't be used in a dungeon!
-
+Это нельзя применить в подземелье!
 Are you done with the Link Box?
-
+Вы завершили действия с Связь-Ящиком?
 [string:0] is muzzled!
-
+[string:0] под действием немоты!
 [string:0]'s Attack went up [digits_c:0]!
-
+Атака Покемона [string:0]
+увеличилась на [digits_c:0]!
 [string:0]'s Sp. Attack went up [digits_c:0]!
-
+Спец. Атака Покемона [string:0]
+увеличилась на [digits_c:0]!
 [string:0]'s Defense went up [digits_c:0]!
-
+Защита Покемона [string:0]
+увеличилась на [digits_c:0]!
 [string:0]'s Sp. Defense went up [digits_c:0]!
-
+Спец. Защита Покемона [string:0]
+увеличилась на [digits_c:0]!
 [string:0] exploded!
-
+[string:0] взрывается!
 The damp conditions prevented an explosion!
-
+Сырость предотвращает взрыв!
+---
 Something's stirring...
-
 Something's approaching...
-
 It's getting closer!
-
 It's right nearby! It's gusting hard!
-
 Something's stirring...
-
 Something's approaching...
-
 It's getting closer!
-
 It's right nearby!
-
++++
+Что-то движется...
+Что-то приближается...
+Оно всё ближе и ближе!
+Это совсем рядом! Резко дует ветер!
+Что-то движется...
+Что-то приближается...
+Оно всё ближе и ближе!
+Это совсем рядом!
+---
 Gravity grew heavier on the floor!
-
+Гравитация на этаже усилилась!
++++
 Gravity is already heavier on this floor!
-
+Гравитация на этаже уже усилилась!
++++
 The floor was drained!
-
+Этаж осушается!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 There is too much water to be drained!
-
+Слишком много воды для осушения!
++++
 "There is no room on your team to accept
 the guest exploration team's [name:0]."
-
+В вашей группе нет места, чтобы принять
+Покемона [name:0] из другой группы
+исследователей.
++++
 "You can't employ a helper PokГ©mon now!
 [name:0] was returned with thanks!"
-
+Вы не можете взять Покемона-помощника!
+[name:0] благодарно возвращается!
++++
 "The [name:0] that needs your help won't
 fit on your team. There's not enough room."
-
+[name:0] требует помощи, но не может
+вступить в вашу группу. Она заполнена.
++++
 "Have one of your team members return
 to the guild to make room for your
 client, [name:0]."
-
+Отправьте одного из ваших членов группы
+в гильдию, чтобы освободить место для
+клиента: [name:0].
++++
 Send [string:1] back to the guild?
-
+Отправить Покемона [string:1] в
+гильдию?
++++
 [string:1] was sent back to the guild.
-
+[string:1] отправляется в гильдию.
++++
 "The [name:0] that needs your help won't
 fit on your team. There's no room."
-
+[name:0] требует помощи, но не может
+вступить в вашу группу. Она заполнена.
++++
 "The guest exploration team's [name:0] was
 welcomed into your exploration team!"
-
+Гость группы исследователей, [name:0]
+принят в вашу группу исследователей!
++++
 Your client, [name:0], joined your team!
-
+Ваш клиент, [name:0], вступает в
+группу!
++++
 Would you like to send out for a rescue?
-
+Хотите ли вы послать за спасателями?
++++
 "To request a rescue, return to the Top Menu,
 select [CS:E]Get Help[CR] within [CS:E]Friend Rescue[CR], and
 choose the method for sending your [CS:E]SOS Mail[CR]."
-
+Чтобы запросить спасение, вернитесь в
+Главное Меню, выберите [CS:E]Запрос Помощи[CR] и
+выберите метод отправки [CS:E]SOS-Сообщения[CR].
++++
 Your team is no longer eligible for rescues.
-
+Ваша команда больше не доступна для
+спасения.
++++
 "[string:0] converted to the
 [type:0] type!"
-
+[string:0] меняется на тип
+[type:0]!
++++
 [string:1] is a slow starter!
-
+[string:1] медленный в начале!
++++
 "[string:0] traced and copied the target's
 ability!"
-
+[string:0] отслеживает и копирует
+способность цели!
++++
 "[string:0]'s Color Change made it the
 [type:0] type!"
-
+Смена Цвета Покемона [string:0] меняет
+тип на: [type:0]!
++++
 Getting hungry...
-
+Вы проголодались...
++++
 Getting dizzy from hunger...
-
+Голова кружится от голода...
++++
 "[string:0] learned the IQ skill
 [wiseness:0]!"
-
+[string:0] изучает навык IQ:
+"[wiseness:0]"!
++++
 The [CS:M]linked moves[CR] [CS:C]became delinked[CR]!
-
+[CS:M]Связанные приёмы[CR] теперь [CS:C]разъединены[CR]!
++++
 "[CS:C]The linked moves are almost out of[CR] [CS:E]PP[CR]!
 Use them [CS:V]again[CR] and [CS:C]they will come apart[CR]!"
-
+[CS:C]У связанных приёмов почти кончились [CR][CS:E]ОС[CR]!
+При [CS:V]повторном[CR] применении [CS:C]они будут
+разъединены[CR]!
++++
 "[CS:C]The linked moves are almost out of[CR] [CS:E]PP[CR]!
 Use them [CS:V]twice[CR] and [CS:C]they will come apart[CR]!"
-
+[CS:C]У связанных приёмов почти кончились [CR][CS:E]ОС[CR]!
+Применив их [CS:V]дважды[CR], [CS:C]они будут[CR]
+[CS:C]разъединены[CR]!
++++
 [string:0] took a deep breath!
-
+[string:0] делает глубокий вдох!
++++
 The stairs seem to be over this way!
-
+Лестница находится где-то здесь!
++++
 Total items on this floor: [digits_c:0].
-
+Всего предметов на этаже: [digits_c:0].
++++
 [string:0]'s [item:1] activated!
-
+Срабатывает предмет [item:1]
+Покемона [string:0]!
++++
 "[string:0] used the [item:1] that
 [string:1] was holding!"
-
+[string:0] применяет предмет
+[item:1], что держал
+Покемон [string:1]!
++++
 "[string:0] used the [item:1] in the
 Treasure Bag!"
-
+[string:0] применяет предмет
+[item:1] из Сумки
+с Ценностями!
++++
 [string:0]'s IQ rose!
-
+IQ Покемона [string:0] увеличивается!
++++
 [string:0]'s IQ is unchanged.
-
+IQ Покемона [string:0] не изменилось.
++++
 [string:0] is frozen solid!
-
+[string:0] замораживается!
++++
 [string:0] has its opponent wrapped!
-
+[string:0] обвивает цель!
++++
 [string:0] is wrapped by its opponent!
-
+[string:0] обвивается врагом!
++++
 [string:0] can't move!
-
+[string:0] не может пошевелиться!
++++
 [string:0] is infatuated!
-
+[string:0] очаровывается!
++++
 [string:0] is storing energy!
-
+[string:0] накапливает энергию!
++++
 [string:0] is asleep!
-
+[string:0] спит!
++++
 The move was interrupted!
-
+Приём прерван!
++++
 Its ability sped up attacks!
-
+Способность ускоряет атаки!
++++
 Its [item:0] sped up attacks!
-
+[item:0] ускоряет атаки!
++++
 Decoy
-
+Приманка
++++
 Decoy
-
+Приманка
++++
 PokГ©mon
-
+Покемон
++++
 PokГ©mon
-
+Покемон
++++
 [string:0] is protected by [CS:J]Safeguard[CR]!
-
+[string:0] под защитой [CS:J]Безопасности[CR]!
++++
 [string:0] is protected by its Leaf Guard!
-
+[string:0] оберегается Защитой Листа!
++++
 [string:0] is protected by [CS:J]Mist[CR]!
-
+[string:0] под защитой [CS:J]Тумана[CR]!
++++
 "[string:0] protected itself using its
 [item:1]!"
-
+[string:0] защищает себя применением
+предмета [item:1]!
++++
 It had no effect on [string:0]!
-
+Это не оказывает воздействия на
+Покемона [string:0]!
++++
 The [c_i:2] ability activated!
-
+Срабатывает способность [c_i:2]!
++++
 "[string:1] was frisked! It's holding one
 [item:2]!"
-
+[string:1] подвергается обыску! Найден
+предмет [item:2]!
++++
 [string:1] has a distinctive atmosphere!
-
+[string:1] имеет особую атмосферу!
++++
 The [c_i:2] ability activated!
-
+Срабатывает способность [c_i:2]!
++++
 Its power rebounded!
-
+Его мощь возросла!
++++
 "[string:1] withstood the move!
 It's sturdy!"
-
+[string:1] выдерживает приём!
+У Покемона крепкое тело!
++++
 [string:1] is frozen!
-
+[string:1] под заморозкой!
++++
 A critical hit!
-
+Критический удар!
++++
 It has little effect...
-
+Это малодейственно...
++++
 It's not very effective...
-
+Это не очень эффективно...
++++
 It's super effective!
-
+Это суперэффективно!
++++
 [string:1] is protected by Magic Guard!
-
+[string:1] оберегается Магзащитой!
++++
 [string:1] took no damage!
-
+[string:1] не получает урона!
++++
 [string:1] took calamitous damage!
-
+[string:1] получает катастрофический
+урон!
++++
 The attack was barely endured!
-
+Атаку едва удалось пережить!
++++
 "False Swipe did damage but kept it from
 fainting!"
-
+Ложный Удар нанёс урон, но не дал
+Покемону потерять сознание!
++++
 [string:1] fainted!
-
+[string:1] теряет сознание!
++++
 [string:1] was revived!
-
+[string:1] приводится в чувство!
++++
 [string:0] possessed [string:1]!
-
+[string:0] контролирует Покемона
+[string:1]!
++++
 [string:1] was revived!
-
+[string:1] приводится в чувство!
++++
 Torrent boosted its power!
-
+Поток усиливает мощь приёма!
++++
 Overgrow boosted its power!
-
+Бурный Рост усиливает мощь приёма!
++++
 Swarm boosted its power!
-
+Рой усиливает мощь приёма!
++++
 Blaze boosted its power!
-
+Зажигание усиливает мощь приёма!
++++
 Guts boosted its power!
-
+Сила Воли усиливает мощь приёма!
++++
 Its ability boosted its Attack!
-
+Способность Покемона усиливает Атаку!
++++
 Marvel Scale boosted its Defense!
-
+Чудо-Чешуйка усиливает Защиту!
++++
 The [c_i:2] ability activated!
-
+Срабатывает способность [c_i:2]!
++++
 "[string:1] absorbed the fire with its
 Flash Fire ability!"
-
+[string:1] поглощает пламя благодаря
+способности Сияющий Огонь!
++++
 Fire moves won't become stronger!
-
+Огненные приёмы не станут сильнее!
++++
 [string:0][CS:C] used a Special Attack move![CR]
-
+[string:0] [CS:C]применяет Специальный приём![CR]
++++
 [string:0][CS:C] used an Other-type move![CR]
-
+[string:0] [CS:C]применяет Другой приём![CR]
++++
 [string:0][CS:C] used a Physical Attack move![CR]
-
+[string:0] [CS:C]применяет Физический приём![CR]
++++
 "[string:0][CS:C] performed a matchup
 calculation using an Other-type move![CR]"
-
+[string:0] [CS:C]проводит подсчёт матч-апа
+применением приёма Другого типа![CR]
++++
 [string:0] blinked!
-
+Покемон [string:0] ослеплен!
++++
 "[string:0] is terrified! It couldn't pick up
 the [item:0]."
-
+[string:0] в ужасе! Не вышло поднять
+предмет [item:0].
++++
 [string:0] picked up [item:0].
-
+[string:0] подбирает предмет
+[item:0].
++++
 [string:0] picked up the [item:0].
-
+[string:0] подбирает предмет
+[item:0].
++++
 "[string:0] picked up the [item:0]
 and put it in the [gadget_bag]."
-
+[string:0] подбирает предмет
+[item:0] и кладёт его
+в: [gadget_bag].
++++
 "[string:0] passed over the
 [item:0]."
-
+[string:0] проходит над предметом
+[item:0].
++++
 "[string:0] couldn't pick up the
 [item:0]."
-
+[string:0] не может подобрать предмет
+[item:0].
+---
 But it only affects [CS:K]Linoone[CR].
-
+Но это действует только на [CS:K]Лайнуна[CR].
++++
 "That reminds me...[K] My friend...[K]
 It's been a while since I've heard anything...[K]
 I wonder how my friend is doing..."
-
+Вспоминаю...[K] Мой друг... [K]Прошло уже
+столько времени с тех пор как он
+видел меня... [K]Как там он сейчас...
++++
 [string:0] fought back tears!
-
+[string:0] сдерживает слёзы!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 [string:0] said, "See ya!"
-
+[string:0] говорит: "Пока!"
++++
 "[string:0] just said, ""See ya!"" to
 someone!"
-
+[string:0] говорит кому-то: "Пока!"
++++
 "...thought it was the right one...[P]
 ...looking closer, this is...[P]
 Not a [item:1], but a [item:0]!"
-
+...кажется, что это оно, но...[P]
+...взглянув внимательнее, это...[P]
+Не [item:1], а [item:0]!
++++
  An "s"?
-
+Что? "бно"?
++++
 That wasn't a "[CS:E]v[CR]," it was an "[CS:1:E]s[CR:1]"!
-
+Это не "[CS:E]жи[CR]", это "[CS:1:E]бно[CR:1]"!
++++
 "[string:0] burst into spontaneous
 laughter and fainted!"
-
+[string:0] разражается хохотом и
+теряет сознание!
++++
 It's someone's lucky day! Ka-ching!
-
+Кому-то повезло! Динь!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 [M:D1]It seems like something good will happen.
-
+[M:D1]Похоже, случится что-то хорошее.
+---
 [string:0] changed to Sky Forme!
-
+[string:0] меняется в Небесную Форму!
++++
 "[string:0] is already in Sky Forme!
 This can only be used on Land Forme."
-
+[string:0] уже в Небесной Форме!
+Это можно применить только на Земную
+Форму.
++++
 It had no effect on [string:0]!
-
+Это не возымело эффекта на Покемоне
+[string:0]!
++++
 Can't change Forme!
-
+Невозможно сменить Форму!
++++
 It had no effect on [string:0]!
-
+Это не возымело эффекта на Покемоне
+[string:0]!
++++
 But nothing happened.
-
+Ничего не произошло.
+---
 "Hey! [string:0] wants to join your team!
 Will you accept [string:0] as a member?"
-
+Вау! [string:0] хочет вступить в
+группу! Принять Покемона [string:0] в
+вашу группу?
++++
 [string:0] went away...
-
+[string:0] уходит...
++++
 The PokГ©mon couldn't join the team...
-
+Покемон не смог вступить в группу...
++++
 But it couldn't join the team.
-
+Но у него не вышло вступить в группу.
++++
 Do you want to nickname the new member?
-
+Хотите дать прозвище члену группы?
++++
 "Please give your new team member
 a proper nickname!"
-
+Дайте вашему новому члену группы
+другое прозвище!
++++
 Is the nickname [string:0] OK?
-
+Вас устраивает прозвище [string:0]?
++++
 "[string:0] joined Team [team:1] to
 go on adventures!"
-
+[string:0] вступает в
+Команду [team:1]!
++++
 "Your team is already full! Select the PokГ©mon
 to send back to the guild."
-
+Ваша группа уже полная! Выберите
+Покемона, чтобы отправить его в
+гильдию.
++++
 Send [string:0] back to the guild?
-
+Отправить Покемона [string:0]
+в гильдию?
++++
 "[string:0] will return to the guild.[C]
 [string:1] used the Explorer Badge to
 send [string:0] to the guild!"
-
+[string:0] вернётся в гильдию.[C]
+[string:1] применяет Значок
+Исследователя, отправляя Покемона домой!
+---
 It's a [CS:P]Monster House[CR]!
-
+Вы попали в [CS:P]Засаду Монстров[CR]!
++++
 Perish Song's effect wore off!
-
+Эффект Песни Гибели пропадает!
++++
 The [CS:J]Exposed[CR] status wore off!
-
+Статус [CS:J]Уязвимость[CR] пропадает!
++++
 All move seals are broken!
-
+Все запреты на приёмы развеяны!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 [string:0]'s Reflect status faded.
-
+[string:0] теряет статус-эффект
+"Отражение".
++++
 [string:0]'s Light Screen status faded.
-
+[string:0] теряет статус-эффект
+"Ограда Света".
++++
 [string:0]'s Counter status faded.
-
+[string:0] теряет статус-эффект
+"Ответный Удар".
++++
 [string:0]'s Safeguard status faded.
-
+[string:0] теряет статус-эффект
+"Безопасность".
++++
 [string:0]'s Magic Coat status faded.
-
+[string:0] теряет статус-эффект
+"Чудо-Плащ".
++++
 [string:0]'s Wish status faded.
-
+[string:0] теряет статус-эффект
+"Желание".
++++
 [string:0] woke up!
-
+[string:0] просыпается!
++++
 [string:0] is no longer sleepless!
-
+[string:0] больше не страдает
+бессонницей!
++++
 [string:0] woke up!
-
+[string:0] просыпается!
++++
 [string:0] woke up!
-
+[string:0] просыпается!
++++
 [string:0] got over its drowsiness!
-
+[string:0] преодолевает сонливость!
++++
 The Water Sport effect faded.
-
+Эффект Увлажнения пропадает.
++++
 The Mud Sport effect faded.
-
+Эффект Игр В Грязи пропадает.
++++
 [string:0]'s Leech Seed wore off.
-
+[string:0] теряет эффект Зерён-Пиявок.
++++
 [string:0] is no longer cursed!
-
+[string:0] теряет эффект проклятия!
++++
 [string:0]'s Snatch status faded!
-
+[string:0] теряет статус-эффект
+"Перехват"!
++++
 [string:0] recovered from confusion!
-
+[string:0] выходит из замешательства!
++++
 [string:0] regained mobility!
-
+[string:0] обретает подвижность!
++++
 [string:0] regained mobility!
-
+[string:0] обретает подвижность!
++++
 [string:0] regained mobility!
-
+[string:0] обретает подвижность!
++++
 [string:0]'s Ingrain status wore off!
-
+[string:0] теряет статус-эффект
+"Прорастание"!
++++
 [string:0] recovered from paralysis!
-
+[string:0] оправляется от паралича!
++++
 [string:0] recovered from a burn!
-
+[string:0] оправляется от ожога!
++++
 [string:0] recovered from poison!
-
+[string:0] оправляется от отравления!
++++
 [string:0] thawed out!
-
+[string:0] размораживается!
++++
 [string:0] lost its Sure Shot status!
-
+[string:0] теряет статус-эффект
+"Точный Удар"!
++++
 "[string:0] recovered from its [CS:J]Whiffer[CR]
 status!"
-
+[string:0] теряет статус-эффект
+"[CS:J]Мазила[CR]"!
++++
 "The amount of damage that [string:0]
 does is no longer fixed at a certain amount!"
-
+Количество наносимого урона Покемона
+[string:0] больше не одинаковое!
++++
 [string:0] lost its Focus Energy status!
-
+[string:0] теряет статус-эффект
+"Фокусировка"!
++++
 [string:0] is no longer cowering!
-
+[string:0] больше не трепещет!
++++
 The decoy PokГ©mon went away!
-
+Покемон приманка исчезает!
++++
 [string:0]'s Protect wore off!
-
+[string:0] теряет статус-эффект
+"Защита"!
++++
 [string:0]'s Taunted status wore off!
-
+[string:0] теряет статус-эффект
+"Спровоцирован"!
++++
 [string:0] became visible!
-
+Покемон [string:0] становится
+видимым!
++++
 [string:0] regained sight!
-
+[string:0] восстанавливает зрение!
++++
 [string:0] is no longer cross-eyed!
-
+[string:0] больше не косоглазит!
++++
 [string:0]'s sight returned to normal!
-
+Зрение Покемона [string:0] вернулось
+в норму!
++++
 [string:0] can no longer walk on water!
-
+[string:0] больше не может ходить
+по воде!
++++
 [string:0]'s sight returned to normal!
-
+Зрение Покемона [string:0] вернулось
+в норму!
++++
 [string:0]'s Mirror Coat status faded!
-
+[string:0] теряет статус-эффект
+"Плащ-Зеркало"!
++++
 [string:0] gave up its Destiny Bond!
-
+[string:0] отрекает Узы Судьбы!
++++
 [string:0] recovered from Encore!
-
+[string:0] теряет статус-эффект
+"Бис"!
++++
 [string:0]'s Endure status faded!
-
+[string:0] теряет статус-эффект
+"Стойкость"!
++++
 [string:0]'s Mirror Move status faded!
-
+[string:0] теряет статус-эффект
+"Мимикрия"!
++++
 [string:0]'s Conversion 2 status faded!
-
+[string:0] теряет статус-эффект
+"Конверсия 2"!
++++
 [string:0]'s Vital Throw status faded.
-
+[string:0] теряет статус-эффект
+"Контрбросок"!
++++
 [string:0]'s Mist effect faded!
-
+[string:0] теряет статус-эффект
+"Затуманенность"!
++++
 [string:0]'s transformation wore off!
-
+[string:0] теряет трансформацию!
++++
 [string:0] got over its infatuation!
-
+[string:0] рассеивает очарование!
++++
 "[string:0] can no longer pass through
 walls!"
-
+[string:0] больше не может проходить
+сквозь стены!
++++
 [string:0] is no longer muzzled!
-
+[string:0] больше не под немотой!
++++
 [string:0]'s rage faded!
-
+Ярость Покемона [string:0] утихла!
++++
 [string:0] is no longer petrified!
-
+[string:0] больше не в оцепенении!
++++
 [string:0] is no longer cringing!
-
+[string:0] больше не съёживается!
++++
 [string:0] is no longer paused!
-
+[string:0] больше не под влиянием
+паузы!
++++
 "[string:0]'s countering Metal Burst status
 faded."
-
+[string:0] теряет статус-эффект
+"Метал-Взрыв"!
++++
 [string:0]'s Gastro Acid status faded.
-
+[string:0] теряет статус-эффект
+"Желчь".
++++
 [string:0]'s Aqua Ring status faded!
-
+[string:0] теряет статус-эффект
+"Аква Кольцо"!
++++
 [string:0]'s Lucky Chant effect wore off!
-
+[string:0] теряет статус-эффект
+"Песнь Удачи"!
++++
 The Heal Block wore off!
-
+Блок Лечения больше не действует!
++++
 [string:0]'s Embargo was lifted!
-
+[string:0] теряет Эмбарго!
++++
 [CS:J]Miracle Eye[CR] wore off!
-
+[CS:J]Глаз Миража[CR] рассеивается!
++++
 [string:0]'s Magnet Rise status wore off!
-
+[string:0] теряет статус-эффект
+"Магнитный Подъём"!
++++
 The stench cleared!
-
+Вонь прекратилась!
++++
 [string:0] is no longer terrified!
-
+[string:0] больше не в ужасе!
++++
 "[string:0] regained its Flying-type
 designation!"
-
+[string:0] возвращает свой
+Летающий тип!
++++
 "[string:0] lost its Flying-type
 designation!"
-
+[string:0] теряет свой Летающий тип!
++++
 "[string:0] passed on its status problems
 to [string:1]!"
-
+[string:0] переносит свои статус
+проблемы Покемону [string:1]!
++++
 "[string:0] was healed, but it couldn't pass
 on its status problems to [string:1]."
-
+[string:0] исцеляется, но не передаёт
+свои статус-проблемы Покемону
+[string:1].
++++
 "[string:0] has no status problems it can
 pass on to [string:1]."
-
+[string:0] не имеет статус-проблем
+для переноса Покемону [string:1]!
++++
 [string:0] is readying Razor Wind!
-
+[string:0] готовит Режущий Ветер!
++++
 [string:0] began storing energy!
-
+[string:0] начинает копить энергию!
++++
 [string:0] is enraged!
-
+[string:0] в ярости!
++++
 [string:0] is focusing energy!
-
+[string:0] фокусирует энергию!
++++
 [string:0] is readying Sky Attack!
-
+[string:0] готовит Атаку С Неба!
++++
 [string:0] is readying SolarBeam!
-
+[string:0] готовит Луч Солнца!
++++
 [string:0] flew up high!
-
+[string:0] взлетает ввысь!
++++
 [string:0] bounced up!
-
+[string:0] подскакивает вверх!
++++
 [string:0] dove underwater!
-
+[string:0] ныряет под воду!
++++
 [string:0] burrowed underground!
-
+[string:0] закапывается под землю!
++++
 [string:0] hid itself in shadows!
-
+[string:0] скрывается в тенях!
++++
 [string:0] is charging Metal Burst!
-
+[string:0] заряжает Метал-Взрыв!
++++
 [string:0] began charging power!
-
+[string:0] начинает заряжаться!
++++
 [CS:J]Mud Sport[CR] came into effect!
-
+[CS:J]Игры В Грязи[CR] начинают своё действие!
++++
 [CS:J]Water Sport[CR] came into effect!
-
+Начинает действовать [CS:J]Увлажнение[CR]!
++++
 "[string:1] absorbed the fire with its
 Flash Fire ability!"
-
+[string:1] поглощает огонь своей
+способностью Сияющий Огонь!
++++
 Fire [CS:M]moves[CR] won't become stronger!
-
+Огненные [CS:M]приёмы[CR] не стали сильнее!
++++
 [string:0] began using Wish!
-
+[string:0] загадывает Желание!
++++
 [string:0] already has a Wish status.
-
+[string:0] уже находится под
+действием Желания!
++++
 [string:0] took a Leech Seed!
-
+[string:0] засеивается
+Зёрнами-Пиявками!
++++
 [string:0] already has a Leech Seed!
-
+[string:0] уже находится под
+действием Зёрен-Пиявок!
++++
 Item locations were revealed!
-
+Показаны местоположения предметов!
++++
 The location of the stairs has been revealed!
-
+Показано местоположение лестницы!
++++
 Item locations are already known.
-
+Местоположения предметов уже известны.
++++
 The location of the stairs is already known.
-
+Местоположение лестницы уже известно.
++++
 There are no stairs here.
-
+В этом месте нет лестницы.
++++
 "[string:0] protected itself with Magic
 Coat!"
-
+[string:0] оберегает себя
+Чудо-Плащом!
++++
 "[string:0] is already protected by
 Magic Coat!"
-
+[string:0] уже под защитой
+Чудо-плаща!
++++
 [string:0] can locate all enemies now!
-
+[string:0] теперь может обнаружить
+всех врагов!
++++
 All enemies have already been located!
-
+Все враги уже обнаружены!
++++
 [string:0] is readying its Skull Bash!
-
+[string:0] готовит Удар Черепом!
++++
 [string:0] was cursed!
-
+[string:0] проклинается!
++++
 [string:0] readied Snatch!
-
+[string:0] готовит Перехват!
++++
 "[string:0] protected itself with
 Safeguard!"
-
+[string:0] оберегает себя
+Безопасностью!
++++
 "[string:0] is already protected by
 Safeguard."
-
+[string:0] уже под защитой
+Безопасности.
++++
 [string:0] protected itself with Mist!
-
+[string:0] оберегает себя
+Затуманенностью!
++++
 [string:0] is already protected by Mist.
-
+[string:0] уже под защитой
+Затуманенности.
++++
 [string:0] is set to counter!
-
+[string:0] готовит ответный удар!
++++
 "[string:0] is already waiting to
 counterattack!"
-
+[string:0] уже может нанести
+ответный удар!
++++
 "[string:0] protected itself with
 Light Screen!"
-
+[string:0] оберегает себя
+Оградой Света!
++++
 "[string:0] is already protected
 by Light Screen."
-
+[string:0] уже под защитой
+Ограды Света.
++++
 [string:0] shielded itself with Reflect!
-
+[string:0] оберегает себя
+Отражением!
++++
 "[string:0] is already protected by
 Reflect."
-
+[string:0] уже под защитой
+Отражения.
++++
 [string:0] recovered [digits_c:0] [CS:E]HP[CR]!
-
+[string:0] восполняет [digits_c:0] [CS:E]ОЗ[CR]!
++++
 [string:0] was fully healed!
-
+[string:0] полностью излечивается!
++++
 [string:0]'s [CS:E]HP[CR] didn't change.
-
+[CS:E]ОЗ[CR] Покемона [string:0] остались без
+изменений.
++++
 [string:0] has full [CS:E]HP[CR].
-
+У Покемона [string:0] полные [CS:E]ОЗ[CR].
++++
 [string:0]'s [CS:E]maximum HP[CR] rose by [digits_c:1].
-
+[CS:E]Максимальные ОЗ[CR] Покемона [string:0]
+увеличились на [digits_c:1].
++++
 [string:0]'s [CS:E]maximum HP[CR] didn't change.
-
+[CS:E]Максимальные ОЗ[CR] Покемона [string:0]
+остались без изменений.
++++
 [string:0] became confused!
-
+[string:0] вводится в замешательство!
++++
 [string:0] is already confused!
-
+[string:0] уже в замешательстве!
++++
 "[string:0] became paralyzed!
 It can't attack!"
-
+[string:0] парализовывается!
+Покемон не может атаковать!
++++
 [string:0] is already paralyzed!
-
+[string:0] уже под действием
+паралича!
++++
 [string:0] cringed!
-
+[string:0] съёживается!
++++
 [string:0] is already cringing!
-
+[string:0] уже съёживается!
++++
 [string:0] fell asleep!
-
+[string:0] засыпает!
++++
 [string:0] fell asleep!
-
+[string:0] засыпает!
++++
 [string:0] is already asleep!
-
+[string:0] уже спит!
++++
 [string:0] is caught in a nightmare!
-
+[string:0] переживает кошмары!
++++
 [string:0] is already asleep!
-
+[string:0] уже спит!
++++
 [string:0] didn't become drowsy!
-
+[string:0] не одолевает сон!
++++
 [string:0] is already asleep!
-
+[string:0] уже спит!
++++
 [string:0] didn't become drowsy!
-
+[string:0] не одолевает сон!
++++
 "[string:0] is caught by a [CS:J]Nightmare[CR]
 status!"
-
+[string:0] испытывает [CS:J]Кошмары[CR]!
++++
 [string:0] is already having a nightmare!
-
+[string:0] уже испытывает кошмары!
++++
 [string:0] didn't become drowsy!
-
+[string:0] не одолевает сон!
++++
 [string:0] yawned!
-
+[string:0] зевает!
++++
 [string:0] didn't yawn!
-
+[string:0] не зевает!
++++
 [string:0] is already yawning!
-
+[string:0] уже зевает!
++++
 [string:0] is already asleep!
-
+[string:0] уже спит!
++++
 [string:0] woke up!
-
+[string:0] просыпается!
++++
 [string:0] already has a [CS:J]Sleepless[CR] status!
-
+[string:0] уже имеет [CS:J]Бессонницу[CR]!
++++
 [string:0] became sleepless!
-
+[string:0] не может спать!
++++
 "[string:0] is [CS:J]pausing[CR] and doing nothing
 else!"
-
+[string:0] под эффектом [CS:J]паузы[CR] и
+ничего не делает!
++++
 [string:0] is already [CS:J]pausing[CR]!
-
+[string:0] уже в [CS:J]паузе[CR]!
++++
 [string:0] can't move for a while!
-
+[string:0] временно не может
+пошевелиться!
++++
 [string:0] is already [CS:J]pausing[CR]!
-
+[string:0] уже в [CS:J]паузе[CR]!
++++
 [string:0] became [CS:J]infatuated[CR]!
-
+[string:0] впадает в [CS:J]очарование[CR]!
++++
 [string:0] is already infatuated!
-
+[string:0] уже под действием
+очарования!
++++
 [string:0] sustained a burn!
-
+[string:0] получает ожог!
++++
 [string:0] already has a burn!
-
+[string:0] уже имеет ожог!
++++
 [string:0] was poisoned!
-
+[string:0] получает отравление!
++++
 [string:0] was badly poisoned!
-
+[string:0] получает тяжёлое
+отравление!
++++
 [string:0] is already poisoned!
-
+[string:0] уже имеет отравление!
++++
 [string:0] is already badly poisoned!
-
+[string:0] уже имеет тяжёлое
+отравление!
++++
 [string:0] became frozen!
-
+[string:0] замораживается!
++++
 [string:0]'s appearance changed.
-
+Внешность Покемона [string:0]
+изменилась.
++++
 [string:0] was constricted!
-
+[string:0] подвергается ограничению!
++++
 [string:0] is already being constricted!
-
+[string:0] уже подвергается
+ограничению!
++++
 [string:0] became immobilized!
-
+[string:0] обездвиживается!
++++
 [string:0] is already immobilized!
-
+[string:0] уже под действием
+обездвиживания!
++++
 "[string:0]'s [c_i:1] kept it from
 being immobilized by [CS:J]Shadow Hold[CR]!"
-
+Способность [c_i:1] оберегает
+Покемона [string:0] от обездвиживания
+эффектом [CS:J]Хватка Теней[CR]!
++++
 [string:0] put down its roots!
-
+[string:0] зарывает свои корни!
++++
 [string:0] is already rooted!
-
+Покемон [string:0] уже зарыл корни!
++++
 [string:0] became wrapped!
-
+Покемона [string:0] обвивают!
++++
 [string:0] has a foe wrapped already!
-
+[string:0] уже обвивает врага!
++++
 [string:0] is already wrapped!
-
+Покемона [string:0] уже обвивают!
++++
 [string:0] attained [CS:J]Sure Shot[CR] status!
-
+[string:0] получает статус-эффект
+[CS:J]Точный Удар[CR]!
++++
 [string:0] already has [CS:J]Sure Shot[CR] status!
-
+[string:0] уже имеет [CS:J]Точный Удар[CR]!
++++
 [string:0] became a [CS:J]Whiffer[CR]!
-
+[string:0] становится [CS:J]Мазилой[CR]!
++++
 [string:0] is already a [CS:J]Whiffer[CR]!
-
+[string:0] уже [CS:J]Мазила[CR]!
++++
 [string:0] became petrified!
-
+[string:0] впадает в оцепенение!
++++
 [string:0] is already petrified!
-
+[string:0] уже в оцепенении!
++++
 [string:0] was blinded!
-
+[string:0] ослепляется!
++++
 [string:0] is already blinded!
-
+[string:0] уже ничего не видит!
++++
 [string:0] can't see properly!
-
+[string:0] не может чётко видеть!
++++
 [string:0] already can't see properly!
-
+[string:0] уже не может чётко видеть!
++++
 [string:0]'s vision was enhanced!
-
+Зрение Покемона [string:0]
+улучшилось!
++++
 [string:0]'s vision is already enhanced!
-
+Зрение Покемона [string:0] уже
+улучшилось!
++++
 [string:0] can now walk on water!
-
+[string:0] теперь может ходить по
+воде!
++++
 [string:0] is already affected by [CS:J]Slip[CR]!
-
+[string:0] уже под влиянием
+[CS:J]Ускольжения[CR]!
++++
 [string:0]'s vision has become poor!
-
+Зрение Покемона [string:0]
+затрудняется!
++++
 [string:0]'s already affected by [CS:J]Dropeye[CR]!
-
+[string:0] уже под влиянием
+[CS:J]Ясного Сглаза[CR]!
++++
 It had no effect on [string:0]!
-
+Это не оказывает эффекта на
+Покемона [string:0]!
++++
 "[string:0]'s damage was fixed at a
 certain amount!"
-
+Урон Покемона [string:0] был
+ограничен определённым значением!
++++
 "[string:0]'s damage is already fixed at a
 certain amount!"
-
+Урон Покемона [string:0] уже
+ограничен определённым значением!
++++
 [string:0] is getting pumped!
-
+[string:0] накачивается!
++++
 [string:0] is already pumped!
-
+[string:0] уже накачивается!
++++
 [string:0] cowered in fear!
-
+[string:0] трепещет от страха!
++++
 [string:0] is already cowering!
-
+[string:0] уже трепещет!
++++
 [string:0] became a [CS:J]Decoy[CR]!
-
+[string:0] становится [CS:J]Приманкой[CR]!
++++
 [string:0] is already a [CS:J]Decoy[CR]!
-
+[string:0] уже [CS:J]Приманка[CR]!
++++
 [string:0] protected itself!
-
+[string:0] защищает себя!
++++
 [string:0] is already protecting itself!
-
+[string:0] уже защищает себя!
++++
 [string:0] was taunted!
-
+[string:0] провоцируется!
++++
 [string:0] has been taunted already!
-
+[string:0] уже провоцируется!
++++
 [string:0] stored power. Now at [digits_c:0]!
-
+[string:0] запасает мощь. Запас: [digits_c:0]!
++++
 [string:0] can't store any more power!
-
+[string:0] больше не может копить
+мощь!
++++
 [string:0] became invisible!
-
+[string:0] получает невидимость!
++++
 [string:0] is invisible already!
-
+[string:0] уже под эффектом
+невидимости!
++++
 "[string:0] protected itself with
 Mirror Coat!"
-
+[string:0] оберегает себя
+Плащ-Зеркалом!
++++
 "[string:0] is already protected by
 Mirror Coat!"
-
+[string:0] уже под защитой
+Плащ-Зеркала!
++++
 [string:0] will faint after 3 turns!
-
+[string:0] потеряет сознание через
+3 хода!
++++
 "[string:0] is already affected by
 Perish Song!"
-
+[string:0] уже под влиянием
+Песни Гибели!
++++
 [string:0] readied its Destiny Bond!
-
+[string:0] готовит Узы Судьбы!
++++
 [string:0] already has [CS:J]Destiny Bond[CR] up!
-
+[string:0] уже держит [CS:J]Узы Судьбы[CR]
+наготове!
++++
 [string:0] earned an [CS:J]Encore[CR]!
-
+[string:0] вызывается на [CS:J]Бис[CR]!
++++
 [string:0] is already doing [CS:J]encores[CR]!
-
+[string:0] уже исполняет [CS:J]Бис[CR]!
++++
 [string:0] won't do [CS:J]encores[CR]!
-
+[string:0] не исполнит на [CS:J]Бис[CR]!
++++
 [string:0] is set to endure!
-
+[string:0] готовится вытерпеть удар!
++++
 [string:0] is already set to endure!
-
+[string:0] уже может вытерпеть удар!
++++
 [string:0] readied its Mirror Move!
-
+[string:0] готовит Мимикрию!
++++
 [string:0] already used Mirror Move!
-
+[string:0] уже имеет Мимикрию!
++++
 [string:0] has [CS:J]Conversion 2[CR] up!
-
+[string:0] держит [CS:J]Конверсию 2[CR]
+наготове!
++++
 [string:0] already has [CS:J]Conversion 2[CR] up!
-
+[string:0] уже держит [CS:J]Конверсию 2[CR]
+наготове!
++++
 [string:0] readied its Vital Throw!
-
+[string:0] готовит Контрбросок!
++++
 "[string:0] is already ready with its
 Vital Throw!"
-
+[string:0] уже может применить
+Контрбросок!
++++
 [string:0]'s stats returned to normal.
-
+Характеристики Покемона [string:0]
+вернулись в норму.
++++
 [string:0]'s stats didn't change.
-
+Характеристики Покемона [string:0]
+не изменились.
++++
 It psyched itself up!
-
+Покемон взбодрился!
++++
 [string:0]'s Belly went down.
-
+Сытость Покемона [string:0]
+снизилась.
++++
 [string:0]'s maximum Belly size shrank!
-
+Максимальный порог Сытости Покемона
+[string:0] снизился!
++++
 "[string:0]'s maximum Belly size
 increased!"
-
+Максимальный порог Сытости Покемона
+[string:0] увеличился!
++++
 "[string:0]'s maximum Belly size can't get
 any bigger!"
-
+Максимальный порог Сытости Покемона
+[string:0] больше не увеличится!
++++
 [string:0]'s Belly didn't change!
-
+Сытость Покемона [string:0] не
+изменилась!
++++
 [string:0]'s Belly size didn't change!
-
+Порог Сытости Покемона [string:0]
+не изменился!
++++
 [string:0]'s Belly didn't change!
-
+Порог Сытости Покемона [string:0]
+не изменился!
++++
 [string:0]'s Belly filled up fully!
-
+Сытость Покемона [string:0]
+восполнилась до максимума!
++++
 [string:0]'s Belly was somewhat filled!
-
+Сытость Покемона [string:0]
+немного восполнилась!
++++
 [string:0]'s Belly emptied!
-
+Сытость Покемона [string:0]
+достигла нуля!
++++
 "[string:0] transformed into
 [string:1]!"
-
+[string:0] трансформируется в
+Покемона [string:1]!
++++
 [string:0]'s transformation failed!
-
+Трансформация Покемона [string:0]
+не удалась!
++++
 [string:0] is already transformed.
-
+[string:0] уже трансформирован.
++++
 [string:0] can go through walls now!
-
+[string:0] теперь может проходить
+сквозь стены!
++++
 [string:0] can already go through walls!
-
+[string:0] уже может проходить
+сквозь стены!
++++
 [string:0] became muzzled!
-
+[string:0] получает немоту!
++++
 [string:0] is already muzzled!
-
+[string:0] уже под немотой!
++++
 [string:0] was exposed!
-
+[string:0] получает уязвимость!
++++
 [string:0] is already exposed!
-
+[string:0] уже имеет уязвимость!
++++
 [string:0] isn't a Ghost-type PokГ©mon!
-
+[string:0] не является Призраком!
++++
 "[string:0]'s evasiveness returned to
 normal!"
-
+Уклонение Покемона [string:0]
+вернулось в норму!
++++
 Item holders have been revealed!
-
+Показаны те, кто носит предметы!
++++
 Item holders have already been [CS:J]identified[CR].
-
+Все те, кто держат предметы, уже
+[CS:J]опознаны[CR].
++++
 [string:0] is already [CS:J]in a rage[CR]!
-
+[string:0] уже [CS:J]в ярости[CR]!
++++
 [string:0] took on a [CS:J]Gastro Acid[CR] status!
-
+[string:0] получает статус-эффект
+[CS:J]Желчь[CR]!
++++
 "[string:0] already has the [CS:J]Gastro Acid[CR]
 status!"
-
+[string:0] уже имеет статус-эффект
+[CS:J]Желчь[CR]!
++++
 [string:0] put up its Aqua Ring!
-
+[string:0] окутывает себя
+Аква Кольцом!
++++
 [string:0] already has Aqua Ring up!
-
+[string:0] уже находится под
+действием Аква Кольца!
++++
 [string:0] joined the Lucky Chant!
-
+[string:0] слышит Песнь Удачи!
++++
 [string:0] already has Lucky Chant up!
-
+[string:0] уже под действием
+Песни Удачи!
++++
 [string:0] took on a [CS:J]Heal Block[CR] status!
-
+[string:0] получает статус-эффект
+[CS:J]Блок Лечения[CR]!
++++
 "[string:0] already has the [CS:J]Heal Block[CR]
 status!"
-
+[string:0] уже имеет статус-эффект
+[CS:J]Блок Лечения[CR]!
++++
 [string:0] is blocked from healing!
-
+[string:0] не может лечиться!
++++
 "[string:0]'s items were subjected to an
 Embargo!"
-
+Предметы Покемона [string:0]
+подвергаются действию Эмбарго!
++++
 "[string:0]'s items are already under an
 Embargo!"
-
+Предметы Покемона [string:0] уже
+подвергаются действию Эмбарго!
++++
 "[string:0] is under Embargo! It can't
 use items!"
-
+[string:0] под действием Эмбарго!
+Покемон не может применять предметы!
++++
 [string:0] was seen by Miracle Eye!
-
+Покемон [string:0] замечен Глазом
+Миража!
++++
 "[string:0] was already seen by Miracle
 Eye!"
-
+Покемон [string:0] уже замечен
+Глазом Миража!
++++
 [string:0] is not a Dark-type PokГ©mon!
-
+[string:0] - не Тёмный Покемон!
++++
 [string:0] levitated using Magnet Rise!
-
+[string:0] начинает левитировать
+Магнитным Подъёмом!
++++
 [string:0] is already levitating.
-
+[string:0] уже левитирует.
++++
 Magnet Rise won't have any effect now!
-
+Магнитный Подъём больше не возымеет
+эффект!
++++
 Gravity's effect prevents the move!
-
+Гравитация не даёт приёму сработать!
++++
 [string:0]'s [string:1] rose [string:2]!
-
+[string:1] Покемона [string:0]
+[string:2] усиливается!
++++
 [string:0]'s [string:1] rose [string:2]!
-
+[string:1] Покемона [string:0]
+[string:2] усиливается!
++++
 [string:0]'s [string:1] fell [string:2]!
-
+[string:1] Покемона [string:0]
+[string:2] снижается!
++++
 [string:0]'s [string:1] fell [string:2]!
-
+[string:1] Покемона [string:0]
+[string:2] снижается!
++++
 [string:0]'s [string:1] fell slightly!
-
+[string:1] Покемона [string:0]
+слегка снижается!
++++
 "[string:0]'s [string:1] rose
 slightly!"
-
+[string:1] Покемона [string:0]
+слегка увеличивается!
++++
 [string:0]'s [string:1] fell!
-
+[string:1] Покемона [string:0]
+снижается!
++++
 [string:0]'s [string:1] rose!
-
+[string:1] Покемона [string:0]
+увеличивается!
++++
 [string:0]'s Attack was boosted.
-
+Атака Покемона [string:0]
+усиливается.
++++
 [string:0]'s Attack wasn't boosted.
-
+Атака Покемона [string:0]
+не усиливается.
++++
 [string:0]'s Sp. Attack was boosted.
-
+Спец. Атака Покемона [string:0]
+усиливается.
++++
 [string:0]'s Sp. Attack wasn't boosted.
-
+Спец. Атака Покемона [string:0]
+не усиливается.
++++
 [string:0]'s Defense was boosted.
-
+Защита Покемона [string:0]
+усиливается.
++++
 [string:0]'s Defense wasn't boosted.
-
+Защита Покемона [string:0]
+не усиливается.
++++
 [string:0]'s Sp. Defense was boosted.
-
+Спец. Защита Покемона [string:0]
+усиливается.
++++
 [string:0]'s Sp. Defense wasn't boosted.
-
+Спец. Защита Покемона [string:0]
+не усиливается.
++++
 "[string:0]'s [string:1] didn't go
 down!"
-
+[string:1] Покемона [string:0]
+не снижается!
++++
 "[string:0]'s [string:1] didn't go
 down!"
-
+[string:1] Покемона [string:0]
+не снижается!
++++
 "[string:0] is limber! It can't be
 paralyzed!"
-
+[string:0] - гибкий Покемон! Его
+нельзя парализовать!
++++
 "The item [item:1] protected
 [string:0] from paralysis!"
-
+Предмет [item:1] сберёг
+Покемона [string:0] от паралича!
++++
 But [string:0] didn't cringe!
-
+Но [string:0] не съёживается!
++++
 "[string:0] is oblivious! It doesn't get
 infatuated!"
-
+Покемон [string:0] забывчив!
+Очарование не сработало!
++++
 "[string:0]'s Nonsleeper IQ skill prevents
 drowsiness!"
-
+Навык IQ "Бессонница" Покемона
+[string:0] не даёт засыпать!
++++
 "[string:0]'s Insomnia prevents
 drowsiness!"
-
+Способность "Бессонница" Покемона
+[string:0] не даёт засыпать!
++++
 "[string:0]'s Vital Spirit prevents
 drowsiness!"
-
+Способность "Жизненный Дух" Покемона
+[string:0] не даёт засыпать!
++++
 [string:0]'s Own Tempo prevents confusion!
-
+Способность "Свой Темп" Покемона
+[string:0] оберегает от впадания
+в замешательство!
++++
 "[string:0]'s Magma Armor prevents
 freezing!"
-
+Способность "Броня Магмы" Покемона
+[string:0] защитила от заморозки!
++++
 [string:0] is an unfreezable type!
-
+[string:0] имеет тип, не дающий
+Покемону заморозиться!
++++
 "The magma's heat prevents [string:0]
 from freezing!"
-
+Жар магмы оберегает Покемона
+[string:0] от заморозки!
++++
 [string:0]'s Water Veil prevents burns!
-
+Способность "Завеса Воды" Покемона
+[string:0] защитила от ожога!
++++
 [string:0]'s type doesn't get burns!
-
+[string:0] имеет тип, не дающий
+Покемону получить ожоги!
++++
 "[string:0]'s Immunity prevents
 poisoning!"
-
+Способность "Иммунитет" Покемона
+[string:0] защитила от отравления!
++++
 [string:0]'s type doesn't get poisoned!
-
+[string:0] имеет тип, не дающий
+Покемону отравиться!
++++
 [string:0] was protected by its Band!
-
+[string:0] оберегается Браслетом!
++++
 [string:0] was protected by its Scarf!
-
+[string:0] оберегается Шарфом!
++++
 [string:0] was protected by its Scope!
-
+[string:0] оберегается Очками!
++++
 [string:0] was protected by its Band!
-
+[string:0] оберегается Браслетом!
++++
 [string:0] regained [CS:E]PP[CR].
-
+[string:0] восполняет свои [CS:E]ОС[CR].
++++
 [string:0] has full [CS:E]PP[CR] already!
-
+[string:0] уже имеет полные [CS:E]ОС[CR]!
++++
 It became the move [move:0]'s type!
-
+Покемон получает тип приёма
+[move:0]!
++++
 There were no moves Conversion could use!
-
+Нет приёмов для синергии с Конверсией!
++++
 It sketched the move [move:0]!
-
+Сделан эскиз приёма [move:0]!
++++
 There were no [CS:M]moves[CR] that could be sketched!
-
+[CS:M]Приёмов[CR] для эскиза не оказалось!
++++
 It avoided a burn by being on water!
-
+Будучи в воде, Покемон избегает ожога!
++++
 "The item [item:1] prevented
 [string:0] from becoming confused!"
-
+Предмет [item:1] сберёг
+Покемона [string:0] от введения
+в замешательство!
++++
 "The item [item:1] prevented
 [string:0] from becoming infatuated!"
-
+Предмет [item:1] сберёг
+Покемона [string:0] от введения
+в очарование!
++++
 "The item [item:1] prevented
 [string:0] from being frozen."
-
+Предмет [item:1] сберёг
+Покемона [string:0] от заморозки.
++++
 "The item [item:1] protected
 [string:0] from weather damage!"
-
+Предмет [item:1] сберёг
+Покемона [string:0] от урона
+погоды!
++++
 "The item [item:1] prevented
 [string:0]'s moves from being sealed!"
-
+Предмет [item:1] сберёг
+приёмы Покемона [string:0] от
+запрета!
++++
 "The item [item:1] halved the damage
 [string:0] took from the explosion!"
-
+Предмет [item:1] снизил
+урон от взрыва по Покемону
+[string:0] в два раза!
++++
 "The item [item:1] minimized damage to
 [string:0] from the explosion!"
-
+Предмет [item:1] снизил
+урон от взрыва по Покемону
+[string:0] до минимума!
++++
 "The item [item:1] protected
 [string:0] from taking a critical hit!"
-
+Предмет [item:1] сберёг
+Покемона [string:0] от
+получения критического удара!
++++
 "The item [item:1] protected
 [string:0] from falling asleep!"
-
+Предмет [item:1] сберёг
+Покемона [string:0] от сна!
++++
 Its Forecast prevents type switching!
-
+Прогноз не дал сменить тип!
++++
 Its Forecast prevents [CS:J]Conversion 2[CR]!
-
+[CS:J]Конверсия 2[CR] не работает из-за Прогноза!
++++
 [string:0]'s Synchronize took effect!
-
+Срабатывает Синхронность Покемона
+[string:0]!
++++
 accuracy
-
+точность
++++
 evasiveness
-
+уклонение
++++
 Defense
-
+Защита
++++
 Sp. Def.
-
+Сп. Зщт.
++++
 Attack
-
+Атака
++++
 Sp. Atk.
-
+Сп. Атк.
++++
 sharply
-
+сильно
++++
 slightly
-
+слегка
++++
 [string:0]'s [string:1] sharply rose!
-
+[string:1] Покемона [string:0]
+сильно увеличивается!
++++
 [string:0]'s [string:1] harshly fell!
-
+[string:1] Покемона [string:0]
+сильно снижается!
++++
 [string:0]'s [string:1] sharply rose!
-
+[string:1] Покемона [string:0]
+сильно увеличивается!
++++
 [string:0]'s [string:1] harshly fell!
-
+[string:1] Покемона [string:0]
+сильно снижается!
++++
 [string:0]'s [string:1] didn't change.
-
+[string:1] Покемона [string:0]
+не меняется.
++++
 [string:0]'s [string:1] didn't change.
-
+[string:1] Покемона [string:0]
+не меняется.
++++
 "[string:0]'s [string:1] won't go
 down any more!"
-
+[string:1] Покемона [string:0]
+больше не снизится!
++++
 "[string:0]'s [string:1] won't go up
 any more!"
-
+[string:1] Покемона [string:0]
+больше не увеличится!
++++
 "[string:0]'s [string:1] won't go up
 any more!"
-
+[string:1] Покемона [string:0]
+больше не увеличится!
++++
 "[string:0]'s [string:1] won't go
 down any more."
-
+[string:1] Покемона [string:0]
+больше не снизится.
++++
 "[string:0]'s [string:1] won't go up
 any more."
-
+[string:1] Покемона [string:0]
+больше не увеличится.
++++
 "[string:0]'s [string:1] won't go
 down any more."
-
+[string:1] Покемона [string:0]
+больше не снизится.
++++
 [string:0]'s speed didn't change!
-
+Скорость Покемона [string:0]
+не изменилась!
++++
 [string:0] can't go any faster!
-
+[string:0] не может быть ещё
+быстрее!
++++
 [string:0] can't go any slower!
-
+[string:0] не может быть ещё
+медленнее!
++++
 [string:1] can throw a long way!
-
+[string:1] теперь может далеко
+бросать предметы!
++++
 [string:1] can throw far already!
-
+[string:1] уже может далеко
+бросать предметы!
++++
 [string:1]'s throws can [CS:J]pierce[CR] things!
-
+Броски Покемона [string:1] могут
+[CS:J]пробивать[CR] препятствия!
++++
 [string:1]'s throws can [CS:J]pierce[CR] already!
-
+Броски Покемона [string:1] уже
+могут [CS:J]пробивать[CR] препятствия!
++++
 A Leech Seed can't be planted on the user!
-
+Зёрна-Пиявки нельзя посадить на
+применяющего!
++++
 "A Leech Seed couldn't be planted on
 [string:0]!"
-
+Зёрна-Пиявки нельзя посадить на
+Покемона [string:0]!
++++
 The move [move:0] was sealed!
-
+Приём [move:0] запрещён!
++++
 All of its moves are sealed already!
-
+Все приёмы Покемона уже запрещены!
++++
 [string:0] became terrified!
-
+[string:0] впадает в ужас!
++++
 Getting hungry...
-
+Вы ощущаете голод...
++++
 Getting dizzy from hunger...
-
+Голова кружится от голода...
++++
 Oh no! Your Belly's empty!
-
+О, нет! Ваша Сытость на нуле!
++++
 Hurry! You've got to eat something!
-
+Скорее! Вам нужно что-нибудь съесть!
++++
 You'll faint from hunger!
-
+Вы потеряете сознание от голода!
++++
 [string:1] took Perish Song's effect!
-
+[string:1] получает эффект
+Песни Гибели!
++++
 Its [CS:J]Protect[CR] saved it!
-
+[CS:J]Защита[CR] спасает Покемона!
++++
 But it couldn't be used!
-
+Но это не удалось применить!
++++
 [string:0] is watching carefully!
-
+[string:0] внимательно наблюдает!
++++
 It's impossible to go down the stairs now!
-
+Сейчас пока что невозможно ползоваться
+лестницей!
++++
 [string:0] can't throw items!
-
+[string:0] не может бросать
+предметы!
++++
 [string:0] had second thoughts!
-
+[string:0] передумывает!
++++
 The grudge took effect!
-
+Обида возымела эффект!
++++
 [string:0] acted under its sleep talk!
-
+[string:0] совершает действие
+с помощью лунатизма!
++++
 [string:0] snored!
-
+[string:0] храпит!
++++
 [string:0]'s PP Saver IQ skill activated!
-
+Срабатывает Навык IQ "Сберегатель ОС"
+Покемона [string:0]!
++++
 The [item:0] activated!
-
+Срабатывает предмет
+[item:0]!
++++
 [string:0] used a move without using [CS:E]PP[CR]!
-
+[string:0] применяет приём, не
+расходуя на него [CS:E]ОС[CR]!
++++
 [item:0] is all sticky! It doesn't work!
-
+Предмет [item:0] липкий!
+Его невозможно применить!
++++
 But a mysterious power prevented its use!
-
+Но загадочная сила не даёт это
+применить!
++++
 [string:0] is cringing!
-
+[string:0] съёживается!
++++
 [string:0] is infatuated!
-
+[string:0] под очарованием!
++++
 [string:0] is paralyzed!
-
+[string:0] под параличом!
++++
 Can't use moves here!
-
+Здесь нельзя применять приёмы!
++++
 "The walls crumbled! The floor is now one
 open room!"
-
+Стены рухнули! Теперь этаж - это одна
+большая комната!
++++
 This floor is already one open room!
-
+Этот этаж уже стал большой комнатой!
++++
 It has no effect here.
-
+Это не оказывает эффекта.
++++
 It has no effect here.
-
+Это не оказывает эффекта.
++++
 All traps were exposed!
-
+Ловушки обнаружены!
++++
 There appear to be no hidden traps.
-
+Кажется, здесь нет скрытых ловушек.
++++
 You've reached a destination floor!
-
+Вы достигли этажа с целью задания!
++++
 Wanted outlaw spotted!
-
+Вы нашли разыскиваемого негодяя!
++++
+---
 [string:1][M:T0] E-exploration team! Run!
-
+[string:1][M:T0] К-команда исследователей!
+Нужно бежать!
++++
 [string:1][M:T0] You've fallen into my trap!
-
+[string:1][M:T0] Вы угодили прямиком в мою
+ловушку!
++++
 There's an outlaw on this floor. I know it!
-
+На этом этаже негодяй.
+Я знаю это!
++++
 "Huh?[K] Th-this is...?[P]
 This is...isn't it...? Isn't this the place
 mentioned in the Treasure Memo?"
-
+Что?[K] Э-это...?[P]
+Это же...оно...? То самое место, что
+упоминается в Записке о Сокровищах?
++++
 "It's [string:1], who sent the
 Challenge Letter!"
-
+Это Покемон [string:1], который
+отправил вам Письмо с Вызовом!
++++
 [string:1][M:T0] Team [team:0]! Let's fight!
-
+[string:1][M:T0] Команда [team:0]!
+Сразимся!
++++
 "[string:1][M:T0] You're pretty brave coming
 here! [K]I'll show you just what power is!"
-
+[string:1][M:T0] А вы храбрецы, раз пришли
+сюда! [K]Я покажу вам истинную силу!
++++
 "[string:1][M:T0] You've kept me waiting, Team
 [team:0]![K] Let's get this fight started!"
-
+[string:1][M:T0] Вы заставили меня ждать,
+Команда [team:0]![K] Начнём битву!
++++
 "[string:1][M:T0] I've been waiting for you,
 Team [team:0]![K] Enjoy a jolt of electricity!"
-
+[string:1][M:T0] А вот и вы, Команда
+[team:0]![K] Наслаждайтесь искрами!
++++
 "[string:1][M:T0] Welcome, Team [team:0]![K]
 I feel refreshed and ready for a battle!"
-
+[string:1][M:T0] Приветствую, Команда
+[team:0]![K] Я себя прекрасно
+чувствую и могу сразиться!
++++
 "[string:1][M:T0] Oh, it's Team [team:0]![K]
 Thanks for coming! Let's battle!"
-
+[string:1][M:T0] О, это же Команда
+[team:0]![K] Спасибо за визит!
+Сразимся!
++++
 "You've reached a destination floor!
 But where's the target PokГ©mon...?"
-
+Вы достигли этажа с целью задания!
+Но где же нужный Покемон...?
++++
 "Yes!
 Found the treasure!"
-
+Ура!
+Вы нашли сокровище!
++++
 "Yes!
 Knocked out challenger [string:1]!"
-
+Ура!
+Вы одолели Покемона [string:1]!
++++
 "Yes!
 Knocked out outlaw [string:1]!"
-
+Ура!
+Вы одолели негодяя [string:1]!
++++
 "Yes!
 Knocked out outlaw [string:1]!"
-
+Ура!
+Вы одолели негодяя [string:1]!
++++
 "Huh?[K] [item:] was dropped![P]
 Yes![K]
 [string:1] was the outlaw!"
-
+А?[K] Выпадает [item:]![P]
+Ура![K]
+[string:1] - нужный негодяй!
++++
 "Yes! Retrieved the [item:1]! Let's
 return to Treasure Town and give the item
 back to [name:0]."
-
+Ура! Вы возвратили предмет
+[item:1]! Вернёмся в Город
+Сокровищ, дав его клиенту [name:0].
++++
 "[string:1][M:T0] ZZZT! Thank you for your
 cooperation in apprehending this outlaw! ZZZT!"
-
+[string:1][M:T0] БЗЗЗ! Спасибо за содействие
+в поимке этого негодяя! БЗЗЗ!
++++
 [string:1] got away...
-
+[string:1] сбегает...
++++
 "Your badge shines on [string:1], and
 [string:1] is transported away magically!"
-
+Ваш значок испускает яркий свет и
+телепортирует Покемона [string:1]!
++++
 "[string:1][M:T0] Thank you!
 I'll see you at the guild with
 your reward when you return!"
-
+[string:1][M:T0] Спасибо вам!
+Я буду ждать в гильдии с вашей
+наградой!
++++
 [string:1] escaped from the dungeon!
-
+[string:1] покидает подземелье!
++++
 [string:1] happily accepted the item!
-
+[string:1] с радостью принимает
+предмет!
++++
 [string:1]: Thank you!
-
+[string:1]: Спасибо!
++++
 [string:1] left the dungeon!
-
+[string:1] покидает подземелье!
++++
 "Yes! You've found [string:1]!
 Do you want to use your badge to
 rescue [string:1]?"
-
+Ура! Вы нашли Покемона [string:1]!
+Хотите применить значок и спасти
+Покемона [string:1]?
++++
 "Yes! You've located [string:1]!
 Do you want to deliver the requested
 item to [string:1]?"
-
+Ура! Вы нашли Покемона [string:1]!
+Хотите доставить требуемый предмет
+этому Покемону?
++++
 "Yes! You found the [item:1]!
 
 
 You've completed a mission! Do you want to
 leave the dungeon now?"
+Да! Найден предмет [item:1]!
 
+
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 "You completed a mission! Would you like to
 leave the dungeon now?"
-
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 Do you really want to leave?
-
+Вы действительно хотите уйти?
++++
 You want to continue exploring?
-
+Хотите продолжить исследовать это
+подземелье?
++++
 "The requested [item:0] isn't in the
 [gadget_bag]. There is nothing to deliver."
-
+У вас нет предмета [item:0].
+Доставлять нечего.
++++
 [string:1] can't talk now.
-
+[string:1] не может разговаривать.
++++
 "Yes! You completed [string:2]'s escort
 mission. [string:2] is delighted!"
-
+Ура! Вы завершили сопровождение
+Покемона [string:2]. Клиент доволен!
++++
 [string:1]: Thank you!
-
+[string:1]: Спасибо вам!
++++
 [string:2]'s twosome left the dungeon!
-
+Дуэт Покемона [string:2] покидает
+подземелье!
++++
 "You completed a mission! Would you like to
 leave the dungeon now?"
-
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 [string:2] doesn't seem to be around.
-
+Похоже, Покемона [string:2] здесь нет.
++++
 The mission can no longer be completed!
-
+Это задание невозможно завершить!
++++
 [string:1] can't talk now.
-
+[string:1] не может разговаривать.
++++
 [string:2] can't talk now.
-
+[string:2] не может разговаривать.
++++
 "Yes! You've reached the destination!
 [string:1] seems happy!"
-
+Ура! Вы достигли цели!
+[string:1] очень радуется!
++++
 [string:1]: Thank you!
-
+[string:1]: Спасибо вам!
++++
 [string:1] left the dungeon!
-
+[string:1] покидает подземелье!
++++
 "You've completed a mission! Would you like to
 leave the dungeon now?"
-
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 "Oh?[K] Could this be...? Is it the legendary...?[K]
 Golden Chamber...?[P]
 Yes![K] Finally![K] It's finally the Golden Chamber!"
-
+А?[K] Может ли это быть...? Легендарная..?[K]
+Золотая Комната...?[P]
+Да![K] Наконец-то![K] Это Золотая Комната!
++++
 [string:1]: Yes! Yay!
-
+[string:1]: Да! Ура!
++++
 [string:1] seems to be happy!
-
+[string:1] очень радуется!
++++
 [string:1]: Thank you!
-
+[string:1]: Спасибо!
++++
 [string:1] left the dungeon!
-
+[string:1] покидает подземелье!
++++
 "The Golden Chamber's wondrous atmosphere
 healed [string:1]!"
-
+Чудесная атмосфера Золотой Комнаты
+исцеляет Покемона [string:1]!
++++
 "You've completed a mission! Would you like to
 leave the dungeon now?"
-
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 [string:1]: Hey! Let me open the door!
-
+[string:1]: Эй! Дай мне открыть
+дверь!
++++
 [string:1] began dancing.
-
-"в™ЄThumpa-thumpв™Є[P]
-в™ЄPit-a-potв™Є[P]
-в™ЄThump-padumpв™Є"
-
+[string:1] начинает танцевать.
++++
+♪Thumpa-thump♪[P]
+♪Pit-a-pot♪[P]
+♪Thump-padump♪
+♪Тампа-тамп♪[P]
+♪Пит-а-пот♪[P]
+♪Там-падам♪
++++
 "Yes! You found one [item:1]!
 
 
 You've completed a mission! Would you like to
 leave the dungeon now?"
+Да! Найден предмет [item:1]!
 
+
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 "Yes! You found one [item:1]!
 [string:1] happily accepted the item!"
-
+Да! Найден предмет [item:1]!
+[string:1] с радостью берет предмет!
++++
 [string:1]: Thank you!
-
+[string:1]: Спасибо вам!
++++
 [string:1] left the dungeon!
-
+[string:1] покидает подземелье!
++++
 "You've completed a mission! Would you like to
 leave the dungeon now?"
-
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 Would you like to leave the dungeon now?
-
+Хотите покинуть подземелье?
++++
 "You've completed a mission! Would you like to
 leave the dungeon now?"
-
+Вы завершили задание! Хотите покинуть
+подземелье?
++++
 "[string:0] is anchored! It can't be
 thrown!"
-
+Покемон [string:0] пригвождён!
+Его невозможно бросить!
++++
 "[string:0] couldn't be thrown for some
 reason!"
-
+Покемона [string:0] почему-то
+невозможно бросить!
++++
 [string:0] was sent flying!
-
+[string:0] отправляется в полёт!
++++
 But it didn't go anywhere.
-
+Но это никуда не пошло.
++++
 Thank you! So very much! в™Є
-
+Спасибо! Большое спасибо! ♪
++++
 Thank you! I value your patronage! в™Є
-
+Спасибо! С вами приятно иметь
+дело! ♪
++++
 You don't seem to have enough money.
-
+Похоже, у вас недостаточно
+денег.
++++
 "That merchandise is [CS:E][gold_left:0][CR][M:S0].
 Want to buy it?"
-
+Этот товар обойдётся в [CS:E][gold_left:0][CR][M:S0].
+Хотите приобрести его?
++++
 "For that, I shall pay [CS:E][gold_left:0][CR][M:S0]!
 Want to sell it?"
-
+За это я заплачу [CS:E][gold_left:0][CR][M:S0]!
+Хотите продать ваш предмет?
++++
 "My friend! Quite the haggler!
 Such hard bargains you drive!"
-
+Дружище! Вы хорошо торгуетесь! 
+Такие сделки проворачиваете!
++++
 "My friend! Quite the haggler!
 Such high prices you demand!"
-
+Дружище! Вы хорошо торгуетесь!
+Такие высокие цены требуете!
++++
 Always delighted to be of service! в™Є
-
+Я всегда рад с вами иметь
+дело! ♪
++++
 Very disappointing.
-
+Очень жаль.
++++
 Thank you! Please come again! в™Є
-
+Спасибо! Приходите еще! ♪
++++
 Welcome! Welcome! в™Є
-
+Прошу! Добро пожаловать! ♪
++++
 My precious merchandise! Catch that thief!
-
+Мой бесценный товар! Держите
+воров!
++++
 It couldn't make a leap!
-
+Покемон не смог совершить прыжок!
++++
 [string:0] is anchored! It can't leap!
-
+[string:0] не может двигаться!
+Прыжки невозможны!
++++
 A trap was laid!
-
+Установлена ловушка!
++++
 A trap can't be laid here.
-
+Здесь нельзя разместить ловушку.
++++
 Its Scarf stopped the trap from activating!
-
+Шарф Покемона не дал ловушке сработать!
++++
 [string:1] avoided activating the trap!
-
+[string:1] не активирует ловушку!
++++
 Traps can't be destroyed here!
-
+Здесь нельзя уничтожать ловушки!
++++
 The trap failed to work!
-
+Ловушка не сработала!
++++
 Stepped on something weird!
-
+Под ногами что-то странное!
++++
 "The [item:0] became sticky and
 unusable!"
-
+[item:0] становится липким
+и неприменимым предметом!
++++
 But nothing happened in particular.
-
+Ничего конкретного не случилось. 
++++
 "The No-Stick Cap prevented items from
 getting sticky!"
-
+Не-Липучая Шапка оберегает предметы от
+прилипания!
++++
 A food item went bad!
-
+Предмет еды испортился!
++++
 Several food items went bad!
-
+Испортилось несколько предметов еды!
++++
 Nothing particularly bad happened.
-
+Ничего плохого не случилось.
++++
 But nothing happened!
-
+Ничего не произошло!
++++
 [string:0] fell into the [CS:H]Pitfall Trap[CR]!
-
+[string:0] падает в [CS:H]Яму-Ловушку[CR]!
++++
 Avoided the pitfall!
-
+Яма-Ловушка не срабатывает!
++++
 PokГ©mon were drawn close!
-
+Сюда идут Покемоны!
++++
 But nothing happened!
-
+Ничего не произошло!
++++
 The move [move:0] lost its [CS:E]PP[CR]!
-
+Приём [move:0] теряет [CS:E]ОС[CR]!
++++
 All [CS:E]PP[CR] is already gone!
-
+Все [CS:E]ОС[CR] уже потеряны!
++++
 But nothing happened!
-
+Ничего не произошло!
++++
 Unclaimed items turned into PokГ©mon!
-
+Несобранные вещи превратились в
+Покемонов!
++++
 Nothing happened!
-
+Ничего не произошло!
++++
 It had no effect on [string:0]!
-
+Это не оказало эффекта на Покемона
+[string:0]!
++++
 All PokГ©mon on the floor now hold a grudge!
-
+Все Покемоны на этаже стали обижены!
++++
 But nothing happened!
-
+Ничего не произошло!
++++
 [string:0] warped!
-
+[string:0] телепортируется!
++++
 There's nowhere to warp!
-
+Некуда телепортироваться!
++++
 It's already on the stairs.
-
+Покемон уже рядом с лестницей.
++++
 [string:0] is anchored! It won't warp!
-
+[string:0] не может двигаться!
+Телепортация невозможна!
++++
 But it dropped back at the same spot!
-
+Покемон очутился на том-же месте!
++++
 The [CS:M]move[CR] failed!
-
+[CS:M]Приём[CR] не сработал!
++++
 The [CS:I]Orb[CR] failed!
-
+[CS:I]Орб[CR] не сработал!
++++
 [string:0] is paralyzed!
-
+[string:0] под действием паралича!
++++
 But the [CS:M]move[CR] couldn't be used!
-
+[CS:M]Приём[CR] не может быть применён!
++++
 But [CS:I]Orbs[CR] are prevented from being used!
-
+[CS:I]Орбы[CR] не могут быть применены!
++++
 [string:0] is muzzled!
-
+[string:0] под эффектом немоты!
++++
 [string:0] is cringing!
-
+[string:0] съёживается!
++++
 [string:0] is infatuated!
-
+[string:0] очаровывается!
++++
 But a mysterious power prevented its use!
-
+Загадочная сила не дала это применить!
++++
 The move [move:0] can't be used!
-
+Приём [move:0] нельзя применить!
++++
 Assist: [move:0]
-
+Поддержка: [move:0]
++++
 Assist: Failed.
-
+Поддержка: Не вышло.
++++
 Arena Trap prevents movement!
-
+Ловушка Арены не даёт двигаться!
++++
 Shadow Tag prevents movement!
-
+Метка Теней не даёт двигаться!
++++
 Magnet Pull prevents movement!
-
+Магнетизм не даёт двигаться!
++++
 Static caused paralysis!
-
+Статика поражает параличом!
++++
 Effect Spore scattered spores!
-
+Эффект Спор распространяет споры!
++++
 Poison Point struck!
-
+Срабатывает Касание Яда!
++++
 Effect Spore scattered spores!
-
+Эффект Спор распространяет споры!
++++
 Effect Spore scattered spores!
-
+Эффект Спор распространяет споры!
++++
 Flame Body caused a burn!
-
+Тело Пламени обжигает!
++++
 Cute Charm caused infatuation!
-
+Способность Очарование повергло
+в очарование!
++++
 "A horrid stench billowed out!
 [string:0] became terrified!"
-
+Поднялась ужасная вонь!
+[string:0] в ужасе!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 The [item:0] activated!
-
+Срабатывает [item:0]!
++++
 [string:0] waggled its finger!
-
+[string:0] машет пальцем!
++++
 [string:0] drew out nature's power!
-
+[string:0] черпает силу природы!
++++
 [string:0] unleashed [move:0]!
-
+[string:0] обрушивает мощь приёма
+[move:0]!
++++
 [string:0] used the [item:0].
-
+[string:0] применяет предмет
+[item:0].
++++
 [M:D1][wiseness:1]
 
 "[string:1] didn't attack! [string:0]'s
 Intimidator IQ skill made it cringe!"
-
+[string:1] не совершает атаку! Навык
+IQ "Устрашитель" Покемона [string:0]
+заставляет атакующего съёжиться!
++++
 It's Magnitude [digits_c:0]!
-
+Магнитуда [digits_c:0]!
++++
 The [CS:M]move[CR] was snatched!
-
+[CS:M]Приём[CR] перехвачен!
++++
 The LightningRod ability drew the attack!
-
+Громоотвод притягивает атаку!
++++
 The Storm Drain ability drew the attack!
-
+Воронка притягивает атаку!
++++
 The [CS:M]move[CR] was passed off!
-
+[CS:M]Приём[CR] передан!
++++
 There's no one to pass off to!
-
+Но это некому передать!
++++
 "A mysterious force prevents moves from
 being passed off!"
-
+Загадочная сила не даёт передавать
+приёмы!
++++
 The attack was passed off!
-
+Атака передана!
++++
 There's no one to pass off to!
-
+Но это некому передать!
++++
 [string:1] appears to be dangerous!
-
+[string:1] выглядит грозно!
++++
 The target's Magic Coat bounced it back!
-
+Чудо-Плащ цели отражает атаку!
++++
 The target's [item:0] bounced it back!
-
+Предмет цели [item:0]
+отражает воздействие!
++++
 The target's Mirror Move returned it!
-
+Мимкрия отражает приём!
++++
 The [item:1] activated!
-
+Срабатывает [item:1]!
++++
 [string:1] protected itself!
-
+[string:1] защищает себя!
++++
 "[string:1]'s Soundproof suppressed the
 sound move!"
-
+Способность "Беззвучность" Покемона
+[string:1] подавляет звуковой приём!
++++
 "[string:1] relied on [c_i:2] to
 evade it!"
-
+[string:1] применяет [c_i:2]
+чтобы избежать этого!
++++
 The move missed [string:1]!
-
+Приём не попал по Покемону [string:1]!
++++
 The move failed to impact [string:1]!
-
+Приём не оказывает влияния на
+Покемона [string:1]!
++++
 The move failed to affect [string:1]!
-
+Приём не оказывает влияния на
+Покемона [string:1]!
++++
 It had no effect on [string:1]!
-
+Это не оказало эффекта на Покемона
+[string:1]!
++++
 It had no effect on [string:1]!
-
+Это не оказало эффекта на Покемона
+[string:1]!
++++
 [string:2] shielded [string:1]!
-
+[string:2] защищает Покемона
+[string:1]!
++++
 [string:0] used U-turn to keep distance!
-
+[string:0] применяет Разворот,
+сохраняя дистанцию!
++++
 [string:0] quickly stepped back!
-
+[string:0] быстро делает шаг назад!
++++
 [string:1] took no damage!
-
+[string:1] не получает урона!
++++
 It can only be used on the ground!
-
+Это можно применить только на земле!
++++
 The weather didn't change.
-
+Погода не изменилась.
++++
 The weather didn't change.
-
+Погода не изменилась.
++++
 The weather didn't change.
-
+Погода не изменилась.
++++
 The weather didn't change.
-
+Погода не изменилась.
++++
 The target's HP can't be halved any more!
-
+ОЗ цели больше не могут быть
+уполовинены!
++++
 "[string:0] and [string:1] shared
 their [CS:E]HP[CR]!"
-
+[string:0] и [string:1] разделяют
+свои [CS:E]ОЗ[CR]!
++++
 [move:0] was tormented!
-
+[move:0] теперь цель мучения!
++++
 The target couldn't be tormented!
-
+Цель не может подвергнуться мучению!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 "The last move used by [string:1] lost all
 its [CS:E]PP[CR]!"
-
+Последний приём, применённый Покемоном
+[string:1], теряет все [CS:E]ОС[CR]!
++++
 Nothing happened to [string:1].
-
+С Покемоном [string:1] ничего не
+произошло.
++++
 [string:1] bears a grudge!
-
+[string:1] таит обиду!
++++
 [string:1] already bears a grudge!
-
+[string:1] уже таит обиду!
++++
 The barrier was shattered!
-
+Барьер раскалывается!
++++
 Poor type match! It has no effect!
-
+Не тот тип! Нет эффекта!
++++
 "[string:0] swapped special abilities with
 the target!"
-
+[string:0] меняется способностями
+с целью!
++++
 "[string:0] couldn't swap special abilities
 with the target!"
-
+[string:0] не может меняться
+способностями с целью!
++++
 "[string:0] couldn't swap special abilities
 with the target!"
-
+[string:0] не может меняться
+способностями с целью!
++++
 Poor type match! It has no effect!
-
+Не тот тип! Нет эффекта!
++++
 It can only be used on water!
-
+Это можно применить только в воде!
++++
 Poor type match! It has no effect!
-
+Не тот тип! Нет эффекта!
++++
 It can't lend a helping hand to itself!
-
+Покемон не может дать руку помощи себе!
++++
 [string:0]'s move missed!
-
+[string:0] промахивается!
++++
 "[string:0] swapped items with
 [string:1]!"
-
+[string:0] меняется предметами с
+Покемоном [string:1]!
++++
 The item swap failed!
-
+Смена предметов не удалась!
++++
 But the target's item couldn't be taken!
-
+Предмет цели невозможно взять!
++++
 [string:1] was protected by its Specs!
-
+[string:1] оберегается Очками!
++++
 [string:0] copied the target's ability!
-
+[string:0] копирует способность цели!
++++
 "[string:0] couldn't copy the target's
 Wonder Guard!"
-
+[string:0] не может копировать
+способность Чудо-Защита у цели!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 Nothing happened.
-
+Ничего не произошло.
++++
 But no power had been stored!
-
+Нет запасённой мощи!
++++
 It had no power stockpiled to spit up!
-
+Покемон не запас мощи, чтобы её
+выплеснуть!
++++
 But the target's item couldn't be taken!
-
+Предмет цели невозможно взять!
++++
 [string:1]'s item was swatted down!
-
+Предмет Покемона [string:1] был выбит!
++++
 The target has no item!
-
+У цели нет предмета!
++++
 [string:1] was protected by its Specs!
-
+[string:1] оберегается Очками!
++++
 It couldn't flop around!
-
+Плеск не удался!
++++
 [string:0] was too hungry to use it!
-
+[string:0] слишком сильно хочет есть,
+чтобы это использовать!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 Transform can't be used here!
-
+Здесь нельзя трансформироваться!
++++
 [string:1] became the [type:0] type.
-
+[string:1] получает тип: [type:0].
++++
 A trap can't be laid here.
-
+Здесь нельзя разместить ловушку.
++++
 [string:0] mimicked its foe!
-
+[string:0] имитирует своего врага!
++++
 [string:0]'s Mimic failed!
-
+Имитация Покемона [string:0]
+не сработала!
++++
 It only works on a sleeping target!
-
+Это может сработать только на
+спящей цели!
++++
 Used TMs were recycled!
-
+Применённые ТМ переработаны!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 Can't use that diagonally!
-
+Это нельзя применять диагонально!
++++
 It dug into the facing wall!
-
+Покемон закапывается в стену!
++++
 Can't use that here!
-
+Это нельзя здесь применить!
++++
 [string:1] was protected by its Specs!
-
+[string:1] оберегается Очками!
++++
 Got [string:1]'s item!
-
+Получен предмет Покемона [string:1]!
++++
 "[string:0] has an item already. It couldn't
 steal another item."
-
+[string:0] уже имеет предмет.
+Покемон не может украсть другую вещь.
++++
 [string:1] doesn't have anything!
-
+[string:1] ничего не имеет!
++++
 "The [gadget_bag] is full. [string:0]
 couldn't get the item!"
-
+[gadget_bag] заполнена.
+[string:0] не может получить предмет!
++++
 But the target's item couldn't be taken!
-
+Но предмет цели не мог быть взят!
++++
 But the target's item couldn't be taken!
-
+Но предмет цели не мог быть взят!
++++
 It cleaned all sticky, gummed-up items!
-
+Все липкие предметы очищены!
++++
 There were no sticky, gummed-up items.
-
+Липких предметов не было найдено.
++++
 "[string:0] transformed into
 [string:1]!"
-
+[string:0] трансформируется в
+Покемона [string:1]!
++++
 [string:0] can't transform!
-
+[string:0] не трансформируется!
++++
 [string:0] escaped!
-
+[string:0] сбегает!
++++
 [string:0] can't escape!
-
+[string:0] не может сбежать!
++++
 Nearby traps were destroyed!
-
+Ближайшие ловушки уничтожены!
++++
 There were no traps.
-
+Ловушек не найдено.
++++
 Can't destroy traps here!
-
+Здесь невозможно уничтожить ловушки!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 It filled in the ground in front!
-
+Земля спереди наполняется!
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 But nothing happened.
-
+Ничего не произошло.
++++
 The Gyro Ball howled!
-
+Завывает Гироболл!
++++
 It had no effect on [string:0]!
-
+Это не оказало эффекта на Покемона
+[string:0]!
++++
 [string:0] wasn't captivated!
-
+[string:0] не поддаётся соблазнению!
++++
 [string:0] didn't become infatuated!
-
+[string:0] не очаровывается!
++++
 "[string:0] has no move that can be stolen
 with [CS:M]Me First[CR]!"
-
+[string:0] не имеет приёма, который
+можно украсть приёмом [CS:M]Я Первый[CR]!
++++
 [string:0] used [CS:M]Me First[CR]!
-
+[string:0] применяет [CS:M]Я Первый[CR]!
++++
 "[string:0]'s [c_i:1] ability
 prevents insomnia!"
-
+Способность [c_i:1] Покемона
+[string:0] оберегает от бессонницы!
++++
 [string:0] used [move:0]!
-
+[string:0] применяет приём
+[move:0]!
++++
 Oh no! [string:0] chose [move:0]!
-
+О, нет! [string:0] выбирает приём
+[move:0]!
++++
 [string:0] used its regular attack!
-
+[string:0] бъёт обычным ударом!
++++
 [string:0] can't take it anymore!
-
+[string:0] больше не может это
+терпеть!
++++
 [string:0]'s [CS:E]HP[CR] went up [digits_c:0]!
-
+[string:0]: [CS:E]ОЗ[CR] повышаются на [digits_c:0]!
++++
 [string:0]'s Attack went up [digits_c:1]!
-
+[string:0]: Атака возросла на [digits_c:1]!
++++
 [string:0]'s Defense went up [digits_c:2]!
-
+[string:0]: Защита возросла на [digits_c:2]!
++++
 [string:0]'s Sp. Atk. went up [digits_c:3]!
-
+[string:0]: Сп. Атк. возросла на [digits_c:3]!
++++
 [string:0]'s Sp. Def. went up [digits_c:4]!
-
+[string:0]: Сп. Зщт. возросла на [digits_c:4]!
++++
 [string:0] didn't level up.
-
+[string:0] не повышает уровень.
++++
 [string:0] didn't level down.
-
+[string:0] не понижает уровень.
++++
 [string:0] gained [CS:E][digits_c:0][CR] Exp. Points!
-
+[string:0] получает [CS:E][digits_c:0][CR] Очков Опыта!
++++
 [string:0] grew to Level [digits_c:0]!
-
+[string:0] получает [digits_c:0] Уровень!
++++
 [string:0] dropped to Level [digits_c:0]!
-
+[string:0]: Уровень снижается до [digits_c:0]!
++++
 [string:0]'s level didn't go down.
-
+[string:0] не снижает свой уровень.
++++
 [string:0] learned [move:0]!
-
+[string:0] изучает приём [move:0]!
++++
 [string:0] didn't learn the new [CS:M]move[CR].
-
+[string:0] не изучает новый [CS:M]приём[CR].
++++
 "This PokГ©mon can learn a new [CS:M]move[CR] but must
 forget an old one first. (To relearn an old
 [CS:M]move[CR], go to the [CS:N]Electivire[CR] Link Shop.)"
-
+Покемон может изучить новый [CS:M]приём[CR], но
+должен забыть один из старых. (Чтобы
+вернуть [CS:M]приём[CR], говорите с [CS:N]Элективайром[CR].)
++++
 "This PokГ©mon can learn a new [CS:M]move[CR] but must
 forget an old one to make space for it."
-
+Покемон может изучить новый [CS:M]приём[CR], но
+он должен забыть один из старых, чтобы
+освободить для него место. 
++++
 Yes! [string:0] leveled up!
-
+Ура [string:0] повышает уровень!
++++
 "A PokГ©mon can know [CS:V]four[CR] [CS:M]moves[CR] at a time.
 Which [CS:M]move[CR] should it forget?"
-
+Покемон может знать только [CS:V]четыре[CR]
+[CS:M]приёма[CR] одновременно.
+Какой из [CS:M]приёмов[CR] забыть?
++++
 [string:0] evolved into [name:1]!
-
+[string:0] эволюционирует в Покемона
+[name:1]!
++++
 "[string:0] can now tell a teammate to
 act on the Tactic: [tactics:1]!"
-
+[string:0] теперь может приказать
+союзнику действовать по Тактике:
+[tactics:1]!
++++
 "[string0] exchanged its Attack and
 Sp. Atk. modifications with [string:1]!"
-
+[string0] меняется изменениями Атаки
+и Сп. Атк. с Покемоном [string:1]!
++++
 "[string0] exchanged its Attack and
 Sp. Atk. modifications with [string:1]!"
-
+[string0] меняется изменениями Атаки
+и Сп. Атк. с Покемоном [string:1]!
++++
 "[string0] exchanged its Defense and
 Sp. Def. modifications with [string:1]!"
-
+[string0] меняется изменениями Защиты
+и Сп. Зщт. с Покемоном [string:1]!
++++
 "[string0] exchanged its Defense and
 Sp. Def. modifications with [string:1]!"
-
+[string0] меняется изменениями Защиты
+и Сп. Зщт. с Покемоном [string:1]!
++++
 "[string0] exchanged its stat
 modifications with [string:1]!"
-
+[string0] меняется изменениями
+атрибутов с Покемоном [string:1]!
++++
 "[string0] swapped modifications to its
 Attack and Defense!"
-
+[string0] меняется изменениями своих
+Атаки и Защиты!
++++
 Stairs appeared!
-
+Появилась лестница!
++++
 " Good afternoon and congrats.
 You've found the Secret Bazaar![C]
  I'm [CS:N]Kirlia[CR] the Bazaar Guide.
 Feel free to explore the shops here."
-
+ Добрый вечер. Мои поздравления.
+Вы нашли Секретный Базар![C]
+ Я - [CS:N]Кирлия[CR], Гид Базара.
+Не стесняйтесь, осматривайте прилавки.
++++
 " Hello and welcome, Explorers!
 I've got some wonderful, wonderful grab bags
 here. You never know what's inside!"
-
+ Здравствуйте, Исследователи!
+Я продаю чудесные, чудеснейшие мешочки.
+Кто знает, что в них внутри!
++++
 " Try one and see? Only [CS:E][gold_left:0][CR][M:S0]
 to find out what's hiding inside!"
-
+ Хотите купить один из них?
+Всего лишь за [CS:E][gold_left:0][CR][M:S0], вы узнаете его
+содержимое!
++++
 " Wonderful, amazing grab bags!
 You'll have to buy one to see what's inside."
-
+ Чудесные, удивительные мешочки!
+Купите их и узнаете, что внутри.
++++
 " Oh, too bad. You don't seem to
 have enough money.[C]
  Save up, and buy a bag the next
 time you visit!"
-
+ Ох, очень жаль. У вас не
+хватает денег.[C]
+ Накопите побольше и приходите
+в другой раз!
++++
 " Oh, too bad. Your Treasure Bag
 seems to be full.[C]
  Put a few things in storage
 and come back!"
-
+ Ох, очень жаль. Ваша Сумка с
+Ценностями заполнена.[C]
+ Положите что-нибудь в хранилище
+и приходите ещё!
++++
 " This right here is a wonderful,
 amazing grab bag!"
-
+ Вот чудесный, удивительный
+мешочек!
++++
 " Wonderful, amazing grab bags!
 What was inside? Something amazing?
 Come back and try again some time!"
-
+ Чудесные, удивительные мешочки!
+Что было внутри? Что-то интересное?
+Приходите снова и попытайте удачу!
++++
 "[CN][string:1] bought a
 [CN]wonderful, amazing grab bag!"
-
+[CN][string:1] покупает
+[CN]чудесный, удивительный мешочек!
++++
 [CN][string:1] opened the grab bag!
-
+[CN][string:1] открывает мешочек!
++++
 "[CN]Inside there was a
 [CN][item:0]!"
-
+[CN]Внутри находится
+[CN][item:0]!
++++
 Buy
-
+Купить
++++
 Cancel
-
+Отмена
++++
 " I'm [CS:N]Shedinja[CR] the Escape Guide.
 I know a secret way outta the dungeon..."
-
+ Я - [CS:N]Шединья[CR], Проводник.
+Я знаю секретный путь из подземелья...
++++
 " If you give me [CS:E][gold_left:0][CR][M:S0],
 I'll show ya how to get outta the dungeon."
-
+ Если вы дадите мне [CS:E][gold_left:0][CR][M:S0], я
+выведу вас из подземелья.
++++
 " Awright, then...
 Come find me if ya ever wanna escape
 from the dungeon..."
-
+ Хорошо...
+Если захотите покинуть подземелье,
+обратитесь ко мне...
++++
 " Um...I hate to tell ya, but ya
 don't got enough money..."
-
+ Эм... Не хочу огорчать, но
+у вас не хватает денег...
++++
 " Awright. Wait... Are you sure ya
 wanna leave the dungeon?"
-
+ Хорошо. Но... Вы точно хотите
+покинуть подземелье?
++++
 " Awright, then...
 Come find me if ya ever wanna escape
 from the dungeon..."
-
+ Хорошо...
+Если захотите покинуть подземелье,
+обратитесь ко мне...
++++
 " Awright... Follow this secret
 path and you're outta here."
-
+ Хорошо... Следуйте по этому
+скрытому пути и выберетесь отсюда.
++++
 Escape the dungeon
-
+Покинуть подземелье
++++
 Cancel
-
+Отмена
++++
 Yes
-
+Да
++++
 No
-
-" Hee hee. в™Є Hello! в™Є
-This is [CS:K]Mime Jr.[CR]'s Spa. в™Є"
-
+Нет
++++
+ Hee hee. ♪ Hello! ♪
+This is [CS:K]Mime Jr.[CR]'s Spa. ♪
+ Хи-хи. ♪ Привет! ♪
+Это Спа [CS:K]Майма Мл.[CR]. ♪
++++
 " For just [CS:E][gold_left:0][CR][M:S0], I'll restore
 your [CS:E]HP[CR], [CS:E]PP[CR], and even your Belly!
 What do you think? Would you like to try it?"
-
+ Всего лишь за [CS:E][gold_left:0][CR][M:S0], я
+полностью восполню вам [CS:E]ОЗ[CR], [CS:E]ОС[CR] и даже
+Сытость! Ну как? Хотите отдохнуть?
++++
 " Hee hee. в™Є Hello! в™Є
 This is [CS:K]Mime Jr.[CR]'s Spa. в™Є[C]
  I'm sorry, I'm too tired to
 continue today.
 Come back again. в™Є"
-
+ Хи-хи. ♪ Привет! ♪
+Это Спа [CS:K]Майма Мл.[CR]. ♪[C]
+ Прошу прощения, но у меня
+не осталось сил.
+Приходите ещё. ♪
++++
 " Awwww, you're going to leave?
 Come back anytime you feel like relaxing. в™Є"
-
+ Оооо, уже уходите?
+Приходите, если захотите отдохнуть. ♪
++++
 " Oh no! You don't have enough
 money? Come back again later, OK? в™Є"
-
+ О, нет! У вас не хватает
+денег? Возвращайтесь позже, хорошо? ♪
++++
 " Hee hee. в™Є Thanks! в™Є
 Here it goes! [C]
  [CS:K]Mime Jr.[CR]'s healing beeeeam!"
-
+ Хи-хи. ♪ Спасибо! ♪
+Вот он![C]
+ Мой целебный лууууууч!
++++
 " What do you think? Feeling
 better? Come back anytime! в™Є"
-
+ Ну как вам? Уже лучше?
+Приходите ещё! ♪
++++
 [CN][CS:E]HP[CR], Belly, and [CS:E]PP[CR] were completely restored!
-
+[CN][CS:E]ОЗ[CR], [CS:E]ОС[CR] и Сытость полностью
+восполнены!
++++
 Heal
-
+Лечение
++++
 Cancel
-
+Отмена
++++
 " Bloo-bloo...
 You have itemth that have gotten thticky?"
-
+ Блуу-блуу...
+У ваш ешть липкие пфетмефы?
++++
 " I'll clean up all the itemth in
 your Treathure Bag for [CS:E][gold_left:0][CR][M:S0]."
-
+ Я пошищу вще пфетмефы в
+Шумке Ш Шенношфями за [CS:E][gold_left:0][CR][M:S0].
++++
 " Whaaaaa?
 Come back anytime your itemth get thticky."
-
+ Чтааааа?
+Пфиходите, ешли пфетмефы будут липкие.
++++
 " Whaaaaa?
 You don't have enough money..."
-
+ Чтааааа?
+У ваш недоштаточно денег...
++++
 " Whaaaaa?
 You don't have thticky itemth in your bag."
-
+ Чтааааа?
+У ваш нет липкиф пфетмефоф в шумке...
++++
 " OK, here we go!
 Bloo-bloo-bloo-bloo-bloo-bloo...!"
-
+ Ну лафно, нащинаю!
+Блуу-блуу-блуу-блуу-блуу-блуу...!
++++
 " Phew... All clean. Come on back
 if any more of your itemth get thticky."
-
+ Фюф... Фсё щишто. Пфиходите,
+ешли ваши пфетмефы будут липкие.
++++
 Clean
-
+Чистка
++++
 Cancel
-
+Отмена
++++
 [CN]Cleaned the stickiness off the item!
--
+[CN]Предмет очищен от липкости!
++++
+---
 Tactics: [string:0]
 Тактика: [string:0]
 Tactics: Everyone
 Тактика: Для всех
 Team Leader
 Лидер группы
--
+---
 [tactics:0]
-
+---
 [item:0] became sticky.
-
+[item:0] теперь прилипает.
+---
  Hey, I leveled up!
-
+ Эй, у меня новый уровень!
++++
  I leveled up! Great!
-
+ У меня новый уровень!
+Отлично!
++++
  Good timing! I leveled up!
-
+ Как раз вовремя! У меня
+новый уровень!
++++
  I leveled up! I leveled up!
-
+ Новый уровень!
+У меня новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__004
-
++++
  Well, look at that. My level's up!
-
+ О, только гляньте на это.
+У меня новый уровень!
++++
  Hey, look! My level's up!
-
+ О, смотрите! Новый уровень!
++++
  My level's just gone up!
-
+ У меня повысился уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__008
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__009
-
++++
  What... Did I level up?
-
+ Что... У меня повысился
+уровень?
++++
  Hey... I leveled up! I'm stronger!
-
+ Эй... У меня новый уровень!
+Я теперь сильнее!
++++
 " Yay! I leveled up! I can try even
 harder now!"
-
+ Ура! Новый уровень!
+Теперь я могу сражаться ещё усерднее!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__013
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__014
-
++++
  Well, well. I've leveled up.
-
+ Так, так. Новый уровень.
++++
  Look at that. I leveled up.
-
+ Ну только гляньте. У меня
+новый уровень.
++++
 " Well, well. I'm suddenly tougher.
 I leveled up!"
-
+ Так, так. Внезапно у меня
+стало больше сил. Это новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__018
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__019
-
++++
  Oho! I gained a level!
-
+ Ого! У меня новый уровень!
++++
  Oho! Gained a level, did I?
-
+ Ого! У меня новый уровень?
++++
 " Oho! Gained a level right in
 the nick of time!"
-
+ Ого! Новый уровень, как
+раз вовремя!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__023
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__024
-
++++
  Yes! I hit my next level!
-
+ Да! Вот и мой новый
+уровень!
++++
  Ha! I hit my next level!
-
+ Ха! Вот и мой новый
+уровень!
++++
 " Feel the power! I just hit my
 next level!"
-
+ Почувствуйте мою мощь!
+У меня новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__028
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__029
-
++++
  Leveled...up!
-
+ Новый... уровень!
++++
  Up... Leveled...up!
-
+ Ещё... новый... Уровень!
++++
  Up... Up... Leveled...up!
-
+ Ещё... Ещё... новый...
+Уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__033
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__034
-
++++
  Ha! Give me my level-up!
-
+ Ха! Давайте-ка сюда мой
+новый Уровень!
++++
  Yeah! That's my level-up!
-
+ Да! Вот и мой новый Уровень!
++++
 " Yeah! Oh, yeah! Time for my
 level-up!"
-
+ Да! О, да! Самое время для
+моего нового Уровня!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__038
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__039
-
++++
  What was that? I leveled up?
-
+ Что это было? Новый уровень?
++++
  Look at that! I leveled up!
-
+ Только гляньте! У меня новый
+Уровень!
++++
  What?! I just leveled up again!
-
+ Что?! У меня снова новый
+Уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__043
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__044
-
++++
  Tee-hee! I think I leveled up!
-
+ Хи-хи! Думаю, у меня новый
+уровень!
++++
  Ta-da! I leveled up!
-
+ Та-да! Новый уровень!
++++
  Hey, hey! I just leveled up again!
-
+ Эй, эй! У меня снова новый
+уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__048
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__049
-
++++
  Yeah! I leveled up!
-
+ Ура! Новый уровень!
++++
  Yeah! That's my level going up!
-
+ Ура! Это мой новый уровень!
++++
 " Yeah, I leveled up! You wanna
 make something of it?"
-
+ Ура, у меня новый уровень!
+О чём то хотите поспорить?
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__053
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__054
-
++++
  Wha-what? Did I level up?
-
+ Ч-что? У меня новый уровень?
++++
  Hey, hey! I leveled up!
-
+ Эй, эй! У меня новый уровень!
++++
  Ha-ha! I just leveled up!
-
+ Ха-ха! У меня теперь новый
+уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__058
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__059
-
++++
  YEAH! I leveled up!
-
+ ДА! Новый уровень!
++++
  Leveled up! Takes GUTS to win!
-
+ Новый уровень! Чтобы меня
+одолеть, нужно ПОСТАРАТЬСЯ!
++++
  Leveled up! No one can stop ME!
-
+ Новый уровень!
+Меня НЕ остановить!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__063
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__064
-
++++
  Well, there we go! I leveled up!
-
+ Ну, поехали! Новый уровень!
++++
 " Well, well! I leveled up! Let's
 celebrate!"
-
+ Так, так! У меня новый
+уровень! Отпразднуем!
++++
 " Well, happy occasion! I've just
 leveled up!"
-
+ О, счастливое событие!
+У меня новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__068
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__069
-
++++
  Ha! Got my level up!
-
+ Ха! Вот и мой новый уровень!
++++
  Got my level up! I'm tougher!
-
+ Вот и мой новый уровень!
+Теперь я сильнее!
++++
  Yeah! Got my level up! Ha!
-
+ Да! Вот и мой новый уровень!
+Ха!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__073
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__074
-
++++
  Hee-hee! I leveled up.
-
+ Хи-хи! Новый уровень.
++++
  Oh, [player]! I leveled up!
-
+ Ох, [player]!
+У меня новый уровень!
++++
  I did it! I just leveled up!
-
+ Ура! У меня новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__078
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__079
-
++++
  Oh, yeah! Leveled up!
-
+ О, да! Новый уровень!
++++
  Check it out! Leveled up!
-
+ Только посмотрите! Новый
+уровень!
++++
  Feeling extreme! Leveled up!
-
+ Какое чувство!
+Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__083
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__084
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__085
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__086
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__087
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__088
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__089
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__090
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__091
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__092
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__093
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__094
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__095
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__096
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__097
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__098
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__099
-
++++
 [M:D1]Follow standard level-up procedures.
-
+[M:D1]Стандартная процедура повышения
+уровня.
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__101
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__102
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__103
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__104
-
++++
  Yes! Leveled up!
-
+ Да! Новый уровень!
++++
  Yeah! Leveled up!
-
+ Ура! Новый уровень!
++++
  Just in time! Leveled up!
-
+ Как раз вовремя! Новый
+уровень!
++++
 " Leveled up! I can do even
 better now!"
-
+ Новый уровень! Теперь я
+могу быть ещё эффективнее!
++++
  Wow! Leveled up!
-
+ Ого! Новый уровень!
++++
  Good! I leveled up!
-
+ Хорошо! Новый уровень!
++++
  Great! I leveled up!
-
+ Отлично! Новый уровень!
++++
  Excellent! I leveled up!
-
+ Прекрасно! Новый уровень!
++++
  I leveled up! I'll do better now!
-
+ Новый уровень! Теперь я
+буду эффективнее!
++++
  Awesome! I leveled up!
-
+ Прекрасно! Новый уровень!
++++
  Did it! Leveled up!
-
+ Ура! У меня новый уровень!
++++
  Got it! Leveled up!
-
+ Вот так! Новый уровень!
++++
  Yeah! Did it! Leveled up!
-
+ Ура! Получилось! У меня
+новый уровень!
++++
  Leveled up! I can tough it out!
-
+ Новый уровень! Теперь я ещё
+сильнее!
++++
  Made it! Leveled up!
-
+ У меня теперь новый уровень!
++++
  There! Leveled up!
-
+ Вот так! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__121
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__122
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__123
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__124
-
- Well! в™Є I've leveled up! в™Є
-
++++
+ Well! ♪ I've leveled up! ♪
+ Что-же! ♪ Новый уровень! ♪
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__126
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__127
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__128
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__129
-
++++
 " Aw, shucks! I've gone and
 leveled up!"
-
+ Ай! Я повышаю уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__131
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__132
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__133
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__134
-
++++
  Hooray! в™Є Leveled up! в™Є
-
+ Урааа! ♪ Новый уровень! ♪
++++
  Yippee! в™Є Leveled up! в™Є
-
+ Ухуууу! ♪ Новый уровень! ♪
++++
  Woweee! в™Є Leveled up! в™Є
-
+ Огоооо! ♪ Новый уровень! ♪
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__138
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__139
-
++++
  Giggle! You made me level up!
-
+ Хихихи! У меня новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__141
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__142
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__143
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__144
-
++++
  Splendid! I've leveled up!
-
+ Чудесно! Новый уровень!
++++
  Wonderful! I've leveled up!
-
+ Прекрасно! Новый уровень!
++++
  There it is! I've leveled up!
-
+ Вот так-то! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__148
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__149
-
++++
 " Yes! I've done it! I've leveled
 up!"
-
+ Да! Прекрасно! У меня новый
+уровень!
++++
  I've leveled up!
-
+ У меня новый уровень!
++++
  Great! I've leveled up!
-
+ Отлично! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__153
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__154
-
++++
  Yes! Got it! I've leveled up!
-
+ Ура! Наконец-то! У меня
+новый уровень!
++++
  That's it! I've leveled up!
-
+ Вот так! Новый уровень!
++++
  Yes! I've leveled up!
-
+ Ура! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__158
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__159
-
++++
  Yes! My level-up!
-
+ Да! Мой новый уровень!
++++
  Right! My level-up!
-
+ Хорошо! Мой новый уровень!
++++
  Aha! My level-up!
-
+ А-га! Мой новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__163
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__164
-
++++
  MY LEVEL HAS GROWN!
-
+ МОЙ УРОВЕНЬ ВЫРОС!
++++
  MY LEVEL HAS GRRR-OWN!
-
+ МОЙ УРОВЕНЬ ВЫРРР-ОС!
++++
 " GRRR-OWN! MY LEVEL HAS
 GRRR-OWN!"
-
+ ВЫРРР-ОС! МОЙ УРОВЕНЬ
+ВЫРРР-ОС!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__168
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__169
-
++++
  SWELLED! MY LEVEL SWELLED!
-
+ РАЗДУЛСЯ! МОЙ УРОВЕНЬ
+РАЗДУЛСЯ!
++++
 " IT'S SWELLING AGAIN! MY LEVEL
 IS SWELLING!"
-
+ СНОВА РАЗДУВАЕТСЯ! МОЙ
+УРОВЕНЬ РАЗДУВАЕТСЯ!
++++
 " SWELLING! SWELLING! MY
 LEVEL IS SWELLING!"
-
+ РАЗДУВАЕТСЯ! РАЗДУВАЕТСЯ!
+МОЙ УРОВЕНЬ РАЗДУВАЕТСЯ!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__173
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__174
-
++++
  LEVELED...UP...MORE...
-
+ НОВЫЙ... УРОВЕНЬ...
+ЕЩЁ...
++++
  UP... LEVELED...UP...MORE...
-
+ БОЛЬШЕ... УРОВЕНЬ...
+БОЛЬШЕ... ЕЩЁ...
++++
 " MORE... MORE... MORE...
 LEVELED...UP...MORE..."
-
+ ЕЩЁ... ЕЩЁ... ЕЩЁ...
+БОЛЬШЕ... УРОВНЕЙ... ЕЩЁ...
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__178
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__179
-
++++
  Excellent... I've leveled up.
-
+ Прекрасно... Новый уровень.
++++
  Superb... I've leveled up.
-
+ Чудесно... Новый уровень.
++++
  Tremendous... I've leveled up.
-
+ Грандиозно... Новый уровень.
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__183
 
 [M:D1]TALK_MESSAGE_LEVEL_UP__184
@@ -82105,7 +83767,7 @@ Destiny Bond
 Bond takes the same damage as the
 PokГ©mon who caused it. This status
 lasts a set number of turns."
-Под действем Уз Судьбы, Покемон
+Под действием Уз Судьбы, Покемон
 получает тот же урон, что и
 тот, кто его нанёс. Статус длится
 ограниченное количество ходов.

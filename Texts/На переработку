@@ -37063,3 +37063,4136 @@ sunny weather."
 Âúáïñ òìïâà:[CLUM_SET:70][M:B4] éìé [M:B5]/Ðñïòíïóñ
 éîõïñíàøéé ï òìïâå: [M:B2]
 ---
+"The weather has become [CS:E]Clear[CR]!
+It's really clear, warm, and pleasant."
++++
+Îàòóôðàåó [CS:E]Ÿòîàÿ[CR] ðïãïäà!
+Ïîà ïœåîû ðñéÿóîàÿ, óæðìàÿ é öïñïšàÿ.
+---
+"The weather has become [CS:E]Sunny[CR]!
+Fire-type moves are boosted, and Water-type
+moves are weakened."
++++
+Îàòóôðàåó [CS:E]Òïìîåœîàÿ[CR] ðïãïäà!
+Ðñéæíú Ïãîåîîïãï óéðà ôòéìåîú, ðñéæíú
+Âïäîïãï óéðà ïòìàáìåîú.
+---
+"The weather has become a [CS:E]Sandstorm[CR]!
+All PokÃ©mon except for Ground-, Rock-, and
+Steel-type PokÃ©mon will receive damage."
++++
+Ðïäîÿìàòû [CS:E]Ðåòœàîàÿ Áôñÿ[CR]!
+Âòå Ðïëåíïîú áôäôó ðïìôœàóû ôñïî, ëñïíå
+Ëàíåîîúö, Èåíìÿîúö é Òóàìûîúö óéðïâ.
+---
+"The weather has become [CS:E]Cloudy[CR]!
+All types of moves other than Normal type are
+weakened."
++++
+Îàòóôðàåó [CS:E]Ïáìàœîàÿ[CR] ðïãïäà!
+Íïþû ðñéæíïâ âòåö óéðïâ, ëñïíå ðñéæíïâ
+Îïñíàìûîïãï óéðà ïòìàáìåîú.
+---
+"The weather has become [CS:E]Rainy[CR]!
+The power of Water-type moves is boosted,
+and Fire-type moves are weakened."
++++
+Îàœàìòÿ [CS:E]Äïçäû[CR]!
+Ðñéæíú Âïäîïãï óéðà ôòéìåîú, ðñéæíú
+Ïãîåîîïãï óéðà ïòìàáìåîú.
+---
+"The weather has become [CS:E]Hail[CR]!
+All PokÃ©mon except Ice-type PokÃ©mon will
+receive damage."
++++
+Îàœàìòÿ [CS:E]Ãñàä[CR]!
+Âòå Ðïëåíïîú áôäôó ðïìôœàóû ôñïî, ëñïíå
+Ðïëåíïîïâ Ìåäÿîïãï óéðà.
+---
+"The weather has become [CS:E]Fog[CR]!
+Electric-type moves are weakened."
++++
+Îàòóôðàåó [CS:E]Óôíàîîàÿ[CR] ðïãïäà!
+Ðñéæíú Üìåëóñéœåòëïãï óéðà ïòìàáìåîú.
+---
+"The weather has become [CS:E]Snow[CR]!
+The Movement Speed of Ice-type PokÃ©mon is
+boosted by 1 level."
+---
+Îàœàìòÿ [CS:E]Òîåãïðàä[CR]!
+Òëïñïòóû Ðåñåäâéçåîéÿ Ìåäÿîúö
+Ðïëåíïîïâ ôâåìéœåîà îà 1 ôñïâåîû.
++++
+---
+Clear
+Ÿòîï
+"The weather is clear, warm, and
+pleasant."
+Ÿòîàÿ, óæðìàÿ é ðñéÿóîàÿ ðïãïäà.
+---
+Sunny
+Òïìîåœîï
+"The sun blazes, which boosts the power
+of Fire-type moves and weakens
+Water-type moves."
+Òïìîøå ïáçéãàåó, ôòéìéâàÿ íïþû
+ðñéæíïâ Ïãîåîîïãï óéðà é ïòìàáìÿÿ
+ðñéæíú Âïäîïãï óéðà.
+---
+Sandstorm
+Ðåòœàîàÿ Áôñÿ
+"A sandstorm rages, which inflicts
+damage on all PokÃ©mon except for
+Ground-type, Rock-type, and Steel-type
+PokÃ©mon. It also boosts the [CS:E]Special[CR]
+[CS:E]Defense[CR] of Rock-type PokÃ©mon."
+Ðåòœàîàÿ áôñÿ áôšôåó, îàîïòÿ ôñïî
+âòåí Ðïëåíïîàí, èà éòëìýœåîéåí
+Ðïëåíïîïâ Ëàíåîîïãï, Èåíìÿîïãï é
+Òóàìûîïãï óéðïâ. Óàëçå ôòéìéâàåó
+[CS:E]Òðåø. Èàþéóô[CR] Ëàíåîîúö Ðïëåíïîïâ.
+---
+Cloudy
+Ïáìàœîï
+"The weather grows cloudy and dark,
+which weakens the power of all types
+of moves except for the Normal type."
+Îåáï èàóÿãéâàåóòÿ ïáìàëàíé, òîéçàÿ
+íïþû ðñéæíïâ âòåö óéðïâ, ëñïíå
+ðñéæíïâ Îïñíàìûîïãï óéðà.
+---
+Rain
+Äïçäû
+"The weather turns rainy, which boosts
+the power of Water-type moves and
+weakens Fire-type moves."
+Äïçäû ôòéìéâàåó íïþû ðñéæíïâ
+Âïäîïãï óéðà é ïòìàáìÿÿ ðñéæíú
+Ïãîåîîïãï óéðà.
+---
+Hail
+Ãñàä
+"The weather turns bitterly cold and
+it hails, which inflicts damage on all
+PokÃ©mon except Ice-type PokÃ©mon."
+Âïèäôö öïìïäååó é îàœéîàåóòÿ ãñàä,
+îàîïòÿþéê ôñïî âòåí Ðïëåíïîàí,
+ëñïíå Ðïëåíïîïâ Ìåäÿîïãï óéðà.
+---
+Fog
+Óôíàî
+"The weather grows foggy, which
+weakens the power of Electric-type
+moves."
+Óôíàî ëìôáéóòÿ, ïòìàáìÿÿ íïþû
+ðñéæíïâ Üìåëóñéœåòëïãï óéðà.
+---
+Snow
+Òîåãïðàä
+"A snowstorm rages, which boosts the
+Movement Speed of Ice-type PokÃ©mon
+by 1 level."
+Áôšôåó òîåãïðàä, ôòéìéâàÿ Òëïñïòóû
+Ðåñåäâéçåîéÿ Ðïëåíïîïâ Ìåäÿîïãï
+óéðà îà 1 ôñïâåîû.
+---
+Mud Sport
+Éãñú Â Ãñÿèé
+"The floor is put under the influence of
+[CS:J]Mud Sport[CR], which halves the power of
+Electric-type moves."
+Üóàç îàöïäéóòÿ ðïä âìéÿîéåí [CS:J]Éãñ[CR]
+[CS:J]Â Ãñÿèé[CR], âäâïå òîéçàÿ íïþû ðñéæíïâ
+Üìåëóñéœåòëïãï óéðà.
+---
+Water Sport
+Ôâìàçîåîéå
+"The floor is put under the influence of
+[CS:J]Water Sport[CR], which halves the power of
+Fire-type moves."
+Üóàç îàöïäéóòÿ ðïä âìéÿîéåí
+[CS:J]Ôâìàçîåîéÿ[CR], âäâïå òîéçàÿ íïþû
+ðñéæíïâ Ïãîåîîïãï óéðà.
+---
+Defused
+Ïáåèâñåçéâàîéå
+"The floor gains a [CS:J]Defused[CR] status, so no
+PokÃ©mon can blow up in an [LS:2672]explosion[LE] or
+[LS:2674]huge explosion[LE].
+
+
+
+
+
+Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Üóàç òóàîïâéóòÿ [CS:J]Ïáåèâñåçåî[CR] é
+îéëàëïê Ðïëåíïî îå òíïçåó òïèäàóû
+[LS:2672]âèñúâ[LE] éìé [LS:2674]íïþîúê âèñúâ[LE].
+
+
+
+
+Âúáïñ òìïâà:[CLUM_SET:70][M:B4] éìé [M:B5]/Ðñïòíïóñ
+éîõïñíàøéé ï òìïâå: [M:B2]
+---
+Thief Alert
+Óñåâïãà
+"A floor is put on Thief Alert when
+[CS:K]Kecleon[CR]'s dungeon shop is robbed! A
+small army of concealed [CS:K]Kecleon[CR] emerge
+to give chase! You can't use an
+[LS:11035]Escape Orb[LE] during a Thief Alert, which
+makes it hard to get away easily!
+
+
+Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Ðñé âïñïâòóâå ðñåäíåóïâ éè ìàâëé
+[CS:K]Ëåëìåïîà[CR], îà üóàçå îàœéîàåóòÿ
+Óñåâïãà! Îåáïìûšïê ïóñÿä [CS:K]Ëåëìåïîïâ[CR]
+äåíàòëéñôåó òåáÿ é îàœéîàýó ðïãïîý
+èà âïñïí! Âï âñåíÿ Óñåâïãé îåìûèÿ
+ðñéíåîéóû [LS:11035]Ïñá Ðïáåãà[LE], ðïüóïíô ô
+âàò îå âúêäåó ìåãëï òáåçàóû!
+Âúáïñ òìïâà:[CLUM_SET:70][M:B4] éìé [M:B5]/Ðñïòíïóñ
+éîõïñíàøéé ï òìïâå: [M:B2]
+---
+Gravity
+Ãñàâéóàøéÿ
+"A floor is put under the influence of
+heavy [CS:J]Gravity[CR], which makes Flying-type
+PokÃ©mon weak to Ground-type moves. It
+makes those with the Levitate ability
+lose immunity to Ground-type moves,
+may suppress moves that use flying or
+jumping, and negates the [LS:13742]Magnet Rise[LE]
+status.
+Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
++++
+Îà üóàçå ôòéìåîà [CS:J]Ãñàâéóàøéÿ[CR], œóï
+äåìàåó Ìåóàýþéö Ðïëåíïîïâ ôÿèâéíúíé
+ë ðñéæíàí Èåíìÿîïãï óéðà. Óàëçå
+ôáéñàåó üõõåëó Ìåâéóàøéé, ðïäàâìÿåó
+ðñéæíú ò ðñéíåîåîéåí òëàœëà éìé
+ðïìæóà é éãîïñéñôåó òóàóôò
+[LS:13742]Íàãîéóîúê Ðïäùåí[LE].
+Âúáïñ òìïâà:[CLUM_SET:70][M:B4] éìé [M:B5]/Ðñïòíïóñ
+éîõïñíàøéé ï òìïâå: [M:B2]
+---
+explosion
+âèñúâ
+"The PokÃ©mon or trap can explode,
+inflicting damage on itself and all
+PokÃ©mon within a 1-tile range. The
+explosion also halves the [CS:E]HP[CR] of all
+exploration-team members in range. It
+also destroys walls and items inside
+the blast zone."
++++
+Ðïëåíïî éìé ìïâôšëà íïçåó òïèäàóû
+âèñúâ, îàîïòÿ ôñïî òåáå é âòåí
+Ðïëåíïîàí â ñàäéôòå 1 ëìåóëé.
+Óàëçå âèñúâ âäâïå òîéçàåó [CS:E]ÏÈ[CR]
+âòåê ãñôððå â èïîå ðïñàçåîéÿ.
+Óàëçå ôîéœóïçàåó òóåîú é ðñåäíåóú.
+---
+huge explosion
+íïþîúê âèñúâ
+"The PokÃ©mon or trap can explode
+savagely, inflicting damage on itself and
+all PokÃ©mon within a 2-tile range. The
+huge explosion halves the [CS:E]HP[CR] of all
+exploration-team members in range. It
+also destroys walls and items inside
+the blast zone."
++++
+Ðïëåíïî éìé ìïâôšëà íïçåó òïèäàóû
+íïþîúê âèñúâ, îàîïòÿ ôñïî òåáå é
+âòåí Ðïëåíïîàí â ñàäéôòå 2 ëìåóïë.
+Óàëçå âèñúâ âäâïå òîéçàåó [CS:E]ÏÈ[CR]
+âòåê ãñôððå â èïîå ðïñàçåîéÿ.
+Óàëçå ôîéœóïçàåó òóåîú é ðñåäíåóú.
+---
+[string:0] was slowed!
+[string:0] èàíåäìÿåóòÿ!
+[string:0] returned to normal speed!
+Òëïñïòóû Ðïëåíïîà [string:0] âåñîôìàòû
+â îïñíô!
+[string:0] is at double speed!
+[string:0] ôòëïñÿåóòÿ â äâà ñàèà!
+[string:0] is at triple speed!
+[string:0] ôòëïñÿåóòÿ â óñé ñàèà!
+[string:0] is at quadruple speed!
+[string:0] ôòëïñÿåóòÿ â œåóúñå ñàèà!
+---
+No PokÃ©mon will join the team in this dungeon.
+Â ðïäèåíåìûå îéëóï îå âòóôðéó â ãñôððô.
+There are no potential recruits.
+Èäåòû îåó âïèíïçîúö ñåëñôóïâ.
+Potential recruits ([CS:C]yellow[CR]: already befriended)
+Âïèíïçîúå ñåëñôóú ([CS:C]çæìóúå[CR]: ôçå åòóû)
+---
+Îåó
+Ðïëåíïîô ïœåîû ðïîñàâéìòÿ âëôò Çåìå!
+Ðïëåíïîô ðïîñàâéìòÿ âëôò Çåìå!
+Ðïëåíïîô îå óàë ôç é îå îñàâéóòÿ âëôò
+Çåìå.
+Ðïëåíïî òìåãëà ôäïâïìåóâïñæî.
+IQ Ðïëåíïîà òéìûîï ôâåìéœéìïòû!
+IQ Ðïëåíïîà èîàœéóåìûîï ôâåìéœéìïòû!
+IQ Ðïëåíïîà îåíîïãï ôâåìéœéìïòû!
+IQ Ðïëåíïîà òìåãëà ôâåìéœéìïòû!
+IQ Ðïëåíïîà îå éèíåîéìïòû.
+
+---
+[trap:0] ñàèáñúèãéâàåó ãñÿèû!
+Òñàáàóúâàåó [CS:H]Ìéðëàÿ Ìïâôšëà[CR]!
+Ñàèáñúèãéâàåóòÿ òìéèû!
+Ñàòðúìéìòÿ ãàè, ðñéâìåëàýþéê Ðïëåíïîïâ!
+[trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Ðñïéèïšæì ðïñúâ âåóñà!
+Ìïâôšëà èàëñôçéìàòû!
+Ñàòðúìéìòÿ ôòúðìÿýþéê ãàè!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Âúìåóàýó ÿäïâéóúå šéðú!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Ðïä îïãàíé [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Òñàáàóúâàåó [trap:0]!
+Ðïä îïãàíé Ðïëåíïîà [string:0] îéœåãï
+îåó.
+---
+Rescue chances left: [digits_c:0]
+Šàîòïâ îà òðàòåîéå: [digits_c:0]
+This team can't send out for help anymore!
+Üóô ãñôððô áïìûšå îåìûèÿ ïóðñàâéóû
+îà ðïíïþû!
+Rescue challenges left: [digits_c:0]
+Éòðúóàîéê îà òðàòåîéå: [digits_c:0]
+"This is your final chance at rescue!
+Try not to fail!"
+Üóï âàš ðïòìåäîéê šàîò îà òðàòåîéå!
+Áôäûóå ïòóïñïçîú!
+"Your client PokÃ©mon has fainted!
+You can't make a rescue call!"
+Âàš Ðïëåíïî-ëìéåîó ðïóåñÿì òïèîàîéå!
+Îåâïèíïçîï òïâåñšéóû èïâ îà òðàòåîéå!
+Your partner [string:0] fainted!
+Òðôóîéë [string:0] óåñÿåó òïèîàîéå!
+Your client [string:0] fainted!
+Ëìéåîó [string:0] óåñÿåó òïèîàîéå!
+The accompanying [string:0] fainted!
+Ðïíïþîéë [string:0] óåñÿåó òïèîàîéå!
+"Your client [name:0] couldn't join you.
+Let's return to Treasure Town."
+Ëìéåîó [name:0] îå òíïã áúóû ò âàíé.
+Âåñîæíòÿ â Ãïñïä Òïëñïâéþ.
+"You received one [item:0] to help with
+your task!"
+Âú ðïìôœàåóå ðñåäíåó [item:0]
+äìÿ âàšåãï èàäàîéÿ!
+"You received one [item:0] to help with
+your task, but you couldn't accept it."
+Âú ðïìôœàåóå ðñåäíåó [item:0]
+äìÿ âàšåãï èàäàîéÿ, îï âú îå íïçåóå
+ðñéîÿóû åãï.
+"[string:0] is anchored! It can't switch
+places!"
+[string:0] ðñéãâïçäæî! Ïî îå òíïçåó
+ðïíåîÿóûòÿ íåòóàíé!
+It became brighter on the floor!
+Îà üóàçå òóàìï òâåóìåå!
+[string:1] took [digits_c:0] damage!
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà!
+[string:1]'s burn caused [digits_c:0] damage!
+[string:1] ïáçéãàåóòÿ îà [digits_c:0] ôñïîà!
+"[string:1] was squeezed for
+[digits_c:0] damage!"
+[string:1] òçéíàåóòÿ, ðïìôœàÿ
+[digits_c:0] ôñïîà!
+"[string:1] took [digits_c:0] damage from
+poison!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó ÿäà!
+"[string:1] took [digits_c:0] recoil damage
+from the move!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó ïóäàœé ðñéæíà!
+"[string:1] was wrapped for
+[digits_c:0] damage!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó ïáâéâàîéÿ!
+"[string:1] took [digits_c:0] damage from
+the counterattack!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó ïóâåóîïãï ôäàñà!
+"[string:1] was cursed for
+[digits_c:0] damage!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó ðñïëìÿóéÿ!
+"[string:1] awoke from its nightmare and
+took [digits_c:0] damage!"
+[string:1] ðñïáôçäàåóòÿ ïó ëïšíàñïâ
+é ðïìôœàåó [digits_c:0] ôñïîà!
+"[string:1] took [digits_c:0] damage from
+[CS:J]Leech Seed[CR]!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó [CS:J]Èåñæî-Ðéÿâïë[CR]!
+"[string:1] stepped on [CS:H]spikes[CR] and took
+[digits_c:0] damage!"
+[string:1] îàòóôðàåó îà šéðú, ðïìôœàÿ
+[digits_c:0] ôñïîà!
+"[string:1] took [digits_c:0] damage from
+Perish Song!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó Ðåòîé Ãéáåìé!
+"[string:1] took [digits_c:0] damage from
+Destiny Bond!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó Ôè Òôäûáú!
+"[string:1] was showered with sludge for
+[digits_c:0] damage!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó òìéèé!
+"The Chestnut Trap hit [string:1] for
+[digits_c:0] damage!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó Ëàšóàîïâïê Ìïâôšëé!
+"The Chestnut Trap hit [string:1] for
+[digits_c:0] damage!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó Ëàšóàîïâïê Ìïâôšëé!
+[string:1] took [digits_c:0] damage!
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà!
+"The bad weather inflicted [digits_c:0] damage
+on [string:1]!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó üõõåëóà ðìïöïê ðïãïäú!
+"The move failed! [string:1] took
+[digits_c:0] damage!"
+Ðñéæí îå ôäàìòÿ! [string:1] ðïìôœàåó
+[digits_c:0] ôñïîà!
+"[string:1] took [digits_c:0] recoil damage
+from the move!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó ïóäàœé ðñéæíà!
+"[string:1] took [digits_c:0] damage from
+[CS:H]Stealth Rock[CR]!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó [CS:H]Ëàíîåê-Ìïâôšåë[CR]!
+"[string:1] took [digits_c:0] damage from
+[CS:H]Toxic Spikes[CR]!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+ïó [CS:H]Óïëòéœîúö Šéðïâ[CR]!
+"[string:1] is on the verge of fainting
+after using that move!"
+[string:1] îà ãñàîé ðïóåñé òïèîàîéÿ
+ðïòìå ðñéíåîåîéÿ üóïãï ðñéæíà!
+"[string:1] took [digits_c:0] damage because
+of [c_i:2]!"
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà
+éè-èà: [c_i:2]!
+"[string:1]'s [c_i:2] is causing
+strain! It took [digits_c:0] damage!"
+[c_i:2] òïèäàæó îàðñÿçåîéå!
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà!
+"[string:1]'s [c_i:2] hurts it in
+sunny weather! It took [digits_c:0] damage!"
+[c_i:2] ñàîéó Ðïëåíïîà îà òïìîøå!
+[string:1] ðïìôœàåó [digits_c:0] ôñïîà!
+[string:0] found an item somewhere.
+[string:0] ãäå-óï îàöïäéó ðñåäíåó.
+The closed corridor was opened!
+Ïóëñúâàåóòÿ èàëñúóúê ðñïöïä!
+It can't be used here!
+Üóï îåìûèÿ èäåòû ðñéíåîéóû!
+You must open a door while facing it!
+Âàí îôçîï ðïâåñîôóûòÿ ë äâåñé, œóïáú
+ïóëñúóû åæ!
+[string:0] was blown away!
+[string:0] òäôâàåóòÿ âåóñïí!
+It couldn't be blown away!
+Ðïëåíïîà îåìûèÿ òäôóû âåóñïí!
+[string:0] couldn't be blown away!
+[string:0] îåìûèÿ òäôóû âåóñïí!
+"[string:0] is anchored! It can't be blown
+away!"
+Ðïëåíïî [string:0] ðñéãâïçäæî!
+Ðïëåíïîà îåìûèÿ òäôóû âåóñïí!
+The target's stench is overwhelming!
+Âïîû øåìé ïšåìïíìÿåó!
+You haven't selected a move to be a set move.
+Âú îå îàèîàœéìé ðñéæí.
+The set move can't be used.
+Îàèîàœåîîúê ðñéæí îåìûèÿ ðñéíåîéóû.
+This move can't be used now!
+Üóïó ðñéæí îåìûèÿ ðñéíåîéóû!
+You're being constricted!
+Âú ðïä äåêòóâéåí ïãñàîéœåîéÿ!
+You can't move!
+Âú îå íïçåóå äâéãàóûòÿ!
+You can't move while rooted down!
+Âú îå íïçåóå äâéãàóûòÿ, ðïëà
+ðñéãâïçäåîú!
+You can't move while wrapping a foe!
+Âú îå íïçåóå äâéãàóûòÿ, ðïëà
+ïáâéâàåóå âñàãà!
+The enemy has you wrapped! You can't move!
+Âàò ïáâéâàåó âñàã! Âú îå íïçåóå
+äâéãàóûòÿ!
+Switch places with your teammate?
+Ðïíåîÿóûòÿ íåòóàíé ò œìåîïí ãñôððú?
+The leader couldn't be switched!
+Îåìûèÿ òíåîéóû ìéäåñà!
+You haven't paid for the merchandise yet!
+Âú åþå îå èàðìàóéìé èà óïâàñ!
+You can't switch leaders while thieving!
+Îåìûèÿ òíåîéóû ìéäåñà âï âñåíÿ ëñàçé!
+[string:0] became the leader!
+[string:0] òóàîïâéóòÿ ìéäåñïí!
+"Use/attack in facing direction:[CLUM_SET:150][M:B2]
+Change direction:[CLUM_SET:150][M:B8]
+Cancel:[CLUM_SET:150][M:B3]"
+Éòð./àóàëà ðï îàðñàâìåîéý:[CLUM_SET:150][M:B2]
+Òíåîéóû îàðñàâìåîéå:[CLUM_SET:150][M:B8]
+Ïóíåîà:[CLUM_SET:150][M:B3]
+"The [item:0] is all sticky. You can't
+equip it!"
+Ðñåäíåó [item:0] ìéðëéê.
+Âú îå íïçåóå åãï îàäåóû!
+Equipped the item [item:0].
+Âú üëéðéñôåóå ðñåäíåó
+[item:0].
+"You selected [item:0] as the set item.
+Hold [M:B6], then press [M:B7] to hurl one."
+Èàäàî ðñåäíåó [item:0].
+Îàçíéóå [M:B6] é [M:B7], œóïáú íåóîôóû åãï.
+"You selected [item:0] as the set item.
+Hold [M:B6], then press [M:B7] to throw one."
+Èàäàî ðñåäíåó [item:0].
+Îàçíéóå [M:B6] é [M:B7], œóïáú ëéîôóû åãï.
+You deselected [item:0].
+Âú ôáéñàåóå [item:0].
+It's all sticky and doesn't work!
+Âòæ ìéðëïå é îå ðñéíåîÿåóòÿ!
+"The [item:1] is all sticky! You can't
+move it."
+Ðñåäíåó [item:1] ìéðëéê!
+Åãï îåìûèÿ ðåñåíåòóéóû.
+"The [item:1] is all sticky! You can't
+move it."
+Ðñåäíåó [item:1] ìéðëéê!
+Åãï îåìûèÿ ðåñåíåòóéóû.
+"The [item:1] is all sticky! You can't
+move it."
+Ðñåäíåó [item:1] ìéðëéê!
+Åãï îåìûèÿ ðåñåíåòóéóû.
+"[string:1] took the [item:0] and
+put the [item:1] in the [gadget_bag]."
+[string:1] áåñæó [item:0]
+é ôáéñàåó â: [gadget_bag].
+[string:1] got the [item:0].
+[string:1] áåñæó [item:0].
+The [gadget_bag] is full.
+[gadget_bag]: Îåó íåòóà.
+"[string:0] put the [item:0] back
+in the [gadget_bag]."
+[string:0] ëìàäæó [item:0]
+â: [gadget_bag].
+"The [item:0] was exchanged for
+the [item:1] in the [gadget_bag]."
+[item:0] íåîÿåóòÿ
+îà ðñåäíåó [item:1]
+â: [gadget_bag].
+[M:D1]Underfoot
+[M:D1]Îà èåíìå
+You can't put it down here.
+Üóï îåìûèÿ èäåòû ðïìïçéóû.
+"[string:0] put the [item:0] on the
+ground."
+[string:0] ëìàäæó [item:0]
+îà èåíìý.
+[M:D1]Not Underfoot
+[M:D1]Îå îà èåíìå
+You can't exchange items here.
+Èäåòû îåìûèÿ òíåîéóû ðñåäíåóú.
+You can't put anything down here.
+Èäåòû îåìûèÿ îéœåãï ëìàòóû.
+"The [item:1] on the ground was
+exchanged for the [item:0]."
+[item:1] îà èåíìå
+òíåîæî îà âàš ðñåäíåó
+[item:0].
+A terrified PokÃ©mon can't throw items!
+Ôçàòàýþéêòÿ Ðïëåíïî îå òðïòïáåî
+áñïòàóû ðñåäíåóú!
+[string:0] threw the [item:0]!
+[string:0] ëéäàåó [item:0]!
+[string:0] hurled the [item:0]!
+[string:0] íåóàåó [item:0]!
+You can't talk now.
+Âú îå íïçåóå ñàèãïâàñéâàóû.
+[string:0] can't talk just now.
+[string:0] ðïëà îå íïçåó ãïâïñéóû.
+"You attempted thievery! You're not seen as an
+exploration team!"
+Âú òïâåñšéìé ðïðúóëô ëñàçé! Âàò áïìûšå
+îå ðñéîéíàýó èà ãñôððô éòòìåäïâàóåìåê!
+You can't say farewell now.
+Âú ðïëà îå íïçåóå ðïðñïþàóûòÿ.
+"Say farewell to this [string:0]? It will
+never be able to rejoin the team."
+Ðïðñïþàóûòÿ ò Ðïëåíïîïí [string:0]?
+Ðïëåíïî áïìûšå îå òíïçåó âòóôðéóû
+â ãñôððô.
+Send [string:0] back?
+Ïóðñàâéóû Ðïëåíïîà [string:0] äïíïê?
+Send [string:0] back?
+Ïóðñàâéóû Ðïëåíïîà [string:0] äïíïê?
+"Say farewell to [string:0] and dismiss
+it from the team?"
+Ðïðñïþàóûòÿ ò Ðïëåíïîïí [string:0]
+é ôáñàóû åãï éè ãñôððú?
+[string:0] seemed disappointed and left.
+[string:0] ïãïñœàåóòÿ é ôöïäéó.
+[string:0] went back.
+[string:0] âïèâñàþàåóòÿ.
+[string:0] seemed disappointed and left.
+[string:0] ïãïñœàåóòÿ é ôöïäéó.
+[string:0] is cringing!
+[string:0] òùæçéâàåóòÿ!
+[string:0] is paralyzed!
+[string:0] ðïä äåêòóâåí ðàñàìéœà!
+The move failed!
+Ðñéæí îå ðïìôœéìòÿ!
+There are no items that can be drawn close!
+Èäåòû îåó ðñåäíåóïâ, ëïóïñúö íïçîï
+ðñéóÿîôóû!
+But a mysterious power prevented its use!
+Èàãàäïœîàÿ òéìà îå äàæó ðñéíåîéóû üóïó
+ðñåäíåó!
+All unclaimed items were drawn close!
+Âòå ðñåäíåóú îà èåíìå ðñéóÿîôìéòû!
+"[string:0] passed over the
+[item:0]."
+[string:0] ðñïöïäéó îàä ðñåäíåóïí
+[item:0].
+"[string:0] is terrified! It didn't pick up
+the [item:0]."
+[string:0] â ôçàòå! Ðïëåíïî îå íïçåó
+âèÿóû ðñåäíåó [item:0].
+Picked up the [item:0].
+Ðïäïáñàî ðñåäíåó [item:0].
+"Picked up the [item:0] and
+put it in the [gadget_bag]."
+Ðïäïáñàî ðñåäíåó [item:0]
+é ôáñàî â: [gadget_bag].
+Picked up the [item:0].
+Ðïäïáñàî ðñåäíåó [item:0].
+"[string:0] couldn't pick up
+the [item:0]."
+[string:0] îå íïçåó ðïäïáñàóû ðñåäíåó
+[item:0].
+It bounced off the trap tile!
+Üóï ïóòëàëéâàåó ïó ìïâôšëé!
+The [item:0] fell on the ground.
+[item:0] ðàäàåó îà èåíìý.
+The [item:0] fell in the water.
+[item:0] ðàäàåó â âïäô.
+The [item:0] was buried.
+[item:0] èàëàðúâàåóòÿ.
+The [item:0] was lost!
+[item:0] óåñÿåóòÿ!
+All the items were lost!
+Ðïóåñÿîú âòå ðñåäíåóú!
+Several items were lost!
+Ðïóåñÿîï îåòëïìûëï ðñåäíåóïâ!
+The [item:0] fell out of sight!
+[item:0] éòœåèàåó éè
+ðïìÿ èñåîéÿ!
+"You have a delivery [CS:I]item[CR]. Return to the
+guild without delivering it?"
+Âú îåòæóå [CS:I]ðñåäíåó[CR] äìÿ äïòóàâëé.
+Âåñîôóûòÿ â ãéìûäéý îå äïòóàâéâ åãï?
+The [item:0] flew at [string:0]!
+[item:0] ìåóéó â
+Ðïëåíïîà [string:0]!
+It missed [string:0]!
+Ðñïíàö ðï Ðïëåíïîô [string:0]!
+[string:0] dodged the [item:0]!
+[string:0] ôëìïîÿåóòÿ ïó ðñåäíåóà
+[item:0]!
+"The [item:0] bounced off
+[string:0]!"
+[item:0] ïóòëàëéâàåó
+ïó Ðïëåíïîà [string:0]!
+The [item:0] flew out of sight!
+[item:0] éòœåèàåó éè
+ðïìÿ èñåîéÿ!
+[string:0] caught the [item:0]!
+[string:0] ìïâéó ðñåäíåó
+[item:0]!
+[item:0] is all sticky! It doesn't work!
+[item:0] ìéðëéê!
+Ïî îå ñàáïóàåó!
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
+But nothing happened!
+Îéœåãï îå ðñïéèïšìï!
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
+Its Self-Curer IQ skill prevented hunger!
+Îàâúë IQ Òàíï-Øåìéóåìû òáåñæã ïó
+ãïìïäà!
+[string:0] is [CS:J]famished[CR].
+[string:0] [CS:J]éòóïþàåóòÿ[CR].
+[string:0] is already [CS:J]famished[CR].
+[string:0] ôçå â [CS:J]éòóïþåîéé[CR].
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
+Lucky! The move got a lot stronger!
+Ðïâåèìï! Ðñéæí òóàì ãïñàèäï íïþîåå!
+[move:0] got stronger!
+[move:0] òóàîïâéóòÿ íïþîåå!
+It seems to be weakened here...
+Ëàçåóòÿ, Ðïëåíïî ïòìàáìåî...
+But there is no one in the way!
+Îï îà ðôóé îéëïãï îå áúìï!
+Its IQ didn't change.
+IQ Ðïëåíïîà îå éèíåîéìïòû.
+It can't be used in a dungeon!
+Üóï îåìûèÿ ðñéíåîéóû â ðïäèåíåìûå!
+Are you done with the Link Box?
+Âú èàâåñšéìé äåêòóâéÿ ò Òâÿèû-Ÿþéëïí?
+[string:0] is muzzled!
+[string:0] ðïä äåêòóâéåí îåíïóú!
+[string:0]'s Attack went up [digits_c:0]!
+Àóàëà Ðïëåíïîà [string:0]
+ôâåìéœéìàòû îà [digits_c:0]!
+[string:0]'s Sp. Attack went up [digits_c:0]!
+Òðåø. Àóàëà Ðïëåíïîà [string:0]
+ôâåìéœéìàòû îà [digits_c:0]!
+[string:0]'s Defense went up [digits_c:0]!
+Èàþéóà Ðïëåíïîà [string:0]
+ôâåìéœéìàòû îà [digits_c:0]!
+[string:0]'s Sp. Defense went up [digits_c:0]!
+Òðåø. Èàþéóà Ðïëåíïîà [string:0]
+ôâåìéœéìàòû îà [digits_c:0]!
+[string:0] exploded!
+[string:0] âèñúâàåóòÿ!
+The damp conditions prevented an explosion!
+Òúñïòóû ðñåäïóâñàþàåó âèñúâ!
+---
+Œóï-óï äâéçåóòÿ...
+Œóï-óï ðñéáìéçàåóòÿ...
+Ïîï âòæ áìéçå é áìéçå!
+Üóï òïâòåí ñÿäïí! Ñåèëï äôåó âåóåñ!
+Œóï-óï äâéçåóòÿ...
+Œóï-óï ðñéáìéçàåóòÿ...
+Ïîï âòæ áìéçå é áìéçå!
+Üóï òïâòåí ñÿäïí!
+---
+Gravity grew heavier on the floor!
+Ãñàâéóàøéÿ îà üóàçå ôòéìéìàòû!
++++
+Gravity is already heavier on this floor!
+Ãñàâéóàøéÿ îà üóàçå ôçå ôòéìéìàòû!
++++
+The floor was drained!
+Üóàç ïòôšàåóòÿ!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
++++
+There is too much water to be drained!
+Òìéšëïí íîïãï âïäú äìÿ ïòôšåîéÿ!
++++
+"There is no room on your team to accept
+the guest exploration team's [name:0]."
+Â âàšåê ãñôððå îåó íåòóà, œóïáú ðñéîÿóû
+Ðïëåíïîà [name:0] éè äñôãïê ãñôððú
+éòòìåäïâàóåìåê.
++++
+"You can't employ a helper PokÃ©mon now!
+[name:0] was returned with thanks!"
+Âú îå íïçåóå âèÿóû Ðïëåíïîà-ðïíïþîéëà!
+[name:0] áìàãïäàñîï âïèâñàþàåóòÿ!
++++
+"The [name:0] that needs your help won't
+fit on your team. There's not enough room."
+[name:0] óñåáôåó ðïíïþé, îï îå íïçåó
+âòóôðéóû â âàšô ãñôððô. Ïîà èàðïìîåîà.
++++
+"Have one of your team members return
+to the guild to make room for your
+client, [name:0]."
+Ïóðñàâûóå ïäîïãï éè âàšéö œìåîïâ ãñôððú
+â ãéìûäéý, œóïáú ïòâïáïäéóû íåòóï äìÿ
+ëìéåîóà: [name:0].
++++
+Send [string:1] back to the guild?
+Ïóðñàâéóû Ðïëåíïîà [string:1] â
+ãéìûäéý?
++++
+[string:1] was sent back to the guild.
+[string:1] ïóðñàâìÿåóòÿ â ãéìûäéý.
++++
+"The [name:0] that needs your help won't
+fit on your team. There's no room."
+[name:0] óñåáôåó ðïíïþé, îï îå íïçåó
+âòóôðéóû â âàšô ãñôððô. Ïîà èàðïìîåîà.
++++
+"The guest exploration team's [name:0] was
+welcomed into your exploration team!"
+Ãïòóû ãñôððú éòòìåäïâàóåìåê, [name:0]
+ðñéîÿó â âàšô ãñôððô éòòìåäïâàóåìåê!
++++
+Your client, [name:0], joined your team!
+Âàš ëìéåîó, [name:0], âòóôðàåó â
+ãñôððô!
++++
+Would you like to send out for a rescue?
+Öïóéóå ìé âú ðïòìàóû èà òðàòàóåìÿíé?
++++
+"To request a rescue, return to the Top Menu,
+select [CS:E]Get Help[CR] within [CS:E]Friend Rescue[CR], and
+choose the method for sending your [CS:E]SOS Mail[CR]."
+Œóïáú èàðñïòéóû òðàòåîéå, âåñîéóåòû â
+Ãìàâîïå Íåîý, âúáåñéóå [CS:E]Èàðñïò Ðïíïþé[CR] é
+âúáåñéóå íåóïä ïóðñàâëé [CS:E]SOS-Òïïáþåîéÿ[CR].
++++
+Your team is no longer eligible for rescues.
+Âàšà ëïíàîäà áïìûšå îå äïòóôðîà äìÿ
+òðàòåîéÿ.
++++
+"[string:0] converted to the
+[type:0] type!"
+[string:0] íåîÿåóòÿ îà óéð
+[type:0]!
++++
+[string:1] is a slow starter!
+[string:1] íåäìåîîúê â îàœàìå!
++++
+"[string:0] traced and copied the target's
+ability!"
+[string:0] ïóòìåçéâàåó é ëïðéñôåó
+òðïòïáîïòóû øåìé!
++++
+"[string:0]'s Color Change made it the
+[type:0] type!"
+Òíåîà Øâåóà Ðïëåíïîà [string:0] íåîÿåó
+óéð îà: [type:0]!
++++
+Getting hungry...
+Âú ðñïãïìïäàìéòû...
++++
+Getting dizzy from hunger...
+Ãïìïâà ëñôçéóòÿ ïó ãïìïäà...
++++
+"[string:0] learned the IQ skill
+[wiseness:0]!"
+[string:0] éèôœàåó îàâúë IQ:
+"[wiseness:0]"!
++++
+The [CS:M]linked moves[CR] [CS:C]became delinked[CR]!
+[CS:M]Òâÿèàîîúå ðñéæíú[CR] óåðåñû [CS:C]ñàèùåäéîåîú[CR]!
++++
+"[CS:C]The linked moves are almost out of[CR] [CS:E]PP[CR]!
+Use them [CS:V]again[CR] and [CS:C]they will come apart[CR]!"
+[CS:C]Ô òâÿèàîîúö ðñéæíïâ ðïœóé ëïîœéìéòû [CR][CS:E]ÏÒ[CR]!
+Ðñé [CS:V]ðïâóïñîïí[CR] ðñéíåîåîéé [CS:C]ïîé áôäôó
+ñàèùåäéîåîú[CR]!
++++
+"[CS:C]The linked moves are almost out of[CR] [CS:E]PP[CR]!
+Use them [CS:V]twice[CR] and [CS:C]they will come apart[CR]!"
+[CS:C]Ô òâÿèàîîúö ðñéæíïâ ðïœóé ëïîœéìéòû [CR][CS:E]ÏÒ[CR]!
+Ðñéíåîéâ éö [CS:V]äâàçäú[CR], [CS:C]ïîé áôäôó[CR]
+[CS:C]ñàèùåäéîåîú[CR]!
++++
+[string:0] took a deep breath!
+[string:0] äåìàåó ãìôáïëéê âäïö!
++++
+The stairs seem to be over this way!
+Ìåòóîéøà îàöïäéóòÿ ãäå-óï èäåòû!
++++
+Total items on this floor: [digits_c:0].
+Âòåãï ðñåäíåóïâ îà üóàçå: [digits_c:0].
++++
+[string:0]'s [item:1] activated!
+Òñàáàóúâàåó ðñåäíåó [item:1]
+Ðïëåíïîà [string:0]!
++++
+"[string:0] used the [item:1] that
+[string:1] was holding!"
+[string:0] ðñéíåîÿåó ðñåäíåó
+[item:1], œóï äåñçàì
+Ðïëåíïî [string:1]!
++++
+"[string:0] used the [item:1] in the
+Treasure Bag!"
+[string:0] ðñéíåîÿåó ðñåäíåó
+[item:1] éè Òôíëé
+ò Øåîîïòóÿíé!
++++
+[string:0]'s IQ rose!
+IQ Ðïëåíïîà [string:0] ôâåìéœéâàåóòÿ!
++++
+[string:0]'s IQ is unchanged.
+IQ Ðïëåíïîà [string:0] îå éèíåîéìïòû.
++++
+[string:0] is frozen solid!
+[string:0] èàíïñàçéâàåóòÿ!
++++
+[string:0] has its opponent wrapped!
+[string:0] ïáâéâàåó øåìû!
++++
+[string:0] is wrapped by its opponent!
+[string:0] ïáâéâàåóòÿ âñàãïí!
++++
+[string:0] can't move!
+[string:0] îå íïçåó ðïšåâåìéóûòÿ!
++++
+[string:0] is infatuated!
+[string:0] ïœàñïâúâàåóòÿ!
++++
+[string:0] is storing energy!
+[string:0] îàëàðìéâàåó üîåñãéý!
++++
+[string:0] is asleep!
+[string:0] òðéó!
++++
+The move was interrupted!
+Ðñéæí ðñåñâàî!
++++
+Its ability sped up attacks!
+Òðïòïáîïòóû ôòëïñÿåó àóàëé!
++++
+Its [item:0] sped up attacks!
+[item:0] ôòëïñÿåó àóàëé!
++++
+Decoy
+Ðñéíàîëà
++++
+Decoy
+Ðñéíàîëà
++++
+PokÃ©mon
+Ðïëåíïî
++++
+PokÃ©mon
+Ðïëåíïî
++++
+[string:0] is protected by [CS:J]Safeguard[CR]!
+[string:0] ðïä èàþéóïê [CS:J]Áåèïðàòîïòóé[CR]!
++++
+[string:0] is protected by its Leaf Guard!
+[string:0] ïáåñåãàåóòÿ Èàþéóïê Ìéòóà!
++++
+[string:0] is protected by [CS:J]Mist[CR]!
+[string:0] ðïä èàþéóïê [CS:J]Óôíàîà[CR]!
++++
+"[string:0] protected itself using its
+[item:1]!"
+[string:0] èàþéþàåó òåáÿ ðñéíåîåîéåí
+ðñåäíåóà [item:1]!
++++
+It had no effect on [string:0]!
+Üóï îå ïëàèúâàåó âïèäåêòóâéÿ îà
+Ðïëåíïîà [string:0]!
++++
+The [c_i:2] ability activated!
+Òñàáàóúâàåó òðïòïáîïòóû [c_i:2]!
++++
+"[string:1] was frisked! It's holding one
+[item:2]!"
+[string:1] ðïäâåñãàåóòÿ ïáúòëô! Îàêäåî
+ðñåäíåó [item:2]!
++++
+[string:1] has a distinctive atmosphere!
+[string:1] éíååó ïòïáôý àóíïòõåñô!
++++
+The [c_i:2] ability activated!
+Òñàáàóúâàåó òðïòïáîïòóû [c_i:2]!
++++
+Its power rebounded!
+Åãï íïþû âïèñïòìà!
++++
+"[string:1] withstood the move!
+It's sturdy!"
+[string:1] âúäåñçéâàåó ðñéæí!
+Ô Ðïëåíïîà ëñåðëïå óåìï!
++++
+[string:1] is frozen!
+[string:1] ðïä èàíïñïèëïê!
++++
+A critical hit!
+Ëñéóéœåòëéê ôäàñ!
++++
+It has little effect...
+Üóï íàìïäåêòóâåîîï...
++++
+It's not very effective...
+Üóï îå ïœåîû üõõåëóéâîï...
++++
+It's super effective!
+Üóï òôðåñüõõåëóéâîï!
++++
+[string:1] is protected by Magic Guard!
+[string:1] ïáåñåãàåóòÿ Íàãèàþéóïê!
++++
+[string:1] took no damage!
+[string:1] îå ðïìôœàåó ôñïîà!
++++
+[string:1] took calamitous damage!
+[string:1] ðïìôœàåó ëàóàòóñïõéœåòëéê
+ôñïî!
++++
+The attack was barely endured!
+Àóàëô åäâà ôäàìïòû ðåñåçéóû!
++++
+"False Swipe did damage but kept it from
+fainting!"
+Ìïçîúê Ôäàñ îàîæò ôñïî, îï îå äàì
+Ðïëåíïîô ðïóåñÿóû òïèîàîéå!
++++
+[string:1] fainted!
+[string:1] óåñÿåó òïèîàîéå!
++++
+[string:1] was revived!
+[string:1] ðñéâïäéóòÿ â œôâòóâï!
++++
+[string:0] possessed [string:1]!
+[string:0] ëïîóñïìéñôåó Ðïëåíïîà
+[string:1]!
++++
+[string:1] was revived!
+[string:1] ðñéâïäéóòÿ â œôâòóâï!
++++
+Torrent boosted its power!
+Ðïóïë ôòéìéâàåó íïþû ðñéæíà!
++++
+Overgrow boosted its power!
+Áôñîúê Ñïòó ôòéìéâàåó íïþû ðñéæíà!
++++
+Swarm boosted its power!
+Ñïê ôòéìéâàåó íïþû ðñéæíà!
++++
+Blaze boosted its power!
+Èàçéãàîéå ôòéìéâàåó íïþû ðñéæíà!
++++
+Guts boosted its power!
+Òéìà Âïìé ôòéìéâàåó íïþû ðñéæíà!
++++
+Its ability boosted its Attack!
+Òðïòïáîïòóû Ðïëåíïîà ôòéìéâàåó Àóàëô!
++++
+Marvel Scale boosted its Defense!
+Œôäï-Œåšôêëà ôòéìéâàåó Èàþéóô!
++++
+The [c_i:2] ability activated!
+Òñàáàóúâàåó òðïòïáîïòóû [c_i:2]!
++++
+"[string:1] absorbed the fire with its
+Flash Fire ability!"
+[string:1] ðïãìïþàåó ðìàíÿ áìàãïäàñÿ
+òðïòïáîïòóé Òéÿýþéê Ïãïîû!
++++
+Fire moves won't become stronger!
+Ïãîåîîúå ðñéæíú îå òóàîôó òéìûîåå!
++++
+[string:0][CS:C] used a Special Attack move![CR]
+[string:0] [CS:C]ðñéíåîÿåó Òðåøéàìûîúê ðñéæí![CR]
++++
+[string:0][CS:C] used an Other-type move![CR]
+[string:0] [CS:C]ðñéíåîÿåó Äñôãïê ðñéæí![CR]
++++
+[string:0][CS:C] used a Physical Attack move![CR]
+[string:0] [CS:C]ðñéíåîÿåó Õéèéœåòëéê ðñéæí![CR]
++++
+"[string:0][CS:C] performed a matchup
+calculation using an Other-type move![CR]"
+[string:0] [CS:C]ðñïâïäéó ðïäòœæó íàóœ-àðà
+ðñéíåîåîéåí ðñéæíà Äñôãïãï óéðà![CR]
++++
+[string:0] blinked!
+Ðïëåíïî [string:0] ïòìåðìåî!
++++
+"[string:0] is terrified! It couldn't pick up
+the [item:0]."
+[string:0] â ôçàòå! Îå âúšìï ðïäîÿóû
+ðñåäíåó [item:0].
++++
+[string:0] picked up [item:0].
+[string:0] ðïäáéñàåó ðñåäíåó
+[item:0].
++++
+[string:0] picked up the [item:0].
+[string:0] ðïäáéñàåó ðñåäíåó
+[item:0].
++++
+"[string:0] picked up the [item:0]
+and put it in the [gadget_bag]."
+[string:0] ðïäáéñàåó ðñåäíåó
+[item:0] é ëìàäæó åãï
+â: [gadget_bag].
++++
+"[string:0] passed over the
+[item:0]."
+[string:0] ðñïöïäéó îàä ðñåäíåóïí
+[item:0].
++++
+"[string:0] couldn't pick up the
+[item:0]."
+[string:0] îå íïçåó ðïäïáñàóû ðñåäíåó
+[item:0].
+---
+[string:1] was defeated!
+[string:1] óåñðéó ðïñàçåîéå!
+[string:1] fainted!
+[string:1] óåñÿåó òïèîàîéå!
+Oh no! [string:1] was defeated!
+Ï, îåó! [string:1] óåñðéó ðïñàçåîéå!
+Oh no! [string:1] fainted!
+Ï, îåó! [string:1] óåñÿåó òïèîàîéå!
+"[string:1] was defeated! It left the
+exploration team!"
+[string:1] óåñðéó ðïñàçåîéå! Ðïëåíïî
+ðïëéäàåó ãñôððô éòòìåäïâàóåìåê!
+"[string:1] fainted! It left the
+exploration team!"
+[string:1] óåñÿåó òïèîàîéå! Ðïëåíïî
+ðïëéäàåó ãñôððô éòòìåäïâàóåìåê!
+Oh no! [string:1] was defeated!
+Ï, îåó! [string:1] óåñðéó ðïñàçåîéå!
+Oh no! [string:1] fainted!
+Ï, îåó! [string:1] óåñÿåó òïèîàîéå!
+[string:1] went back for now!
+[string:1] âïèâñàþàåóòÿ!
+Oh no! [string:1] fainted!
+Ï, îåó! [string:1] óåñÿåó òïèîàîéå!
+Your client [string:1] was defeated!
+Âàš ëìéåîó [string:1] óåñðéó ðïñàçåîéå!
+Your client [string:1] fainted!
+Âàš ëìéåîó [string:1] óåñÿåó òïèîàîéå!
+[string:1] was defeated!
+[string:1] óåñðéó ðïñàçåîéå!
+[string:1] fainted!
+[string:1] óåñÿåó òïèîàîéå!
+"[string:1] was defeated while awaiting
+rescue!"
+[string:1] óåñðéó ðïñàçåîéå â ïçéäàîéé
+òðàòåîéÿ!
+[string:1] fainted while awaiting rescue!
+[string:1] óåñÿåó òïèîàîéå â ïçéäàîéé
+òðàòåîéÿ!
+---
+But it only affects [CS:K]Linoone[CR].
+Îï üóï äåêòóâôåó óïìûëï îà [CS:K]Ìàêîôîà[CR].
++++
+"That reminds me...[K] My friend...[K]
+It's been a while since I've heard anything...[K]
+I wonder how my friend is doing..."
+Âòðïíéîàý...[K] Íïê äñôã... [K]Ðñïšìï ôçå
+òóïìûëï âñåíåîé ò óåö ðïñ ëàë ïî
+âéäåì íåîÿ... [K]Ëàë óàí ïî òåêœàò...
++++
+[string:0] fought back tears!
+[string:0] òäåñçéâàåó òìæèú!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
++++
+[string:0] said, "See ya!"
+[string:0] ãïâïñéó: "Ðïëà!"
++++
+"[string:0] just said, ""See ya!"" to
+someone!"
+[string:0] ãïâïñéó ëïíô-óï: "Ðïëà!"
++++
+"...thought it was the right one...[P]
+...looking closer, this is...[P]
+Not a [item:1], but a [item:0]!"
+...ëàçåóòÿ, œóï üóï ïîï, îï...[P]
+...âèãìÿîôâ âîéíàóåìûîåå, üóï...[P]
+Îå [item:1], à [item:0]!
++++
+ An "s"?
+Œóï? "áîï"?
++++
+That wasn't a "[CS:E]v[CR]," it was an "[CS:1:E]s[CR:1]"!
+Üóï îå "[CS:E]çé[CR]", üóï "[CS:1:E]áîï[CR:1]"!
++++
+"[string:0] burst into spontaneous
+laughter and fainted!"
+[string:0] ñàèñàçàåóòÿ öïöïóïí é
+óåñÿåó òïèîàîéå!
++++
+It's someone's lucky day! Ka-ching!
+Ëïíô-óï ðïâåèìï! Äéîû!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
++++
+[M:D1]It seems like something good will happen.
+[M:D1]Ðïöïçå, òìôœéóòÿ œóï-óï öïñïšåå.
+---
+[string:0] changed to Sky Forme!
+[string:0] íåîÿåóòÿ â Îåáåòîôý Õïñíô!
++++
+"[string:0] is already in Sky Forme!
+This can only be used on Land Forme."
+[string:0] ôçå â Îåáåòîïê Õïñíå!
+Üóï íïçîï ðñéíåîéóû óïìûëï îà Èåíîôý
+Õïñíô.
++++
+It had no effect on [string:0]!
+Üóï îå âïèúíåìï üõõåëóà îà Ðïëåíïîå
+[string:0]!
++++
+Can't change Forme!
+Îåâïèíïçîï òíåîéóû Õïñíô!
++++
+It had no effect on [string:0]!
+Üóï îå âïèúíåìï üõõåëóà îà Ðïëåíïîå
+[string:0]!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
+---
+"Hey! [string:0] wants to join your team!
+Will you accept [string:0] as a member?"
+Âàô! [string:0] öïœåó âòóôðéóû â
+ãñôððô! Ðñéîÿóû Ðïëåíïîà [string:0] â
+âàšô ãñôððô?
++++
+[string:0] went away...
+[string:0] ôöïäéó...
++++
+The PokÃ©mon couldn't join the team...
+Ðïëåíïî îå òíïã âòóôðéóû â ãñôððô...
++++
+But it couldn't join the team.
+Îï ô îåãï îå âúšìï âòóôðéóû â ãñôððô.
++++
+Do you want to nickname the new member?
+Öïóéóå äàóû ðñïèâéþå œìåîô ãñôððú?
++++
+"Please give your new team member
+a proper nickname!"
+Äàêóå âàšåíô îïâïíô œìåîô ãñôððú
+äñôãïå ðñïèâéþå!
++++
+Is the nickname [string:0] OK?
+Âàò ôòóñàéâàåó ðñïèâéþå [string:0]?
++++
+"[string:0] joined Team [team:1] to
+go on adventures!"
+[string:0] âòóôðàåó â
+Ëïíàîäô [team:1]!
++++
+"Your team is already full! Select the PokÃ©mon
+to send back to the guild."
+Âàšà ãñôððà ôçå ðïìîàÿ! Âúáåñéóå
+Ðïëåíïîà, œóïáú ïóðñàâéóû åãï â
+ãéìûäéý.
++++
+Send [string:0] back to the guild?
+Ïóðñàâéóû Ðïëåíïîà [string:0]
+â ãéìûäéý?
++++
+"[string:0] will return to the guild.[C]
+[string:1] used the Explorer Badge to
+send [string:0] to the guild!"
+[string:0] âåñîæóòÿ â ãéìûäéý.[C]
+[string:1] ðñéíåîÿåó Èîàœïë
+Éòòìåäïâàóåìÿ, ïóðñàâìÿÿ Ðïëåíïîà äïíïê!
+---
+It's a [CS:P]Monster House[CR]!
+Âú ðïðàìé â [CS:P]Èàòàäô Íïîòóñïâ[CR]!
++++
+Perish Song's effect wore off!
+Üõõåëó Ðåòîé Ãéáåìé ðñïðàäàåó!
++++
+The [CS:J]Exposed[CR] status wore off!
+Òóàóôò [CS:J]Ôÿèâéíïòóû[CR] ðñïðàäàåó!
++++
+All move seals are broken!
+Âòå èàðñåóú îà ðñéæíú ñàèâåÿîú!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
++++
+[string:0]'s Reflect status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ïóñàçåîéå".
++++
+[string:0]'s Light Screen status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ïãñàäà Òâåóà".
++++
+[string:0]'s Counter status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ïóâåóîúê Ôäàñ".
++++
+[string:0]'s Safeguard status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Áåèïðàòîïòóû".
++++
+[string:0]'s Magic Coat status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Œôäï-Ðìàþ".
++++
+[string:0]'s Wish status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Çåìàîéå".
++++
+[string:0] woke up!
+[string:0] ðñïòúðàåóòÿ!
++++
+[string:0] is no longer sleepless!
+[string:0] áïìûšå îå òóñàäàåó
+áåòòïîîéøåê!
++++
+[string:0] got over its drowsiness!
+[string:0] ðñåïäïìåâàåó òïîìéâïòóû!
++++
+The Water Sport effect faded.
+Üõõåëó Ôâìàçîåîéÿ ðñïðàäàåó.
++++
+The Mud Sport effect faded.
+Üõõåëó Éãñ Â Ãñÿèé ðñïðàäàåó.
++++
+[string:0]'s Leech Seed wore off.
+[string:0] óåñÿåó üõõåëó Èåñæî-Ðéÿâïë.
++++
+[string:0] is no longer cursed!
+[string:0] óåñÿåó üõõåëó ðñïëìÿóéÿ!
++++
+[string:0]'s Snatch status faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ðåñåöâàó"!
++++
+[string:0] recovered from confusion!
+[string:0] âúöïäéó éè èàíåšàóåìûòóâà!
++++
+[string:0] regained mobility!
+[string:0] ïáñåóàåó ðïäâéçîïòóû!
++++
+[string:0]'s Ingrain status wore off!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ðñïñàòóàîéå"!
++++
+[string:0] recovered from paralysis!
+[string:0] ïðñàâìÿåóòÿ ïó ðàñàìéœà!
++++
+[string:0] recovered from a burn!
+[string:0] ïðñàâìÿåóòÿ ïó ïçïãà!
++++
+[string:0] recovered from poison!
+[string:0] ïðñàâìÿåóòÿ ïó ïóñàâìåîéÿ!
++++
+[string:0] thawed out!
+[string:0] ñàèíïñàçéâàåóòÿ!
++++
+[string:0] lost its Sure Shot status!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Óïœîúê Ôäàñ"!
++++
+"[string:0] recovered from its [CS:J]Whiffer[CR]
+status!"
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"[CS:J]Íàèéìà[CR]"!
++++
+"The amount of damage that [string:0]
+does is no longer fixed at a certain amount!"
+Ëïìéœåòóâï îàîïòéíïãï ôñïîà Ðïëåíïîà
+[string:0] áïìûšå îå ïäéîàëïâïå!
++++
+[string:0] lost its Focus Energy status!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Õïëôòéñïâëà"!
++++
+[string:0] is no longer cowering!
+[string:0] áïìûšå îå óñåðåþåó!
++++
+The decoy PokÃ©mon went away!
+Ðïëåíïî ðñéíàîëà éòœåèàåó!
++++
+[string:0]'s Protect wore off!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Èàþéóà"!
++++
+[string:0]'s Taunted status wore off!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Òðñïâïøéñïâàî"!
++++
+[string:0] became visible!
+Ðïëåíïî [string:0] òóàîïâéóòÿ
+âéäéíúí!
++++
+[string:0] regained sight!
+[string:0] âïòòóàîàâìéâàåó èñåîéå!
++++
+[string:0] is no longer cross-eyed!
+[string:0] áïìûšå îå ëïòïãìàèéó!
++++
+[string:0]'s sight returned to normal!
+Èñåîéå Ðïëåíïîà [string:0] âåñîôìïòû
+â îïñíô!
++++
+[string:0] can no longer walk on water!
+[string:0] áïìûšå îå íïçåó öïäéóû
+ðï âïäå!
++++
+[string:0]'s Mirror Coat status faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ðìàþ-Èåñëàìï"!
++++
+[string:0] gave up its Destiny Bond!
+[string:0] ïóñåëàåó Ôèú Òôäûáú!
++++
+[string:0] recovered from Encore!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Áéò"!
++++
+[string:0]'s Endure status faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Òóïêëïòóû"!
++++
+[string:0]'s Mirror Move status faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Íéíéëñéÿ"!
++++
+[string:0]'s Conversion 2 status faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ëïîâåñòéÿ 2"!
++++
+[string:0]'s Vital Throw status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ëïîóñáñïòïë"!
++++
+[string:0]'s Mist effect faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Èàóôíàîåîîïòóû"!
++++
+[string:0]'s transformation wore off!
+[string:0] óåñÿåó óñàîòõïñíàøéý!
++++
+[string:0] got over its infatuation!
+[string:0] ñàòòåéâàåó ïœàñïâàîéå!
++++
+"[string:0] can no longer pass through
+walls!"
+[string:0] áïìûšå îå íïçåó ðñïöïäéóû
+òëâïèû òóåîú!
++++
+[string:0] is no longer muzzled!
+[string:0] áïìûšå îå ðïä îåíïóïê!
++++
+[string:0]'s rage faded!
+Ÿñïòóû Ðïëåíïîà [string:0] ôóéöìà!
++++
+[string:0] is no longer petrified!
+[string:0] áïìûšå îå â ïøåðåîåîéé!
++++
+[string:0] is no longer cringing!
+[string:0] áïìûšå îå òùæçéâàåóòÿ!
++++
+[string:0] is no longer paused!
+[string:0] áïìûšå îå ðïä âìéÿîéåí
+ðàôèú!
++++
+"[string:0]'s countering Metal Burst status
+faded."
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Íåóàì-Âèñúâ"!
++++
+[string:0]'s Gastro Acid status faded.
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Çåìœû".
++++
+[string:0]'s Aqua Ring status faded!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Àëâà Ëïìûøï"!
++++
+[string:0]'s Lucky Chant effect wore off!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Ðåòîû Ôäàœé"!
++++
+The Heal Block wore off!
+Áìïë Ìåœåîéÿ áïìûšå îå äåêòóâôåó!
++++
+[string:0]'s Embargo was lifted!
+[string:0] óåñÿåó Üíáàñãï!
++++
+[CS:J]Miracle Eye[CR] wore off!
+[CS:J]Ãìàè Íéñàçà[CR] ñàòòåéâàåóòÿ!
++++
+[string:0]'s Magnet Rise status wore off!
+[string:0] óåñÿåó òóàóôò-üõõåëó
+"Íàãîéóîúê Ðïäùæí"!
++++
+The stench cleared!
+Âïîû ðñåëñàóéìàòû!
++++
+[string:0] is no longer terrified!
+[string:0] áïìûšå îå â ôçàòå!
++++
+"[string:0] regained its Flying-type
+designation!"
+[string:0] âïèâñàþàåó òâïê
+Ìåóàýþéê óéð!
++++
+"[string:0] lost its Flying-type
+designation!"
+[string:0] óåñÿåó òâïê Ìåóàýþéê óéð!
++++
+"[string:0] passed on its status problems
+to [string:1]!"
+[string:0] ðåñåîïòéó òâïé òóàóôò
+ðñïáìåíú Ðïëåíïîô [string:1]!
++++
+"[string:0] was healed, but it couldn't pass
+on its status problems to [string:1]."
+[string:0] éòøåìÿåóòÿ, îï îå ðåñåäàæó
+òâïé òóàóôò-ðñïáìåíú Ðïëåíïîô
+[string:1].
++++
+"[string:0] has no status problems it can
+pass on to [string:1]."
+[string:0] îå éíååó òóàóôò-ðñïáìåí
+äìÿ ðåñåîïòà Ðïëåíïîô [string:1]!
++++
+[string:0] is readying Razor Wind!
+[string:0] ãïóïâéó Ñåçôþéê Âåóåñ!
++++
+[string:0] began storing energy!
+[string:0] îàœéîàåó ëïðéóû üîåñãéý!
++++
+[string:0] is enraged!
+[string:0] â ÿñïòóé!
++++
+[string:0] is focusing energy!
+[string:0] õïëôòéñôåó üîåñãéý!
++++
+[string:0] is readying Sky Attack!
+[string:0] ãïóïâéó Àóàëô Ò Îåáà!
++++
+[string:0] is readying SolarBeam!
+[string:0] ãïóïâéó Ìôœ Òïìîøà!
++++
+[string:0] flew up high!
+[string:0] âèìåóàåó ââúòû!
++++
+[string:0] bounced up!
+[string:0] ðïäòëàëéâàåó ââåñö!
++++
+[string:0] dove underwater!
+[string:0] îúñÿåó ðïä âïäô!
++++
+[string:0] burrowed underground!
+[string:0] èàëàðúâàåóòÿ ðïä èåíìý!
++++
+[string:0] hid itself in shadows!
+[string:0] òëñúâàåóòÿ â óåîÿö!
++++
+[string:0] is charging Metal Burst!
+[string:0] èàñÿçàåó Íåóàì-Âèñúâ!
++++
+[string:0] began charging power!
+[string:0] îàœéîàåó èàñÿçàóûòÿ!
++++
+[CS:J]Mud Sport[CR] came into effect!
+[CS:J]Éãñú Â Ãñÿèé[CR] îàœéîàýó òâïæ äåêòóâéå!
++++
+[CS:J]Water Sport[CR] came into effect!
+Îàœéîàåó äåêòóâïâàóû [CS:J]Ôâìàçîåîéå[CR]!
++++
+"[string:1] absorbed the fire with its
+Flash Fire ability!"
+[string:1] ðïãìïþàåó ïãïîû òâïåê
+òðïòïáîïòóûý Òéÿýþéê Ïãïîû!
++++
+Fire [CS:M]moves[CR] won't become stronger!
+Ïãîåîîúå [CS:M]ðñéæíú[CR] îå òóàìé òéìûîåå!
++++
+[string:0] began using Wish!
+[string:0] èàãàäúâàåó Çåìàîéå!
++++
+[string:0] already has a Wish status.
+[string:0] ôçå îàöïäéóòÿ ðïä
+äåêòóâéåí Çåìàîéÿ!
++++
+[string:0] took a Leech Seed!
+[string:0] èàòåéâàåóòÿ
+Èæñîàíé-Ðéÿâëàíé!
++++
+[string:0] already has a Leech Seed!
+[string:0] ôçå îàöïäéóòÿ ðïä
+äåêòóâéåí Èæñåî-Ðéÿâïë!
++++
+Item locations were revealed!
+Ðïëàèàîú íåòóïðïìïçåîéÿ ðñåäíåóïâ!
++++
+The location of the stairs has been revealed!
+Ðïëàèàîï íåòóïðïìïçåîéå ìåòóîéøú!
++++
+Item locations are already known.
+Íåòóïðïìïçåîéÿ ðñåäíåóïâ ôçå éèâåòóîú.
++++
+The location of the stairs is already known.
+Íåòóïðïìïçåîéå ìåòóîéøú ôçå éèâåòóîï.
++++
+There are no stairs here.
+Â üóïí íåòóå îåó ìåòóîéøú.
++++
+"[string:0] protected itself with Magic
+Coat!"
+[string:0] ïáåñåãàåó òåáÿ
+Œôäï-Ðìàþïí!
++++
+"[string:0] protected itself with Magic
+Coat!"
+[string:0] ïáåñåãàåó òåáÿ
+Œôäï-Ðìàþïí!
++++
+"[string:0] is already protected by
+Magic Coat!"
+[string:0] ôçå ðïä èàþéóïê
+Œôäï-ðìàþà!
++++
+[string:0] can locate all enemies now!
+[string:0] óåðåñû íïçåó ïáîàñôçéóû
+âòåö âñàãïâ!
++++
+All enemies have already been located!
+Âòå âñàãé ôçå ïáîàñôçåîú!
++++
+[string:0] is readying its Skull Bash!
+[string:0] ãïóïâéó Ôäàñ Œåñåðïí!
++++
+[string:0] was cursed!
+[string:0] ðñïëìéîàåóòÿ!
++++
+[string:0] readied Snatch!
+[string:0] ãïóïâéó Ðåñåöâàó!
++++
+"[string:0] protected itself with
+Safeguard!"
+[string:0] ïáåñåãàåó òåáÿ
+Áåèïðàòîïòóûý!
++++
+"[string:0] is already protected by
+Safeguard."
+[string:0] ôçå ðïä èàþéóïê
+Áåèïðàòîïòóé.
++++
+[string:0] protected itself with Mist!
+[string:0] ïáåñåãàåó òåáÿ
+Èàóôíàîåîîïòóûý!
++++
+[string:0] is already protected by Mist.
+[string:0] ôçå ðïä èàþéóïê
+Èàóôíàîåîîïòóé.
++++
+[string:0] is set to counter!
+[string:0] ãïóïâéó ïóâåóîúê ôäàñ!
++++
+"[string:0] is already waiting to
+counterattack!"
+[string:0] ôçå íïçåó îàîåòóé
+ïóâåóîúê ôäàñ!
++++
+"[string:0] protected itself with
+Light Screen!"
+[string:0] ïáåñåãàåó òåáÿ
+Ïãñàäïê Òâåóà!
++++
+"[string:0] is already protected
+by Light Screen."
+[string:0] ôçå ðïä èàþéóïê
+Ïãñàäú Òâåóà.
++++
+[string:0] shielded itself with Reflect!
+[string:0] ïáåñåãàåó òåáÿ
+Ïóñàçåîéåí!
++++
+"[string:0] is already protected by
+Reflect."
+[string:0] ôçå ðïä èàþéóïê
+Ïóñàçåîéÿ.
++++
+[string:0] recovered [digits_c:0] [CS:E]HP[CR]!
+[string:0] âïòðïìîÿåó [digits_c:0] [CS:E]ÏÈ[CR]!
++++
+[string:0] was fully healed!
+[string:0] ðïìîïòóûý éèìåœéâàåóòÿ!
++++
+[string:0]'s [CS:E]HP[CR] didn't change.
+[CS:E]ÏÈ[CR] Ðïëåíïîà [string:0] ïòóàìéòû áåè
+éèíåîåîéê.
++++
+[string:0] has full [CS:E]HP[CR].
+Ô Ðïëåíïîà [string:0] ðïìîúå [CS:E]ÏÈ[CR].
++++
+[string:0]'s [CS:E]maximum HP[CR] rose by [digits_c:1].
+[CS:E]Íàëòéíàìûîúå ÏÈ[CR] Ðïëåíïîà [string:0]
+ôâåìéœéìéòû îà [digits_c:1].
++++
+[string:0]'s [CS:E]maximum HP[CR] didn't change.
+[CS:E]Íàëòéíàìûîúå ÏÈ[CR] Ðïëåíïîà [string:0]
+ïòóàìéòû áåè éèíåîåîéê.
++++
+[string:0] became confused!
+[string:0] ââïäéóòÿ â èàíåšàóåìûòóâï!
++++
+[string:0] is already confused!
+[string:0] ôçå â èàíåšàóåìûòóâå!
++++
+"[string:0] became paralyzed!
+It can't attack!"
+[string:0] ðàñàìéèïâúâàåóòÿ!
+Ðïëåíïî îå íïçåó àóàëïâàóû!
++++
+[string:0] is already paralyzed!
+[string:0] ôçå ðïä äåêòóâéåí
+ðàñàìéœà!
++++
+[string:0] cringed!
+[string:0] òùæçéâàåóòÿ!
++++
+[string:0] is already cringing!
+[string:0] ôçå òùæçéâàåóòÿ!
++++
+[string:0] fell asleep!
+[string:0] èàòúðàåó!
++++
+[string:0] is already asleep!
+[string:0] ôçå òðéó!
++++
+[string:0] is caught in a nightmare!
+[string:0] ðåñåçéâàåó ëïšíàñú!
++++
+[string:0] didn't become drowsy!
+[string:0] îå ïäïìåâàåó òïî!
++++
+"[string:0] is caught by a [CS:J]Nightmare[CR]
+status!"
+[string:0] éòðúóúâàåó [CS:J]Ëïšíàñú[CR]!
++++
+[string:0] is already having a nightmare!
+[string:0] ôçå éòðúóúâàåó ëïšíàñú!
++++
+[string:0] didn't become drowsy!
+[string:0] îå ïäïìåâàåó òïî!
++++
+[string:0] yawned!
+[string:0] èåâàåó!
++++
+[string:0] didn't yawn!
+[string:0] îå èåâàåó!
++++
+[string:0] is already yawning!
+[string:0] ôçå èåâàåó!
++++
+[string:0] is already asleep!
+[string:0] ôçå òðéó!
++++
+[string:0] woke up!
+[string:0] ðñïòúðàåóòÿ!
++++
+[string:0] already has a [CS:J]Sleepless[CR] status!
+[string:0] ôçå éíååó [CS:J]Áåòòïîîéøô[CR]!
++++
+[string:0] became sleepless!
+[string:0] îå íïçåó òðàóû!
++++
+"[string:0] is [CS:J]pausing[CR] and doing nothing
+else!"
+[string:0] ðïä üõõåëóïí [CS:J]ðàôèú[CR] é
+îéœåãï îå äåìàåó!
++++
+[string:0] is already [CS:J]pausing[CR]!
+[string:0] ôçå â [CS:J]ðàôèå[CR]!
++++
+[string:0] can't move for a while!
+[string:0] âñåíåîîï îå íïçåó
+ðïšåâåìéóûòÿ!
++++
+[string:0] became [CS:J]infatuated[CR]!
+[string:0] âðàäàåó â [CS:J]ïœàñïâàîéå[CR]!
++++
+[string:0] is already infatuated!
+[string:0] ôçå ðïä äåêòóâéåí
+ïœàñïâàîéÿ!
++++
+[string:0] sustained a burn!
+[string:0] ðïìôœàåó ïçïã!
++++
+[string:0] already has a burn!
+[string:0] ôçå éíååó ïçïã!
++++
+[string:0] was poisoned!
+[string:0] ðïìôœàåó ïóñàâìåîéå!
++++
+[string:0] was badly poisoned!
+[string:0] ðïìôœàåó óÿçæìïå
+ïóñàâìåîéå!
++++
+[string:0] is already poisoned!
+[string:0] ôçå éíååó ïóñàâìåîéå!
++++
+[string:0] is already badly poisoned!
+[string:0] ôçå éíååó óÿçæìïå
+ïóñàâìåîéå!
++++
+[string:0] became frozen!
+[string:0] èàíïñàçéâàåóòÿ!
++++
+[string:0]'s appearance changed.
+Âîåšîïòóû Ðïëåíïîà [string:0]
+éèíåîéìàòû.
++++
+[string:0] was constricted!
+[string:0] ðïäâåñãàåóòÿ ïãñàîéœåîéý!
++++
+[string:0] is already being constricted!
+[string:0] ôçå ðïäâåñãàåóòÿ
+ïãñàîéœåîéý!
++++
+[string:0] became immobilized!
+[string:0] ïáåèäâéçéâàåóòÿ!
++++
+[string:0] is already immobilized!
+[string:0] ôçå ðïä äåêòóâéåí
+ïáåèäâéçéâàîéÿ!
++++
+"[string:0]'s [c_i:1] kept it from
+being immobilized by [CS:J]Shadow Hold[CR]!"
+Òðïòïáîïòóû [c_i:1] ïáåñåãàåó
+Ðïëåíïîà [string:0] ïó ïáåèäâéçéâàîéÿ
+üõõåëóïí [CS:J]Öâàóëà Óåîåê[CR]!
++++
+[string:0] put down its roots!
+[string:0] èàñúâàåó òâïé ëïñîé!
++++
+[string:0] is already rooted!
+Ðïëåíïî [string:0] ôçå èàñúì ëïñîé!
++++
+[string:0] became wrapped!
+Ðïëåíïîà [string:0] ïáâéâàýó!
++++
+[string:0] has a foe wrapped already!
+[string:0] ôçå ïáâéâàåó âñàãà!
++++
+[string:0] is already wrapped!
+Ðïëåíïîà [string:0] ôçå ïáâéâàýó!
++++
+[string:0] attained [CS:J]Sure Shot[CR] status!
+[string:0] ðïìôœàåó òóàóôò-üõõåëó
+[CS:J]Óïœîúê Ôäàñ[CR]!
++++
+[string:0] already has [CS:J]Sure Shot[CR] status!
+[string:0] ôçå éíååó [CS:J]Óïœîúê Ôäàñ[CR]!
++++
+[string:0] became a [CS:J]Whiffer[CR]!
+[string:0] òóàîïâéóòÿ [CS:J]Íàèéìïê[CR]!
++++
+[string:0] is already a [CS:J]Whiffer[CR]!
+[string:0] ôçå [CS:J]Íàèéìà[CR]!
++++
+[string:0] became petrified!
+[string:0] âðàäàåó â ïøåðåîåîéå!
++++
+[string:0] is already petrified!
+[string:0] ôçå â ïøåðåîåîéé!
++++
+[string:0] was blinded!
+[string:0] ïòìåðìÿåóòÿ!
++++
+[string:0] is already blinded!
+[string:0] ôçå îéœåãï îå âéäéó!
++++
+[string:0] can't see properly!
+[string:0] îå íïçåó œæóëï âéäåóû!
++++
+[string:0] already can't see properly!
+[string:0] ôçå îå íïçåó œæóëï âéäåóû!
++++
+[string:0]'s vision was enhanced!
+Èñåîéå Ðïëåíïîà [string:0]
+ôìôœšéìïòû!
++++
+[string:0]'s vision is already enhanced!
+Èñåîéå Ðïëåíïîà [string:0] ôçå
+ôìôœšéìïòû!
++++
+[string:0] can now walk on water!
+[string:0] óåðåñû íïçåó öïäéóû ðï
+âïäå!
++++
+[string:0] is already affected by [CS:J]Slip[CR]!
+[string:0] ôçå ðïä âìéÿîéåí
+[CS:J]Ôòëïìûçåîéÿ[CR]!
++++
+[string:0]'s vision has become poor!
+Èñåîéå Ðïëåíïîà [string:0]
+èàóñôäîÿåóòÿ!
++++
+[string:0]'s already affected by [CS:J]Dropeye[CR]!
+[string:0] ôçå ðïä âìéÿîéåí
+[CS:J]Ÿòîïãï Òãìàèà[CR]!
++++
+It had no effect on [string:0]!
+Üóï îå ïëàèúâàåó üõõåëóà îà
+Ðïëåíïîà [string:0]!
++++
+"[string:0]'s damage was fixed at a
+certain amount!"
+Ôñïî Ðïëåíïîà [string:0] áúì
+ïãñàîéœåî ïðñåäåìæîîúí èîàœåîéåí!
++++
+"[string:0]'s damage is already fixed at a
+certain amount!"
+Ôñïî Ðïëåíïîà [string:0] ôçå
+ïãñàîéœåî ïðñåäåìæîîúí èîàœåîéåí!
++++
+[string:0] is getting pumped!
+[string:0] îàëàœéâàåóòÿ!
++++
+[string:0] is already pumped!
+[string:0] ôçå îàëàœéâàåóòÿ!
++++
+[string:0] cowered in fear!
+[string:0] óñåðåþåó ïó òóñàöà!
++++
+[string:0] is already cowering!
+[string:0] ôçå óñåðåþåó!
++++
+[string:0] became a [CS:J]Decoy[CR]!
+[string:0] òóàîïâéóòÿ [CS:J]Ðñéíàîëïê[CR]!
++++
+[string:0] is already a [CS:J]Decoy[CR]!
+[string:0] ôçå [CS:J]Ðñéíàîëà[CR]!
++++
+[string:0] protected itself!
+[string:0] èàþéþàåó òåáÿ!
++++
+[string:0] is already protecting itself!
+[string:0] ôçå èàþéþàåó òåáÿ!
++++
+[string:0] was taunted!
+[string:0] ðñïâïøéñôåóòÿ!
++++
+[string:0] has been taunted already!
+[string:0] ôçå ðñïâïøéñôåóòÿ!
++++
+[string:0] stored power. Now at [digits_c:0]!
+[string:0] èàðàòàåó íïþû. Èàðàò: [digits_c:0]!
++++
+[string:0] can't store any more power!
+[string:0] áïìûšå îå íïçåó ëïðéóû
+íïþû!
++++
+[string:0] became invisible!
+[string:0] ðïìôœàåó îåâéäéíïòóû!
++++
+[string:0] is invisible already!
+[string:0] ôçå ðïä üõõåëóïí
+îåâéäéíïòóé!
++++
+"[string:0] protected itself with
+Mirror Coat!"
+[string:0] ïáåñåãàåó òåáÿ
+Ðìàþ-Èåñëàìïí!
++++
+"[string:0] is already protected by
+Mirror Coat!"
+[string:0] ôçå ðïä èàþéóïê
+Ðìàþ-Èåñëàìà!
++++
+[string:0] will faint after 3 turns!
+[string:0] ðïóåñÿåó òïèîàîéå œåñåè
+3 öïäà!
++++
+"[string:0] is already affected by
+Perish Song!"
+[string:0] ôçå ðïä äåêòóâéåí
+Ðåòîé Ãéáåìé!
++++
+[string:0] readied its Destiny Bond!
+[string:0] ãïóïâéó Ôèú Òôäûáú!
++++
+[string:0] already has [CS:J]Destiny Bond[CR] up!
+[string:0] ôçå äåñçéó [CS:J]Ôèú Òôäûáú[CR]
+îàãïóïâå!
++++
+[string:0] earned an [CS:J]Encore[CR]!
+[string:0] âúèúâàåóòÿ îà [CS:J]Áéò[CR]!
++++
+[string:0] is already doing [CS:J]encores[CR]!
+[string:0] ôçå éòðïìîÿåó [CS:J]Áéò[CR]!
++++
+[string:0] won't do [CS:J]encores[CR]!
+[string:0] îå éòðïìîéó îà [CS:J]Áéò[CR]!
++++
+[string:0] is set to endure!
+[string:0] ãïóïâéóòÿ âúóåñðåóû ôäàñ!
++++
+[string:0] is already set to endure!
+[string:0] ôçå íïçåó âúóåñðåóû ôäàñ!
++++
+[string:0] readied its Mirror Move!
+[string:0] ãïóïâéó Íéíéëñéý!
++++
+[string:0] already used Mirror Move!
+[string:0] ôçå éíååó Íéíéëñéý!
++++
+[string:0] has [CS:J]Conversion 2[CR] up!
+[string:0] äåñçéó [CS:J]Ëïîâåñòéý 2[CR]
+îàãïóïâå!
++++
+[string:0] already has [CS:J]Conversion 2[CR] up!
+[string:0] ôçå äåñçéó [CS:J]Ëïîâåñòéý 2[CR]
+îàãïóïâå!
++++
+[string:0] readied its Vital Throw!
+[string:0] ãïóïâéó Ëïîóñáñïòïë!
++++
+"[string:0] is already ready with its
+Vital Throw!"
+[string:0] ôçå íïçåó ðñéíåîéóû
+Ëïîóñáñïòïë!
++++
+[string:0]'s stats returned to normal.
+Öàñàëóåñéòóéëé Ðïëåíïîà [string:0]
+âåñîôìéòû â îïñíô.
++++
+[string:0]'s stats didn't change.
+Öàñàëóåñéòóéëé Ðïëåíïîà [string:0]
+îå éèíåîéìéòû.
++++
+It psyched itself up!
+Ðïëåíïî âèáïäñéìòÿ!
++++
+[string:0]'s Belly went down.
+Òúóïòóû Ðïëåíïîà [string:0]
+òîéèéìàòû.
++++
+[string:0]'s maximum Belly size shrank!
+Íàëòéíàìûîúê ðïñïã Òúóïòóé Ðïëåíïîà
+[string:0] òîéèéìòÿ!
++++
+"[string:0]'s maximum Belly size
+increased!"
+Íàëòéíàìûîúê ðïñïã Òúóïòóé Ðïëåíïîà
+[string:0] ôâåìéœéìòÿ!
++++
+"[string:0]'s maximum Belly size can't get
+any bigger!"
+Íàëòéíàìûîúê ðïñïã Òúóïòóé Ðïëåíïîà
+[string:0] áïìûšå îå ôâåìéœéóòÿ!
++++
+[string:0]'s Belly didn't change!
+Òúóïòóû Ðïëåíïîà [string:0] îå
+éèíåîéìàòû!
++++
+[string:0]'s Belly size didn't change!
+Ðïñïã Òúóïòóé Ðïëåíïîà [string:0]
+îå éèíåîéìòÿ!
++++
+[string:0]'s Belly filled up fully!
+Òúóïòóû Ðïëåíïîà [string:0]
+âïòðïìîéìàòû äï íàëòéíôíà!
++++
+[string:0]'s Belly was somewhat filled!
+Òúóïòóû Ðïëåíïîà [string:0]
+îåíîïãï âïòðïìîéìàòû!
++++
+[string:0]'s Belly emptied!
+Òúóïòóû Ðïëåíïîà [string:0]
+äïòóéãìà îôìÿ!
++++
+"[string:0] transformed into
+[string:1]!"
+[string:0] óñàîòõïñíéñôåóòÿ â
+Ðïëåíïîà [string:1]!
++++
+[string:0]'s transformation failed!
+Óñàîòõïñíàøéÿ Ðïëåíïîà [string:0]
+îå ôäàìàòû!
++++
+[string:0] is already transformed.
+[string:0] ôçå óñàîòõïñíéñïâàî.
++++
+[string:0] can go through walls now!
+[string:0] óåðåñû íïçåó ðñïöïäéóû
+òëâïèû òóåîú!
++++
+[string:0] can already go through walls!
+[string:0] ôçå íïçåó ðñïöïäéóû
+òëâïèû òóåîú!
++++
+[string:0] became muzzled!
+[string:0] ðïìôœàåó îåíïóô!
++++
+[string:0] is already muzzled!
+[string:0] ôçå ðïä îåíïóïê!
++++
+[string:0] was exposed!
+[string:0] ðïìôœàåó ôÿèâéíïòóû!
++++
+[string:0] is already exposed!
+[string:0] ôçå éíååó ôÿèâéíïòóû!
++++
+[string:0] isn't a Ghost-type PokÃ©mon!
+[string:0] îå ÿâìÿåóòÿ Ðñéèñàëïí!
++++
+"[string:0]'s evasiveness returned to
+normal!"
+Ôëìïîåîéå Ðïëåíïîà [string:0]
+âåñîôìïòû â îïñíô!
++++
+Item holders have been revealed!
+Ðïëàèàîú óå, ëóï îïòéó ðñåäíåóú!
++++
+Item holders have already been [CS:J]identified[CR].
+Âòå óå, ëóï äåñçàó ðñåäíåóú, ôçå
+[CS:J]ïðïèîàîú[CR].
++++
+[string:0] is already [CS:J]in a rage[CR]!
+[string:0] ôçå [CS:J]â ÿñïòóé[CR]!
++++
+[string:0] took on a [CS:J]Gastro Acid[CR] status!
+[string:0] ðïìôœàåó òóàóôò-üõõåëó
+[CS:J]Çåìœû[CR]!
++++
+"[string:0] already has the [CS:J]Gastro Acid[CR]
+status!"
+[string:0] ôçå éíååó òóàóôò-üõõåëó
+[CS:J]Çåìœû[CR]!
++++
+[string:0] put up its Aqua Ring!
+[string:0] ïëôóúâàåó òåáÿ
+Àëâà Ëïìûøïí!
++++
+[string:0] already has Aqua Ring up!
+[string:0] ôçå îàöïäéóòÿ ðïä
+äåêòóâéåí Àëâà Ëïìûøà!
++++
+[string:0] joined the Lucky Chant!
+[string:0] òìúšéó Ðåòîû Ôäàœé!
++++
+[string:0] already has Lucky Chant up!
+[string:0] ôçå ðïä äåêòóâéåí
+Ðåòîé Ôäàœé!
++++
+[string:0] took on a [CS:J]Heal Block[CR] status!
+[string:0] ðïìôœàåó òóàóôò-üõõåëó
+[CS:J]Áìïë Ìåœåîéÿ[CR]!
++++
+"[string:0] already has the [CS:J]Heal Block[CR]
+status!"
+[string:0] ôçå éíååó òóàóôò-üõõåëó
+[CS:J]Áìïë Ìåœåîéÿ[CR]!
++++
+[string:0] is blocked from healing!
+[string:0] îå íïçåó ìåœéóûòÿ!
++++
+"[string:0]'s items were subjected to an
+Embargo!"
+Ðñåäíåóú Ðïëåíïîà [string:0]
+ðïäâåñãàýóòÿ äåêòóâéý Üíáàñãï!
++++
+"[string:0]'s items are already under an
+Embargo!"
+Ðñåäíåóú Ðïëåíïîà [string:0] ôçå
+ðïäâåñãàýóòÿ äåêòóâéý Üíáàñãï!
++++
+"[string:0] is under Embargo! It can't
+use items!"
+[string:0] ðïä äåêòóâéåí Üíáàñãï!
+Ðñéíåîÿóû ðñåäíåóú îåâïèíïçîï!
++++
+"[string:0] is under Embargo! It can't
+use items!"
+[string:0] ðïä äåêòóâéåí Üíáàñãï!
+Ðïëåíïî îå íïçåó ðñéíåîÿóû ðñåäíåóú!
++++
+[string:0] was seen by Miracle Eye!
+Ðïëåíïî [string:0] èàíåœåî Ãìàèïí
+Íéñàçà!
++++
+"[string:0] was already seen by Miracle
+Eye!"
+Ðïëåíïî [string:0] ôçå èàíåœåî
+Ãìàèïí Íéñàçà!
++++
+[string:0] is not a Dark-type PokÃ©mon!
+[string:0] - îå Óæíîúê Ðïëåíïî!
++++
+[string:0] levitated using Magnet Rise!
+[string:0] îàœéîàåó ìåâéóéñïâàóû
+Íàãîéóîúí Ðïäùæíïí!
++++
+[string:0] is already levitating.
+[string:0] ôçå ìåâéóéñôåó.
++++
+Magnet Rise won't have any effect now!
+Íàãîéóîúê Ðïäùæí áïìûšå îå âïèúíååó
+üõõåëó!
++++
+Gravity's effect prevents the move!
+Ãñàâéóàøéÿ îå äàæó ðñéæíô òñàáïóàóû!
++++
+[string:0]'s [string:1] rose [string:2]!
+[string:1] Ðïëåíïîà [string:0]
+ôòéìéâàåó: [string:2]!
++++
+[string:0]'s [string:1] fell [string:2]!
+[string:1] Ðïëåíïîà [string:0]
+òîéçàåó: [string:2]!
++++
+[string:0]'s [string:1] fell slightly!
+[string:1] Ðïëåíïîà [string:0]
+òìåãëà òîéçàåóòÿ!
++++
+"[string:0]'s [string:1] rose
+slightly!"
+[string:1] Ðïëåíïîà [string:0]
+òìåãëà ôâåìéœéâàåóòÿ!
++++
+[string:0]'s [string:1] fell!
+[string:1] Ðïëåíïîà [string:0]
+òîéçàåóòÿ!
++++
+[string:0]'s [string:1] rose!
+[string:1] Ðïëåíïîà [string:0]
+ôâåìéœéâàåóòÿ!
++++
+[string:0]'s Attack was boosted.
+Àóàëà Ðïëåíïîà [string:0]
+ôòéìéâàåóòÿ.
++++
+[string:0]'s Attack wasn't boosted.
+Àóàëà Ðïëåíïîà [string:0]
+îå ôòéìéâàåóòÿ.
++++
+[string:0]'s Sp. Attack was boosted.
+Òðåø. Àóàëà Ðïëåíïîà [string:0]
+ôòéìéâàåóòÿ.
++++
+[string:0]'s Sp. Attack wasn't boosted.
+Òðåø. Àóàëà Ðïëåíïîà [string:0]
+îå ôòéìéâàåóòÿ.
++++
+[string:0]'s Defense was boosted.
+Èàþéóà Ðïëåíïîà [string:0]
+ôòéìéâàåóòÿ.
++++
+[string:0]'s Defense wasn't boosted.
+Èàþéóà Ðïëåíïîà [string:0]
+îå ôòéìéâàåóòÿ.
++++
+[string:0]'s Sp. Defense was boosted.
+Òðåø. Èàþéóà Ðïëåíïîà [string:0]
+ôòéìéâàåóòÿ.
++++
+[string:0]'s Sp. Defense wasn't boosted.
+Òðåø. Èàþéóà Ðïëåíïîà [string:0]
+îå ôòéìéâàåóòÿ.
++++
+"[string:0]'s [string:1] didn't go
+down!"
+[string:1] Ðïëåíïîà [string:0]
+îå òîéçàåóòÿ!
++++
+"[string:0] is limber! It can't be
+paralyzed!"
+[string:0] - ãéáëéê Ðïëåíïî! Åãï
+îåìûèÿ ðàñàìéèïâàóû!
++++
+"The item [item:1] protected
+[string:0] from paralysis!"
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó ðàñàìéœà!
++++
+But [string:0] didn't cringe!
+Îï [string:0] îå òùæçéâàåóòÿ!
++++
+"[string:0] is oblivious! It doesn't get
+infatuated!"
+Ðïëåíïî [string:0] èàáúâœéâ!
+Ïœàñïâàîéå îå òñàáïóàìï!
++++
+"[string:0]'s Nonsleeper IQ skill prevents
+drowsiness!"
+Îàâúë IQ "Áåòòïîîéøà" Ðïëåíïîà
+[string:0] îå äàæó èàòúðàóû!
++++
+"[string:0]'s Insomnia prevents
+drowsiness!"
+Òðïòïáîïòóû "Áåòòïîîéøà" Ðïëåíïîà
+[string:0] îå äàæó èàòúðàóû!
++++
+Òðïòïáîïòóû "Çéèîåîîúê Äôö" Ðïëåíïîà
+[string:0] îå äàæó èàòúðàóû!
++++
+[string:0]'s Own Tempo prevents confusion!
+Òðïòïáîïòóû "Òâïê Óåíð" Ðïëåíïîà
+[string:0] ïáåñåãàåó ïó âðàäàîéÿ
+â èàíåšàóåìûòóâï!
++++
+"[string:0]'s Magma Armor prevents
+freezing!"
+Òðïòïáîïòóû "Áñïîÿ Íàãíú" Ðïëåíïîà
+[string:0] èàþéóéìà ïó èàíïñïèëé!
++++
+[string:0] is an unfreezable type!
+[string:0] éíååó óéð, îå äàýþéê
+Ðïëåíïîô èàíïñïèéóûòÿ!
++++
+"The magma's heat prevents [string:0]
+from freezing!"
+Çàñ íàãíú ïáåñåãàåó Ðïëåíïîà
+[string:0] ïó èàíïñïèëé!
++++
+[string:0]'s Water Veil prevents burns!
+Òðïòïáîïòóû "Èàâåòà Âïäú" Ðïëåíïîà
+[string:0] èàþéóéìà ïó ïçïãà!
++++
+[string:0]'s type doesn't get burns!
+[string:0] éíååó óéð, îå äàýþéê
+Ðïëåíïîô ðïìôœéóû ïçïãé!
++++
+"[string:0]'s Immunity prevents
+poisoning!"
+Òðïòïáîïòóû "Éííôîéóåó" Ðïëåíïîà
+[string:0] èàþéóéìà ïó ïóñàâìåîéÿ!
++++
+[string:0]'s type doesn't get poisoned!
+[string:0] éíååó óéð, îå äàýþéê
+Ðïëåíïîô ïóñàâéóûòÿ!
++++
+[string:0] was protected by its Band!
+[string:0] ïáåñåãàåóòÿ Áñàòìåóïí!
++++
+[string:0] was protected by its Scarf!
+[string:0] ïáåñåãàåóòÿ Šàñõïí!
++++
+[string:0] was protected by its Scope!
+[string:0] ïáåñåãàåóòÿ Ïœëàíé!
++++
+[string:0] regained [CS:E]PP[CR].
+[string:0] âïòðïìîÿåó òâïé [CS:E]ÏÒ[CR].
++++
+[string:0] has full [CS:E]PP[CR] already!
+[string:0] ôçå éíååó ðïìîúå [CS:E]ÏÒ[CR]!
++++
+It became the move [move:0]'s type!
+Ðïëåíïî ðïìôœàåó óéð ðñéæíà
+[move:0]!
++++
+There were no moves Conversion could use!
+Îåó ðñéæíïâ äìÿ òéîåñãéé ò Ëïîâåñòéåê!
++++
+It sketched the move [move:0]!
+Òäåìàî üòëéè ðñéæíà [move:0]!
++++
+There were no [CS:M]moves[CR] that could be sketched!
+[CS:M]Ðñéæíïâ[CR] äìÿ üòëéèà îå ïëàèàìïòû!
++++
+It avoided a burn by being on water!
+Áôäôœé â âïäå, Ðïëåíïî éèáåãàåó ïçïãà!
++++
+"The item [item:1] prevented
+[string:0] from becoming confused!"
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó ââåäåîéÿ
+â èàíåšàóåìûòóâï!
++++
+"The item [item:1] prevented
+[string:0] from becoming infatuated!"
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó ââåäåîéÿ
+â ïœàñïâàîéå!
++++
+"The item [item:1] prevented
+[string:0] from being frozen."
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó èàíïñïèëé.
++++
+"The item [item:1] protected
+[string:0] from weather damage!"
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó ôñïîà
+ðïãïäú!
++++
+"The item [item:1] prevented
+[string:0]'s moves from being sealed!"
+Ðñåäíåó [item:1] òáåñæã
+ðñéæíú Ðïëåíïîà [string:0] ïó
+èàðñåóà!
++++
+"The item [item:1] halved the damage
+[string:0] took from the explosion!"
+Ðñåäíåó [item:1] òîéèéì
+ôñïî ïó âèñúâà ðï Ðïëåíïîô
+[string:0] â äâà ñàèà!
++++
+"The item [item:1] minimized damage to
+[string:0] from the explosion!"
+Ðñåäíåó [item:1] òîéèéì
+ôñïî ïó âèñúâà ðï Ðïëåíïîô
+[string:0] äï íéîéíôíà!
++++
+"The item [item:1] protected
+[string:0] from taking a critical hit!"
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó
+ðïìôœåîéÿ ëñéóéœåòëïãï ôäàñà!
++++
+"The item [item:1] protected
+[string:0] from falling asleep!"
+Ðñåäíåó [item:1] òáåñæã
+Ðïëåíïîà [string:0] ïó òîà!
++++
+Its Forecast prevents type switching!
+Ðñïãîïè îå äàì òíåîéóû óéð!
++++
+Its Forecast prevents [CS:J]Conversion 2[CR]!
+[CS:J]Ëïîâåñòéÿ 2[CR] îå ñàáïóàåó éè-èà Ðñïãîïèà!
++++
+[string:0]'s Synchronize took effect!
+Òñàáàóúâàåó Òéîöñïîîïòóû Ðïëåíïîà
+[string:0]!
++++
+accuracy
+óïœîïòóû
++++
+evasiveness
+ôëìïîåîéå
++++
+Defense
+Èàþéóà
++++
+Sp. Def.
+Òð. Èþó.
++++
+Attack
+Àóàëà
++++
+Sp. Atk.
+Òð. Àóë.
++++
+sharply
+òéìûîï
++++
+slightly
+òìåãëà
++++
+[string:0]'s [string:1] sharply rose!
+[string:1] Ðïëåíïîà [string:0]
+òéìûîï ôâåìéœéâàåóòÿ!
++++
+[string:0]'s [string:1] harshly fell!
+[string:1] Ðïëåíïîà [string:0]
+òéìûîï òîéçàåóòÿ!
++++
+[string:0]'s [string:1] didn't change.
+[string:1] Ðïëåíïîà [string:0]
+îå íåîÿåóòÿ.
++++
+"[string:0]'s [string:1] won't go
+down any more!"
+[string:1] Ðïëåíïîà [string:0]
+áïìûšå îå òîéèéóòÿ!
++++
+"[string:0]'s [string:1] won't go up
+any more!"
+[string:1] Ðïëåíïîà [string:0]
+áïìûšå îå ôâåìéœéóòÿ!
++++
+"[string:0]'s [string:1] won't go
+down any more."
+[string:1] Ðïëåíïîà [string:0]
+áïìûšå îå òîéèéóòÿ.
++++
+"[string:0]'s [string:1] won't go up
+any more."
+[string:1] Ðïëåíïîà [string:0]
+áïìûšå îå ôâåìéœéóòÿ.
++++
+[string:0]'s speed didn't change!
+Òëïñïòóû Ðïëåíïîà [string:0]
+îå éèíåîéìàòû!
++++
+[string:0] can't go any faster!
+[string:0] îå íïçåó áúóû åþæ
+áúòóñåå!
++++
+[string:0] can't go any slower!
+[string:0] îå íïçåó áúóû åþæ
+íåäìåîîåå!
++++
+[string:1] can throw a long way!
+[string:1] óåðåñû íïçåó äàìåëï
+áñïòàóû ðñåäíåóú!
++++
+[string:1] can throw far already!
+[string:1] ôçå íïçåó äàìåëï
+áñïòàóû ðñåäíåóú!
++++
+[string:1]'s throws can [CS:J]pierce[CR] things!
+Áñïòëé Ðïëåíïîà [string:1] íïãôó
+[CS:J]ðñïáéâàóû[CR] ðñåðÿóòóâéÿ!
++++
+[string:1]'s throws can [CS:J]pierce[CR] already!
+Áñïòëé Ðïëåíïîà [string:1] ôçå
+íïãôó [CS:J]ðñïáéâàóû[CR] ðñåðÿóòóâéÿ!
++++
+A Leech Seed can't be planted on the user!
+Èæñîà-Ðéÿâëé îåìûèÿ ðïòàäéóû îà
+ðñéíåîÿýþåãï!
++++
+"A Leech Seed couldn't be planted on
+[string:0]!"
+Èæñîà-Ðéÿâëé îåìûèÿ ðïòàäéóû îà
+Ðïëåíïîà [string:0]!
++++
+The move [move:0] was sealed!
+Ðñéæí [move:0] èàðñåþæî!
++++
+All of its moves are sealed already!
+Âòå ðñéæíú Ðïëåíïîà ôçå èàðñåþåîú!
++++
+[string:0] became terrified!
+[string:0] âðàäàåó â ôçàò!
++++
+Getting hungry...
+Âú ïþôþàåóå ãïìïä...
++++
+Getting dizzy from hunger...
+Ãïìïâà ëñôçéóòÿ ïó ãïìïäà...
++++
+Oh no! Your Belly's empty!
+Ï, îåó! Âàšà Òúóïòóû îà îôìå!
++++
+Hurry! You've got to eat something!
+Òëïñåå! Âàí îôçîï œóï-îéáôäû òùåòóû!
++++
+You'll faint from hunger!
+Âú ðïóåñÿåóå òïèîàîéå ïó ãïìïäà!
++++
+[string:1] took Perish Song's effect!
+[string:1] ðïìôœàåó üõõåëó
+Ðåòîé Ãéáåìé!
++++
+Its [CS:J]Protect[CR] saved it!
+[CS:J]Èàþéóà[CR] òðàòàåó Ðïëåíïîà!
++++
+But it couldn't be used!
+Îï üóï îå ôäàìïòû ðñéíåîéóû!
++++
+[string:0] is watching carefully!
+[string:0] âîéíàóåìûîï îàáìýäàåó!
++++
+It's impossible to go down the stairs now!
+Òåêœàò ðïëà œóï îåâïèíïçîï ðïìèïâàóûòÿ
+ìåòóîéøåê!
++++
+[string:0] can't throw items!
+[string:0] îå íïçåó áñïòàóû
+ðñåäíåóú!
++++
+[string:0] had second thoughts!
+[string:0] ðåñåäôíúâàåó!
++++
+The grudge took effect!
+Ïáéäà âïèúíåìà üõõåëó!
++++
+[string:0] acted under its sleep talk!
+[string:0] òïâåñšàåó äåêòóâéå
+ò ðïíïþûý ìôîàóéèíà!
++++
+[string:0] snored!
+[string:0] öñàðéó!
++++
+[string:0]'s PP Saver IQ skill activated!
+Òñàáàóúâàåó Îàâúë IQ "Òáåñåãàóåìû ÏÒ"
+Ðïëåíïîà [string:0]!
++++
+The [item:0] activated!
+Òñàáàóúâàåó ðñåäíåó
+[item:0]!
++++
+[string:0] used a move without using [CS:E]PP[CR]!
+[string:0] ðñéíåîÿåó ðñéæí, îå
+ñàòöïäôÿ îà îåãï [CS:E]ÏÒ[CR]!
++++
+[item:0] is all sticky! It doesn't work!
+Ðñåäíåó [item:0] ìéðëéê!
+Åãï îåâïèíïçîï ðñéíåîéóû!
++++
+But a mysterious power prevented its use!
+Îï èàãàäïœîàÿ òéìà îå äàæó üóï
+ðñéíåîéóû!
++++
+[string:0] is cringing!
+[string:0] òùæçéâàåóòÿ!
++++
+[string:0] is infatuated!
+[string:0] ðïä ïœàñïâàîéåí!
++++
+[string:0] is paralyzed!
+[string:0] ðïä ðàñàìéœïí!
++++
+Can't use moves here!
+Èäåòû îåìûèÿ ðñéíåîÿóû ðñéæíú!
++++
+"The walls crumbled! The floor is now one
+open room!"
+Òóåîú ñôöîôìé! Óåðåñû üóàç - üóï ïäîà
+áïìûšàÿ ëïíîàóà!
++++
+This floor is already one open room!
+Üóïó üóàç ôçå òóàì áïìûšïê ëïíîàóïê!
++++
+It has no effect here.
+Üóï îå ïëàèúâàåó üõõåëóà.
++++
+All traps were exposed!
+Ìïâôšëé ïáîàñôçåîú!
++++
+There appear to be no hidden traps.
+Ëàçåóòÿ, èäåòû îåó òëñúóúö ìïâôšåë.
++++
+You've reached a destination floor!
+Âú äïòóéãìé üóàçà ò øåìûý èàäàîéÿ!
++++
+Wanted outlaw spotted!
+Âú îàšìé ñàèúòëéâàåíïãï îåãïäÿÿ!
++++
+[string:1][M:T0] E-exploration team! Run!
+[string:1][M:T0] Ë-ëïíàîäà éòòìåäïâàóåìåê!
+Îôçîï áåçàóû!
++++
+[string:1][M:T0] You've fallen into my trap!
+[string:1][M:T0] Âú ôãïäéìé ðñÿíéëïí â íïý
+ìïâôšëô!
++++
+There's an outlaw on this floor. I know it!
+Îà üóïí üóàçå îåãïäÿê.
+Ÿ èîàý üóï!
++++
+"Huh?[K] Th-this is...?[P]
+This is...isn't it...? Isn't this the place
+mentioned in the Treasure Memo?"
+Œóï?[K] Ü-üóï...?[P]
+Üóï çå...ïîï...? Óï òàíïå íåòóï, œóï
+ôðïíéîàåóòÿ â Èàðéòëå ï Òïëñïâéþàö?
++++
+"It's [string:1], who sent the
+Challenge Letter!"
+Üóï Ðïëåíïî [string:1], ëïóïñúê
+ïóðñàâéì âàí Ðéòûíï ò Âúèïâïí!
++++
+[string:1][M:T0] Team [team:0]! Let's fight!
+[string:1][M:T0] Ëïíàîäà [team:0]!
+Òñàèéíòÿ!
++++
+"[string:1][M:T0] You're pretty brave coming
+here! [K]I'll show you just what power is!"
+[string:1][M:T0] À âú öñàáñåøú, ñàè ðñéšìé
+òýäà! [K]Ÿ ðïëàçô âàí éòóéîîôý òéìô!
++++
+"[string:1][M:T0] You've kept me waiting, Team
+[team:0]![K] Let's get this fight started!"
+[string:1][M:T0] Âú èàòóàâéìé íåîÿ çäàóû,
+Ëïíàîäà [team:0]![K] Îàœîæí áéóâô!
++++
+"[string:1][M:T0] I've been waiting for you,
+Team [team:0]![K] Enjoy a jolt of electricity!"
+[string:1][M:T0] À âïó é âú, Ëïíàîäà
+[team:0]![K] Îàòìàçäàêóåòû éòëñàíé!
++++
+"[string:1][M:T0] Welcome, Team [team:0]![K]
+I feel refreshed and ready for a battle!"
+[string:1][M:T0] Ðñéâåóòóâôý, Ëïíàîäà
+[team:0]![K] Ÿ òåáÿ ðñåëñàòîï
+œôâòóâôý é íïãô òñàèéóûòÿ!
++++
+"[string:1][M:T0] Oh, it's Team [team:0]![K]
+Thanks for coming! Let's battle!"
+[string:1][M:T0] Ï, üóï çå Ëïíàîäà
+[team:0]![K] Òðàòéáï èà âéèéó!
+Òñàèéíòÿ!
++++
+"You've reached a destination floor!
+But where's the target PokÃ©mon...?"
+Âú äïòóéãìé üóàçà ò øåìûý èàäàîéÿ!
+Îï ãäå çå îôçîúê Ðïëåíïî...?
++++
+"Yes!
+Found the treasure!"
+Ôñà!
+Âú îàšìé òïëñïâéþå!
++++
+"Yes!
+Knocked out challenger [string:1]!"
+Ôñà!
+Âú ïäïìåìé Ðïëåíïîà [string:1]!
++++
+"Yes!
+Knocked out outlaw [string:1]!"
+Ôñà!
+Âú ïäïìåìé îåãïäÿÿ [string:1]!
++++
+"Huh?[K] [item:] was dropped![P]
+Yes![K]
+[string:1] was the outlaw!"
+À?[K] Âúðàäàåó [item:]![P]
+Ôñà![K]
+[string:1] - îôçîúê îåãïäÿê!
++++
+"Yes! Retrieved the [item:1]! Let's
+return to Treasure Town and give the item
+back to [name:0]."
+Ôñà! Âú âïèâñàóéìé ðñåäíåó
+[item:1]! Âåñîæíòÿ â Ãïñïä
+Òïëñïâéþ, äàâ åãï ëìéåîóô [name:0].
++++
+"[string:1][M:T0] ZZZT! Thank you for your
+cooperation in apprehending this outlaw! ZZZT!"
+[string:1][M:T0] ÁÈÈÈ! Òðàòéáï èà òïäåêòóâéå
+â ðïéíëå üóïãï îåãïäÿÿ! ÁÈÈÈ!
++++
+[string:1] got away...
+[string:1] òáåãàåó...
++++
+"Your badge shines on [string:1], and
+[string:1] is transported away magically!"
+Âàš èîàœïë éòðôòëàåó ÿñëéê òâåó é
+óåìåðïñóéñôåó Ðïëåíïîà [string:1]!
++++
+"[string:1][M:T0] Thank you!
+I'll see you at the guild with
+your reward when you return!"
+[string:1][M:T0] Òðàòéáï âàí!
+Ÿ áôäô çäàóû â ãéìûäéé ò âàšåê
+îàãñàäïê!
++++
+[string:1] escaped from the dungeon!
+[string:1] ðïëéäàåó ðïäèåíåìûå!
++++
+[string:1] happily accepted the item!
+[string:1] ò ñàäïòóûý ðñéîéíàåó
+ðñåäíåó!
++++
+[string:1]: Thank you!
+[string:1]: Òðàòéáï!
++++
+[string:1] left the dungeon!
+[string:1] ðïëéäàåó ðïäèåíåìûå!
++++
+"Yes! You've found [string:1]!
+Do you want to use your badge to
+rescue [string:1]?"
+Ôñà! Âú îàšìé Ðïëåíïîà [string:1]!
+Öïóéóå ðñéíåîéóû èîàœïë é òðàòóé
+Ðïëåíïîà [string:1]?
++++
+"Yes! You've located [string:1]!
+Do you want to deliver the requested
+item to [string:1]?"
+Ôñà! Âú îàšìé Ðïëåíïîà [string:1]!
+Öïóéóå äïòóàâéóû óñåáôåíúê ðñåäíåó
+üóïíô Ðïëåíïîô?
++++
+"Yes! You found the [item:1]!
+
+
+You've completed a mission! Do you want to
+leave the dungeon now?"
+Äà! Îàêäåî ðñåäíåó [item:1]!
+
+
+Âú èàâåñšéìé èàäàîéå! Öïóéóå ðïëéîôóû
+ðïäèåíåìûå?
++++
+"You completed a mission! Would you like to
+leave the dungeon now?"
+Âú èàâåñšéìé èàäàîéå! Öïóéóå ðïëéîôóû
+ðïäèåíåìûå?
++++
+Do you really want to leave?
+Âú äåêòóâéóåìûîï öïóéóå ôêóé?
++++
+You want to continue exploring?
+Öïóéóå ðñïäïìçéóû éòòìåäïâàóû üóï
+ðïäèåíåìûå?
++++
+"The requested [item:0] isn't in the
+[gadget_bag]. There is nothing to deliver."
+Ô âàò îåó ðñåäíåóà [item:0].
+Äïòóàâìÿóû îåœåãï.
++++
+[string:1] can't talk now.
+[string:1] îå íïçåó ñàèãïâàñéâàóû.
++++
+"Yes! You completed [string:2]'s escort
+mission. [string:2] is delighted!"
+Ôñà! Âú èàâåñšéìé òïðñïâïçäåîéå
+Ðïëåíïîà [string:2]. Ëìéåîó äïâïìåî!
++++
+[string:1]: Thank you!
+[string:1]: Òðàòéáï âàí!
++++
+[string:2]'s twosome left the dungeon!
+Äôüó Ðïëåíïîà [string:2] ðïëéäàåó
+ðïäèåíåìûå!
++++
+"You completed a mission! Would you like to
+leave the dungeon now?"
+Âú èàâåñšéìé èàäàîéå! Öïóéóå ðïëéîôóû
+ðïäèåíåìûå?
++++
+[string:2] doesn't seem to be around.
+Ðïöïçå, Ðïëåíïîà [string:2] èäåòû îåó.
++++
+The mission can no longer be completed!
+Üóï èàäàîéå îåâïèíïçîï èàâåñšéóû!
++++
+[string:1] can't talk now.
+[string:1] îå íïçåó ñàèãïâàñéâàóû.
++++
+[string:2] can't talk now.
+[string:2] îå íïçåó ñàèãïâàñéâàóû.
++++
+"Yes! You've reached the destination!
+[string:1] seems happy!"
+Ôñà! Âú äïòóéãìé øåìé!
+[string:1] ïœåîû ñàäôåóòÿ!
++++
+[string:1]: Thank you!
+[string:1]: Òðàòéáï âàí!
++++
+[string:1] left the dungeon!
+[string:1] ðïëéäàåó ðïäèåíåìûå!
++++
+"You've completed a mission! Would you like to
+leave the dungeon now?"
+Âú èàâåñšéìé èàäàîéå! Öïóéóå ðïëéîôóû
+ðïäèåíåìûå?
++++
+"Oh?[K] Could this be...? Is it the legendary...?[K]
+Golden Chamber...?[P]
+Yes![K] Finally![K] It's finally the Golden Chamber!"
+À?[K] Íïçåó ìé üóï áúóû...? Ìåãåîäàñîàÿ..?[K]
+Èïìïóàÿ Ëïíîàóà...?[P]
+Äà![K] Îàëïîåø-óï![K] Üóï Èïìïóàÿ Ëïíîàóà!
++++
+[string:1]: Yes! Yay!
+[string:1]: Äà! Ôñà!
++++
+[string:1] seems to be happy!
+[string:1] ïœåîû ñàäôåóòÿ!
++++
+[string:1]: Thank you!
+[string:1]: Òðàòéáï!
++++
+[string:1] left the dungeon!
+[string:1] ðïëéäàåó ðïäèåíåìûå!
++++
+"The Golden Chamber's wondrous atmosphere
+healed [string:1]!"
+Œôäåòîàÿ àóíïòõåñà Èïìïóïê Ëïíîàóú
+éòøåìÿåó Ðïëåíïîà [string:1]!
++++
+"You've completed a mission! Would you like to
+leave the dungeon now?"
+Âú èàâåñšéìé èàäàîéå! Öïóéóå ðïëéîôóû
+ðïäèåíåìûå?
++++
+[string:1]: Hey! Let me open the door!
+[string:1]: Üê! Äàê íîå ïóëñúóû
+äâåñû!
++++
+[string:1] began dancing.
+[string:1] îàœéîàåó óàîøåâàóû.
++++
+♪Thumpa-thump♪[P]
+♪Pit-a-pot♪[P]
+♪Thump-padump♪
+♪Óàíðà-óàíð♪[P]
+♪Ðéó-à-ðïó♪[P]
+♪Óàí-ðàäàí♪
++++
+"Yes! You found one [item:1]!
+[string:1] happily accepted the item!"
+Äà! Îàêäåî ðñåäíåó [item:1]!
+[string:1] ò ñàäïòóûý áåñåó ðñåäíåó!
++++
+[string:1]: Thank you!
+[string:1]: Òðàòéáï âàí!
++++
+[string:1] left the dungeon!
+[string:1] ðïëéäàåó ðïäèåíåìûå!
++++
+"You've completed a mission! Would you like to
+leave the dungeon now?"
+Âú èàâåñšéìé èàäàîéå! Öïóéóå ðïëéîôóû
+ðïäèåíåìûå?
++++
+Would you like to leave the dungeon now?
+Öïóéóå ðïëéîôóû ðïäèåíåìûå?
++++
+"[string:0] is anchored! It can't be
+thrown!"
+Ðïëåíïî [string:0] ðñéãâïçäæî!
+Åãï îåâïèíïçîï áñïòéóû!
++++
+"[string:0] couldn't be thrown for some
+reason!"
+Ðïëåíïîà [string:0] ðïœåíô-óï
+îåâïèíïçîï áñïòéóû!
++++
+[string:0] was sent flying!
+[string:0] ïóðñàâìÿåóòÿ â ðïìæó!
++++
+But it didn't go anywhere.
+Îï üóï îéëôäà îå ðïšìï.
++++
+Thank you! So very much! â™Є
+Òðàòéáï! Áïìûšïå òðàòéáï! ♪
++++
+Thank you! I value your patronage! â™Є
+Òðàòéáï! Ò âàíé ðñéÿóîï éíåóû
+äåìï! ♪
++++
+You don't seem to have enough money.
+Ðïöïçå, ô âàò îåäïòóàóïœîï
+äåîåã.
++++
+"That merchandise is [CS:E][gold_left:0][CR][M:S0].
+Want to buy it?"
+Üóïó óïâàñ ïáïêäæóòÿ â [CS:E][gold_left:0][CR][M:S0].
+Öïóéóå ðñéïáñåòóé åãï?
++++
+"For that, I shall pay [CS:E][gold_left:0][CR][M:S0]!
+Want to sell it?"
+Èà üóï ÿ èàðìàœô [CS:E][gold_left:0][CR][M:S0]!
+Öïóéóå ðñïäàóû âàš ðñåäíåó?
++++
+"My friend! Quite the haggler!
+Such hard bargains you drive!"
+Äñôçéþå! Âú öïñïšï óïñãôåóåòû! 
+Óàëéå òäåìëé ðñïâïñàœéâàåóå!
++++
+"My friend! Quite the haggler!
+Such high prices you demand!"
+Äñôçéþå! Âú öïñïšï óïñãôåóåòû!
+Óàëéå âúòïëéå øåîú óñåáôåóå!
++++
+Always delighted to be of service! â™Є
+Ÿ âòåãäà ñàä ò âàíé éíåóû
+äåìï! ♪
++++
+Very disappointing.
+Ïœåîû çàìû.
++++
+Thank you! Please come again! â™Є
+Òðàòéáï! Ðñéöïäéóå åþå! ♪
++++
+Welcome! Welcome! â™Є
+Ðñïšô! Äïáñï ðïçàìïâàóû! ♪
++++
+My precious merchandise! Catch that thief!
+Íïê áåòøåîîúê óïâàñ! Äåñçéóå
+âïñïâ!
++++
+It couldn't make a leap!
+Ðïëåíïî îå òíïã òïâåñšéóû ðñúçïë!
++++
+[string:0] is anchored! It can't leap!
+[string:0] îå íïçåó äâéãàóûòÿ!
+Ðñúçëé îåâïèíïçîú!
++++
+A trap was laid!
+Ôòóàîïâìåîà ìïâôšëà!
++++
+A trap can't be laid here.
+Èäåòû îåìûèÿ ñàèíåòóéóû ìïâôšëô.
++++
+Its Scarf stopped the trap from activating!
+Šàñõ Ðïëåíïîà îå äàì ìïâôšëå òñàáïóàóû!
++++
+[string:1] avoided activating the trap!
+[string:1] îå àëóéâéñôåó ìïâôšëô!
++++
+Traps can't be destroyed here!
+Èäåòû îåìûèÿ ôîéœóïçàóû ìïâôšëé!
++++
+The trap failed to work!
+Ìïâôšëà îå òñàáïóàìà!
++++
+Stepped on something weird!
+Ðïä îïãàíé œóï-óï òóñàîîïå!
++++
+"The [item:0] became sticky and
+unusable!"
+[item:0] òóàîïâéóòÿ ìéðëéí
+é îåðñéíåîéíúí ðñåäíåóïí!
++++
+But nothing happened in particular.
+Îéœåãï ëïîëñåóîïãï îå òìôœéìïòû. 
++++
+"The No-Stick Cap prevented items from
+getting sticky!"
+Îå-Ìéðôœàÿ Šàðëà ïáåñåãàåó ðñåäíåóú ïó
+ðñéìéðàîéÿ!
++++
+A food item went bad!
+Ðñåäíåó åäú éòðïñóéìòÿ!
++++
+Several food items went bad!
+Éòðïñóéìïòû îåòëïìûëï ðñåäíåóïâ åäú!
++++
+Nothing particularly bad happened.
+Îéœåãï ðìïöïãï îå òìôœéìïòû.
++++
+But nothing happened!
+Îéœåãï îå ðñïéèïšìï!
++++
+[string:0] fell into the [CS:H]Pitfall Trap[CR]!
+[string:0] ðàäàåó â [CS:H]Ÿíô-Ìïâôšëô[CR]!
++++
+Avoided the pitfall!
+Ÿíà-Ìïâôšëà îå òñàáàóúâàåó!
++++
+PokÃ©mon were drawn close!
+Òýäà éäôó Ðïëåíïîú!
++++
+But nothing happened!
+Îéœåãï îå ðñïéèïšìï!
++++
+The move [move:0] lost its [CS:E]PP[CR]!
+Ðñéæí [move:0] óåñÿåó [CS:E]ÏÒ[CR]!
++++
+All [CS:E]PP[CR] is already gone!
+Âòå [CS:E]ÏÒ[CR] ôçå ðïóåñÿîú!
++++
+But nothing happened!
+Îéœåãï îå ðñïéèïšìï!
++++
+Unclaimed items turned into PokÃ©mon!
+Îåòïáñàîîúå âåþé ðñåâñàóéìéòû â
+Ðïëåíïîïâ!
++++
+Nothing happened!
+Îéœåãï îå ðñïéèïšìï!
++++
+It had no effect on [string:0]!
+Üóï îå ïëàèàìï üõõåëóà îà Ðïëåíïîà
+[string:0]!
++++
+All PokÃ©mon on the floor now hold a grudge!
+Âòå Ðïëåíïîú îà üóàçå òóàìé ïáéçåîú!
++++
+But nothing happened!
+Îéœåãï îå ðñïéèïšìï!
++++
+[string:0] warped!
+[string:0] óåìåðïñóéñôåóòÿ!
++++
+There's nowhere to warp!
+Îåëôäà óåìåðïñóéñïâàóûòÿ!
++++
+It's already on the stairs.
+Ðïëåíïî ôçå ñÿäïí ò ìåòóîéøåê.
++++
+[string:0] is anchored! It won't warp!
+[string:0] îå íïçåó äâéãàóûòÿ!
+Óåìåðïñóàøéÿ îåâïèíïçîà!
++++
+But it dropped back at the same spot!
+Ðïëåíïî ïœôóéìòÿ îà óïí-çå íåòóå!
++++
+The [CS:M]move[CR] failed!
+[CS:M]Ðñéæí[CR] îå òñàáïóàì!
++++
+The [CS:I]Orb[CR] failed!
+[CS:I]Ïñá[CR] îå òñàáïóàì!
++++
+[string:0] is paralyzed!
+[string:0] ðïä äåêòóâéåí ðàñàìéœà!
++++
+But the [CS:M]move[CR] couldn't be used!
+[CS:M]Ðñéæí[CR] îå íïçåó áúóû ðñéíåîæî!
++++
+But [CS:I]Orbs[CR] are prevented from being used!
+[CS:I]Ïñáú[CR] îå íïãôó áúóû ðñéíåîåîú!
++++
+[string:0] is muzzled!
+[string:0] ðïä üõõåëóïí îåíïóú!
++++
+[string:0] is cringing!
+[string:0] òùæçéâàåóòÿ!
++++
+[string:0] is infatuated!
+[string:0] ïœàñïâúâàåóòÿ!
++++
+But a mysterious power prevented its use!
+Èàãàäïœîàÿ òéìà îå äàìà üóï ðñéíåîéóû!
++++
+The move [move:0] can't be used!
+Ðñéæí [move:0] îåìûèÿ ðñéíåîéóû!
++++
+Assist: [move:0]
+Ðïääåñçëà: [move:0]
++++
+Assist: Failed.
+Ðïääåñçëà: Îå âúšìï.
++++
+Arena Trap prevents movement!
+Ìïâôšëà Àñåîú îå äàæó äâéãàóûòÿ!
++++
+Shadow Tag prevents movement!
+Íåóëà Óåîåê îå äàæó äâéãàóûòÿ!
++++
+Magnet Pull prevents movement!
+Íàãîåóéèí îå äàæó äâéãàóûòÿ!
++++
+Static caused paralysis!
+Òóàóéëà ðïñàçàåó ðàñàìéœïí!
++++
+Effect Spore scattered spores!
+Üõõåëó Òðïñ ñàòðñïòóñàîÿåó òðïñú!
++++
+Poison Point struck!
+Òñàáàóúâàåó Ëàòàîéå Ÿäà!
++++
+Flame Body caused a burn!
+Óåìï Ðìàíåîé ïáçéãàåó!
++++
+Cute Charm caused infatuation!
+Òðïòïáîïòóû Ïœàñïâàîéå ðïâåñãàåó
+â ïœàñïâàîéå!
++++
+"A horrid stench billowed out!
+[string:0] became terrified!"
+Ðïäîÿìàòû ôçàòîàÿ âïîû!
+[string:0] â ôçàòå!
++++
+The [item:0] activated!
+Òñàáàóúâàåó [item:0]!
++++
+[string:0] waggled its finger!
+[string:0] íàšåó ðàìûøåí!
++++
+[string:0] drew out nature's power!
+[string:0] œåñðàåó òéìô ðñéñïäú!
++++
+[string:0] unleashed [move:0]!
+[string:0] ïáñôšéâàåó íïþû ðñéæíà
+[move:0]!
++++
+[string:0] used the [item:0].
+[string:0] ðñéíåîÿåó ðñåäíåó
+[item:0].
++++
+[string:1] îå òïâåñšàåó àóàëô! Îàâúë
+IQ "Ôòóñàšéóåìû" Ðïëåíïîà [string:0]
+èàòóàâìÿåó àóàëôýþåãï òùæçéóûòÿ!
++++
+It's Magnitude [digits_c:0]!
+Íàãîéóôäà [digits_c:0]!
++++
+The [CS:M]move[CR] was snatched!
+[CS:M]Ðñéæí[CR] ðåñåöâàœåî!
++++
+The LightningRod ability drew the attack!
+Ãñïíïïóâïä ðñéóÿãéâàåó àóàëô!
++++
+The Storm Drain ability drew the attack!
+Âïñïîëà ðñéóÿãéâàåó àóàëô!
++++
+The [CS:M]move[CR] was passed off!
+[CS:M]Ðñéæí[CR] ðåñåäàî!
++++
+There's no one to pass off to!
+Îï üóï îåëïíô ðåñåäàóû!
++++
+"A mysterious force prevents moves from
+being passed off!"
+Èàãàäïœîàÿ òéìà îå äàæó ðåñåäàâàóû
+ðñéæíú!
++++
+The attack was passed off!
+Àóàëà ðåñåäàîà!
++++
+There's no one to pass off to!
+Îï üóï îåëïíô ðåñåäàóû!
++++
+[string:1] appears to be dangerous!
+[string:1] âúãìÿäéó ãñïèîï!
++++
+The target's Magic Coat bounced it back!
+Œôäï-Ðìàþ øåìé ïóñàçàåó àóàëô!
++++
+The target's [item:0] bounced it back!
+Ðñåäíåó øåìé [item:0]
+ïóñàçàåó âïèäåêòóâéå!
++++
+The target's Mirror Move returned it!
+Íéíëñéÿ ïóñàçàåó ðñéæí!
++++
+The [item:1] activated!
+Òñàáàóúâàåó [item:1]!
++++
+[string:1] protected itself!
+[string:1] èàþéþàåó òåáÿ!
++++
+"[string:1]'s Soundproof suppressed the
+sound move!"
+Òðïòïáîïòóû "Áåèèâôœîïòóû" Ðïëåíïîà
+[string:1] ðïäàâìÿåó èâôëïâïê ðñéæí!
++++
+"[string:1] relied on [c_i:2] to
+evade it!"
+[string:1] ðñéíåîÿåó [c_i:2]
+œóïáú éèáåçàóû üóïãï!
++++
+The move missed [string:1]!
+Ðñéæí îå ðïðàì ðï Ðïëåíïîô [string:1]!
++++
+The move failed to impact [string:1]!
+Ðñéæí îå ïëàèúâàåó âìéÿîéÿ îà
+Ðïëåíïîà [string:1]!
++++
+It had no effect on [string:1]!
+Üóï îå ïëàèàìï üõõåëóà îà Ðïëåíïîà
+[string:1]!
++++
+[string:2] shielded [string:1]!
+[string:2] èàþéþàåó Ðïëåíïîà
+[string:1]!
++++
+[string:0] used U-turn to keep distance!
+[string:0] ðñéíåîÿåó Ñàèâïñïó,
+òïöñàîÿÿ äéòóàîøéý!
++++
+[string:0] quickly stepped back!
+[string:0] áúòóñï äåìàåó šàã îàèàä!
++++
+[string:1] took no damage!
+[string:1] îå ðïìôœàåó ôñïîà!
++++
+It can only be used on the ground!
+Üóï íïçîï ðñéíåîéóû óïìûëï îà èåíìå!
++++
+The weather didn't change.
+Ðïãïäà îå éèíåîéìàòû.
++++
+The target's HP can't be halved any more!
+ÏÈ øåìé áïìûšå îå íïãôó áúóû
+ôðïìïâéîåîú!
++++
+"[string:0] and [string:1] shared
+their [CS:E]HP[CR]!"
+[string:0] é [string:1] ñàèäåìÿýó
+òâïé [CS:E]ÏÈ[CR]!
++++
+[move:0] was tormented!
+[move:0] óåðåñû øåìû íôœåîéÿ!
++++
+The target couldn't be tormented!
+Øåìû îå íïçåó ðïäâåñãîôóûòÿ íôœåîéý!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
++++
+"The last move used by [string:1] lost all
+its [CS:E]PP[CR]!"
+Ðïòìåäîéê ðñéæí, ðñéíåîæîîúê Ðïëåíïîïí
+[string:1], óåñÿåó âòå [CS:E]ÏÒ[CR]!
++++
+Nothing happened to [string:1].
+Ò Ðïëåíïîïí [string:1] îéœåãï îå
+ðñïéèïšìï.
++++
+[string:1] bears a grudge!
+[string:1] óàéó ïáéäô!
++++
+[string:1] already bears a grudge!
+[string:1] ôçå óàéó ïáéäô!
++++
+The barrier was shattered!
+Áàñûåñ ñàòëàìúâàåóòÿ!
++++
+Poor type match! It has no effect!
+Îå óïó óéð! Îåó üõõåëóà!
++++
+"[string:0] swapped special abilities with
+the target!"
+[string:0] íåîÿåóòÿ òðïòïáîïòóÿíé
+ò øåìûý!
++++
+"[string:0] couldn't swap special abilities
+with the target!"
+[string:0] îå íïçåó íåîÿóûòÿ
+òðïòïáîïòóÿíé ò øåìûý!
++++
+It can only be used on water!
+Üóï íïçîï ðñéíåîéóû óïìûëï â âïäå!
++++
+It can't lend a helping hand to itself!
+Ðïëåíïî îå íïçåó äàóû ñôëô ðïíïþé òåáå!
++++
+[string:0]'s move missed!
+[string:0] ðñïíàöéâàåóòÿ!
++++
+"[string:0] swapped items with
+[string:1]!"
+[string:0] íåîÿåóòÿ ðñåäíåóàíé ò
+Ðïëåíïîïí [string:1]!
++++
+The item swap failed!
+Òíåîà ðñåäíåóïâ îå ôäàìàòû!
++++
+But the target's item couldn't be taken!
+Ðñåäíåó øåìé îåâïèíïçîï âèÿóû!
++++
+[string:1] was protected by its Specs!
+[string:1] ïáåñåãàåóòÿ Ïœëàíé!
++++
+[string:0] copied the target's ability!
+[string:0] ëïðéñôåó òðïòïáîïòóû øåìé!
++++
+"[string:0] couldn't copy the target's
+Wonder Guard!"
+[string:0] îå íïçåó ëïðéñïâàóû
+òðïòïáîïòóû Œôäï-Èàþéóà ô øåìé!
++++
+But nothing happened.
+Îéœåãï îå ðñïéèïšìï.
++++
+But no power had been stored!
+Îåó èàðàòæîîïê íïþé!
++++
+It had no power stockpiled to spit up!
+Ðïëåíïî îå èàðàò íïþé, œóïáú åæ
+âúðìåòîôóû!
++++
+[string:1]'s item was swatted down!
+Ðñåäíåó Ðïëåíïîà [string:1] áúì âúáéó!
++++
+The target has no item!
+Ô øåìé îåó ðñåäíåóà!
++++
+It couldn't flop around!
+Ðìåòë îå ôäàìòÿ!
++++
+[string:0] was too hungry to use it!
+[string:0] òìéšëïí òéìûîï öïœåó åòóû,
+œóïáú üóï éòðïìûèïâàóû!
++++
+Transform can't be used here!
+Èäåòû îåìûèÿ óñàîòõïñíéñïâàóûòÿ!
++++
+[string:1] became the [type:0] type.
+[string:1] ðïìôœàåó óéð: [type:0].
++++
+A trap can't be laid here.
+Èäåòû îåìûèÿ ñàèíåòóéóû ìïâôšëô.
++++
+[string:0] mimicked its foe!
+[string:0] éíéóéñôåó òâïåãï âñàãà!
++++
+[string:0]'s Mimic failed!
+Éíéóàøéÿ Ðïëåíïîà [string:0]
+îå òñàáïóàìà!
++++
+It only works on a sleeping target!
+Üóï íïçåó òñàáïóàóû óïìûëï îà
+òðÿþåê øåìé!
++++
+Used TMs were recycled!
+Ðñéíåîæîîúå ÓÍ ðåñåñàáïóàîú!
++++
+Can't use that diagonally!
+Üóï îåìûèÿ ðñéíåîÿóû äéàãïîàìûîï!
++++
+It dug into the facing wall!
+Ðïëåíïî èàëàðúâàåóòÿ â òóåîô!
++++
+Can't use that here!
+Üóï îåìûèÿ èäåòû ðñéíåîéóû!
++++
+Got [string:1]'s item!
+Ðïìôœåî ðñåäíåó Ðïëåíïîà [string:1]!
++++
+"[string:0] has an item already. It couldn't
+steal another item."
+[string:0] ôçå éíååó ðñåäíåó.
+Ðïëåíïî îå íïçåó ôëñàòóû äñôãôý âåþû.
++++
+[string:1] doesn't have anything!
+[string:1] îéœåãï îå éíååó!
++++
+"The [gadget_bag] is full. [string:0]
+couldn't get the item!"
+[gadget_bag] èàðïìîåîà.
+[string:0] îå íïçåó ðïìôœéóû ðñåäíåó!
++++
+But the target's item couldn't be taken!
+Îï ðñåäíåó øåìé îå íïã áúóû âèÿó!
++++
+It cleaned all sticky, gummed-up items!
+Âòå ìéðëéå ðñåäíåóú ïœéþåîú!
++++
+There were no sticky, gummed-up items.
+Ìéðëéö ðñåäíåóïâ îå áúìï îàêäåîï.
++++
+"[string:0] transformed into
+[string:1]!"
+[string:0] óñàîòõïñíéñôåóòÿ â
+Ðïëåíïîà [string:1]!
++++
+[string:0] can't transform!
+[string:0] îå óñàîòõïñíéñôåóòÿ!
++++
+[string:0] escaped!
+[string:0] òáåãàåó!
++++
+[string:0] can't escape!
+[string:0] îå íïçåó òáåçàóû!
++++
+Nearby traps were destroyed!
+Áìéçàêšéå ìïâôšëé ôîéœóïçåîú!
++++
+There were no traps.
+Ìïâôšåë îå îàêäåîï.
++++
+Can't destroy traps here!
+Èäåòû îåâïèíïçîï ôîéœóïçéóû ìïâôšëé!
++++
+It filled in the ground in front!
+Èåíìÿ òðåñåäé îàðïìîÿåóòÿ!
++++
+The Gyro Ball howled!
+Èàâúâàåó Ãéñïáïìì!
++++
+It had no effect on [string:0]!
+Üóï îå ïëàèàìï üõõåëóà îà Ðïëåíïîà
+[string:0]!
++++
+[string:0] wasn't captivated!
+[string:0] îå ðïääàæóòÿ òïáìàèîåîéý!
++++
+[string:0] didn't become infatuated!
+[string:0] îå ïœàñïâúâàåóòÿ!
++++
+"[string:0] has no move that can be stolen
+with [CS:M]Me First[CR]!"
+[string:0] îå éíååó ðñéæíà, ëïóïñúê
+íïçîï ôëñàòóû ðñéæíïí [CS:M]Ÿ Ðåñâúê[CR]!
++++
+[string:0] used [CS:M]Me First[CR]!
+[string:0] ðñéíåîÿåó [CS:M]Ÿ Ðåñâúê[CR]!
++++
+"[string:0]'s [c_i:1] ability
+prevents insomnia!"
+Òðïòïáîïòóû [c_i:1] Ðïëåíïîà
+[string:0] ïáåñåãàåó ïó áåòòïîîéøú!
++++
+[string:0] used [move:0]!
+[string:0] ðñéíåîÿåó ðñéæí
+[move:0]!
++++
+Oh no! [string:0] chose [move:0]!
+Ï, îåó! [string:0] âúáéñàåó ðñéæí
+[move:0]!
++++
+[string:0] used its regular attack!
+[string:0] áùæó ïáúœîúí ôäàñïí!
++++
+[string:0] can't take it anymore!
+[string:0] áïìûšå îå íïçåó üóï
+óåñðåóû!
++++
+[string:0]'s [CS:E]HP[CR] went up [digits_c:0]!
+[string:0]: [CS:E]ÏÈ[CR] ðïâúšàýóòÿ îà [digits_c:0]!
++++
+[string:0]'s Attack went up [digits_c:1]!
+[string:0]: Àóàëà âïèñïòìà îà [digits_c:1]!
++++
+[string:0]'s Defense went up [digits_c:2]!
+[string:0]: Èàþéóà âïèñïòìà îà [digits_c:2]!
++++
+[string:0]'s Sp. Atk. went up [digits_c:3]!
+[string:0]: Òð. Àóë. âïèñïòìà îà [digits_c:3]!
++++
+[string:0]'s Sp. Def. went up [digits_c:4]!
+[string:0]: Òð. Èþó. âïèñïòìà îà [digits_c:4]!
++++
+[string:0] didn't level up.
+[string:0] îå ðïâúšàåó ôñïâåîû.
++++
+[string:0] didn't level down.
+[string:0] îå ðïîéçàåó ôñïâåîû.
++++
+[string:0] gained [CS:E][digits_c:0][CR] Exp. Points!
+[string:0] ðïìôœàåó [CS:E][digits_c:0][CR] Ïœëïâ Ïðúóà!
++++
+[string:0] grew to Level [digits_c:0]!
+[string:0] ðïìôœàåó [digits_c:0] Ôñïâåîû!
++++
+[string:0] dropped to Level [digits_c:0]!
+[string:0]: Ôñïâåîû òîéçàåóòÿ äï [digits_c:0]!
++++
+[string:0]'s level didn't go down.
+[string:0] îå òîéçàåó òâïê ôñïâåîû.
++++
+[string:0] learned [move:0]!
+[string:0] éèôœàåó ðñéæí [move:0]!
++++
+[string:0] didn't learn the new [CS:M]move[CR].
+[string:0] îå éèôœàåó îïâúê [CS:M]ðñéæí[CR].
++++
+"This PokÃ©mon can learn a new [CS:M]move[CR] but must
+forget an old one first. (To relearn an old
+[CS:M]move[CR], go to the [CS:N]Electivire[CR] Link Shop.)"
+Ðïëåíïî íïçåó éèôœéóû îïâúê [CS:M]ðñéæí[CR], îï
+äïìçåî èàáúóû ïäéî éè òóàñúö. (Œóïáú
+âåñîôóû [CS:M]ðñéæí[CR], ãïâïñéóå ò [CS:N]Üìåëóéâàêñïí[CR].)
++++
+"This PokÃ©mon can learn a new [CS:M]move[CR] but must
+forget an old one to make space for it."
+Ðïëåíïî íïçåó éèôœéóû îïâúê [CS:M]ðñéæí[CR], îï
+ïî äïìçåî èàáúóû ïäéî éè òóàñúö, œóïáú
+ïòâïáïäéóû äìÿ îåãï íåòóï. 
++++
+Yes! [string:0] leveled up!
+Ôñà [string:0] ðïâúšàåó ôñïâåîû!
++++
+"A PokÃ©mon can know [CS:V]four[CR] [CS:M]moves[CR] at a time.
+Which [CS:M]move[CR] should it forget?"
+Ðïëåíïî íïçåó èîàóû óïìûëï [CS:V]œåóúñå[CR]
+[CS:M]ðñéæíà[CR] ïäîïâñåíåîîï.
+Ëàëïê éè [CS:M]ðñéæíïâ[CR] èàáúóû?
++++
+[string:0] evolved into [name:1]!
+[string:0] üâïìýøéïîéñôåó â Ðïëåíïîà
+[name:1]!
++++
+"[string:0] can now tell a teammate to
+act on the Tactic: [tactics:1]!"
+[string:0] óåðåñû íïçåó ðñéëàèàóû
+òïýèîéëô äåêòóâïâàóû ðï Óàëóéëå:
+[tactics:1]!
++++
+"[string0] exchanged its Attack and
+Sp. Atk. modifications with [string:1]!"
+[string0] íåîÿåóòÿ éèíåîåîéÿíé Àóàëé
+é Òð. Àóë. ò Ðïëåíïîïí [string:1]!
++++
+"[string0] exchanged its Defense and
+Sp. Def. modifications with [string:1]!"
+[string0] íåîÿåóòÿ éèíåîåîéÿíé Èàþéóú
+é Òð. Èþó. ò Ðïëåíïîïí [string:1]!
++++
+"[string0] exchanged its stat
+modifications with [string:1]!"
+[string0] íåîÿåóòÿ éèíåîåîéÿíé
+àóñéáôóïâ ò Ðïëåíïîïí [string:1]!
++++
+"[string0] swapped modifications to its
+Attack and Defense!"
+[string0] íåîÿåóòÿ éèíåîåîéÿíé òâïéö
+Àóàëé é Èàþéóú!
++++
+Stairs appeared!
+Ðïÿâéìàòû ìåòóîéøà!
++++
+" Good afternoon and congrats.
+You've found the Secret Bazaar![C]
+ I'm [CS:N]Kirlia[CR] the Bazaar Guide.
+Feel free to explore the shops here."
+ Äïáñúê âåœåñ. Íïé ðïèäñàâìåîéÿ.
+Âú îàšìé Òåëñåóîúê Áàèàñ![C]
+ Ÿ - [CS:N]Ëéñìéÿ[CR], Ãéä Áàèàñà.
+Îå òóåòîÿêóåòû, ïòíàóñéâàêóå ðñéìàâëé.
++++
+" Hello and welcome, Explorers!
+I've got some wonderful, wonderful grab bags
+here. You never know what's inside!"
+ Èäñàâòóâôêóå, Éòòìåäïâàóåìé!
+Ÿ ðñïäàý œôäåòîúå, œôäåòîåêšéå íåšïœëé.
+Ëóï èîàåó, œóï â îéö âîôóñé!
++++
+" Try one and see? Only [CS:E][gold_left:0][CR][M:S0]
+to find out what's hiding inside!"
+ Öïóéóå ëôðéóû ïäéî éè îéö?
+Âòåãï ìéšû èà [CS:E][gold_left:0][CR][M:S0], âú ôèîàåóå åãï
+òïäåñçéíïå!
++++
+" Wonderful, amazing grab bags!
+You'll have to buy one to see what's inside."
+ Œôäåòîúå, ôäéâéóåìûîúå íåšïœëé!
+Ëôðéóå éö é ôèîàåóå, œóï âîôóñé.
++++
+" Oh, too bad. You don't seem to
+have enough money.[C]
+ Save up, and buy a bag the next
+time you visit!"
+ Ïö, ïœåîû çàìû. Ô âàò îå
+öâàóàåó äåîåã.[C]
+ Îàëïðéóå ðïáïìûšå é ðñéöïäéóå
+â äñôãïê ñàè!
++++
+" Oh, too bad. Your Treasure Bag
+seems to be full.[C]
+ Put a few things in storage
+and come back!"
+ Ïö, ïœåîû çàìû. Âàšà Òôíëà ò
+Øåîîïòóÿíé èàðïìîåîà.[C]
+ Ðïìïçéóå œóï-îéáôäû â öñàîéìéþå
+é ðñéöïäéóå åþæ!
++++
+" This right here is a wonderful,
+amazing grab bag!"
+ Âïó œôäåòîúê, ôäéâéóåìûîúê
+íåšïœåë!
++++
+" Wonderful, amazing grab bags!
+What was inside? Something amazing?
+Come back and try again some time!"
+ Œôäåòîúå, ôäéâéóåìûîúå íåšïœëé!
+Œóï áúìï âîôóñé? Œóï-óï éîóåñåòîïå?
+Ðñéöïäéóå òîïâà é ðïðúóàêóå ôäàœô!
++++
+"[CN][string:1] bought a
+[CN]wonderful, amazing grab bag!"
+[CN][string:1] ðïëôðàåó
+[CN]œôäåòîúê, ôäéâéóåìûîúê íåšïœåë!
++++
+[CN][string:1] opened the grab bag!
+[CN][string:1] ïóëñúâàåó íåšïœåë!
++++
+"[CN]Inside there was a
+[CN][item:0]!"
+[CN]Âîôóñé îàöïäéóòÿ
+[CN][item:0]!
++++
+Buy
+Ëôðéóû
++++
+Cancel
+Ïóíåîà
++++
+" I'm [CS:N]Shedinja[CR] the Escape Guide.
+I know a secret way outta the dungeon..."
+ Ÿ - [CS:N]Šåäéîûÿ[CR], Ðñïâïäîéë.
+Ÿ èîàý òåëñåóîúê ðôóû éè ðïäèåíåìûÿ...
++++
+" If you give me [CS:E][gold_left:0][CR][M:S0],
+I'll show ya how to get outta the dungeon."
+ Åòìé âú äàäéóå íîå [CS:E][gold_left:0][CR][M:S0], ÿ
+âúâåäô âàò éè ðïäèåíåìûÿ.
++++
+" Awright, then...
+Come find me if ya ever wanna escape
+from the dungeon..."
+ Öïñïšï...
+Åòìé èàöïóéóå ðïëéîôóû ðïäèåíåìûå,
+ïáñàóéóåòû ëï íîå...
++++
+" Um...I hate to tell ya, but ya
+don't got enough money..."
+ Üí... Îå öïœô ïãïñœàóû, îï
+ô âàò îå öâàóàåó äåîåã...
++++
+" Awright. Wait... Are you sure ya
+wanna leave the dungeon?"
+ Öïñïšï. Îï... Âú óïœîï öïóéóå
+ðïëéîôóû ðïäèåíåìûå?
++++
+" Awright... Follow this secret
+path and you're outta here."
+ Öïñïšï... Òìåäôêóå ðï üóïíô
+òëñúóïíô ðôóé é âúáåñåóåòû ïóòýäà.
++++
+Ðïëéîôóû ðïäèåíåìûå
+Ïóíåîà
+Äà
+Îåó
++++
+ Hee hee. ♪ Hello! ♪
+This is [CS:K]Mime Jr.[CR]'s Spa. ♪
+ Öé-öé. ♪ Ðñéâåó! ♪
+Üóï Òðà [CS:K]Íàêíà Íì.[CR]. ♪
++++
+" For just [CS:E][gold_left:0][CR][M:S0], I'll restore
+your [CS:E]HP[CR], [CS:E]PP[CR], and even your Belly!
+What do you think? Would you like to try it?"
+ Âòåãï ìéšû èà [CS:E][gold_left:0][CR][M:S0], ÿ
+ðïìîïòóûý âïòðïìîý âàí [CS:E]ÏÈ[CR], [CS:E]ÏÒ[CR] é äàçå
+Òúóïòóû! Îô ëàë? Öïóéóå ïóäïöîôóû?
++++
+" Hee hee. â™Є Hello! â™Є
+This is [CS:K]Mime Jr.[CR]'s Spa. â™Є[C]
+ I'm sorry, I'm too tired to
+continue today.
+Come back again. â™Є"
+ Öé-öé. ♪ Ðñéâåó! ♪
+Üóï Òðà [CS:K]Íàêíà Íì.[CR]. ♪[C]
+ Ðñïšô ðñïþåîéÿ, îï ô íåîÿ
+îå ïòóàìïòû òéì.
+Ðñéöïäéóå åþæ. ♪
++++
+" Awwww, you're going to leave?
+Come back anytime you feel like relaxing. â™Є"
+ Ïïïï, ôçå ôöïäéóå?
+Ðñéöïäéóå, åòìé èàöïóéóå ïóäïöîôóû. ♪
++++
+" Oh no! You don't have enough
+money? Come back again later, OK? â™Є"
+ Ï, îåó! Ô âàò îå öâàóàåó
+äåîåã? Âïèâñàþàêóåòû ðïèçå, öïñïšï? ♪
++++
+" Hee hee. â™Є Thanks! â™Є
+Here it goes! [C]
+ [CS:K]Mime Jr.[CR]'s healing beeeeam!"
+ Öé-öé. ♪ Òðàòéáï! ♪
+Âïó ïî![C]
+ Íïê øåìåáîúê ìôôôôôôœ!
++++
+" What do you think? Feeling
+better? Come back anytime! â™Є"
+ Îô ëàë âàí? Ôçå ìôœšå?
+Ðñéöïäéóå åþæ! ♪
++++
+[CN][CS:E]HP[CR], Belly, and [CS:E]PP[CR] were completely restored!
+[CN][CS:E]ÏÈ[CR], [CS:E]ÏÒ[CR] é Òúóïòóû ðïìîïòóûý
+âïòðïìîåîú!
++++
+Heal
+Ìåœåîéå
++++
+Cancel
+Ïóíåîà
++++
+" Bloo-bloo...
+You have itemth that have gotten thticky?"
+ Áìôô-áìôô...
+Ô âàš åšóû ìéðëéå ðõåóíåõú?
++++
+" I'll clean up all the itemth in
+your Treathure Bag for [CS:E][gold_left:0][CR][M:S0]."
+ Ÿ ðïšéþô âþå ðõåóíåõú â
+Šôíëå Š Šåîîïšõÿíé èà [CS:E][gold_left:0][CR][M:S0].
++++
+" Whaaaaa?
+Come back anytime your itemth get thticky."
+ Œóààààà?
+Ðõéöïäéóå, åšìé ðõåóíåõú áôäôó ìéðëéå.
++++
+" Whaaaaa?
+You don't have enough money..."
+ Œóààààà?
+Ô âàš îåäïšóàóïœîï äåîåã...
++++
+" Whaaaaa?
+You don't have thticky itemth in your bag."
+ Œóààààà?
+Ô âàš îåó ìéðëéõ ðõåóíåõïõ â šôíëå...
++++
+" OK, here we go!
+Bloo-bloo-bloo-bloo-bloo-bloo...!"
+ Îô ìàõîï, îàþéîàý!
+Áìôô-áìôô-áìôô-áìôô-áìôô-áìôô...!
++++
+" Phew... All clean. Come on back
+if any more of your itemth get thticky."
+ Õýõ... Õòæ þéšóï. Ðõéöïäéóå,
+åšìé âàšé ðõåóíåõú áôäôó ìéðëéå.
++++
+Clean
+Œéòóëà
++++
+Cancel
+Ïóíåîà
++++
+[CN]Cleaned the stickiness off the item!
+[CN]Ðñåäíåó ïœéþåî ïó ìéðëïòóé!
++++
+[item:0] became sticky.
+[item:0] óåðåñû ðñéìéðàåó.
+---
+ Hey, I leveled up!
+ Üê, ô íåîÿ îïâúê ôñïâåîû!
++++
+ I leveled up! Great!
+ Ô íåîÿ îïâúê ôñïâåîû!
+Ïóìéœîï!
++++
+ Good timing! I leveled up!
+ Ëàë ñàè âïâñåíÿ! Ô íåîÿ
+îïâúê ôñïâåîû!
++++
+ I leveled up! I leveled up!
+ Îïâúê ôñïâåîû!
+Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Well, look at that. My level's up!
+ Ï, óïìûëï ãìÿîûóå îà üóï.
+Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Hey, look! My level's up!
+ Ï, òíïóñéóå! Îïâúê ôñïâåîû!
++++
+ My level's just gone up!
+ Ô íåîÿ ðïâúòéìòÿ ôñïâåîû!
++++
+ What... Did I level up?
+ Œóï... Ô íåîÿ ðïâúòéìòÿ
+ôñïâåîû?
++++
+ Hey... I leveled up! I'm stronger!
+ Üê... Ô íåîÿ îïâúê ôñïâåîû!
+Ÿ óåðåñû òéìûîåå!
++++
+" Yay! I leveled up! I can try even
+harder now!"
+ Ôñà! Îïâúê ôñïâåîû!
+Óåðåñû ÿ íïãô òñàçàóûòÿ åþæ ôòåñäîåå!
++++
+ Well, well. I've leveled up.
+ Óàë, óàë. Îïâúê ôñïâåîû.
++++
+ Look at that. I leveled up.
+ Îô óïìûëï ãìÿîûóå. Ô íåîÿ
+îïâúê ôñïâåîû.
++++
+" Well, well. I'm suddenly tougher.
+I leveled up!"
+ Óàë, óàë. Âîåèàðîï ô íåîÿ
+òóàìï áïìûšå òéì. Üóï îïâúê ôñïâåîû!
++++
+ Oho! I gained a level!
+ Ïãï! Ô íåîÿ îïâúê ôñïâåîû!
++++
+" Oho! Gained a level right in
+the nick of time!"
+ Ïãï! Îïâúê ôñïâåîû, ëàë
+ñàè âïâñåíÿ!
++++
+ Yes! I hit my next level!
+ Äà! Âïó é íïê îïâúê
+ôñïâåîû!
++++
+ Ha! I hit my next level!
+ Öà! Âïó é íïê îïâúê
+ôñïâåîû!
++++
+" Feel the power! I just hit my
+next level!"
+ Ðïœôâòóâôêóå íïý íïþû!
+Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Leveled...up!
+ Îïâúê... ôñïâåîû!
++++
+ Up... Leveled...up!
+ Åþæ... îïâúê... Ôñïâåîû!
++++
+ Up... Up... Leveled...up!
+ Åþæ... Åþæ... îïâúê...
+Ôñïâåîû!
++++
+ Ha! Give me my level-up!
+ Öà! Äàâàêóå-ëà òýäà íïê
+îïâúê Ôñïâåîû!
++++
+ Yeah! That's my level-up!
+ Äà! Âïó é íïê îïâúê Ôñïâåîû!
++++
+" Yeah! Oh, yeah! Time for my
+level-up!"
+ Äà! Ï, äà! Òàíïå âñåíÿ äìÿ
+íïåãï îïâïãï Ôñïâîÿ!
++++
+ What was that? I leveled up?
+ Œóï üóï áúìï? Îïâúê ôñïâåîû?
++++
+ Look at that! I leveled up!
+ Óïìûëï ãìÿîûóå! Ô íåîÿ îïâúê
+Ôñïâåîû!
++++
+ What?! I just leveled up again!
+ Œóï?! Ô íåîÿ òîïâà îïâúê
+Ôñïâåîû!
++++
+ Tee-hee! I think I leveled up!
+ Öé-öé! Äôíàý, ô íåîÿ îïâúê
+ôñïâåîû!
++++
+ Ta-da! I leveled up!
+ Óà-äà! Îïâúê ôñïâåîû!
++++
+ Hey, hey! I just leveled up again!
+ Üê, üê! Ô íåîÿ òîïâà îïâúê
+ôñïâåîû!
++++
+ Yeah! I leveled up!
+ Ôñà! Îïâúê ôñïâåîû!
++++
+ Yeah! That's my level going up!
+ Ôñà! Üóï íïê îïâúê ôñïâåîû!
++++
+" Yeah, I leveled up! You wanna
+make something of it?"
+ Ôñà, ô íåîÿ îïâúê ôñïâåîû!
+Ï œæí óï öïóéóå ðïòðïñéóû?
++++
+ Wha-what? Did I level up?
+ Œ-œóï? Ô íåîÿ îïâúê ôñïâåîû?
++++
+ Hey, hey! I leveled up!
+ Üê, üê! Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Ha-ha! I just leveled up!
+ Öà-öà! Ô íåîÿ óåðåñû îïâúê
+ôñïâåîû!
++++
+ YEAH! I leveled up!
+ ÄÀ! Îïâúê ôñïâåîû!
++++
+ Leveled up! Takes GUTS to win!
+ Îïâúê ôñïâåîû! Œóïáú íåîÿ
+ïäïìåóû, îôçîï ÐÏÒÓÀÑÀÓÛÒŸ!
++++
+ Leveled up! No one can stop ME!
+ Îïâúê ôñïâåîû!
+Íåîÿ ÎÅ ïòóàîïâéóû!
++++
+ Well, there we go! I leveled up!
+ Îô, ðïåöàìé! Îïâúê ôñïâåîû!
++++
+" Well, well! I leveled up! Let's
+celebrate!"
+ Óàë, óàë! Ô íåîÿ îïâúê
+ôñïâåîû! Ïóðñàèäîôåí!
++++
+" Well, happy occasion! I've just
+leveled up!"
+ Ï, òœàòóìéâïå òïáúóéå!
+Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Ha! Got my level up!
+ Öà! Âïó é íïê îïâúê ôñïâåîû!
++++
+ Got my level up! I'm tougher!
+ Âïó é íïê îïâúê ôñïâåîû!
+Óåðåñû ÿ òéìûîåå!
++++
+ Yeah! Got my level up! Ha!
+ Äà! Âïó é íïê îïâúê ôñïâåîû!
+Öà!
++++
+ Hee-hee! I leveled up.
+ Öé-öé! Îïâúê ôñïâåîû.
++++
+ Oh, [player]! I leveled up!
+ Ïö, [player]!
+Ô íåîÿ îïâúê ôñïâåîû!
++++
+ I did it! I just leveled up!
+ Ôñà! Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Oh, yeah! Leveled up!
+ Ï, äà! Îïâúê ôñïâåîû!
++++
+ Check it out! Leveled up!
+ Óïìûëï ðïòíïóñéóå! Îïâúê
+ôñïâåîû!
++++
+ Feeling extreme! Leveled up!
+ Ëàëïå œôâòóâï!
+Îïâúê ôñïâåîû!
++++
+[M:D1]Follow standard level-up procedures.
+[M:D1]Òóàîäàñóîàÿ ðñïøåäôñà ðïâúšåîéÿ
+ôñïâîÿ.
++++
+ Yes! Leveled up!
+ Äà! Îïâúê ôñïâåîû!
++++
+ Yeah! Leveled up!
+ Ôñà! Îïâúê ôñïâåîû!
++++
+ Just in time! Leveled up!
+ Ëàë ñàè âïâñåíÿ! Îïâúê
+ôñïâåîû!
++++
+" Leveled up! I can do even
+better now!"
+ Îïâúê ôñïâåîû! Óåðåñû ÿ
+íïãô áúóû åþæ üõõåëóéâîåå!
++++
+ Wow! Leveled up!
+ Ïãï! Îïâúê ôñïâåîû!
++++
+ Good! I leveled up!
+ Öïñïšï! Îïâúê ôñïâåîû!
++++
+ Great! I leveled up!
+ Ïóìéœîï! Îïâúê ôñïâåîû!
++++
+ Excellent! I leveled up!
+ Ðñåëñàòîï! Îïâúê ôñïâåîû!
++++
+ I leveled up! I'll do better now!
+ Îïâúê ôñïâåîû! Óåðåñû ÿ
+áôäô üõõåëóéâîåå!
++++
+ Awesome! I leveled up!
+ Ðñåëñàòîï! Îïâúê ôñïâåîû!
++++
+ Did it! Leveled up!
+ Ôñà! Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Got it! Leveled up!
+ Âïó óàë! Îïâúê ôñïâåîû!
++++
+ Yeah! Did it! Leveled up!
+ Ôñà! Ðïìôœéìïòû! Ô íåîÿ
+îïâúê ôñïâåîû!
++++
+ Leveled up! I can tough it out!
+ Îïâúê ôñïâåîû! Óåðåñû ÿ åþæ
+òéìûîåå!
++++
+ Made it! Leveled up!
+ Ô íåîÿ óåðåñû îïâúê ôñïâåîû!
++++
+ There! Leveled up!
+ Âïó óàë! Îïâúê ôñïâåîû!
++++
+ Well! ♪ I've leveled up! ♪
+ Œóï-çå! ♪ Îïâúê ôñïâåîû! ♪
++++
+" Aw, shucks! I've gone and
+leveled up!"
+ Àê! Ÿ ðïâúšàý ôñïâåîû!
++++
+ Hooray! â™Є Leveled up! â™Є
+ Ôñààà! ♪ Îïâúê ôñïâåîû! ♪
++++
+ Yippee! â™Є Leveled up! â™Є
+ Ôöôôôô! ♪ Îïâúê ôñïâåîû! ♪
++++
+ Woweee! â™Є Leveled up! â™Є
+ Ïãïïïï! ♪ Îïâúê ôñïâåîû! ♪
++++
+ Giggle! You made me level up!
+ Öéöéöé! Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Splendid! I've leveled up!
+ Œôäåòîï! Îïâúê ôñïâåîû!
++++
+ Wonderful! I've leveled up!
+ Ðñåëñàòîï! Îïâúê ôñïâåîû!
++++
+ There it is! I've leveled up!
+ Âïó óàë-óï! Îïâúê ôñïâåîû!
++++
+" Yes! I've done it! I've leveled
+up!"
+ Äà! Ðñåëñàòîï! Ô íåîÿ îïâúê
+ôñïâåîû!
++++
+ I've leveled up!
+ Ô íåîÿ îïâúê ôñïâåîû!
++++
+ Great! I've leveled up!
+ Ïóìéœîï! Îïâúê ôñïâåîû!
++++
+ Yes! Got it! I've leveled up!
+ Ôñà! Îàëïîåø-óï! Ô íåîÿ
+îïâúê ôñïâåîû!
++++
+ That's it! I've leveled up!
+ Âïó óàë! Îïâúê ôñïâåîû!
++++
+ Yes! I've leveled up!
+ Ôñà! Îïâúê ôñïâåîû!
++++
+ Yes! My level-up!
+ Äà! Íïê îïâúê ôñïâåîû!
++++
+ Right! My level-up!
+ Öïñïšï! Íïê îïâúê ôñïâåîû!
++++
+ Aha! My level-up!
+ À-ãà! Íïê îïâúê ôñïâåîû!
++++
+ MY LEVEL HAS GROWN!
+ ÍÏÊ ÔÑÏÂÅÎÛ ÂÚÑÏÒ!
++++
+ MY LEVEL HAS GRRR-OWN!
+ ÍÏÊ ÔÑÏÂÅÎÛ ÂÚÑÑÑ-ÏÒ!
++++
+" GRRR-OWN! MY LEVEL HAS
+GRRR-OWN!"
+ ÂÚÑÑÑ-ÏÒ! ÍÏÊ ÔÑÏÂÅÎÛ
+ÂÚÑÑÑ-ÏÒ!
++++
+ SWELLED! MY LEVEL SWELLED!
+ ÑÀÈÄÔÌÒŸ! ÍÏÊ ÔÑÏÂÅÎÛ
+ÑÀÈÄÔÌÒŸ!
++++
+" IT'S SWELLING AGAIN! MY LEVEL
+IS SWELLING!"
+ ÒÎÏÂÀ ÑÀÈÄÔÂÀÅÓÒŸ! ÍÏÊ
+ÔÑÏÂÅÎÛ ÑÀÈÄÔÂÀÅÓÒŸ!
++++
+" SWELLING! SWELLING! MY
+LEVEL IS SWELLING!"
+ ÑÀÈÄÔÂÀÅÓÒŸ! ÑÀÈÄÔÂÀÅÓÒŸ!
+ÍÏÊ ÔÑÏÂÅÎÛ ÑÀÈÄÔÂÀÅÓÒŸ!
++++
+ LEVELED...UP...MORE...
+ ÎÏÂÚÊ... ÔÑÏÂÅÎÛ...
+ÅÞÆ...
++++
+ UP... LEVELED...UP...MORE...
+ ÁÏÌÛŠÅ... ÔÑÏÂÅÎÛ...
+ÁÏÌÛŠÅ... ÅÞÆ...
++++
+" MORE... MORE... MORE...
+LEVELED...UP...MORE..."
+ ÅÞÆ... ÅÞÆ... ÅÞÆ...
+ÁÏÌÛŠÅ... ÔÑÏÂÎÅÊ... ÅÞÆ...
++++
+ Excellent... I've leveled up.
+ Ðñåëñàòîï... Îïâúê ôñïâåîû.
++++
+ Superb... I've leveled up.
+ Œôäåòîï... Îïâúê ôñïâåîû.
++++
+ Tremendous... I've leveled up.
+ Ãñàîäéïèîï... Îïâúê ôñïâåîû.
++++
