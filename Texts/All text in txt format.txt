@@ -3649,7 +3649,7 @@ Do you like karaoke?
 "Do you prefer to play outside rather than
 inside?"
 Вы скорее предпочтёте играть на улице,
-нежели дома?
+а не дома?
 "You see a big and comfortable bed.
 Your first reaction is to..."
 Вы видите большую и удобную кровать.
@@ -4229,7 +4229,7 @@ So, a hardy, determined type like you...[P]"
 и никогда не требуете к себе внимания.[P]
 Ваш стойкий дух - всё что вам нужно для
 того, чтобы достичь своих целей.[P]
-Ну будьте аккуратны! Вы рискуете извести
+Но будьте аккуратны! Вы рискуете извести
 себя, если будете долго трудиться в
 одиночку![P]
 Вы должны осознать, что иногда, вам
@@ -4533,7 +4533,7 @@ So, a relaxed type like you...[P]"
 Вы так просты, неторопливы и беззаботны.[K]
 Вы не торопитесь и не напрягаетесь, и вы
 ни о чем не беспокоитесь.[P]
-Вам нравится садиться и задирать ноги![K]
+Вам нравится сидеть, закидывая ноги![K]
 О, да! У вас определенно спокойный
 характер, вы не придаете значения деталям.[P]
 Люди, тянутся к вам, потому что они
@@ -4703,7 +4703,7 @@ So, a bold type like you...[P]"
 Похоже, у вас...[K]смелый типаж![P]
 Вы так храбры, и вы никогда ни от чего
 не отступаете! Еще вы бесстрашны и умеете
-действовать так, как не умеют другие!P]
+действовать так, как не умеют другие![P]
 Вы не стесняетесь просить забрать домой
 все остатки в ресторанах, верно?[P]
 Если кто-то угощает вас ужином, вы без
@@ -11768,49 +11768,56 @@ LEVELED...UP...MORE..."
  Грандиозно... Новый уровень.
 +++
 [M:D1]TALK_MESSAGE_LEVEL_UP__183
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__184
-
++++
 " Indeed! Indeed! в™Є
 I've leveled up! в™Є"
-
+ Точно! Точно! ♪
+У меня новый уровень! ♪
++++
 " What joy! What joy! в™Є
 I've leveled up! в™Є"
-
+ Весело! Весело! ♪
+У меня новый уровень! ♪
++++
  I've leveled up! Leveled up! в™Є
-
+ У меня новый уровень!
+Новый уровень! ♪
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__188
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__189
-
++++
  I'm counting on you!
-
+ Я на тебя рассчитываю!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__191
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__192
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__193
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__194
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__195
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__196
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__197
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__198
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__199
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__200
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__201
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__202
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__203
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__204
 
  
@@ -11818,511 +11825,614 @@ I've leveled up! в™Є"
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__208
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__209
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__213
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__214
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__208
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__209
-
++++
  
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__221
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__222
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__223
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__224
-
++++
  Hee-hee. I leveled up. в™Є
-
+ Хи-хи. Мой новый уровень. ♪
++++
  Leveled up!
-
+ Новый уровень!
++++
  Yay! I leveled up!
-
+ Ура! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__228
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__229
-
++++
  
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__231
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__232
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__233
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__234
-
++++
  Leveled up!
-
+ Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__236
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__237
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__238
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__239
-
++++
  
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__241
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__242
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__243
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__244
-
++++
  I'm counting on you!
-
+ Я на тебя рассчитываю!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__246
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__247
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__248
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__249
-
++++
  Yeah! Leveled up!
-
+ Ура! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__251
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__252
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__253
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__254
-
++++
 " All right!
 Leveled up!"
-
+ Отлично!
+Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__256
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__257
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__258
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__259
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__261
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__262
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__263
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__264
-
++++
  Hee-hee-hee! I leveled up!
-
+ Хее-хее-хее! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__266
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__267
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__268
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__269
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__271
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__272
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__273
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__274
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__276
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__277
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__278
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__279
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__281
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__282
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__283
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__284
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__286
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__287
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__288
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__289
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__291
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__292
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__293
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__294
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__296
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__297
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__298
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__299
-
++++
  Heh-heh-heh! Leveled up!
-
+ Хех-хех-хех! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__301
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__302
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__303
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__304
-
++++
  Aw, shucks! I leveled up!
-
+ Ай! Я повышаю уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__306
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__307
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__308
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__309
-
++++
  Yaaay! в™Є Leveled up! в™Є
-
+ Урааа! ♪ Новый уровень! ♪
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__311
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__312
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__313
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__314
-
++++
 " I leveled up?
 Hee-hee-hee! I like it! [M:H3]"
-
+ У меня новый уровень?
+Хи-хи-хи! Мне это нравится! [M:H3]
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__316
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__317
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__318
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__319
-
++++
  All right! Leveled up!
-
+ Прекрасно! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__321
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__322
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__323
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__324
-
++++
  Oh my gosh! I leveled up!
-
+ О, боже мой! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__326
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__327
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__328
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__329
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__330
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__331
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__332
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__333
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__334
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__335
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__336
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__337
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__338
-
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__339
-
++++
 " Hee-hee.
 I leveled up! в™Є"
-
+ Хи-хи.
+У меня новый уровень! ♪
++++
  Leveled up!
-
+ Новый уровень!
++++
  Yay! I leveled up!
-
+ Йее! У меня новый уровень!
++++
  Wahoo! Leveled up!
-
+ Йехуу! Новый уровень!
++++
 [M:D1]TALK_MESSAGE_LEVEL_UP__344
-
+---
 " Another exciting adventure!
 Where are we going?"
-
+ Еще одно увлекательное
+приключение! Куда мы направляемся?
++++
  Let's get going! Let's explore!
-
+ Вперед! Поисследуем!
++++
  OK! Let's go find treasure!
-
+ Хорошо! Найдём сокровища!
++++
  What will we find this time?
-
+ Что мы найдём на этот раз?
++++
 [M:D1]TALK_MESSAGE_WAIT__004
-
++++
 " Let's keep our spirits up on this
 one!"
-
+ Не будем падать духом!
++++
  I'm ready to head out anytime.
-
+ Я могу выступить когда
+угодно.
++++
 " I'm ready to head out on another
 adventure!"
-
+ Я могу отправиться в ещё
+одно приключение!
++++
 [M:D1]TALK_MESSAGE_WAIT__008
-
++++
 [M:D1]TALK_MESSAGE_WAIT__009
-
++++
  I'm a bit nervous about this trip!
-
+ Я немного волнуюсь за то,
+что с нами будет в приключении!
++++
  So where are we going next?
-
+ Так, куда мы идём дальше?
++++
  I'll do the best I can!
-
+ Я сделаю всё, что смогу!
++++
 [M:D1]TALK_MESSAGE_WAIT__013
-
++++
 [M:D1]TALK_MESSAGE_WAIT__014
-
++++
  So where to next?
-
+ Ну, куда теперь?
++++
 " How long before we leave, do
 you think?"
-
+ Сколько, ты думаешь, мы ещё
+будем здесь?
++++
  Oh, finally prepared to leave?
-
+ О, мы уже уходим?
++++
 [M:D1]TALK_MESSAGE_WAIT__018
-
++++
 [M:D1]TALK_MESSAGE_WAIT__019
-
++++
  Oho... So warm here. So nice!
-
+ О... Здесь так тепло. Хорошо!
++++
 " Oho... No need to hurry...
 I'm quite content to wait."
-
+ О... Не нужно спешить...
+Я вполне могу подождать.
++++
 " Oho... I wonder...what if we
 found a treasure...?"
-
+ О... Интересно... что если
+мы начнём сокровища...?
++++
 [M:D1]TALK_MESSAGE_WAIT__023
-
++++
 [M:D1]TALK_MESSAGE_WAIT__024
-
++++
  Ready, steady, go!
-
+ На старт, внимание, вперёд!
++++
  Happy to help out, [hero]!
-
+ Я всегда могу тебе
+помочь, [hero]!
++++
 [M:D1]TALK_MESSAGE_WAIT__027
-
++++
 [M:D1]TALK_MESSAGE_WAIT__028
-
++++
 [M:D1]TALK_MESSAGE_WAIT__029
-
++++
  Exploration... Exploration...
-
+ Исследовать... Исследовать...
++++
  Treasure... Find treasure...
-
+ Сокровища... Найти
+сокровища...
++++
  Excited... Excited...
-
+ Захватывающе... 
+Захватывающе...
++++
 [M:D1]TALK_MESSAGE_WAIT__033
-
++++
 [M:D1]TALK_MESSAGE_WAIT__034
-
++++
  Ready for anything!
-
+ Я всегда наготове!
++++
  Time to go! Let's go already!
-
+ Пора идти! Идём уже!
++++
 " We gotta go soon, OK? Or I'm
 gonna get going!"
-
+ Нам нужно идти, ладно? Или
+я пойду самостоятельно!
++++
 [M:D1]TALK_MESSAGE_WAIT__038
-
++++
 [M:D1]TALK_MESSAGE_WAIT__039
-
++++
  Time to go yet?
-
+ Уже пора идти?
++++
  Can we go already?
-
+ Мы уже можем идти?
++++
  I'm getting tired of waiting!
-
+ Я начинаю уставать ждать!
++++
 [M:D1]TALK_MESSAGE_WAIT__043
-
++++
 [M:D1]TALK_MESSAGE_WAIT__044
-
++++
  What do you say? Where next?
-
+ Что говоришь? Куда теперь?
++++
  Let's go find nice treasures!
-
+ Идём, на поиск сокровищ!
++++
  I'm a little tired of waiting.
-
+ Я уже немного устаю ждать.
++++
 [M:D1]TALK_MESSAGE_WAIT__048
-
++++
 [M:D1]TALK_MESSAGE_WAIT__049
-
++++
  This'll be a good test for me!
-
+ Это будет мне прекрасным
+испытанием!
++++
  Come on! Move it! Go get ready!
-
+ Ну же! Идём! Выступаем!
++++
  Come on! Get a move on already!
-
+ Ну же! Идём уже!
++++
 [M:D1]TALK_MESSAGE_WAIT__053
-
++++
 [M:D1]TALK_MESSAGE_WAIT__054
-
++++
  Uh-yup! Let's go exploring!
-
+ А-га! Пойдем исследовать!
++++
  Uh-yup! Ready when you are!
-
+ А-га! Я всегда наготове!
++++
  Zzzz... Zzzz...
-
+ Хррр... Хррр...
++++
  Did ya stock up on food?
-
+ Ты запасаешься едой?
++++
 [M:D1]TALK_MESSAGE_WAIT__059
-
++++
 " An adventure! I want a BIG
 adventure!"
-
+ Приключение! Хочу БОЛЬШОЕ
+приключение!
++++
  Let's go! It's REALLY time to go!
-
+ Пора идти! В самом деле, уже
+ПОРА идти!
++++
  I'm powered up to GO!
-
+ Я могу ГОРЫ СВЕРНУТЬ!
++++
 " Let's show some GUTS on this
 big adventure!"
-
+ Вперёд, покажем нашу СИЛУ в
+этом приключении!
++++
 [M:D1]TALK_MESSAGE_WAIT__064
-
++++
 " OK, now! Chin up! Let's discover
 some treasure!"
-
+ Хорошо! Выше нос! Найдём же
+сокровища!
++++
  Don't you find this so exciting?
-
+ Разве это не захватывающе?
++++
  Come now! Why dillydally?
-
+ Идём уже! Зачем терять время?
++++
 [M:D1]TALK_MESSAGE_WAIT__068
-
++++
 [M:D1]TALK_MESSAGE_WAIT__069
-
++++
  Exploration? Leave it to me!
-
+ Исследования? Я ими займусь!
++++
 " Yeah, this is going to be a great
 trip, all right!"
-
+ Да, это будет прекрасное
+приключение, точно говорю!
++++
  Ready to go whenever you are!
-
+ Я всегда наготове!
++++
 [M:D1]TALK_MESSAGE_WAIT__073
-
++++
 [M:D1]TALK_MESSAGE_WAIT__074
-
++++
 " Sure you haven't forgotten
 anything?"
-
+ Мы точно ничего не забыли?
++++
 " All set for exploration,
 [hero]?"
-
+ Всё готово к экспедиции,
+[hero]?
++++
 " I'm really looking forward to
 exploring with you."
-
+ Я очень хочу быть с тобой
+в экспедиции.
++++
 [M:D1]TALK_MESSAGE_WAIT__078
-
++++
 [M:D1]TALK_MESSAGE_WAIT__079
-
++++
 " I can see it now... A mountain of
 treasure..."
-
+ Я вижу... Гору сокровищ...
++++
 " Yes, yes... A mountain of
 treasure... Sound good to you?"
-
+ Да, да... Гора сокровищ...
+Прекрасно звучит?
++++
 " The waiting...the suspense... It's
 what I live for!"
-
+ Ожидание... Напряжение...
+Это то, ради чего я живу!
++++
 [M:D1]TALK_MESSAGE_WAIT__083
-
++++
 [M:D1]TALK_MESSAGE_WAIT__084
-
++++
 [M:D1]TALK_MESSAGE_WAIT__085
-
++++
 [M:D1]TALK_MESSAGE_WAIT__086
-
++++
 [M:D1]TALK_MESSAGE_WAIT__087
-
++++
 [M:D1]TALK_MESSAGE_WAIT__088
-
++++
 [M:D1]TALK_MESSAGE_WAIT__089
-
++++
 [M:D1]TALK_MESSAGE_WAIT__090
-
++++
 [M:D1]TALK_MESSAGE_WAIT__091
-
++++
 [M:D1]TALK_MESSAGE_WAIT__092
-
++++
 [M:D1]TALK_MESSAGE_WAIT__093
-
++++
 [M:D1]TALK_MESSAGE_WAIT__094
-
++++
 [M:D1]TALK_MESSAGE_WAIT__095
-
++++
 [M:D1]TALK_MESSAGE_WAIT__096
-
++++
 [M:D1]TALK_MESSAGE_WAIT__097
-
++++
 [M:D1]TALK_MESSAGE_WAIT__098
-
++++
 [M:D1]TALK_MESSAGE_WAIT__099
-
++++
  Can't talk now!
-
+ Я пока не могу говорить!
++++
 [M:D1]TALK_MESSAGE_WAIT__101
-
++++
 [M:D1]TALK_MESSAGE_WAIT__102
-
++++
 [M:D1]TALK_MESSAGE_WAIT__103
-
++++
 [M:D1]TALK_MESSAGE_WAIT__104
-
++++
 [M:D1]Partner 1, Standby 1
 
 [M:D1]Partner 1, Standby 2
@@ -12382,18 +12492,25 @@ what I live for!"
 [M:D1]Bidoof, Standby 4
 
 [M:D1]Bidoof, Standby 5
-
+---
  La-la-la! в™Є
-
+ Ла-ла-ла! ♪
++++
  Fun! в™Є Love to explore! в™Є
-
+ Ура! ♪ Обожаю исследовать! ♪
++++
  Soon! в™Є Let's go soon! в™Є
-
+ Скоро! ♪ Пойдём скорее! ♪
++++
  Yes, yes! в™Є I'll do my best! в™Є
-
+ Да, да! ♪ Я сделаю всё, что
+в моих силах! ♪
++++
 " Where, oh, where? в™Є I can't
 wait to find out where! в™Є"
-
+ Где, о, где же? ♪ Не могу
+дождаться, чтобы понять где! ♪
++++
 [M:D1]Pink Celebi, Standby 1
 
 [M:D1]Pink Celebi, Standby 2
@@ -12403,111 +12520,173 @@ wait to find out where! в™Є"
 [M:D1]Pink Celebi, Standby 4
 
 [M:D1]Pink Celebi, Standby 5
-
++++
  I await our trip with delight!
-
+ С нетерпением жду нашего
+приключения!
++++
 " It would be dazzling to discover
 something new, would it not?"
-
+ Будет прекрасно узнать о
+чём-нибудь новом, верно?
++++
 " I've been ready for quite some
 time... Shall we depart?"
-
+ Я уже давно жду наготове...
+Мы идём в путь?
++++
 " Let us make this exploration a
 successful one!"
-
+ Пусть эта экспедиция будет
+успешной!
++++
 " I can depart at your earliest
 convenience."
-
+ Я отправлюсь в путь когда
+угодно.
++++
  I'm ready to go!
-
+ Я могу отправиться в любое
+время!
++++
 " How will this turn out? I just
 can't wait!"
-
+ Интересно, чем всё обернётся?
+Мне так не терпится узнать!
++++
  Will we be leaving soon?
-
+ Мы уже скоро отправимся?
++++
 " No need to rush! Just get ready,
 then we'll go."
-
+ Не надо спешить! Подготовься
+и мы пойдём.
++++
 [M:D1]TALK_MESSAGE_WAIT__154
-
++++
  Good to go whenever you are!
-
+ Хорошо быть там, где есть
+ты!
++++
  Let's go soon!
-
+ Давай отправимся в путь!
++++
 " Are we leaving yet? I'm getting
 tired of waiting..."
-
+ Мы уже отправляемся? Мне
+надоело ждать...
++++
  I can't wait to start exploring!
-
+ Не могу дождаться нашей новой
+экспедиции!
++++
 [M:D1]TALK_MESSAGE_WAIT__159
-
++++
  I'm ready to go!
-
+ Я всегда наготове!
++++
 " How this will turn out? I'm
 so excited!"
-
+ Интересно, чем всё обернётся?
+Мне так не терпится узнать!
++++
 " Let's head out as soon as we're
 all ready to go!"
-
+ Давай пойдём в путь сразу же
+как мы все будем готовы!
++++
  Will we be leaving soon?
-
+ Мы уже скоро отправляемся?
++++
 [M:D1]TALK_MESSAGE_WAIT__164
-
++++
  I'M READY! IS IT TIME TO GO?
-
+ Я ГОТОВ! ПОРА ИДТИ?
++++
  WE CAN GO AT ANY TIME.
-
+ МЫ МОЖЕМ ИДТИ В ЛЮБОЕ
+ВРЕМЯ.
++++
  HURRY NOW! THE TIME IS NOW!
-
+ ПОТОРОПИСЬ! СЕЙЧАС САМОЕ
+ВРЕМЯ ИДТИ!
++++
 " ARE YOU SUGGESTING THAT I
 MUST WAIT?"
-
+ ТЫ ХОЧЕШЬ, ЧТОБЫ Я ЗДЕСЬ
+ЖДАЛ?
++++
 [M:D1]TALK_MESSAGE_WAIT__169
-
++++
  YOU EXPECT ME TO WAIT?
-
+ ТЫ ХОЧЕШЬ, ЧТОБЫ Я ЖДАЛ?
++++
  I'M PREPARED FOR BATTLE!
-
+ К БОЮ ГОТОВ!
++++
  HOW LONG AM I TO WAIT?
-
+ СКОЛЬКО МНЕ ЕЩЁ ЖДАТЬ?
++++
  LET US BE OFF! MAKE HASTE!
-
+ ОТПРАВИМСЯ В ПУТЬ! СКОРЕЕ!
++++
 [M:D1]TALK_MESSAGE_WAIT__174
-
++++
  SET...TO...GO...
-
+ ГОТОВ...ИДТИ...
++++
  ANY...TIME... ANY...TIME...
-
+ ЛЮБОЕ...ВРЕМЯ... ЛЮБОЕ...
+ВРЕМЯ...
++++
  WHY... WHY... WHY... WAIT?
-
+ ЗАЧЕМ... ЗАЧЕМ... ЗАЧЕМ...
+ЖДАТЬ?
++++
  FOLLOW... YOU... ANYWHERE...
-
+ БЫТЬ... С ТОБОЙ...
+ПОВСЮДУ...
++++
 [M:D1]TALK_MESSAGE_WAIT__179
-
++++
  I am at the ready.
-
+ Я наготове.
++++
 " Wherever you go, I shall follow.
 Let me emphasize it: wherever!"
-
+ Где бы ты ни был, я буду с
+тобой. Позволь мне подчеркнуть:
+где бы ты ни был!
++++
 " The darkness sleeps inside me...
 I can still feel it at times..."
-
+ Тьма дремлет во мне...
+Иногда, я всё ещё чувствую её...
++++
 " Are you prepared to leave? Then
 let us be off."
-
+ Хочешь пойти в путь? Тогда,
+отправимся вместе.
++++
 [M:D1]TALK_MESSAGE_WAIT__184
-
++++
  I'm going exploring! в™Є
-
+ Я буду исследовать! ♪
++++
  Are we departing? в™Є
-
+ Мы уже отправляемся? ♪
++++
  I'm waiting! I'm waiting! в™Є
-
+ Я жду! Я жду! ♪
++++
  Totally ready! Completely! в™Є
-
+ Я наготове! Определённо! ♪
++++
 [M:D1]TALK_MESSAGE_WAIT__189
-
++++
  Good to see you!
+ Приятно тебя видеть!
++++
 
 
 
@@ -12536,52 +12715,72 @@ let us be off."
 
 
 
-
++++
 " There's no telling what's ahead.
 We'd better go carefully."
-
+ Трудно сказать, что нас ждёт.
+Нужно быть осторожнее.
++++
  Let's move on!
-
+ Нужно идти дальше!
++++
  Let's hang in there!
-
+ Мы обязательно справимся!
++++
 [M:D1]TALK_MESSAGE_WAIT__208
-
++++
 [M:D1]TALK_MESSAGE_WAIT__209
-
++++
 " Who knows what we might face!
 Let's be careful!"
-
+ Кто знает, с чем мы будем
+иметь дело! Будем осторожнее!
++++
  We should speed it up!
-
+ Нам нужно поторопиться!
++++
  Let's do it! No excuses!
-
+ Мы справимся! И никаких
+отговорок!
++++
 [M:D1]TALK_MESSAGE_WAIT__213
-
++++
 [M:D1]TALK_MESSAGE_WAIT__214
-
++++
 " There's no telling what's in
 store! Let's go carefully!"
-
+ Трудно сказать, что нас ждёт!
+Будем осторожнее!
++++
  We should get a move on!
-
+ Нам нужно двигаться дальше!
++++
  Let's keep at it!
-
+ Поднажмём!
++++
 [M:D1]TALK_MESSAGE_WAIT__218
-
++++
 [M:D1]TALK_MESSAGE_WAIT__219
-
++++
  Hurry! There's no time to waste!
-
+ Скорее! Нельзя терять
+времени!
++++
  Watch out for [kind:0]!
-
+ [kind:0] опасный враг!
+Будем настороже!
++++
  Keep your senses sharp!
-
+ Будем держать ухо востро!
++++
 [M:D1]TALK_MESSAGE_WAIT__223
-
++++
 [M:D1]TALK_MESSAGE_WAIT__224
-
++++
  Once you're ready, let's go!
-
+ Как только мы приготовимся,
+мы пойдём дальше!
++++
 [M:D1]TALK_MESSAGE_WAIT__226
 
 [M:D1]TALK_MESSAGE_WAIT__227
@@ -12809,50 +13008,79 @@ store! Let's go carefully!"
 [M:D1]TALK_MESSAGE_WAIT__338
 
 [M:D1]TALK_MESSAGE_WAIT__339
-
++++
 " Let's go and explore all
 kinds of places! в™Є"
-
+ Давай пойдём и исследуем
+самые разные места! ♪
++++
 " Where are we going this time?
 I can't wait to find out!"
-
+ Куда мы пойдём на этот раз?
+Жду не дождусь, чтобы узнать!
++++
 " I'm ready to go
 whenever you are!"
-
+ Я всегда наготове отправиться
+в путь!
++++
  Let's find lots of treasure! в™Є
-
+ Давай найдём горы сокровищ! ♪
++++
 [M:D1]TALK_MESSAGE_WAIT__344
-
+---
  Let's do our best!
-
+ Мы сделаем всё, что в наших
+силах!
++++
  Let's help each other do well!
-
+ Мы будем помогать друг-другу!
++++
 " Let's take this challenge on nice
 and steady."
-
+ Мы будем действовать тихо и
+аккуратно.
++++
 " It'd be nice if we found even
 one [item:0]."
-
+ [item:0]!
+Будет здорово если нам попадётся такой
+предмет!
++++
 " We need to stay on the lookout
 for any [kind:0]!"
-
+ Здесь бродит [kind:0]!
+Будем настороже!
++++
 " I've got you covered,
 [player]!"
-
+ Я прикрою тебя, [player]!
++++
 " I'll back you up with my
 [move:1], [player]!"
-
+ [move:1] поможет мне
+тебя защитить, [player]!
++++
  I'll follow you, [player].
-
+ Я буду за тобой, [player].
++++
  Let's find lots of good stuff!
-
+ Давай найдём много классных
+вещичек!
++++
  I wonder what's up ahead.
-
+ Интересно, что мы встретим
+дальше?
++++
  Exploring is fun, isn't it?
-
+ Исследования - это весело,
+не так ли?
++++
 " I've got a good feeling that
 we're going to find treasure!"
-
+ У меня такое предчувствие,
+что мы найдём сокровища!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__012
 
 [M:D1]TALK_MESSAGE_HEALTHY__013
@@ -12868,28 +13096,42 @@ we're going to find treasure!"
 [M:D1]TALK_MESSAGE_HEALTHY__018
 
 [M:D1]TALK_MESSAGE_HEALTHY__019
-
++++
 " I'm happy to be exploring with
 you, [player]."
-
+ Приятно исследовать новые
+места вместе с тобой, [player].
++++
 " I'll show you how I can be
 useful, [player]!"
-
+ Я покажу тебе насколько я
+могу быть полезен, [player]!
++++
 " Let's give this one our best,
 [player]!"
-
+ Давай выложимся на полную,
+[player]!
++++
 " I'll assist you the best I can
 with my [move:1], [player]."
-
+ Мой приём [move:1]
+тебе обязательно поможет, [player].
++++
 " Let's try our very best to find
 one [item:0]!"
-
+ [item:0]! Попробуем
+найти эту вещь!
++++
 " I do wonder what discoveries
 lie ahead of us this time!"
-
+ Интересно, какие открытия
+нас ждут впереди!
++++
 " I suspect that [kind:0] will
 be tough to deal with."
-
+ [kind:0]... Подозреваю,
+что с ними будет нелегко справиться.
++++
 [M:D1]TALK_MESSAGE_HEALTHY__027
 
 [M:D1]TALK_MESSAGE_HEALTHY__028
@@ -12915,33 +13157,52 @@ be tough to deal with."
 [M:D1]TALK_MESSAGE_HEALTHY__038
 
 [M:D1]TALK_MESSAGE_HEALTHY__039
-
++++
 " It's a bit scary, but I'll do my
 best to keep up, [player]!"
-
+ Мне немного страшновато, но
+я всё равно за тебя горой, [player]!
++++
  Please don't get us in too deep!
-
+ Пожалуйста, давай только не
+забредать слишком далеко!
++++
 " We should leave if it gets too
 dangerous, right?"
-
+ Если станет слишком опасно,
+то мы ведь убежим, верно?
++++
 " Ooh, the [kind:0] here?
 So scary!"
-
+ Оой, здесь [kind:0]?
+Мне страшно!
++++
  P-please don't leave me behind!
-
+ П-прошу, не покидай меня!
++++
  P-please don't abandon me!
-
+ П-прошу, не оставляй меня
+здесь!
++++
 " I feel a little more secure being
 with you, [player]!"
-
+ С тобой, [player], я
+чувствую себя гораздо спокойнее!
++++
 " I really hope we'll find at least
 one [item:0]."
-
+ Я очень надеюсь, что мы
+найдём хоть один [item:0].
++++
  I'm sorry I'm so timid...
-
+ Мне жаль, что я такой робкий
+Покемон...
++++
 " I'm not fond of fighting. But for
 you...I'll do my best!"
-
+ Боец из меня так себе. Но
+ради тебя... я буду стараться!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__050
 
 [M:D1]TALK_MESSAGE_HEALTHY__051
@@ -12961,28 +13222,44 @@ you...I'll do my best!"
 [M:D1]TALK_MESSAGE_HEALTHY__058
 
 [M:D1]TALK_MESSAGE_HEALTHY__059
-
++++
 " You know, carelessness can be
 our own worst enemy..."
-
+ Беспечность может быть нашим
+самым худшим противником...
++++
 " You know, we should always see
 with more than just our eyes..."
-
+ Знаешь, всегда можно увидеть
+больше, если хорошо приглядеться...
++++
 " I will support you with my
 [move:1], [player]."
-
+ [move:1], я всегда могу
+тебя этим прикрыть, [player].
++++
 " We should always look before
 we leap, don't you think?"
-
+ Нам нужно всегда смотреть
+под ноги, не так ли?
++++
 " You can trust me to watch out
 for you, [player]."
-
+ Доверься мне, я прикрою нас
+всех, [player].
++++
 " If you study your enemy closely,
 you'll always know what to do..."
-
+ Если хорошо изучить своего
+врага, то всегда можно понять, как с
+ним поступить.
++++
 " Part of a winning strategy is
 knowing when to withdraw, you know..."
-
+ Знаешь ли, часть хорошей
+стратегии, это подобрать верный момент
+для отступления...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__067
 
 [M:D1]TALK_MESSAGE_HEALTHY__068
@@ -13008,28 +13285,45 @@ knowing when to withdraw, you know..."
 [M:D1]TALK_MESSAGE_HEALTHY__078
 
 [M:D1]TALK_MESSAGE_HEALTHY__079
-
++++
 " Some wisdom, eh? Haste makes
 waste, but persistence always pays..."
-
+ Что нибудь умное сказать, а?
+Поспешишь - Покемонов насмешишь, но
+кто не рискует, тот не ест ягоды...
++++
 " Wisdom, eh? Fools rush in, but
 winners walk and wonder..."
-
+ Мудрую мысль, а? Дураки
+спешат туда, куда умный ступить
+боится...
++++
 " Rest assured. My trusty move,
 [move:1], will help you, [player]..."
-
+ Будь уверен. Мой верный
+приём, [move:1], поможет тебе,
+[player]...
++++
 " We will surely find ourselves
 one [item:0]..."
-
+ Мы определённо найдём хоть
+один предмет [item:0]...
++++
 " Keep your eyes open for any
 [kind:0]..."
-
+ Здесь бродит [kind:0].
+Будем настороже...
++++
 " I'll be sure to keep an eye out to
 the rear, [player]..."
-
+ Я буду следить, чтобы никто
+не подкрался к нам сзади, [player]...
++++
 " I've done this many a time, but
 it never ceases to be fun..."
-
+ Я делаю это уже столько раз,
+но это всё ещё весело...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__087
 
 [M:D1]TALK_MESSAGE_HEALTHY__088
@@ -13055,22 +13349,33 @@ it never ceases to be fun..."
 [M:D1]TALK_MESSAGE_HEALTHY__098
 
 [M:D1]TALK_MESSAGE_HEALTHY__099
-
++++
 " Anywhere you go, I will follow,
 [player]!"
-
+ С тобой, хоть на край света,
+[player]!
++++
 " Impossible? [kind:1] doesn't
 know the meaning of ""impossible""!"
-
+ Невозможно? [kind:1] не
+знает, что значит "невозможно"!
++++
 " You will surely witness the
 power of my [move:1]!"
-
+ Я покажу тебе, что может
+сделать мой приём - [move:1]!
++++
 " Bah! I hardly see those
 [kind:0] as worthy adversaries!"
-
+ Ха! [kind:0] - вот так
+недостойный противник!
++++
 " Keep the goal in mind! Yes, I can
 envision us finding that [item:]!"
-
+ Держи нашу цель в уме! Да,
+я точно знаю, что мы найдем эту вещь
+[item:]!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__105
 
 [M:D1]TALK_MESSAGE_HEALTHY__106
@@ -13100,25 +13405,38 @@ envision us finding that [item:]!"
 [M:D1]TALK_MESSAGE_HEALTHY__118
 
 [M:D1]TALK_MESSAGE_HEALTHY__119
-
++++
  Thrilling... Exploring...
-
+ Будоражит... Исследовать...
++++
  Treasure... Find it... Find it...
-
+ Сокровища... Отыскать...
+Найти...
++++
 " My move will help...
 My [move:1]...for [player]..."
-
+ Мой приём поможет...
+[move:1]... для [player]...
++++
  Defeat...any [kind:0]!
-
+ Уничтожить всех...
+[kind:0]!
++++
 " Must find [item:0]...
 Must find [item:0]..."
-
+ Найти... [item:0].
+Отыскать... [item:0]...
++++
 " Fun...fun...fun... So fun...
 with [player]..."
-
+ Весело...весело...весело...
+Так весело... [player]...
++++
 " Ahead... Ahead... What is...
 ahead...?"
-
+ Дальше... Дальше... Что же...
+дальше...?
++++
 [M:D1]TALK_MESSAGE_HEALTHY__127
 
 [M:D1]TALK_MESSAGE_HEALTHY__128
@@ -13144,28 +13462,43 @@ ahead...?"
 [M:D1]TALK_MESSAGE_HEALTHY__138
 
 [M:D1]TALK_MESSAGE_HEALTHY__139
-
++++
  Got your back, [player]!
-
+ Я прикрою тебя, [player]!
++++
  Let me take on the hard stuff!
-
+ Позволь мне разобраться со
+всеми трудностями!
++++
 " Yeah! No one can stand up to
 a team as good as we are!"
-
+ Да! Никто не выстоит перед
+такой командой, как наша!
++++
  Gotta get that [item:0]!
-
+ [item:0]! Нужно
+заполучить этот предмет!
++++
 " Ha! Those [kind:0]? Total
 pushovers!"
-
+ Ха! [kind:0]? Подобные
+им, просто тряпки!
++++
 " Don't be surprised if my great
 [move:1] move saves the day."
-
+ Не удивляйся, если мой приём
+[move:1] спасёт нам жизнь.
++++
 " Oh, yeah! Exploring's great!
 Who could want anything more?"
-
+ О, да! Исследовать - здорово!
+Кто может желать чего-то большего?
++++
 " Gotta admit that you're not too
 shabby yourself!"
-
+ Стоит признать, что ты не
+промах!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__148
 
 [M:D1]TALK_MESSAGE_HEALTHY__149
@@ -13189,18 +13522,26 @@ shabby yourself!"
 [M:D1]TALK_MESSAGE_HEALTHY__158
 
 [M:D1]TALK_MESSAGE_HEALTHY__159
-
++++
  Let's get the exploration in gear!
-
+ Продолжим нашу экспедицию!
++++
 " This kind of exploring isn't so
 bad...once in a while!"
-
+ Эта экспедиция не такая уж
+и безнадёжная... но только эта!
++++
 " Now don't mistake me for the
 enemy, OK?"
-
+ Только не прими меня за
+врага, хорошо?
++++
 " It'd be awesome if we could get
 ourselves one [item:0]!"
-
+ Будет неплохо, если нам
+попадётся такой предмет, как
+[item:0]!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__164
 
 [M:D1]TALK_MESSAGE_HEALTHY__165
@@ -13232,20 +13573,29 @@ ourselves one [item:0]!"
 [M:D1]TALK_MESSAGE_HEALTHY__178
 
 [M:D1]TALK_MESSAGE_HEALTHY__179
-
++++
  It's nice to go exploring!
-
+ Приятно быть в экспедиции!
++++
 " Where next? I'll go anywhere
 with you, [player]!"
-
+ Куда теперь? С тобой, я
+пойду куда угодно, [player]!
++++
 " I'll devote my [move:1] to
 help you, [player]!"
-
+ Я применю приём [move:1],
+чтобы помочь тебе, [player]!
++++
  Find one [item:0]? Great!
-
+ Найти [item:0]?
+Хорошо!
++++
 " Ooooh! I wonder what treasures
 we'll find? I'm so excited!"
-
+ Оооо! Интересно, какие
+сокровища мы найдём? Я так волнуюсь!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__185
 
 [M:D1]TALK_MESSAGE_HEALTHY__186
@@ -13275,26 +13625,39 @@ we'll find? I'm so excited!"
 [M:D1]TALK_MESSAGE_HEALTHY__198
 
 [M:D1]TALK_MESSAGE_HEALTHY__199
-
++++
  Now don't hold me back!
-
+ Только не пытайся меня
+удержать!
++++
 " Let's keep pushing on! C'mon!
 Time to show 'em how it's done!"
-
+ Продолжим давить! Ну-же!
+Покажем им как дела делаются!
++++
 " I'll thump anyone who gets in our
 way, you'd better believe it!"
-
+ Я раздавлю любого, кто
+встанет у нас на пути, уж поверь мне!
++++
 " I can just sense it! Somewhere!
 That [item:0]!"
-
+ Я знаю, этот предмет где-то
+поблизости! [item:0]!
++++
 " You'd better guess again if you
 think that I'm leaving without our treasure!"
-
+ Подумай дважды, если ты
+считаешь, что я уйду без сокровищ!
++++
 " No one's better than I am with
 the [move:1] move!"
-
+ Нет никого лучше меня и
+моего приёма [move:1]!
++++
  Er, what? What do you want?
-
+ Эм, что? Что тебе нужно?
++++
 [M:D1]TALK_MESSAGE_HEALTHY__207
 
 [M:D1]TALK_MESSAGE_HEALTHY__208
@@ -13320,30 +13683,45 @@ the [move:1] move!"
 [M:D1]TALK_MESSAGE_HEALTHY__218
 
 [M:D1]TALK_MESSAGE_HEALTHY__219
-
++++
 " Say, I've meant to ask! Um...
 I hope I'm being helpful?"
-
+ Всё хочу спросить! Эм...
+Надеюсь, я для тебя не обуза?
++++
  I'll explore the very best I can!
-
+ Я буду исследовать так
+хорошо, как смогу!
++++
 " Hey, don't underestimate my
 [move:1] move!"
-
+ Только не недооценивай мой
+приём [move:1]!
++++
 " We'll have to watch our backs
 around any [kind:0] we see!"
-
+ Мы будем настороже, если
+увидим любого Покемона [kind:0]!
++++
 " Hmm? Is that the scent of
 [item:0] in the air?"
-
+ Хмм? Это запах предмета
+[item:0]?
++++
 " You're really decent, aren't you,
 [player]?"
-
+ А ты не промах, верно,
+[player]?
++++
  Let's get us some treasure!
-
+ Давай найдем сокровища!
++++
  Zzzz... Zzzz...
-
+ Хррр... Хррр...
++++
  You must be hungry, right?
-
+ Ты хочешь есть, да?
++++
 [M:D1]TALK_MESSAGE_HEALTHY__229
 
 [M:D1]TALK_MESSAGE_HEALTHY__230
@@ -13365,43 +13743,68 @@ around any [kind:0] we see!"
 [M:D1]TALK_MESSAGE_HEALTHY__238
 
 [M:D1]TALK_MESSAGE_HEALTHY__239
-
++++
  You'd better BET that I'll hustle!
-
+ Я то уж ТОЧНО поспешу!
++++
  I'm just RARING to keep going!
-
+ Я просто РВУСЬ в битву!
++++
 " I'm not pretty, but I always get
 the job DONE!"
-
+ Я не из красивых, но я хотя
+бы ВЫПОЛНЯЮ свою работу!
++++
 " Let's scout that OUT! Where's
 that [item:0]?"
-
+ НАЙДЕМ его! Где же предмет
+[item:0]?
++++
 " Those [kind:0]? You gotta
 watch OUT!"
-
+ [kind:0]? Лучше БЕРЕГИСЬ
+их!
++++
 " You can always depend on ME,
 [player]!"
-
+ Можешь на МЕНЯ положиться,
+[player]!
++++
 " No GUTS, no GLORY! And my
 [move:1] is all about GUTS!"
-
+ Без МУЖЕСТВА, нет СЛАВЫ!
+А мой приём [move:1], весьма
+МУЖЕСТВЕНЕН!
++++
 " What a BASH exploring with you,
 [player]!"
-
+ Исследовать с тобой - это
+просто СОКРУШИТЕЛЬНО, [player]!
++++
 " Don't hold it against me! I might
 SMASH you by accident!"
-
+ Только не лезь мне под руку!
+Я ведь и ПРИШИБИТЬ могу!
++++
  Wake me if I start the ZZZZs!
-
+ Разбуди меня, если я начну
+ХРРРапеть!
++++
 " What DRIVE you have! I'm
 impressed, [player]!"
-
+ Вот это НАСТРОЙ! Я в
+восхищении, [player]!
++++
 " For you, I'll do ANYTHING to help
 out, [player]!"
-
+ Для тебя, [player], я
+сделаю ВСЁ что угодно!
++++
 " Gah, don't STARE at me like that!
 You're embarrassing me!"
-
+ Ай, не СМОТРИ так на меня!
+Я смущаюсь!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__253
 
 [M:D1]TALK_MESSAGE_HEALTHY__254
@@ -13415,34 +13818,53 @@ You're embarrassing me!"
 [M:D1]TALK_MESSAGE_HEALTHY__258
 
 [M:D1]TALK_MESSAGE_HEALTHY__259
-
++++
 " No need to worry, my
 dear [player]!"
-
+ Не нужно волноваться,
+[player]!
++++
 " It doesn't matter how often
 you've explored before. It's always beneficial!"
-
+ Не важно, в скольких
+экспедициях тебе удалось побывать.
+Это всегда окупается!
++++
 " When I get mad...I can be a
 real fright! You'd better believe it!"
-
+ Когда я злюсь... Я становлюсь
+гораздо страшнее! Уж поверь мне!
++++
 " OK! Let's get that
 [item:0] to start with!"
-
+ Так! Для начала, нужно найти
+этот предмет [item:0]!
++++
 " Oh! Those [kind:0] are such
 a rotten nuisance."
-
+ Ох! [kind:0]! Они все
+такие неприятные!
++++
 " I'll keep you nice and safe with
 my [move:1], [player]."
-
+ С моим приёмом [move:1],
+тебе будет безопаснее, [player].
++++
 " We'll leave just stuffed with all
 sorts of treasure!"
-
+ Мы уйдем и наша сумка будет
+полна сокровищ!
++++
 " I do wonder...what might be
 up ahead?"
-
+ Интересно... что-же будет
+дальше?
++++
 " If we see one [item:0],
 I'll...well...I'll..."
-
+ Если я увижу предмет
+[item:0], я... ну... я...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__269
 
 [M:D1]TALK_MESSAGE_HEALTHY__270
@@ -13464,25 +13886,36 @@ I'll...well...I'll..."
 [M:D1]TALK_MESSAGE_HEALTHY__278
 
 [M:D1]TALK_MESSAGE_HEALTHY__279
-
++++
 " Let me watch your back, won't
 you, [player]?"
-
+ Позволь мне приглядывать за
+тобой, [player]?
++++
 " Where are we going next? Gotta
 make up your mind!"
-
+ Куда мы пойдём дальше? Нужно
+решиться!
++++
 " Oh, yeah! Watch out! I'll let fly
 with my [move:1] move!"
-
+ О, да! Берегись! Я применю
+свой приём [move:1]!
++++
 " Those [kind:0]? Easy
 targets!"
-
+ [kind:0]? Лёгкая цель!
++++
 " It's always a blast exploring,
 don't you think?"
-
+ Исследовать всегда весело,
+правда?
++++
 " You're really good at this. I'm
 impressed with you!"
-
+ Ты неплохо справляешься. Я
+восхищаюсь тобой!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__286
 
 [M:D1]TALK_MESSAGE_HEALTHY__287
@@ -13510,23 +13943,33 @@ impressed with you!"
 [M:D1]TALK_MESSAGE_HEALTHY__298
 
 [M:D1]TALK_MESSAGE_HEALTHY__299
-
++++
 " Study your enemy before making
 your move, OK?"
-
+ Прежде чем что-либо делать,
+изучи своего врага, хорошо? 
++++
  Proceed sure and steady, OK?
-
+ Идём медленно, но верно, да?
++++
 " Trust me. I'll do my best for the
 team, [player]."
-
+ Доверься мне. Я сделаю всё
+для нашей команды, [player].
++++
 " I'll employ my [move:1]
 move for the team, [player]."
-
+ Ради нас, я применю приём
+[move:1], [player].
++++
  What lies beyond this point?
-
+ Что нас ждёт дальше?
++++
 " I'm just sure that we'll find that
 [item:0]."
-
+ Думаю, что мы определённо
+отыщем [item:0].
++++
 [M:D1]TALK_MESSAGE_HEALTHY__306
 
 [M:D1]TALK_MESSAGE_HEALTHY__307
@@ -13554,31 +13997,48 @@ move for the team, [player]."
 [M:D1]TALK_MESSAGE_HEALTHY__318
 
 [M:D1]TALK_MESSAGE_HEALTHY__319
-
++++
 " There's just no downside to
 exploring, that's for sure!"
-
+ В исследовании подземелий
+совершенно нет минусов, да!
++++
 " May I suggest sweeping the
 floor for treasure from corner to corner?"
-
+ Не против, если я предложу
+полностью вычистить этот этаж от
+сокровищ?
++++
 " I'm here to lend you my best
 support, [player]!"
-
+ Я помогу тебе всем, чем
+смогу, [player]!
++++
 " You can count on me to keep
 finding valuable things!"
-
+ Я всегда могу найти что-то
+ценное, положись на меня!
++++
 " Mmm-hmm... I'm sure I sense
 one [item:0] around here somewhere."
-
+ А-га... Думаю, что где-то
+есть [item:0].
++++
 " We're splitting up any treasure
 evenly, aren't we?"
-
+ Мы ведь разделим добычу
+поровну, верно?
++++
 " To be sure, any [kind:0]
 will be big trouble."
-
+ Точно говорю, [kind:0]
+доставит нам неприятностей.
++++
 " There's nothing I won't do to
 get treasure!"
-
+ Нет ничего, что может меня
+остановить на пути к сокровищам!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__328
 
 [M:D1]TALK_MESSAGE_HEALTHY__329
@@ -13922,9 +14382,10 @@ get treasure!"
 [M:D1]TALK_MESSAGE_HEALTHY__498
 
 [M:D1]TALK_MESSAGE_HEALTHY__499
-
++++
  Can't talk now!
-
+ Я сейчас не могу говорить!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__501
 
 [M:D1]TALK_MESSAGE_HEALTHY__502
@@ -13962,48 +14423,76 @@ get treasure!"
 [M:D1]TALK_MESSAGE_HEALTHY__518
 
 [M:D1]TALK_MESSAGE_HEALTHY__519
-
++++
 " There's no telling what's ahead.
 We'd better go carefully."
-
+ Трудно сказать, что нас ждёт
+дальше. Нужно идти аккуратнее.
++++
  Let's move on!
-
+ Пойдём дальше!
++++
  Let's hang in there!
-
+ Мы обязательно выстоим!
++++
 " I'm going to do my best,
 [player]!"
-
+ Я буду стараться изо всех
+сил, [player]!
++++
 " We have to watch out for any
 [kind:0]!"
-
+ Если встретится [kind:0],
+нам нужно быть осторожнее!
++++
 " I'll watch out in the back,
 [player]!"
-
+ Я буду приглядывать за
+нашими спинами, [player]!
++++
 " I'll back you up with my
 [move:1] move!"
-
+ Я прикрою тебя своим приёмом
+[move:1]!
++++
 " I'll keep your back covered,
 [player]!"
-
+ Я прикрою тебя, [player]!
++++
  I'll follow you, [player]!
-
+ Я буду всегда рядом с тобой,
+[player]!
++++
  Let's do our best, [player]!
-
+ Давай выложимся на полную,
+[player]!
++++
  Slow and steady, [player]!
-
+ Идём медленно, но верно,
+[player]!
++++
  It's our time to shine!
-
+ Пора нам всем засиять!
++++
 " Don't let your guard down,
 [player]."
-
+ Не теряй бдительности,
+[player].
++++
 " I refuse to lose to any
 [kind:0]!"
-
+ Я отказываюсь проиграть,
+даже если мой противник - [kind:0]!
++++
 " We'd better go carefully,
 [player]."
-
+ Нам нужно быть осторожнее,
+[player].
++++
  We can't afford to give up!
-
+ Мы не можем позволить себе
+сдаться!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__536
 
 [M:D1]TALK_MESSAGE_HEALTHY__537
@@ -14011,49 +14500,77 @@ We'd better go carefully."
 [M:D1]TALK_MESSAGE_HEALTHY__538
 
 [M:D1]TALK_MESSAGE_HEALTHY__539
-
++++
 " Who knows what we might face!
 Let's be careful!"
-
+ Кто знает, с чем мы можем
+иметь дело! Будем настороже!
++++
  We should speed it up!
-
+ Нам нужно поторопиться!
++++
  Let's do it! No excuses!
-
+ Мы сделаем это! И никаких
+отговорок!
++++
 " You can count on me to do my
 best, [player]!"
-
+ Я сделаю всё, что в моих
+силах, [player]!
++++
 " Let's keep an eye out for any
 [kind:0]."
-
+ [kind:0] поблизости. Будем
+с ними осторожнее.
++++
 " Don't worry. I'm watching out
 for us in the back, [player]."
-
+ Не переживай. Я слежу за
+нашими спинами, [player].
++++
  My [move:1] will help us!
-
+ [move:1] нам поможет!
++++
 " I've got the rear guard covered,
 [player]."
-
+ Я прикрою тыл, [player].
++++
  I'll go with you, [player]!
-
+ Я буду с тобой, [player]!
++++
  Let's keep it up, [player]!
-
+ Продолжим в том-же духе,
+[player]!
++++
 " This calls for a slow and steady
 approach, [player]."
-
+ Это требует медленного и
+уверенного подхода, [player].
++++
  Let's show them we can do this!
-
+ Давай покажем им, что мы
+сможем справиться!
++++
 " Don't let your guard down,
 [player]!"
-
+ Не теряй бдительности,
+[player]!
++++
 " Those [kind:0] aren't going
 to take me down!"
-
+ [kind:0] не сможет
+справиться со мной!
++++
 " We should be cautious,
 [player]!"
-
+ Нам нужно быть аккуратнее,
+[player]!
++++
 " We have to go on! We must
 never give up!"
-
+ Нам нужно идти дальше! Мы не
+сдадимся!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__556
 
 [M:D1]TALK_MESSAGE_HEALTHY__557
@@ -14061,49 +14578,77 @@ never give up!"
 [M:D1]TALK_MESSAGE_HEALTHY__558
 
 [M:D1]TALK_MESSAGE_HEALTHY__559
-
++++
 " There's no telling what's in
 store! Let's go carefully!"
-
+ Трудно сказать, что нас ждёт!
+Будем настороже!
++++
  We should get a move on!
-
+ Нам нужно идти дальше!
++++
  Let's keep at it!
-
+ Будем продолжать в том же
+духе!
++++
 " I'll do my best, I promise,
 [player]!"
-
+ Я сделаю всё что смогу,
+обещаю, [player]!
++++
 " We'd better approach any
 [kind:0] carefully."
-
+ Нам стоит быть внимательнее,
+если [kind:0] найдёт нас.
++++
 " You can trust me. I've got us
 covered, [player]."
-
+ Мне можно довериться. Я нас
+прикрою, [player].
++++
 " I'll back you up with my
 [move:1] move!"
-
+ Я поддержу нас своим приёмом
+[move:1]!
++++
 " I'll protect us from any attacks
 from behind, [player]!"
-
+ Я защищу нас от любых ударов
+в спину, [player]!
++++
  I'll stick with you, [player]!
-
+ Я буду держаться ближе к
+тебе, [player]!
++++
 " We have to be strong,
 [player]."
-
+ Нам нужно быть сильными,
+[player].
++++
  Let's be cautious, [player]!
-
+ Будем осторожнее, [player]!
++++
  Let's be strong! The both of us!
-
+ Мы будем сильнее! Мы оба!
++++
 " Let's keep moving, [player],
 but keep an eye out for trouble."
-
+ Идём дальше, [player],
+только осторожно.
++++
 " I won't let any [kind:0]
 beat me!"
-
+ Меня не победит никто! Даже
+[kind:0]!
++++
  Careful now, [player]!
-
+ Будь аккуратнее, [player]!
++++
 " We can't give up now. We have
 to go on!"
-
+ Мы не сдадимся. Нам нужно
+идти дальше!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__576
 
 [M:D1]TALK_MESSAGE_HEALTHY__577
@@ -14111,29 +14656,44 @@ to go on!"
 [M:D1]TALK_MESSAGE_HEALTHY__578
 
 [M:D1]TALK_MESSAGE_HEALTHY__579
-
++++
  Hurry! There's no time to waste!
-
+ Скорее! Нельзя терять ни
+минуты!
++++
  Watch out for [kind:0]!
-
+ Здесь [kind:0]! Берегись!
++++
  Keep your senses sharp!
-
+ Держи ухо востро!
++++
 " I don't know what's ahead of us.
 Just keep your guard up!"
-
+ Я не знаю, что нас ждёт
+впереди. Просто будь начеку!
++++
  Keep pressing on! Stay alert!
-
+ Продолжаем идти! Будь начеку!
++++
 " Focus your senses! Stay attuned
 to the slightest danger!"
-
+ Соберись! Будь наготове даже
+к самой незначительной передряге!
++++
 " Are you all right? Don't sacrifice
 your concentration."
-
+ Всё в порядке? Не трать силы
+попусту.
++++
  Don't lag behind. We must hurry.
-
+ Не отставай. Нужно спешить.
++++
 " You can't be too careful. Losing
 focus for a split second can be fatal!"
-
+ Осторожности много не бывает.
+Промедление хоть на секунду может
+плохо кончиться!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__589
 
 [M:D1]TALK_MESSAGE_HEALTHY__590
@@ -14155,37 +14715,60 @@ focus for a split second can be fatal!"
 [M:D1]TALK_MESSAGE_HEALTHY__598
 
 [M:D1]TALK_MESSAGE_HEALTHY__599
-
++++
 " Now don't make any mistakes
 that will set us behind!"
-
+ Попытайся не совершать
+ошибок, которые нас подведут!
++++
  Now don't be complacent!
-
+ Не останавливайся на
+достигнутом!
++++
  Now pay attention before acting!
-
+ Прежде чем действовать, надо
+хорошенько подумать!
++++
  Now don't you leave me!
-
+ Только не отходи от меня!
++++
 " Now [kind:0] don't put up
 much of a fight, do they?"
-
+ [kind:0] не то чтобы
+хороший противник, верно?
++++
 " Now, now! Where do you think
 you're going?"
-
+ Стой, стой! Куда это ты
+направляешься?
++++
 " Hee-heeee! в™Є You don't need to
 be concerned for me! в™Є"
-
+ Хии-хиии! ♪ За меня не нужно
+переживать! ♪
++++
 " I really can't be defeated! в™Є
 So your concern isn't needed! в™Є"
-
+ Вообще-то, меня никому не
+одолеть! ♪ Поэтому, не беспокойся за
+меня! ♪
++++
 " Now, now! It seems as though
 things are getting tougher! Pay attention!"
-
+ Так, так! Похоже, дела наши
+плохи! Будь аккуратнее!
++++
 " Now this is where things turn
 nasty. Do be careful!"
-
+ Теперь всё серьёзно. Будь
+аккуратнее!
++++
 " It'd be a mistake to rely on my
 help too much, [hero] and [partner]!"
-
+ Вы совершите большую ошибку,
+если будете полагаться только на меня,
+[hero] и [partner]!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__611
 
 [M:D1]TALK_MESSAGE_HEALTHY__612
@@ -14203,33 +14786,50 @@ help too much, [hero] and [partner]!"
 [M:D1]TALK_MESSAGE_HEALTHY__618
 
 [M:D1]TALK_MESSAGE_HEALTHY__619
-
++++
 " We're gonna hit it hard! That's
 what we're gonna do!"
-
+ Мы хорошо постараемся! Вот
+что мы будем делать!
++++
  Don't you worry about me none!
-
+ Не переживай за меня!
++++
 " Yup yup! I have a healthy
 helping of giddyup 'n' go!"
-
+ Ага-ага! Я всем-всем буду
+помогать!
++++
 " I reckon we ought to stay on
 track to the base camp."
-
+ Полагаю, что мы могли бы
+быть на пути в лагерь.
++++
 " This here's my first expedition.
 It's got my heart a-thumping."
-
+ Это моя первая экспедиция.
+Моё сердце дико колотится.
++++
 " Being with you is mighty
 reassuring, [player]."
-
+ То, что я с тобой, меня
+сильно успокаивает, [player].
++++
 " Huh? Now which way were we
 supposed to be going?"
-
+ А? А каким путём нам нужно
+идти?
++++
 " I haven't got much of a mind for
 directions. I best tag along with you all."
-
+ С чувством направления у меня
+не очень. Я лучше буду со всеми вами.
++++
 " OK! Let's go at this hard,
 [hero] and [partner]!"
-
+ Хорошо! Потрудимся на славу,
+[hero] и [partner]!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__629
 
 [M:D1]TALK_MESSAGE_HEALTHY__630
@@ -14251,26 +14851,38 @@ directions. I best tag along with you all."
 [M:D1]TALK_MESSAGE_HEALTHY__638
 
 [M:D1]TALK_MESSAGE_HEALTHY__639
-
++++
  Yay for us, [player]! в™Є
-
+ Слава нам, [player]! ♪
++++
  I'll do my best! в™Є
-
+ Я сделаю всё, что смогу! ♪
++++
 " I'm brimming with energy! в™Є
 I'm good to go! в™Є"
-
+ Во мне много сил! ♪
+Я могу пойти куда угодно! ♪
++++
  [kind:0] is a toughie! в™Є
-
+ [kind:0] крепенький враг! ♪
++++
  Oh! Which way do we go? в™Є
-
+ Ой! Куда нам идти? ♪
++++
  I'm feeling bubbly! в™Є
-
+ Я ощущаю себя пузырчато! ♪
++++
  Let's do our best together! в™Є
-
+ Давай хорошенько выложимся
+на полную! ♪
++++
  Yay! Exploring! Exploring! в™Є
-
+ Ура! Изучать! Исследовать! ♪
++++
  Exploring's so fun! в™Є
-
+ Исследования - это так
+весело! ♪
++++
 [M:D1]TALK_MESSAGE_HEALTHY__649
 
 [M:D1]TALK_MESSAGE_HEALTHY__650
@@ -14292,30 +14904,45 @@ I'm good to go! в™Є"
 [M:D1]TALK_MESSAGE_HEALTHY__658
 
 [M:D1]TALK_MESSAGE_HEALTHY__659
-
++++
 " Tee-hee! I'm not about to fall
 prey easily!"
-
+ Хи-хи! Я не собираюсь так
+легко становиться чей-то добычей!
++++
 " The world has decayed in this
 darkness. I simply hate it this way!"
-
+ Мир утонул в этой тьме. Я
+это так просто не оставлю!
++++
 " No [kind:0] is going to
 defeat me!"
-
+ [kind:0] не сможет меня
+одолеть!
++++
 " I'm all right! Nothing to worry
 about!"
-
+ Я в порядке! За меня не
+стоит переживать!
++++
 " It's fun as long as [CS:N]Grovyle[CR]
 is here with me!"
-
+ Пока здесь со мной [CS:N]Гровайл[CR],
+всё в полном порядке!
++++
 " Oh, don't fuss over me! Why not
 worry about your own well-being?"
-
+ О, не волнуйся обо мне!
+Может, лучше побеспокоишься о себе?
++++
 " Don't take anything for granted.
 This is dangerous. Be careful!"
-
+ Не воспринимай это как
+должное. Это опасно. Будь аккуратнее!
++++
  The Passage of Time is ahead!
-
+ Впереди Временной Портал!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__668
 
 [M:D1]TALK_MESSAGE_HEALTHY__669
@@ -14339,30 +14966,45 @@ This is dangerous. Be careful!"
 [M:D1]TALK_MESSAGE_HEALTHY__678
 
 [M:D1]TALK_MESSAGE_HEALTHY__679
-
++++
  We must proceed with caution.
-
+ Надо идти с осторожностью.
++++
 " Let us fight complacency! And
 let us proceed gingerly!"
-
+ Сразим самоуверенность! И
+будем действовать осторожнее!
++++
 " I'm perfectly fine. Thank you
 nonetheless!"
-
+ Я в полном порядке. Спасибо,
+что интересуешься!
++++
 " I will provide my best support
 to the skirmish with my [move:1]!"
-
+ Я поддержу тебя в сражении
+своим приёмом [move:1]!
++++
 " There may be a trap at hand, so
 step smartly!"
-
+ Здесь могут быть ловушки,
+нам нужно смотреть под ноги!
++++
 " We must remain careful about
 [kind:0] as we stay on the move."
-
+ Пока мы идём, нам нужно
+смотреть в оба, тут враг - [kind:0].
++++
 " Let's do the very best we can
 for one another, [player]!"
-
+ Давай сделаем друг для друга
+всё что можем, [player]!
++++
 " Let's keep a brave face as we
 move onward!"
-
+ Сохраним нашу храбрость и
+будем двигаться дальше!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__688
 
 [M:D1]TALK_MESSAGE_HEALTHY__689
@@ -14386,9 +15028,10 @@ move onward!"
 [M:D1]TALK_MESSAGE_HEALTHY__698
 
 [M:D1]TALK_MESSAGE_HEALTHY__699
-
++++
  Let's tough it out!
-
+ Мы выстоим!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__701
 
 [M:D1]TALK_MESSAGE_HEALTHY__702
@@ -14426,9 +15069,10 @@ move onward!"
 [M:D1]TALK_MESSAGE_HEALTHY__718
 
 [M:D1]TALK_MESSAGE_HEALTHY__719
-
++++
  Let's get through this!
-
+ Мы разберёмся с трудностями!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__721
 
 [M:D1]TALK_MESSAGE_HEALTHY__722
@@ -14466,23 +15110,33 @@ move onward!"
 [M:D1]TALK_MESSAGE_HEALTHY__738
 
 [M:D1]TALK_MESSAGE_HEALTHY__739
-
++++
 " We must persevere,
 [player]!"
-
+ Мы должны выстоять,
+[player]!
++++
  We must tread carefully.
-
+ Мы должны идти аккуратнее.
++++
 " I'll lend my support to the effort
 with my [move:1]."
-
+ Я внесу свой вклад в битву
+своим приёмом [move:1].
++++
  We should delve deeper.
-
+ Мы должны спускаться глубже.
++++
 " I'm fine. There's no need to
 worry yourself."
-
+ Я в порядке. За меня не
+нужно волноваться.
++++
 " I can see it...one [item:0]
 lying on the ground...somewhere..."
-
+ Вижу... [item:0].
+Где-то... лежит на земле...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__746
 
 [M:D1]TALK_MESSAGE_HEALTHY__747
@@ -14490,22 +15144,31 @@ lying on the ground...somewhere..."
 [M:D1]TALK_MESSAGE_HEALTHY__748
 
 [M:D1]TALK_MESSAGE_HEALTHY__749
-
++++
  Let's show them!
-
+ Покажем им!
++++
 " Now don't get careless,
 [player]!"
-
+ Не теряй бдительность,
+[player]!
++++
 " I'm right behind you! You'll get
 plenty of support!"
-
+ Я прямо за тобой! Поддержу
+всем, чем смогу!
++++
  Let's speed things up!
-
+ Нужно ускориться!
++++
  [kind:0]...pretty weak!
-
+ [kind:0]...они слабы!
++++
 " There's one [item:0] on
 the ground...somewhere..."
-
+ [item:0] где-то
+здесь... лежит на земле...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__756
 
 [M:D1]TALK_MESSAGE_HEALTHY__757
@@ -14513,21 +15176,30 @@ the ground...somewhere..."
 [M:D1]TALK_MESSAGE_HEALTHY__758
 
 [M:D1]TALK_MESSAGE_HEALTHY__759
-
++++
 " I've got you covered! Don't
 worry!"
-
+ Не переживай! Я прикрою
+твою спину!
++++
  Let's keep moving, [player]!
-
+ Идём, [player]!
++++
  Me? I'm fine!
-
+ Я? Я в порядке!
++++
  Watch out for any [kind:0]!
-
+ Здесь [kind:0]! Берегись
+их!
++++
  Let's keep going.
-
+ Идём дальше.
++++
 " I envision one [item:0]...
 just lying there..."
-
+ Я вижу [item:0]...
+Лежит просто так...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__766
 
 [M:D1]TALK_MESSAGE_HEALTHY__767
@@ -14535,22 +15207,31 @@ just lying there..."
 [M:D1]TALK_MESSAGE_HEALTHY__768
 
 [M:D1]TALK_MESSAGE_HEALTHY__769
-
++++
  WE'RE GOING, [player]!
-
+ ИДЁМ, [player]!
++++
  SHOW URGENCY!
-
+ ГОВОРИ, БЫСТРО!
++++
 " FOES WILL SCATTER BEFORE
 THE MIGHT OF MY [move:1]!"
-
+ ПУСТЬ ВРАГИ БЕГУТ В УЖАСЕ
+ОТ МОЩИ МОЕГО ПРИЁМА [move:1]!
++++
  GRRR-OOOOOO!
-
+ ГРРР-АААААА!
++++
 " THOSE [kind:0] ARE HARDLY
 WORTHY ADVERSARIES FOR ME!"
-
+ [kind:0] ДЛЯ МЕНЯ -
+НЕДОСТОЙНЫЙ ПРОТИВНИК!
++++
 " I WILL PROTECT YOU WITH
 MY POWERS!"
-
+ Я ЗАЩИЩУ ТЕБЯ СВОЕЙ
+СИЛОЙ!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__776
 
 [M:D1]TALK_MESSAGE_HEALTHY__777
@@ -14558,21 +15239,30 @@ MY POWERS!"
 [M:D1]TALK_MESSAGE_HEALTHY__778
 
 [M:D1]TALK_MESSAGE_HEALTHY__779
-
++++
 " MY FULL SUPPORT IS YOURS!
 HAVE CONFIDENCE!"
-
+ Я ПОДДЕРЖУ ТЕБЯ!
+ БУДЬ УВЕРЕННЕЙ!
++++
  NO ENEMY IS MY EQUAL!
-
+ МНЕ НИКТО НЕ РОВНЯ!
++++
  GRRR-OOOOOO!
-
+ ГРРР-АААААА!
++++
  I WILL DRAW UPON MY MIGHT!
-
+ ВСЕ БУДУТ БЕЖАТЬ ОТ МОЕЙ
+МОЩИ!
++++
  WHAT BEING CAN STOP ME?!
-
+ КТО МЕНЯ ОСТАНОВИТ?!
++++
 " HAVE FAITH IN YOURSELF!
 AND FIGHT!"
-
+ ВЕРЬ В СВОИ СИЛЫ!
+И СРАЖАЙСЯ!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__786
 
 [M:D1]TALK_MESSAGE_HEALTHY__787
@@ -14580,23 +15270,33 @@ AND FIGHT!"
 [M:D1]TALK_MESSAGE_HEALTHY__788
 
 [M:D1]TALK_MESSAGE_HEALTHY__789
-
++++
 " ASSISTANCE... WILL GIVE...
 ASSISTANCE..."
-
+ ПОМОЩЬ... ОКАЖУ...
+ПОМОЩЬ...
++++
 " MY POWER...IS YOURS...
 MY POWER...IS YOURS..."
-
+ МОЯ МОЩЬ... ТВОЯ...
+МОЯ МОЩЬ... ТВОЯ...
++++
  RRRRR... RRRRR... RRRRR...
-
+ РРРРР... РРРРР... РРРРР...
++++
 " CAUTION... MEET [kind:0]...
 WITH CAUTION..."
-
+ ОПАСНО... [kind:0]...
+ОСТОРОЖНЕЕ...
++++
 " I SEE...I SEE...A SOLE
 [item:0]..."
-
+ Я ВИЖУ... ВИЖУ...
+[item:0]... РЯДОМ...
++++
  MOVE...ON... MOVE...ON...
-
+ ИДЁМ... ИДЁМ...
++++
 [M:D1]TALK_MESSAGE_HEALTHY__796
 
 [M:D1]TALK_MESSAGE_HEALTHY__797
@@ -14604,22 +15304,32 @@ WITH CAUTION..."
 [M:D1]TALK_MESSAGE_HEALTHY__798
 
 [M:D1]TALK_MESSAGE_HEALTHY__799
-
++++
 " It concerns me not which
 enemies await us."
-
+ Меня беспокоит не то, что
+нас поджидают враги.
++++
  The darkness swells within me...
-
+ Тьма сгущается во мне...
++++
 " So be it! You shall bear witness
 to my power!"
-
+ Да будет так! Ты обязательно
+узришь мою мощь!
++++
  Our progress...is satisfactory.
-
+ Наш прогресс... 
+удоволетворителен.
++++
  I see but one [item:0]...
-
+ Вижу [item:0]...
++++
 " Defeating me? Impossible. That
 much is absolute."
-
+ Одолеть меня? Невозможно.
+Это истина.
++++
 [M:D1]TALK_MESSAGE_HEALTHY__806
 
 [M:D1]TALK_MESSAGE_HEALTHY__807
@@ -14627,23 +15337,33 @@ much is absolute."
 [M:D1]TALK_MESSAGE_HEALTHY__808
 
 [M:D1]TALK_MESSAGE_HEALTHY__809
-
++++
  Treasure! в™Є Treasure! в™Є
-
+ Сокровища! ♪ Сокровища! ♪
++++
 " What a fine love I have! в™Є
 For items of all shapes and sizes! в™Є"
-
+ Я люблю всё! ♪
+Все предметы разных форм и размеров! ♪
++++
 " As always! I'll do it to the best
 of my humble abilities! в™Є"
-
+ Конечно! Я распоряжусь своми
+скромными способностями как надо! ♪
++++
 " Be wary! So wary!
 Of [kind:0]! So nasty! в™Є"
-
+ Берегись! Остерегайся!
+[kind:0]! Вот негодяи! ♪
++++
 " I find that exploring is so
 very uplifting! в™Є"
-
+ Исследовать разные места
+это так здорово! ♪
++++
  Where are we going now? в™Є
-
+ Куда мы пойдем теперь? ♪
++++
 [M:D1]TALK_MESSAGE_HEALTHY__816
 
 [M:D1]TALK_MESSAGE_HEALTHY__817
@@ -14651,9 +15371,10 @@ very uplifting! в™Є"
 [M:D1]TALK_MESSAGE_HEALTHY__818
 
 [M:D1]TALK_MESSAGE_HEALTHY__819
-
++++
  I'm counting on you!
-
+ Я на тебя полагаюсь!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__821
 
 [M:D1]TALK_MESSAGE_HEALTHY__822
@@ -14751,47 +15472,75 @@ very uplifting! в™Є"
  
 
 
-
++++
 " Let's do our best and head for
 the Sky Peak Summit!"
-
+ Сделаем всё, что в наших
+силах и поспешим на Вершину Небесного
+Пика!
++++
 " This mountain has a hidden
 staircase to a secret passage. If we find it,
 we should definitely check it out!"
-
+ В этой горе есть скрытая
+лестница, ведущая в секретный проход.
+Если найдём её, то стоит туда заглянуть!
++++
  Are you OK?
-
+ Всё в порядке?
++++
 " Hiking up the mountain is so
 wonderful! I feel great!"
-
+ Взбираться на гору так
+здорово! Я ощущаю себя прекрасно!
++++
 " I enjoy climbing this mountain
 with you, [player]!"
-
+ Лезть на гору с тобой,
+[player], это одно удовольствие!
++++
  Look out for [kind:0], OK?
-
+ Рядом [kind:0]. Будь
+осторожнее, хорошо?
++++
 " It's important to have the
 courage to turn back when you need to."
-
+ Важно иметь смелость свернуть
+назад, если потребуется.
++++
 " No need to rush. It isn't a race.
 It's best to climb at your own pace. Hee-hee."
+ Не нужно спешить. Это не
+гонка. Лучше взбираться на гору
+тихонько. Хи-хи..
++++
 
 
 
-
-
++++
  Wow, I'm so nervous...
-
+ Ух, я так волнуюсь...
++++
 " I'm kind of scared, but I'm fine
 as long as you're here, [CS:Y]Bidoof[CR]."
-
+ Мне немного страшновато, но
+с тобой, [CS:Y]Бидуф[CR], мне гораздо спокойнее!
++++
 " I'll do my best to stay by your
 side, [CS:Y]Bidoof[CR]."
-
+ Я сделаю всё, чтобы быть
+рядом с тобой, [CS:Y]Бидуф[CR].
++++
 " I'm not very good at fighting,
 but I'll do my best."
-
+ В сражениях я так себе, но
+сделаю всё, что смогу.
++++
 " I feel so much braver with you
 here, [CS:Y]Bidoof[CR]."
+ С тобой, [CS:Y]Бидуф[CR], я ощущаю
+себя гораздо храбрее.
++++
 
 
 
@@ -14802,41 +15551,61 @@ here, [CS:Y]Bidoof[CR]."
 
 
 
-
++++
 " Don't rush in headfirst to find
 yourself in trouble. Got it, Junior?"
-
+ Не беги сломя голову, а то
+можешь попасть в беду. Ясно, Младший?
++++
  Calm down, then take action.
-
+ Сначала думай, затем
+действуй.
++++
  Don't be so restless!
-
+ Не будь неугомонным!
++++
  Don't worry about me.
-
+ За меня не переживай.
++++
 " Keep on the lookout. There could
 be enemies nearby."
-
+ Будь настороже. Рядом рыщут
+враги.
++++
  Don't be negligent!
-
+ Не будь беспечным!
++++
 " Are you all right, Junior?
 Don't work too hard."
+ Всё в порядке, Младший?
+Не перетрудись.
++++
 
 
 
 
 
 
-
++++
  We're an exploration team!
-
+ Мы - команда исследователей!
++++
  We bravely push forward!
-
+ Мы храбро идём вперёд!
++++
 " [kind:] are no problem
 for us!"
-
+ [kind:] для нас не
+проблема!
++++
  Come on! You go first!
-
+ Идем! Ты впереди!
++++
 " Be glad we made you the leader.
 I mean it!"
+ Будь доволен, что ты
+ведёшь нас. Я серьёзно!
++++
 
 
 
@@ -14846,18 +15615,25 @@ I mean it!"
 
 
 
-
-
++++
  Let's do our best!
-
+ Сделаем всё, что в наших
+силах!
++++
  Hey, hey! Let's go!
-
+ Эй, эй! Идём!
++++
  I'm better than you are!
-
+ Я лучше, чем когда либо!
++++
 " Let's keep going, just like
 we've done before!"
-
+ Идём дальше, как мы и делали
+раньше!
++++
  Nobody can stop us!
+ Нас никто не остановит!
++++
 
 
 
@@ -14868,57 +15644,85 @@ we've done before!"
 
 
 
-
++++
  Let's be careful.
-
+ Будем осторожнее.
++++
 " We don't know what awaits us.
 We should be cautious."
-
+ Мы не знаем, что нас ждёт.
+Нам нужно быть осторожнее.
++++
  Let's go! [CS:Y]Lopunny[CR]!
-
+ Идём! [CS:Y]Лопанни[CR]!
++++
 " Together we can take on
 any opponent."
-
+ Вместе мы справимся с
+любым противником.
++++
  I'll watch our backs.
-
+ Я пригляжу за тылом.
++++
 " Let's clear floors and keep
 going forward."
-
+ Нужно зачищать этажи и идти
+дальше.
++++
 " Don't let your guard down,
 [CS:Y]Lopunny[CR]."
+ Не теряй бдительность,
+[CS:Y]Лопанни[CR].
++++
 
 
 
 
 
 
-
++++
  I will not lose!
-
+ Я не проиграю!
++++
  I'll do my best to push through!
-
+ Я сделаю всё, чтобы тебе
+помочь!
++++
 " No matter the opponent, I'll
 knock them down!"
-
+ Не важно, кто враг, я
+с ним справлюсь!
++++
 " Come on, let's hurry up and get
 to the treasure."
-
+ Давай, поторопимся и заберём
+сокровища.
++++
  Let's go!
-
+ Идём!
++++
 " It's great! в™Є
 I'm on the edge of my seat! в™Є"
-
+ Прекрасно! ♪
+Я сгораю от нетерпения! ♪
++++
 " Hmm... I wonder what kind of
 treasure we'll find. в™Є"
+ Хмм... Интересно, что за
+сокровище мы найдём. ♪
++++
 
 
 
 
 
 
-
++++
 " W-why?!
 Why me?!"
+ П-почему?!
+Почему я?!
++++
 
 
 
@@ -14937,50 +15741,74 @@ Why me?!"
 
 
 
-
++++
 " I'll fight, too!
 For the future!"
-
+ Я тоже буду сражаться!
+За будущее!
++++
  Be careful, [CS:Y]Grovyle[CR]!
-
+ Будь осторожен, [CS:Y]Гровайл[CR]!
++++
 " Come on, we've got to stop
 [CS:N]Dialga[CR]!"
-
+ Скорее, нам нужно остановить
+[CS:N]Диалгу[CR]!
++++
  I've got our backs!
-
+ Я прикрою нас!
++++
 " Hee-hee-hee! Don't worry!
 I've got it!"
+ Хи-хи-хи! Не беспокойся!
+Я справлюсь!
++++
 
-
-
++++
  Let's hurry! To the pinnacle!
+ Скорее! На вершину!
++++
 
 
 
 
 
 
-
++++
 " You're too worried about what's
 behind you, [CS:Y]Grovyle[CR]!"
-
+ Что-то ты слишком волнуешься
+о том, что позади тебя, [CS:Y]Гровайл[CR]!
++++
 " What happens when you neglect
 the important things right in front of you..."
-
+ Что происходит, когда ты
+игнорируешь то, что происходит у тебя
+под носом...
++++
 " Feeling nervous? Having your
 back exposed to me..."
-
+ Беспокоишься? Подставлять
+мне спину...
++++
  Let's be careful.
-
+ Будем осторожнее.
++++
 " The smallest sign of weakness
 could be our undoing."
-
+ Малейшее проявление слабости
+может плохо кончиться.
++++
 " The slightest miscalculation can
 radically change the situation."
-
+ Один небольшой просчёт и
+ситуация может измениться.
++++
 " ...Why are the [CS:N]Sableye[CR] after
 me..."
-
+ ...Почему меня преследуют
+[CS:N]Саблаи[CR]...
++++
 
 
 
@@ -14988,17 +15816,25 @@ me..."
 
 
  
-
++++
 " Still feeling nervous? Having
 your back exposed to me..."
-
+ Всё ещё беспокоишься?
+Подставлять мне спину...
++++
  Let's be careful.
-
+ Будем осторожнее.
++++
 " The smallest sign of weakness
 could be our undoing."
-
+ Малейшее проявление слабости
+может плохо кончиться.
++++
 " I just want to meet [CS:N]Dialga[CR] and
 ask him his true intentions."
+ Я хочу увидеть [CS:N]Диалгу[CR] и
+узнать его истинные намерения.
++++
 
 
 
@@ -15009,20 +15845,31 @@ ask him his true intentions."
 
 
 
-
++++
 " Still feeling nervous? Having
 your back exposed to me..."
-
+ Всё ещё беспокоишься?
+Подставлять мне спину...
++++
 " The smallest sign of weakness
 could be our undoing. Be careful."
-
+ Малейшее проявление слабости
+может плохо кончиться.
++++
  [CS:Y]Grovyle[CR]. Be prepared.
+ [CS:Y]Гровайл[CR]. Будь осторожен.
++++
 
 
-
++++
  Don't be so impatient, [CS:Y]Grovyle[CR].
-
+ Не будь таким нетерпеливым,
+[CS:Y]Гровайл[CR].
++++
  It might be too late already...
+ Возможно, уже слишком
+поздно...
++++
 
 
 
@@ -15030,17 +15877,23 @@ could be our undoing. Be careful."
 
 
 
-
-
++++
 " The smallest sign of weakness
 could be our undoing. Be careful."
-
+ Малейшее проявление слабости
+может плохо кончиться.
++++
  Be prepared, [CS:Y]Grovyle[CR].
-
+ Будь бдителен, [CS:Y]Гровайл[CR].
++++
  Let's be careful.
-
+ Будем осторожнее.
++++
 " Heh-heh-heh. My strength...
 My strength is returning..."
+ Хе-хе-хе. Моя сила...
+Моя сила возвращается...
++++
 
 
 
@@ -15053,18 +15906,26 @@ My strength is returning..."
 
 
 
-
++++
 " The smallest sign of weakness
 could be our undoing. Be careful."
-
+ Малейшее проявление слабости
+может плохо кончиться. Будь осторожен.
++++
  Let's be careful.
-
+ Будем осторожнее.
++++
  Incoming! Brace yourself!
-
+ Вот оно! Приготовься!
++++
  Be prepared, [CS:Y]Grovyle[CR].
-
+ Будь бдителен, [CS:Y]Гровайл[CR].
++++
 " In any case, we have no choice
 but to move forward."
+ В любом случае, у нас нет
+иного выбора, кроме как идти дальше.
++++
 
 
 
@@ -15075,19 +15936,28 @@ but to move forward."
 
 
 
-
++++
 " The smallest sign of weakness
 could be our undoing."
-
+ Малейшее проявление слабости
+может плохо кончиться.
++++
  Let's brace ourselves.
-
+ Соберёмся с духом.
++++
  Be prepared, [CS:Y]Grovyle[CR].
-
+ Будь бдителен, [CS:Y]Гровайл[CR].
++++
 " There could be traps anywhere.
 Be careful."
-
+ Здесь могут быть ловушки.
+Будь осторожнее.
++++
 " [CS:N]Celebi[CR] and the [CS:N]Sableye[CR] should be
 just ahead."
+ [CS:N]Селеби[CR] и [CS:N]Саблаи[CR] должны быть
+совсем рядом.
++++
 
 
 
@@ -15098,30 +15968,40 @@ just ahead."
 
 
 
-
++++
  I will fight to the bitter end!
-
+ Я буду сражаться до конца!
++++
  Let's brace ourselves!
-
+ Соберёмся с духом.
++++
  This is the last battle!
-
+ Это последняя битва!
++++
 " There could be traps anywhere.
 Be careful."
-
+ Здесь повсюду ловушки.
+Будь осторожнее.
++++
 " Hurry, we have to stop [CS:N]Dialga[CR]'s
 rampage!"
-
+ Скорее, нам нужно остановить
+[CS:N]Диалгу[CR]!
++++
  
-
++++
 " I will live to the fullest in the
 time I have left!"
+ Я проживу своё оставшееся
+время на полную!
++++
 
 
 
 
 
 
-
++++
 [M:D1]TALK_MESSAGE_HEALTHY__1030
 
 [M:D1]TALK_MESSAGE_HEALTHY__1031
@@ -15221,10 +16101,12 @@ time I have left!"
 [M:D1]TALK_MESSAGE_HEALTHY__1078
 
 [M:D1]TALK_MESSAGE_HEALTHY__1079
-
++++
 " Here THEY come, [CS:Y]Sunflora[CR]!
 GRRRRRRAAAAAHHH!"
-
+ Они наступают, [CS:Y]Санфлора[CR]!
+ГРРРРРРРАААААХХ!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__1081
 
 [M:D1]TALK_MESSAGE_HEALTHY__1082
@@ -15242,10 +16124,12 @@ GRRRRRRAAAAAHHH!"
 [M:D1]TALK_MESSAGE_HEALTHY__1088
 
 [M:D1]TALK_MESSAGE_HEALTHY__1089
-
++++
 " Let's capture this outlaw so
 everyone can live in peace!"
-
+ Поймаем этого негодяя, чтобы
+все смогли жить мирно!
++++
 [M:D1]TALK_MESSAGE_HEALTHY__1091
 
 [M:D1]TALK_MESSAGE_HEALTHY__1092
@@ -15263,22 +16147,32 @@ everyone can live in peace!"
 [M:D1]TALK_MESSAGE_HEALTHY__1098
 
 [M:D1]TALK_MESSAGE_HEALTHY__1099
-
++++
 " What are we going to
 find here? I'm so excited!"
-
+ Что мы здесь найдём?
+Мне так интересно!
++++
  Exploring is so much fun!
-
+ Исследования - это так
+весело!
++++
 " I enjoy exploring with you,
 [player]!"
-
+ Мне нравится исследовать с
+тобой, [player]!
++++
  Let's find lots of treasure! в™Є
-
+ Давай найдём гору сокровищ! ♪
++++
  I'll go with you, [player]!
-
+ Я буду с тобой, [player]!
++++
 " I hope we find at least one
 [item:0]. в™Є"
-
+ Надеюсь мы найдём хоть один
+предмет [item:0]. ♪
++++
 [M:D1]TALK_MESSAGE_HEALTHY__1106
 
 [M:D1]TALK_MESSAGE_HEALTHY__1107
@@ -15286,201 +16180,278 @@ find here? I'm so excited!"
 [M:D1]TALK_MESSAGE_HEALTHY__1108
 
 [M:D1]TALK_MESSAGE_HEALTHY__1109
-
+---
  It's getting a little rough...
-
+ Становится тяжеловато...
++++
 " I'm hurt a little... But I'm still
 good to go!"
-
+ Мне немного больно... Но я
+всё ещё могу идти дальше!
++++
 " Thanks for your concern,
 [player]! You really care!"
-
+ Спасибо за беспокойство,
+[player]! Ты так заботишься обо мне!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__003
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__004
-
++++
  The going's getting rougher...
-
+ Это приключение становится
+тяжелее...
++++
 " I...I'm fine. It takes more than
 this to slow me down."
-
+ Я... Я в порядке. Меня не
+так то просто остановить.
++++
 " I'm fine! I can keep battling![K]
 But thanks for your concern!"
-
+ Я в порядке! Я еще могу
+сражаться![K] Но спасибо, что спрашиваешь!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__008
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__009
-
++++
 " Maybe...maybe we should go
 home soon?"
-
+ Может... может нам пойти
+домой?
++++
  Ugh... I'm hurt...
-
+ Ух... Больно...
++++
  Don't leave me, [player]...
-
+ Не оставляй меня,
+[player]...
++++
 " Can you please restore my health
 a little, [player]?"
-
+ Можешь ли ты меня немного
+подлечить, [player]?
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__014
-
++++
  This place is proving harsh...
-
+ Это суровое место...
++++
  Let's take it more cautiously.
-
+ Лучше быть ещё аккуратнее.
++++
  It's OK! I can keep going!
-
+ Ничего! Я могу идти дальше!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__018
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__019
-
++++
 " The truth is that it's harder to
 make headway like this..."
-
+ По правде говоря, мне трудно
+идти дальше в таком состоянии...
++++
 " I'd be thankful if you could
 restore my health..."
-
+ Будет неплохо, если ты меня
+немного подлечишь...
++++
 " This exploration has had its
 share of rough times, wouldn't you say?"
-
+ Эта экспедиция не такая уж
+и простая, разве не так?
++++
 " Do me the courtesy,
 [player]! Don't leave me here!"
-
+ Сделай мне одолжение,
+[player]! Не оставляй меня здесь!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__024
-
++++
 " This amount of damage? It's
 no problem. It's hardly a scratch."
-
+ Столько урона? Не проблема.
+Меня даже не поцарапали.
++++
 " [kind:1] has only just begun
 to dominate!"
-
+ [kind:1] только начинает
+свой бой!
++++
 " I'm perfectly fine! Focus your
 concern elsewhere!"
-
+ Я в полном порядке! Лучше
+побеспокойся о чём-нибудь ещё!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__028
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__029
-
++++
  Harder... Getting harder...
-
+ Трудно... Становится 
+трудно...
++++
  Going...going... Keep on going...
-
+ Дальше...дальше... Нужно
+идти дальше...
++++
 " Not easy... Not easy... All this
 exploration... Not easy..."
-
+ Непроста... непроста... Эта
+экспедиция... Непроста...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__033
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__034
-
++++
  Ha! I don't go down so easily!
-
+ Ха! Меня не так то легко
+одолеть!
++++
  This is nothing! Bring it on!
-
+ Это пустяк! Вперёд!
++++
 " I get pumped up in tight spots
 like this!"
-
+ В таких ситуациях я только
+раззадориваюсь!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__038
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__039
-
++++
  Hey, how about healing me?
-
+ Слушай, может, подлечишь
+меня?
++++
  This kind of stinks, you know?
-
+ Неприятная ситуация, да?
++++
 " Hey, how about we hang it up
 and head home?"
-
+ Слушай, может бросим всё и
+пойдём домой?
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__043
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__044
-
++++
 " Oooh... It's getting hard to keep
 going..."
-
+ Ооох... Мне всё труднее идти
+дальше...
++++
 " Hey, I still feel OK! Thanks for
 thinking about me!"
-
+ Слушай, я всё ещё в порядке!
+Спасибо, что обо мне заботишься!
++++
  It's hard! But I can keep going!
-
+ Тяжело! Но я справлюсь!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__048
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__049
-
++++
  C'mon! I can take it! Bring it on!
-
+ Ну-же! Я всё выдержу!
+Вперёд!
++++
 " Think I'm gonna drop here? Not
 a chance!"
-
+ Думаешь, я потеряю сознание?
+Вот ещё!
++++
 " I'm doing OK! You worry about
 yourself!"
-
+ Со мной всё в порядке! Лучше
+побеспокойся о себе!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__053
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__054
-
++++
  Uh-yup! Kinda rough...
-
+ Ух-хо! Крепко меня...
 " Got an [CS:I]Oran Berry[CR] or
 something?"
-
+ Есть [CS:I]Пельси Ягода[CR] или что-то
+подобное?
++++
 " Rough stuff! But I'll keep
 plugging away!"
-
+ Крепко приложили! Но я всё
+выдержу!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__058
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__059
-
++++
  No problem at ALL! I can take it!
-
+ Без ПРОБЛЕМ! Я выдержу!
++++
  I'll TOUGH it out!
-
+ Я всё ВЫДЕРЖУ!
++++
 " Just gotta smile, the way you
 WORRY about me!"
-
+ Улыбнись с таким усердием,
+с каким ты ВОЛНУЕШЬСЯ обо мне!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__063
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__064
-
++++
  Oh, such hard going!
-
+ Ох, нелегко приходится!
++++
 " Oh, I'll be all right. I can take a
 lot more than this."
-
+ О, я буду в порядке. Я могу
+и больше вынести.
++++
 " Oh, worried about me? Well,
 isn't that sweet, [player]!"
-
+ О, беспокоишься обо мне?
+Это так мило, [player]!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__068
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__069
-
++++
 " You don't seriously think I'll be
 beaten this easily?"
-
+ Ты серьёзно думаешь, что
+меня так легко побить?
++++
  Let's buckle down and go for it!
-
+ Соберёмся с силами и покажем
+им!
++++
  Ha! We're just getting started!
-
+ Ха! Мы ещё только начали!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__073
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__074
-
++++
  Whew! Harder to get ahead...
-
+ Ух! Дальше идти всё
+труднее...
++++
  Let's proceed more carefully...
-
+ Давай идти осторожнее...
++++
 " I'm fully capable of continuing!
 Thanks for watching out for me!"
-
+ Я всё ещё могу продолжать!
+Спасибо что приглядываешь за мной!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__078
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__079
-
++++
  Hmm... It's getting tougher...
-
+ Хмм... Становится труднее...
++++
 " We won't find treasure unless
 we can get out of tough scrapes..."
-
+ Если мы не разрешим эту
+ситуацию, то сокровищ нам не видать...
++++
  Won't some kind soul heal me...
-
+ Неужели никто меня не
+излечит...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__083
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__084
@@ -15514,9 +16485,10 @@ we can get out of tough scrapes..."
 [M:D1]TALK_MESSAGE_HALF_LIFE__098
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__099
-
++++
  I can't talk now!
-
+ Я не могу разговаривать!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__101
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__102
@@ -15524,128 +16496,210 @@ we can get out of tough scrapes..."
 [M:D1]TALK_MESSAGE_HALF_LIFE__103
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__104
-
++++
  Things are getting rough...
-
+ Плохи наши дела...
++++
 " It's getting a little too tough for
 me..."
-
+ Ситуация становится немного
+непростой...
++++
 " It's a little tough, but I'm still
 going on."
-
+ Это непросто, но я всё еще
+могу сражаться.
++++
  I think I feel a little weak...
-
+ Кажется, я немножечко
+слабею...
++++
 " Ouch! But I can take a lot more
 than this!"
-
+ Ай! Но я вынесу гораздо
+больше!
++++
  Things are going wrong...
-
+ Всё идёт наперекосяк...
++++
  It's a little too much for me...
-
+ Для меня это уже слишком...
++++
 " It's a bit tough, but I can take
 more than this!"
-
+ Это непросто, но я смогу
+выдержать куда больше!
++++
  I'm getting a little weak here...
-
+ Я немножечко слабею...
++++
 " Ugh... Ah, it's nothing. I can take
 a lot more!"
-
+ Ух... А, ничего. Я могу
+выдержать гораздо больше!
++++
  It's getting more difficult...
-
+ Становится всё труднее...
++++
 " I'm finding it tougher to keep
 going..."
-
+ Мне всё труднее идти
+дальше...
++++
  It's getting tough. But I'm OK.
-
+ Ситуация осложняется. Но со
+мной всё в порядке.
++++
  I think I feel a little weak...
-
+ Кажется, я слабею...
++++
 " Ow, ow, ow! But I'm not done!
 I can take more."
-
+ Ой, ой, ой! Но это еще не
+всё! Я могу выдержать больше.
++++
  The going is getting rough.
-
+ Этот поход становится
+непростым.
++++
  I can handle this. Don't worry.
-
+ Я справлюсь. Не переживай.
++++
 " I'm doing fine! And I can take
 even more!"
-
+ Я прекрасно справляюсь! И я
+могу выдержать гораздо большее!
++++
 " This is not worth concern. Let's
 keep moving."
-
+ Не стоит беспокоиться.
+Продолжим идти дальше.
++++
 " This amount of injury can be
 overlooked. Don't concern yourself."
-
+ Игнорируй мои раны. Не стоит
+переживать за меня.
++++
 " Gasp... Gasp... A trifle tough, to
 be sure!"
-
+ Эхх... Эхх... Это непросто,
+точно говорю!
++++
 " Now don't you leave me behind,
 [hero] and [partner]!"
-
+ Только не бросайте меня,
+[hero] и [partner]!
++++
 " Now snap out of it! I'm in need
 of some healing!"
-
+ Не медли! Мне нужно немного
+подлечиться!
++++
 " My injuries hurt! Will you hurry
 with the healing?!"
-
+ Мои раны болят! Ты будешь
+меня лечить?!
++++
 " Ugh... I hope you realize that it's
 rare for me to sustain damage!"
-
+ Ух... Надеюсь, ты понимаешь,
+что получать урон для меня - редкость!
++++
 " Oof... Things are turning right
 ugly..."
-
+ Уф... Ситуация становится
+весьма неприятной...
++++
 " Oof... I'm not feeling all that
 perky right now...
 "
-
+ Уф... Я чувствую себя не
+очень задорно...
++++
 " Oof, I have a feeling that my
 health is falling..."
-
+ Уф, у меня ощущение, что
+меня подводит здоровье...
++++
  Oof... Oof... Getting rough...
-
+ Уф... Уф... Тяжеловато...
++++
 " Oof... It'd sure make me happy
 if someone'd heal me..."
-
+ Уф... Будет здорово, если
+меня кто-нибудь подлечит...
++++
  It's not so easy!
-
+ Всё не так уж и просто!
++++
  Huff... Puff...
-
+ Ухх... Ухх...
++++
  Ow! I'm feeling worn down!
-
+ Оу! Что-то я устало себя
+чувствую!
++++
  I feel kind of yucky...
-
+ Я чувствую себя немного
+отвратительно...
++++
  Maybe I'm tired... I feel weak...
-
+ Может это усталость... Я
+ощущаю слабость...
++++
  It's getting a little exhausting...
-
+ Становится утомительно...
++++
 " I'm a little tired, but I can keep
 going."
-
+ Я чувствую усталость, но я
+всё ещё могу идти. 
++++
 " I've taken a little damage.
 Nothing to worry about."
-
+ Это всего лишь царапина.
+Не о чем переживать.
++++
 " I can keep going. My health is
 only slightly worn down!"
-
+ Я могу идти дальше. Моё
+здоровье лишь чуть-чуть пошатнулось!
++++
 " No whining from me! Not for
 this little bit of damage!"
-
+ Никакого нытья! Только не
+от этой царапины!
++++
 " I'm perfectly capable of enduring
 much more!"
-
+ Я абсолютно могу выдержать
+и больше!
++++
 " This place is straining my
 endurance, but I can take much more."
-
+ Это место давит на меня, но
+я могу выдержать куда больше.
++++
 " I've endured some damage, but
 I'm very much still fit and able!"
-
+ Я принимаю на себя этот вред,
+но я всё ещё могу сделать многое!
++++
 " It hurts a little, but it's really
 nothing I can't handle."
-
+ Мне немного больно, но на
+самом деле, нет того, с чем я не могу
+справиться.
++++
 " I can endure this. Please don't
 fret for my welfare."
-
+ Я выдержу. Не беспокойся о
+моём благополучии.
++++
  Things are turning uglier...
-
+ Ситуация становится всё
+неприятнее...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__151
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__152
@@ -15653,9 +16707,11 @@ fret for my welfare."
 [M:D1]TALK_MESSAGE_HALF_LIFE__153
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__154
-
++++
  It's getting harder to go on...
-
+ Становится всё труднее идти
+дальше...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__156
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__157
@@ -15663,110 +16719,168 @@ fret for my welfare."
 [M:D1]TALK_MESSAGE_HALF_LIFE__158
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__159
-
++++
  I've suffered some hits...
-
+ Я принимаю на себя удары...
++++
  I can absorb more damage...
-
+ Я могу принять на себя ещё
+немного урона...
++++
  I'm still ready for more!
-
+ Я всё ещё могу гораздо
+больше!
++++
 " You don't have to worry about
 me."
-
+ Тебе не нужно обо мне
+переживать.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__164
-
++++
  It seems like it's getting harder.
-
+ Кажется, ситуация становится
+всё тяжелее.
++++
 " Don't worry. I can put up with a
 lot worse."
-
+ Не беспокойся. Я выдержу
+гораздо большее.
++++
 " You don't have to worry about
 me! I'll be fine!"
-
+ Не нужно обо мне переживать!
+Я буду в порядке!
++++
 " It's a challenge, but I can
 continue."
-
+ Это то ещё испытание, но я
+могу идти дальше.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__169
-
++++
  It's tougher, sure!
-
+ Всё совсем непросто!
++++
  Is my health down a bit?
-
+ У меня проблемы со здоровьем?
++++
 " This is wearing me down, but
 I'm doing OK!"
-
+ Это меня выматывает, но я
+справлюсь!
++++
  It's OK. We can ride this out!
-
+ Всё хорошо. Мы выдержим!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__174
-
++++
 " IT'S MERELY A SCRATCH.
 NOTHING WORTH CONCERN!"
-
+ ЭТО ВСЕГО ЛИШЬ ЦАРАПИНА.
+НЕ НУЖНО БЕСПОКОИТЬСЯ!
++++
 " I HAVE ONLY SLIGHT DAMAGE.
 IT IS NOTHING."
-
+ Я НЕ СИЛЬНО СТРАДАЮ.
+НИЧЕГО ОСОБЕННОГО.
++++
 " THIS LEVEL OF DAMAGE? NOT
 WORTH YOUR ATTENTION!"
-
+ СТОЛЬКО УРОНА? НЕ СТОИТ
+ТВОЕГО ВНИМАНИЯ!
++++
 " YOUR WORRY IS NEEDLESS.
 ABOVE ALL ELSE, WE MUST PUSH ON."
-
+ НЕ НАДО ПЕРЕЖИВАТЬ.
+НАШ НАТИСК ПРЕВЫШЕ ВСЕГО.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__179
-
++++
 " THE WOUND IS SHALLOW. YOUR
 CONCERN IS UNWARRANTED."
-
+ РАНА НЕГЛУБОКА. ТВОИ
+ПЕРЕЖИВАНИЯ НЕ ОПРАВДАНЫ.
++++
 " IT IS NO MORE THAN A
 SCRATCH. LET US CONTINUE."
-
+ ВСЕГО ЛИШЬ ЦАРАПИНА.
+ИДЁМ ДАЛЬШЕ.
++++
 " I SEEM TO HAVE TAKEN DAMAGE.
 IT'S OF NO CONCERN."
-
+ Я ПОЛУЧИЛ УРОН, НО ЭТО
+НЕ СТОИТ ВНИМАНИЯ.
++++
 " THIS DAMAGE? TRIVIAL. I AM
 INVINCIBLE!"
-
+ СТОЛЬКО ВРЕДА? МЕЛКО.
+Я НЕУЯЗВИМ!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__184
-
++++
  PROGRESS... COMPROMISED...
-
+ ПРОГРЕСС... НАРУШЕН...
++++
  I AM FINE... WORRY...NOT...
-
+ Я В ПОРЯДКЕ... НЕ...
+ПЕРЕЖИВАЙ...
++++
  I AM...PAINED... I AM...PAINED...
-
+ БОЛЬНО... МНЕ... БОЛЬНО...
++++
 " SUSTAINED...SOME DAMAGE...
 SUSTAINED...SOME DAMAGE..."
-
+ ПОЛУЧАЮ... УРОН...
+ПОЛУЧАЮ... УРОН...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__189
-
++++
 " It appears that I have sustained
 some damage..."
-
+ Похоже, я получаю некоторый
+урон...
++++
 " You didn't seriously imagine that
 I would be impeded by this?"
-
+ Ты же не думаешь, что меня
+так легко сломить?
++++
 " My wound is merely superficial.
 There is no need to fear."
-
+ Моя рана почти незначительна.
+Не нужно бояться.
++++
 " I will be fine as long as my
 damage stays this minimal."
-
+ Пока мне нанесли так мало
+вреда, я буду в порядке.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__194
-
++++
  It's now a tad unfriendly here!
-
+ Здесь как-то недружелюбно!
++++
 " Oh no! Oh no! My health has
 declined!"
-
+ О, нет! О, нет! Моё здоровье
+пошатнулось!
++++
 " Oh no! Oh no! I've suffered
 damage!"
-
+ О, нет! О, нет! Мне нанесли
+вред!
++++
 " Our journey might be spoiled. в™Є
 But I remain game! в™Є"
-
+ Наше приключение может быть
+омрачили, но я всё ещё в игре! ♪
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__199
-
++++
  It's gotten even tougher now.
-
+ Становится всё труднее.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__201
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__202
@@ -15774,37 +16888,35 @@ But I remain game! в™Є"
 [M:D1]TALK_MESSAGE_HALF_LIFE__203
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__204
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__208
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__209
-
++++
  It's become a bit difficult...
+ Ситуация осложняется...
++++
 
  
-
- 
-
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__213
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__214
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__218
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__219
-
++++
  
 
  
@@ -15814,203 +16926,309 @@ But I remain game! в™Є"
  
 
  
-
++++
 " I was caught by surprise...
 But I'm still OK, so don't worry."
-
+ Меня застали врасплох...
+Но не переживай, я в порядке.
++++
 " Sorry...
 Even though I'm supposed to be the guide,
 it seems I've been holding you back..."
-
+ Прости...
+Хоть я и сопровождаю тебя, но, похоже,
+я тебя задерживаю...
++++
  I-I'm fine.
-
+ Я-я в порядке.
++++
 " I guess it's been a while since I
 last climbed... I'm not used to this."
-
+ Сколько времени прошло с
+момента моего прошлого восхождения...
+К этому трудно привыкнуть.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__229
-
++++
  ...It's getting more difficult...
-
+ ...Становится всё труднее...
++++
 " Phew...hah...
 I'm OK..."
-
+ Фух... ха...
+Я в порядке...
++++
 " I'm all right...
 I can continue."
-
+ Я в порядке...
+Я могу идти дальше.
++++
  Thanks for worrying about me...
-
+ Спасибо, что переживаешь за
+меня...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__234
-
++++
  It's not over yet! I'm fine!
-
+ Это ещё не конец! Я в
+порядке!
++++
  We've got a long way to go.
-
+ Нам ещё долго идти.
++++
 " It's a bit difficult...but I can
 keep up!"
-
+ Это немного непросто... но я
+могу идти дальше!
++++
 " This is nothing.
 You know I can do this!"
-
+ Это пустяк.
+Ты знаешь, что я справлюсь!
++++
 " It will take more than this to
 slow me down."
-
+ Нужно постараться, чтобы
+меня замедлить.
++++
  It's a bit difficult...
-
+ Это не так то просто...
++++
 " Hey, heal me.
 Lots. Bunches. Come on!"
-
+ Слушай, подлечи меня.
+Побольше. Посильнее. Ну-же!
++++
  I'd be happy if you healed me.
-
+ Будет неплохо, если ты
+меня вылечишь.
++++
 " Hey! Quit smiling like that
 and heal me!"
-
+ Эй! Хватит так улыбаться,
+вылечи меня!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__244
-
++++
 " Ow...
 This hurts a bit..."
-
+ Ох...
+Мне немного больно...
++++
  I'd like it if you healed me a bit.
-
+ Неплохо будет меня немного
+подлечить.
++++
  It kind of hurts...
-
+ Мне слегка больно...
++++
  Can you heal me? Please...
-
+ Можешь меня вылечить?
+Прошу...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__249
-
++++
  It's getting a little difficult...
-
+ Ситуация всё осложняется...
++++
  I'm fine. Let's keep going.
-
+ Я в порядке. Идём дальше.
++++
  I'm fine. Really.
-
+ Я в порядке. Правда.
++++
 " I'm fine. I haven't taken too
 much damage, really."
-
+ Я в порядке. Мне не сильно
+навредили, правда.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__254
-
++++
 " Uh-oh! I just realized I'm getting
 worn down..."
-
+ Ой-ёй! Мне только что стало
+ясно, что у меня кончаются силы...
++++
 " I'm fine! Don't you know how
 tough I am?"
-
+ Я в порядке! Ты не знаешь,
+сколько во мне силы?
++++
 " This amount of damage is
 nothing, really."
-
+ Столько урона, на самом
+деле, это сущий пустяк.
++++
  It's not over! It's just beginning!
-
+ Это ещё не конец! Это только
+начало!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__259
-
++++
  Ugh... Getting a bit difficult...
-
+ Ух...
+Становится трудновато...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__261
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__262
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__263
-
 [M:D1]TALK_MESSAGE_HALF_LIFE__264
-
++++
  I'm a little tired, but that's OK.
-
+ Я устаю, но всё в порядке.
++++
 " I'm fine. It's nothing to worry
 about."
-
+ Я в порядке. Переживать не
+о чем.
++++
 " It's a bit difficult...
 But I'm fine!"
-
+ Это несколько непросто...
+Но я справлюсь!
++++
  I can take a little damage!
-
+ Я могу выдержать немного
+вреда!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__269
-
++++
  Ugh... Getting a bit difficult...
-
+ Угх... Как-то тяжеловато...
++++
 " It's no big thing, just a little
 damage."
-
+ Ничего, просто царапина.
++++
 " I bet even you can tell how
 strong I am."
-
+ Думаю, ты понимаешь, какая
+у меня сила.
++++
 " I've taken a bit of damage...
 But it's not over yet!"
-
+ Мне немного навредили...
+Но это ещё не конец!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__274
-
++++
  Ugh... Getting a bit difficult...
-
+ Угх... Как-то тяжеловато...
++++
 " It's no big thing, just a little
 damage."
-
+ Ничего, просто царапина.
++++
 " I bet even you can tell how
 strong I am."
-
+ Думаю, ты понимаешь, какая
+у меня сила.
++++
 " I've taken a bit of damage...
 But it's not over yet!"
-
+ Мне немного навредили...
+Но это ещё не конец!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__279
-
++++
  Ugh... Getting a bit difficult...
-
+ Угх... Как-то тяжеловато...
++++
 " It's no big thing, just a little
 damage."
-
+ Ничего, просто царапина.
++++
 " I bet even you can tell how
 strong I am."
-
+ Думаю, ты понимаешь, какая
+у меня сила.
++++
 " I've taken a bit of damage...
 But it's not over yet!"
-
+ Мне немного навредили...
+Но это ещё не конец!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__284
-
++++
+[M:D1]TALK_MESSAGE_HALF_LIFE__279
++++
  Ugh... Getting a bit difficult...
-
+ Угх... Как-то тяжеловато...
++++
 " It's no big thing, just a little
 damage."
-
+ Ничего, просто царапина.
++++
 " I bet even you can tell how
 strong I am."
-
+ Думаю, ты понимаешь, какая
+у меня сила.
++++
 " I've taken a bit of damage...
 But it's not over yet!"
-
+ Мне немного навредили...
+Но это ещё не конец!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__289
-
++++
+[M:D1]TALK_MESSAGE_HALF_LIFE__279
++++
  Ugh... Getting a bit difficult...
-
+ Угх... Как-то тяжеловато...
++++
 " It's no big thing, just a little
 damage."
-
-" I've taken a bit of damage...
-But it's not over yet!"
-
+ Ничего, просто царапина.
++++
 " I bet even you can tell how
 strong I am."
-
+ Думаю, ты понимаешь, какая
+у меня сила.
++++
+" I've taken a bit of damage...
+But it's not over yet!"
+ Мне немного навредили...
+Но это ещё не конец!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__294
-
++++
+[M:D1]TALK_MESSAGE_HALF_LIFE__279
++++
  Ugh... Getting a bit difficult...
-
-" I can take a little bit of damage.
-Don't worry about me."
-
-" I've taken a bit of damage...
-But it's not over yet!"
-
+ Угх... Как-то тяжеловато...
++++
+" It's no big thing, just a little
+damage."
+ Ничего, просто царапина.
++++
 " I bet even you can tell how
 strong I am."
-
-[M:D1]TALK_MESSAGE_HALF_LIFE__299
-
- Ugh... Getting a bit difficult...
-
-" I can take a little bit of damage.
-Don't worry about me."
-
+ Думаю, ты понимаешь, какая
+у меня сила.
++++
 " I've taken a bit of damage...
 But it's not over yet!"
-
+ Мне немного навредили...
+Но это ещё не конец!
++++
+[M:D1]TALK_MESSAGE_HALF_LIFE__299
++++
+ Ugh... Getting a bit difficult...
+ Угх... Как-то тяжеловато...
++++
+" I can take a little bit of damage.
+Don't worry about me."
+ Я могу выдержать и больше
+вреда. Не переживай за меня.
++++
+" I've taken a bit of damage...
+But it's not over yet!"
+ Мне немного навредили...
+Но это ещё не конец!
++++
  I'm fine. Let's keep moving.
-
+ Я в порядке. Идём дальше.
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__304
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__305
@@ -16062,9 +17280,11 @@ But it's not over yet!"
 [M:D1]TALK_MESSAGE_HALF_LIFE__328
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__329
-
++++
  I'm fine! DON'T worry about ME!
-
+ Я в порядке! НЕ переживай
+за МЕНЯ!
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__331
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__332
@@ -16072,9 +17292,10 @@ But it's not over yet!"
 [M:D1]TALK_MESSAGE_HALF_LIFE__333
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__334
-
++++
  It's becoming a bit difficult...
-
+ Ситуация осложняется...
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__336
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__337
@@ -16082,211 +17303,286 @@ But it's not over yet!"
 [M:D1]TALK_MESSAGE_HALF_LIFE__338
 
 [M:D1]TALK_MESSAGE_HALF_LIFE__339
-
++++
  It's OK. I'm fine...
-
+ Ничего. Я в порядке...
++++
 " Looks like I've been caught
 unprepared... But I'm all right."
-
+ Похоже, меня застали
+врасплох... Но я в порядке.
++++
  It's becoming a bit difficult...
-
+ Ситуация осложняется...
++++
 " Thanks for worrying about me.
 You're so sweet, [player]."
-
+ Спасибо, что беспокоишься за
+меня. Ты большой молодец, [player].
++++
 [M:D1]TALK_MESSAGE_HALF_LIFE__344
-
++++
  I'm going down for the count...
-
+ Я вот-вот потеряю сознание...
++++
 " Please help me, [player]...
 I'm about to keel over..."
-
+ Прошу, помоги, [player]...
+Я вот-вот упаду в обморок...
++++
 " Ugh... I don't want to faint in a
 place like this..."
-
+ Ух... Я не хочу потерять
+сознание в таком месте...
++++
 [M:D1]TALK_MESSAGE_PINCH__003
-
 [M:D1]TALK_MESSAGE_PINCH__004
-
++++
  Ugh... I'm in considerable pain...
-
+ Ух... Мне очень больно...
++++
  Help me, please, [player]...
-
+ Помоги, прошу, [player]...
++++
  I'm feeling faint...
-
+ Теряю сознание...
++++
 [M:D1]TALK_MESSAGE_PINCH__008
-
 [M:D1]TALK_MESSAGE_PINCH__009
-
++++
 " I can't take any more... I want
 to go home..."
-
+ Я больше так не могу... Я
+хочу домой...
++++
  Please... Please, don't leave me...
-
+ Прошу... Прошу, не оставляй
+меня...
++++
  H-h-help...
-
+ П-п-помогите...
++++
 [M:D1]TALK_MESSAGE_PINCH__013
-
 [M:D1]TALK_MESSAGE_PINCH__014
-
++++
 " I might not make it... It'll be all
 up to you then, [player]..."
-
+ Я могу не выдержать...
+Тогда, всё будет за тобой, [player]...
++++
  Urk... Help me...
-
+ Ух... Помоги мне...
++++
  Oh, blast... This might be it...
-
+ Ох, незадача... Похоже,
+это конец...
++++
 [M:D1]TALK_MESSAGE_PINCH__018
-
 [M:D1]TALK_MESSAGE_PINCH__019
-
++++
  It's gone from bad to worse...
-
+ Было плохо, а стало ещё
+хуже...
++++
  Ugh, no... Not a place like this...
-
+ Ох, нет... Только не здесь...
++++
 " Ugh... Is this to be my...final
 adventure?"
-
+ Ух... Неужели это моё...
+последнее приключение?
++++
 [M:D1]TALK_MESSAGE_PINCH__023
-
 [M:D1]TALK_MESSAGE_PINCH__024
-
++++
 " Never! I won't allow myself to
 be felled! Not in a place like this!"
-
+ Никогда! Я не позволю себя
+сразить! Не в этом месте!
++++
 " N-n-no... N-n-never... I won't
 give up...until my last breath..."
-
+ Н-н-нет... Н-н-никогда...
+Я не сдамся... до последнего вздоха...
++++
  Not...yet... No...NOT now... NO!
-
+ Ещё...нет... Нет...
+НЕ сейчас... НЕТ!
++++
 [M:D1]TALK_MESSAGE_PINCH__028
-
 [M:D1]TALK_MESSAGE_PINCH__029
-
++++
  Major...stress... Major...stress...
-
+ Сильный... стресс...
+Сильный... стресс...
++++
 " Help... Help... Please...
 Help, [player]..."
-
+ Помоги... Помоги... Прошу...
+Помоги, [player]...
++++
 " Keeping up... All I can do...
 keeping up..."
-
+ Выдержу... Смогу...
+выдержать...
++++
 [M:D1]TALK_MESSAGE_PINCH__033
-
 [M:D1]TALK_MESSAGE_PINCH__034
-
++++
  Gah! My vision is blurry!
-
+ Аа! Мое зрение помутилось!
++++
 " Gah! This shouldn't be happening!
 Not to me!"
-
+ Аа! Это не должно случиться!
+Только не со мной!
++++
 " Ugh... Gah... Go on... Go on
 without me..."
-
+ Ух... Ах... Иди... Иди без
+меня...
++++
 [M:D1]TALK_MESSAGE_PINCH__038
-
 [M:D1]TALK_MESSAGE_PINCH__039
-
++++
 " Ow-wow-ow! Why's all this pain
 coming my way?"
-
+ Ой-ей-ей! Почему мне так
+больно?
++++
  Urk... Ack... I'm badly hurt...
-
+ Ух... Ай... Сильная боль...
++++
  Ack... Erk... You gotta heal me...
-
+ Ух... Ай... Нужно лечение...
++++
 [M:D1]TALK_MESSAGE_PINCH__043
-
 [M:D1]TALK_MESSAGE_PINCH__044
-
++++
 " Oooh... [player]... I just
 can't go on..."
-
+ Ооох... [player]...
+Я больше не так могу...
++++
 " If something happens to me...
 You have to carry on..."
-
+ Если со мной что-то
+случится... Просто иди вперёд...
++++
  Help, [player]... Feel faint...
-
+ Помоги, [player]...
+Теряю сознание...
++++
 [M:D1]TALK_MESSAGE_PINCH__048
-
 [M:D1]TALK_MESSAGE_PINCH__049
-
++++
 " Ack! Ack! No way! I'm going out
 in a blaze of glory!"
-
+ Ай! Ай! Ни за что! Я погибну
+в лучах славы!
++++
 " Never! Never! I won't give up
 until the bitter end!"
-
+ Никогда! Никогда! Я не сдамся
+до самого конца!
++++
 " Ha-ha! Ack! Come on! I'll take
 it all on!"
-
+ Ха-ха! Ай! Ну-же! Я всё
+выдержу!
++++
 [M:D1]TALK_MESSAGE_PINCH__053
-
 [M:D1]TALK_MESSAGE_PINCH__054
-
++++
  Uh-uh-yup...I'm...almost done...
-
+ Ох-ох-хо... Я...почти всё...
++++
 " Uh-uh-yup...not doing well...
 Heal me, will you...?"
-
+ Ох-ох-хо... нехорошо...
+Подлечишь меня, ладно...?
++++
 " Just...just wish I could make it
 back home..."
-
+ Только... лишь бы мы смогли
+вернуться домой...
++++
 [M:D1]TALK_MESSAGE_PINCH__058
-
 [M:D1]TALK_MESSAGE_PINCH__059
-
++++
  Gotta have guts... Ugh...
-
+ Нужно крепиться... Ух...
++++
 " You go, [player]... Forget
 about me..."
-
+ Иди, [player]... Забудь
+обо мне...
++++
  Keep...fighting...until the END...!
-
+ Просто...дерись...до КОНЦА!
++++
 [M:D1]TALK_MESSAGE_PINCH__063
-
 [M:D1]TALK_MESSAGE_PINCH__064
-
++++
  I'm pretty run down...
-
+ Что-то меня вымотало...
++++
 " Now if things get much worse,
 [player], you just go on without me..."
-
+ Если дело станет плохо,
+[player], иди без меня...
++++
 " Gasp... Gasp... I'm not...giving up
 until the end..."
-
+ Ух... Ух... Я не... сдамся
+до конца...
++++
 [M:D1]TALK_MESSAGE_PINCH__068
-
 [M:D1]TALK_MESSAGE_PINCH__069
-
++++
  Yeah...yeah...I'm beat up bad...
-
+ Да...да...Меня сильно
+побили...
++++
 " This lousy place...won't be the
 last place I ever see..."
-
+ Это чудное место...не будет
+последним, что увидят мои глаза...
++++
 " Ha! No! You're not seriously
 worried about...me...? What a buddy..."
-
+ Ха! Нет! Ты не на самом деле
+за...меня...переживаешь? Дружище...
++++
 [M:D1]TALK_MESSAGE_PINCH__073
-
 [M:D1]TALK_MESSAGE_PINCH__074
-
++++
  Ooooh... Don't let me slow you...
-
+ Оооох... Не позволяй мне
+тебя замедлять...
++++
  I'm...just fine...
-
+ Я... в порядке...
++++
  Oh, [player]...
-
+ Ох, [player]...
++++
 [M:D1]TALK_MESSAGE_PINCH__078
-
 [M:D1]TALK_MESSAGE_PINCH__079
-
++++
  Bah...it's too much...
-
+ Ах... это уже слишком...
++++
 " Heal me. You need to heal me.
 Please, [player]..."
-
+ Вылечи меня. Тебе надо меня
+вылечить. Прошу, [player]...
++++
 " Keeping... Keeping... Just keeping
 up is all...I can manage..."
-
+ Держаться... Держаться...
+Просто держаться...Всё что нужно...
++++
 [M:D1]TALK_MESSAGE_PINCH__083
 
 [M:D1]TALK_MESSAGE_PINCH__084
@@ -16320,9 +17616,10 @@ up is all...I can manage..."
 [M:D1]TALK_MESSAGE_PINCH__098
 
 [M:D1]TALK_MESSAGE_PINCH__099
-
++++
  I can't talk now!
-
+ Не могу разговаривать!
++++
 [M:D1]TALK_MESSAGE_PINCH__101
 
 [M:D1]TALK_MESSAGE_PINCH__102
@@ -16330,128 +17627,208 @@ up is all...I can manage..."
 [M:D1]TALK_MESSAGE_PINCH__103
 
 [M:D1]TALK_MESSAGE_PINCH__104
-
++++
 " Ugh... I can't take any more...
 Help..."
-
+ Ух... Я больше не вынесу...
+Помогите...
++++
 " I'm about to pass out... I have to
 heal...quick..."
-
+ Я сейчас потеряю сознание...
+Мне надо вылечиться... быстрее...
++++
 " I've had it... Please help me,
 [player]..."
-
+ Мне досталось... Пожалуйста,
+помоги мне, [player]...
++++
 " D-d-damage too high...
 Help, [player]..."
-
+ С-с-слишком много вреда...
+Помоги, [player]...
++++
 " Help... I feel faint... Help...
 [player]..."
-
+ Помоги... Теряю сознание...
+Помоги... [player]...
++++
 " Ugh... This is all I can take...
 Help..."
-
+ Ух... Это все, что я могу
+выдержать... Помоги...
++++
 " I'm about to drop... I need to
 be healed right now..."
-
+ Я сейчас свалюсь... Мне
+нужно подлечиться...
++++
 " I can't...keep going...
 [player], help me..."
-
+ Я не... могу больше...
+[player], помоги мне...
++++
 " The d-damage is... Help...
 [player]..."
-
+ С-столько вреда... Помоги...
+[player]...
++++
 " H-h-help me... I'm going to faint,
 [player]..."
-
+ П-п-помоги мне... Я сейчас
+потеряю сознание, [player]...
++++
 " No...no...no more, please...
 Please help me..."
-
+ Нет...нет...прошу, не надо...
+Помогите мне...
++++
 " I'm on the verge of collapse...
 I have to get healed now..."
-
+ Я на грани обморока...
+Мне нужно лечение...
++++
 " No more, please... [player],
 help me..."
-
+ Не надо, пожалуйста...
+[player], помоги мне...
++++
 " The d-damage is...
 [player], please help..."
-
+ Больно...
+[player], прошу, помоги мне...
++++
 " Help, help... I'm going to pass
 out..."
-
+ Помоги, помоги... Я сейчас
+упаду в обморок...
++++
 " The wound goes deep... I need
 this healed quickly..."
-
+ Рана глубокая... Надо быстро
+её вылечить...
++++
 " Gah! It's taking all my effort
 just to stay upright..."
-
+ Гах! Я трачу слишком много
+усилий, чтобы прямо стоять...
++++
  Brutal! Just brutal...
-
+ Жестоко! Просто жестоко...
++++
  It's taking its toll...on...me...
-
+ Я... сейчас...поплачусь...
++++
  I'm...about to fall... Ugh...
-
+ Я...сейчас свалюсь... Ух...
++++
 " Can't take...any more... Heal me
 immediately..."
-
+ Я больше...не выдержу...
+Скорее, вылечи меня...
++++
  Dizzy... If I'm not healed soon...
-
+ Голова кружится... Если меня
+не вылечить...
++++
 " Don't let me fall... Not here, of
 all places... Hurry, heal me..."
-
+ Не позволяй мне упасть в
+обморок... Только не здесь... Прошу,
+вылечи меня...
++++
 " Harsh...much too harsh... Is this
 where I make my last stand...?"
-
+ Ужасно...слишком ужасно...
+Неужели здесь я встречу свой конец...?
++++
 " Hey...don't just stand there...
 Heal me, please..."
-
+ Эй...не стой безучастно...
+Вылечи меня, пожалуйста...
++++
  Yup yup...I'm in a pile of pain!
-
+ Да да... мне очень больно!
++++
 " Yup yup... Hurting bad... Sure
 need some healing..."
-
+ Да да... Очень больно...
+Не помешает лечение...
++++
 " Yup yup...can only tag along...
 Hurts too much to do any more'n that..."
-
+ Да да...только могу быть
+рядом... Боль не позволяет сделать
+больше...
++++
 " Yup yup...too much damage...
 Can't continue..."
-
+ Да да...столько вреда...
+Не могу идти дальше...
++++
 " Yup yup...sorry... Pains me
 even to walk now..."
-
+ Да да...прости... Так болит,
+что идти трудно...
++++
  Can't...can't...I can't...
-
+ Не могу...не могу...не могу.
++++
  Oh, it h-h-hurts...
-
+ Ох, б-б-больно...
++++
  Awful...awful...awful!
-
+ Ужасно...ужасно...ужасно!
++++
  F-f-fainting...
-
+ Т-т-теряю сознание...
++++
  No...more...no...
-
+ Не...надо...нет...
++++
 " Ugh! It's really bad! I can't
 keep up..."
-
+ Ух! Всё плохо! Не могу
+продолжать...
++++
  I'm in a world of hurt... Help...
-
+ Меня объяла боль... Помоги...
++++
  Please, help... Damage runs deep.
-
+ Прошу, помоги... Раны глубоки.
++++
  Oof! I'm ruined! Heal me, please!
-
+ Ууф! Мне навредили! Прошу,
+вылечи меня!
++++
  How much more...can I take...?
-
+ Сколько ещё...я выдержу...?
++++
  Terribly bad... Just terrible...
-
+ Всё ужасно плохо... Просто
+ужасно...
++++
 " My spirit is nearly broken...
 Please restore me..."
-
+ Меня почти сломили...
+Прошу, излечи меня...
++++
  I can b-b-barely stay upright...
-
+ Я е-е-едва стою на ногах...
++++
 " I just...won't be able to continue
 for much...longer..."
-
+ Я... скоро не смогу идти...
+дальше...
++++
 " This is...certainly...the end for
 me... Do help!"
-
+ Это... точно... конец...
+Помоги мне!
++++
  No... I feel faint...
-
+ Нет... Я теряю сознание...
++++
 [M:D1]TALK_MESSAGE_PINCH__151
 
 [M:D1]TALK_MESSAGE_PINCH__152
@@ -16459,9 +17836,10 @@ me... Do help!"
 [M:D1]TALK_MESSAGE_PINCH__153
 
 [M:D1]TALK_MESSAGE_PINCH__154
-
++++
  No... I feel faint...
-
+ Нет... Я теряю сознание...
++++
 [M:D1]TALK_MESSAGE_PINCH__156
 
 [M:D1]TALK_MESSAGE_PINCH__157
@@ -16469,105 +17847,161 @@ me... Do help!"
 [M:D1]TALK_MESSAGE_PINCH__158
 
 [M:D1]TALK_MESSAGE_PINCH__159
-
++++
  Ha... Ha... It h-h-hurts...
-
+ Ха... ха... Как б-б-больно...
++++
  I've been taken down...
-
+ Меня уничтожили...
++++
  It's too hard to go on... Help...
-
+ Как трудно идти дальше...
+Помоги...
++++
  Be so kind as...to heal me...
-
+ Будь добрее и... вылечи
+меня...
++++
 [M:D1]TALK_MESSAGE_PINCH__164
-
++++
  N-n-no... My health...
-
+ Н-н-нет... Моё здоровье...
++++
  Took...too...much damage...
-
+ Слишком...много...вреда...
++++
 " I'll drop out if I'm not healed...
 Someone..."
-
+ Я свалюсь с ног, если меня
+не вылечит... Кто-нибудь...
++++
  I... I'm going to fall... Hurts...
-
+ Я... Я свалюсь с ног...
+Больно...
++++
 [M:D1]TALK_MESSAGE_PINCH__169
-
++++
  N-n-no! My health...
-
+ Н-н-нет... Моё здоровье...
++++
  I'm fainting... Someone...
-
+ Я теряю сознание...
+Кто-нибудь...
++++
 " I took too much damage...
 Hurry, I need to heal..."
-
+ Мне нанесли слишком много
+вреда... Скорее, нужно лечение...
++++
  N-n-no more... I'm going down...
-
+ Н-н-не надо больше... Теряю
+сознание...
++++
 [M:D1]TALK_MESSAGE_PINCH__174
-
++++
  NOT GOOD AT ALL...
-
+ СОВСЕМ НЕХОРОШО...
++++
  I WILL NOT...FAIL HERE!
-
+ Я НЕ... ОТСТУПЛЮСЬ!
++++
  I WILL N-N-NOT FALL TO THIS!
-
+ Я Н-Н-НЕ ПРОИГРАЮ!
++++
 " GRIEVOUS DAMAGE! BUT I
 REFUSE TO FALL!"
-
+ УЖАСНЫЙ ВРЕД! НО Я
+НЕ ПРОИГРАЮ!
++++
 [M:D1]TALK_MESSAGE_PINCH__179
-
++++
 " HOW DID I SUSTAIN SO MUCH
 DAMAGE?!"
-
+ КАК Я ПЕРЕЖИЛ СТОЛЬКО
+ВРЕДА?!
++++
 " IT PAINS ME...BUT I CAN TAKE
 MORE!"
-
+ МНЕ БОЛЬНО... НО Я МОГУ
+ВЫДЕРЖАТЬ И БОЛЬШЕЕ!
++++
 " FALL TO...THIS LEVEL OF
 DAMAGE? NO!"
-
+ ПРОИГРАТЬ ИЗ-ЗА... ТАКОГО
+ВРЕДА? НЕТ!
++++
 " I HAVE SUFFERED... MASSIVE
 DAMAGE... BUT I WILL NEVER FALL!"
-
+ Я СТРАДАЮ... СИЛЬНЫЙ
+ВРЕД... НО Я НИКОГДА НЕ ПРОИГРАЮ!
++++
 [M:D1]TALK_MESSAGE_PINCH__184
-
++++
 " N-N-NO... BARELY... BARELY...
 CAN STAND..."
-
+ Н-Н-НЕТ... ЕДВА... ЕДВА...
+ДЕРЖУСЬ...
++++
  I PLEAD... HEAL ME... I PLEAD...
-
+ Я МОЛЮ... ВЫЛЕЧИ МЕНЯ...
+Я МОЛЮ...
++++
 " A SAVAGE PATH... A SAVAGE
 PATH..."
-
+ ЖЕСТОКИЙ ПУТЬ...
+ЖЕСТОКИЙ ПУТЬ...
++++
 " IS THIS HOW... IS THIS HOW...
 I FALL...?"
-
+ ВОТ КАК... ВОТ КАК...
+Я ВСТРЕЧУ СВОЙ КОНЕЦ...?
++++
 [M:D1]TALK_MESSAGE_PINCH__189
-
++++
 " Gah! I've suffered more damage
 than I bargained for..."
-
+ Ах! Мне нанесли куда больше
+вреда, чем предполагалось...
++++
 " I suffer...but there must be
 something that can be done..."
-
+ Я страдаю...но нужно сделать
+ещё кое-что...
++++
 " My health flickers and wanes...
 If left unhealed..."
-
+ Моя жизнь угаснет... Если
+меня не вылечить...
++++
 " My damage is not slight... Have I
 underestimated the challenge...?"
-
+ Мне неслабо навредили...
+Неужели я недооцениваю испытание...?
++++
 [M:D1]TALK_MESSAGE_PINCH__194
-
++++
  Things are looking grim...
-
+ Дела обстоят мрачно...
 " I feel awfully faint... Please
 help me..."
-
++++
+ Чувствую ужасную слабость...
+Прошу, помоги мне...
++++
  I'm at my limit...
-
+ Я на пределе...
++++
 " I am all but collapsing on my
 feet... Someone heal me..."
-
+ Я почти валюсь с ног...
+Кто-нибудь, излечите меня...
++++
 [M:D1]TALK_MESSAGE_PINCH__199
-
++++
  I might be unable to go on...
-
+ Я, возможно, не смогу
+идти дальше...
++++
 [M:D1]TALK_MESSAGE_PINCH__201
 
 [M:D1]TALK_MESSAGE_PINCH__202
@@ -16575,37 +18009,34 @@ feet... Someone heal me..."
 [M:D1]TALK_MESSAGE_PINCH__203
 
 [M:D1]TALK_MESSAGE_PINCH__204
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_PINCH__208
-
 [M:D1]TALK_MESSAGE_PINCH__209
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_PINCH__213
-
 [M:D1]TALK_MESSAGE_PINCH__214
-
++++
  
 
  
 
  
-
++++
 [M:D1]TALK_MESSAGE_PINCH__218
-
 [M:D1]TALK_MESSAGE_PINCH__219
-
++++
  
 
  
@@ -16615,97 +18046,147 @@ feet... Someone heal me..."
  
 
  
-
++++
 " .........
 It's getting too rough..."
-
+ .........
+Становится слишком трудно...
++++
 " S-sorry...
 It looks like I can't be much of a guide..."
-
+ П-прости...
+Похоже, гид из меня так себе...
++++
 " Whew...
 I'm really sorry..."
-
+ Ух...
+Мне очень жаль...
++++
 " Whew...
 I'm sorry...I've become such a burden..."
-
+ Ух...
+Мне так жаль... Я такая обуза...
++++
 [M:D1]TALK_MESSAGE_PINCH__229
-
++++
 " Ugh... I...
 Can't go on..."
-
+ Ух... Я...
+Не могу больше...
++++
  I think...I'm going to faint...
-
+ Кажется... Я теряю сознание...
++++
  ...I think I've hit my limit...
-
+ ...Похоже, я на пределе...
++++
  H-help me, please...
-
+ П-помоги мне, пожалуйста...
++++
 [M:D1]TALK_MESSAGE_PINCH__234
-
++++
  Ugh... I can't do any more...
-
+ Ух... Я так больше не могу...
++++
  H-help me...
-
+ П-помогите мне...
++++
 " Th-this...
 I think...this is my limit..."
-
+ Э-это...
+Кажется...мой предел...
++++
 " Not yet...I thought. But really,
 I think I'm done..."
-
+ Ещё не всё...Кажется. Но по
+правде, похоже, мне конец...
++++
 " It...it's no good...
 I'm done..."
-
+ Это... нехорошо...
+Мне конец...
++++
 " Ugh... I think...
 I think I'm going to cry..."
-
+ Ух... Кажется...
+Кажется, я сейчас заплачу...
++++
 " Please...
 Heal me..."
-
+ Прошу...
+Вылечи меня...
++++
  It...it hurts...
-
+ Мне... мне больно...
++++
  I...I can't do any...any more...
-
+ Я... Я так больше не...
+не могу...
++++
 [M:D1]TALK_MESSAGE_PINCH__244
-
++++
 " Ugh...I probably...
 shouldn't have come here..."
-
+ Ух... Мне наверное...
+Не стоило сюда приходить...
++++
  I'm...I'm scared...
-
+ Мне... Мне страшно...
++++
 " It hurts...
 Help..."
-
+ Больно...
+Помоги...
++++
  I think...I'm going to faint...
-
+ Кажется... Я теряю
+сознание...
++++
 [M:D1]TALK_MESSAGE_PINCH__249
-
++++
 " Yep...
 That was definitely too much damage..."
-
+ Да...
+Вреда определённо многовато...
++++
 " Help me...please...
 [CS:Y]Lopunny[CR]..."
-
+ Помоги мне...прошу...
+[CS:Y]Лопанни[CR]...
++++
  I'm...I'm done...
-
+ Мне... Мне конец...
++++
 " Hurry...
 Heal me before I..."
-
+ Скорее...
+Вылечи меня, пока я не...
++++
 [M:D1]TALK_MESSAGE_PINCH__254
-
++++
  I...can't...
-
+ Я...не могу...
++++
 " Ahh... I've used up all my
 strength... There's nothing left..."
-
+ Аай... Мои силы истощились...
+Ничего не осталось...
++++
 " I'm feeling a bit dizzy...
 I think I've hit my limit..."
-
+ Голова слегка кружится...
+Кажется, это мой предел...
++++
 " Help me, [CS:Y]Lopunny[CR]...
 Hurry up and heal me..."
-
+ Помоги мне, [CS:Y]Лопанни[CR]...
+Поторопись и вылечи меня...
++++
 [M:D1]TALK_MESSAGE_PINCH__259
-
++++
  This...isn't an injury at all!
-
+ Это... и вовсе не ранение!
++++
 [M:D1]TALK_MESSAGE_PINCH__261
 
 [M:D1]TALK_MESSAGE_PINCH__262
@@ -16713,96 +18194,136 @@ Hurry up and heal me..."
 [M:D1]TALK_MESSAGE_PINCH__263
 
 [M:D1]TALK_MESSAGE_PINCH__264
-
++++
 " Ugh... It's too difficult...
 I can't go on..."
-
+ Ух... Слишком тяжело...
+Я не могу идти дальше...
++++
 " I can't...
 Please, heal me..."
-
+ Не могу...
+Прошу, вылечи меня...
++++
 " [CS:Y]Gro-Grovyle[CR]...
 I..."
-
+ [CS:Y]Гро-Гровайл[CR]...
+Я...
++++
 " [CS:Y]Grovyle[CR]...
 Help..."
-
+ [CS:Y]Гровайл[CR]...
+Помоги мне...
++++
 [M:D1]TALK_MESSAGE_PINCH__269
-
++++
  This...isn't an injury at all!
-
+ Это... даже не ранение!
++++
  I...I can't faint! I am invincible!
-
+ Я...Я не могу потерять
+сознание! Я неуязвим!
++++
 " Ugh... When you see I'm injured,
 what do you think, [CS:Y]Grovyle[CR]?"
-
+ Ух... Когда ты видишь мои
+раны, о чём ты думаешь, [CS:Y]Гровайл[CR]?
++++
  Th-the damage is...considerable...
-
+ В-вреда... достаточно...
++++
 [M:D1]TALK_MESSAGE_PINCH__274
-
++++
  This...isn't an injury at all!
-
+ Это... даже не ранение!
++++
  I...I can't faint! I am invincible!
-
+ Я...Я не могу потерять
+сознание! Я неуязвим!
++++
 " Ugh... When you see I'm injured,
 what do you think, [CS:Y]Grovyle[CR]?"
-
+ Ух... Когда ты видишь мои
+раны, о чём ты думаешь, [CS:Y]Гровайл[CR]?
++++
 " I can't faint. Not here.
 I have to get to Master [CS:N]Dialga[CR]..."
-
+ Я не могу потерять сознание.
+Не здесь. Мне нужно добраться до
+Владыки [CS:N]Диалги[CR]...
++++
 [M:D1]TALK_MESSAGE_PINCH__279
-
++++
  This...isn't an injury at all!
-
+ Это... даже не ранение!
++++
  A-am I...fainting...?
-
+ Я ч-что... теряю сознание...?
++++
  Th-the damage is...considerable...
-
+ В-вреда... достаточно...
++++
 [M:D1]TALK_MESSAGE_PINCH__283
-
 [M:D1]TALK_MESSAGE_PINCH__284
-
++++
  This...isn't an injury at all!
-
+ Это... даже не ранение!
++++
  A-am I...fainting...?
-
+ Я ч-что... теряю сознание...?
++++
  Th-the damage is...considerable...
-
+ В-вреда... достаточно...
++++
 [M:D1]TALK_MESSAGE_PINCH__288
-
 [M:D1]TALK_MESSAGE_PINCH__289
-
++++
  This...isn't an injury at all!
-
+ Это... даже не ранение!
++++
  A-am I...fainting...?
-
+ Я ч-что... теряю сознание...?
++++
  Th-the damage is...considerable...
-
+ В-вреда... достаточно...
++++
 [M:D1]TALK_MESSAGE_PINCH__293
-
 [M:D1]TALK_MESSAGE_PINCH__294
-
++++
  This...isn't an injury at all!
-
+ Это... даже не ранение!
++++
 " Don't worry about me! I am
 invincible!"
-
+ Не переживай за меня! Меня
+не одолеть!
++++
  Th-the damage is...considerable...
-
+ В-вреда... достаточно...
++++
  A-am I...fainting...?
-
+ Я ч-что... теряю сознание...?
++++
 [M:D1]TALK_MESSAGE_PINCH__299
-
++++
 " [CS:Y]Grovyle[CR]... Pl-please...
 Heal me..."
-
+ [CS:Y]Гровайл[CR]... П-прошу...
+Излечи меня...
++++
  Th-the damage is...considerable...
-
+ В-вреда... достаточно...
++++
 " I...I'm never giving up!
 I will fight to the end!"
-
+ Я... Я никогда не сдамся!
+Я буду сражаться до конца!
++++
 " I can't have come all this way
 just to faint here!"
-
+ Я здесь не для того, чтобы
+так просто потерять сознание!
++++
 [M:D1]TALK_MESSAGE_PINCH__304
 
 [M:D1]TALK_MESSAGE_PINCH__305
@@ -16854,9 +18375,10 @@ just to faint here!"
 [M:D1]TALK_MESSAGE_PINCH__328
 
 [M:D1]TALK_MESSAGE_PINCH__329
-
++++
  TH-THAT'S it...
-
+ В-ВОТ И всё...
++++
 [M:D1]TALK_MESSAGE_PINCH__331
 
 [M:D1]TALK_MESSAGE_PINCH__332
@@ -16864,9 +18386,10 @@ just to faint here!"
 [M:D1]TALK_MESSAGE_PINCH__333
 
 [M:D1]TALK_MESSAGE_PINCH__334
-
++++
  I think...I'm done...
-
+ Кажется...Мне конец...
++++
 [M:D1]TALK_MESSAGE_PINCH__336
 
 [M:D1]TALK_MESSAGE_PINCH__337
@@ -16874,207 +18397,272 @@ just to faint here!"
 [M:D1]TALK_MESSAGE_PINCH__338
 
 [M:D1]TALK_MESSAGE_PINCH__339
-
++++
 " .........
 It's...getting pretty...difficult..."
-
+ .........
+ Становится...очень...нелегко...
++++
 " Whew...
 I'm sorry...I've become such a burden..."
-
+ Ух...
+Мне жаль... Я такая обуза...
++++
 " I'm sorry... If it's not too much
 trouble...could you please heal me...?"
-
+ Извини... Если нетрудно...
+Можешь ли ты вылечить меня...?
++++
 [M:D1]TALK_MESSAGE_PINCH__343
-
 [M:D1]TALK_MESSAGE_PINCH__344
-
+---
  Let's do our best!
-
+ Сделаем всё возможное!
++++
  Let's help each other do well!
-
+ Давай будем друг-другу
+помогать!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " I'm happy to be exploring with
 you, [player]."
-
+ Хорошо исследовать вместе с
+тобой, [player].
++++
 " I'll show you how I can be
 useful, [player]!"
-
+ Я покажу тебе, насколько я
+могу быть полезен, [player]!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " It's a bit scary, but I'll do my
 best to keep up, [player]!"
-
+ Это немного страшно, но я
+сделаю всё, чтобы помочь, [player]!
++++
  Please don't get us in too deep!
-
+ Пожалуйста, не заводи нас
+слишком далеко!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  We need to always be ready...
-
+ Нам нужно быть наготове...
++++
 " You know, we should always see
 with more than just our eyes..."
-
+ Знаешь, мы все должны ощущать
+больше, чем видят наши глаза...
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Some wisdom, eh? Haste makes
 waste, but persistence always pays..."
-
+ Что нибудь умное сказать, а?
+Поспешишь - Покемонов насмешишь, но
+кто не рискует, тот не ест ягоды...
++++
 " Wisdom, eh? Fools rush in, but
 winners walk and wonder..."
-
+ Мудрую мысль, а? Дураки
+спешат туда, куда умный ступить
+боится...
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Anywhere you go, I will follow,
 [player]!"
-
+ С тобой, хоть на край света,
+[player]!
++++
 " Impossible? [kind:1] doesn't
 know the meaning of ""impossible""!"
-
+ Невозможно? [kind:1] не
+знает, что значит "невозможно"!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Thrilling... Exploring...
-
+ Захватывающее...
+Приключение...
++++
  Treasure... Find it... Find it...
-
+ Сокровища... Найти их...
+Найти их...
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Got your back, [player]!
-
+ Я приглядываю за твоей
+спиной, [player]!
++++
  Let me take on the hard stuff!
-
+ Позволь мне взять на себя
+задачи потруднее!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Let's get the exploration in gear!
-
+ Продолжим нашу экспедицию!
++++
 " This kind of exploring isn't so
 bad...once in a while!"
-
+ Эта экспедиция не такая уж
+и безнадёжная... но только эта!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  It's nice to go exploring! в™Є
-
+ Приятно быть в экспедиции! ♪
++++
 " Where next? I'll go anywhere
 with you, [player]! в™Є"
-
+ Куда теперь? С тобой, я
+пойду куда угодно, [player]! ♪
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Now don't hold me back!
-
+ Только не сдерживай меня!
++++
  Let's keep pushing on! C'mon!
-
+ Продолжим натиск! Ну-же!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Say, I've meant to ask! Um...
 I hope I'm being helpful?"
-
+ Всё хочу спросить! Эм...
+Надеюсь, я для тебя не обуза?
++++
  I'll explore the very best I can!
-
+ Я буду исследовать так
+хорошо, как смогу!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  You'd better BET that I'll hustle!
-
+ Я то уж ТОЧНО поспешу!
++++
  I'm just RARING to keep going!
-
+ Я просто РВУСЬ в битву!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " No need to worry, my
 dear [player]!"
-
+ Не нужно волноваться,
+[player]!
++++
 " It doesn't matter how often
 you've explored before. It's always beneficial!"
-
+ Не важно, в скольких
+экспедициях тебе удалось побывать.
+Это всегда окупается!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Let me watch your back, won't
 you, [player]?"
-
+ Позволь мне приглядывать за
+тобой, [player]?
++++
 " Where are we going next? Gotta
 make up your mind!"
-
+ Куда мы пойдём дальше? Нужно
+решиться!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Study your enemy before making
 your move, OK?"
-
+ Прежде чем что-либо делать,
+изучи своего врага, хорошо? 
++++
  Proceed sure and steady, OK?
-
+ Идём медленно, но верно, да?
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Exploring is such fun!
-
+ Исследовать так весело!
++++
 " May I suggest sweeping the
 floor for treasure from corner to corner?"
 
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__085
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__086
@@ -17104,9 +18692,10 @@ floor for treasure from corner to corner?"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__098
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__099
-
++++
  Can't talk now!
-
+ Не могу говорить!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__101
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__102
@@ -17114,106 +18703,134 @@ floor for treasure from corner to corner?"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__103
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__104
-
++++
 " There's no telling what's ahead.
 We'd better go carefully."
-
+ Трудно сказать, что нас ждёт.
+Нужно быть осторожнее.
++++
  Let's move on!
-
+ Нужно идти дальше!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Who knows what we might face!
 Let's be careful!"
-
+ Кто знает, с чем мы будем
+иметь дело! Будем осторожнее!
++++
  We should speed it up!
-
+ Нам нужно поторопиться!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " There's no telling what's in
 store! Let's go carefully!"
-
+ Трудно сказать, что нас ждёт!
+Будем осторожнее!
++++
  We should get a move on!
-
+ Нам нужно двигаться дальше!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Hurry! There's no time to waste!
-
+ Скорее! Нельзя терять
+времени!
++++
  Watch out for [kind:0]!
-
+ [kind:0] опасный враг!
+Будем настороже!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Now don't make any mistakes
 that will set us behind!"
-
+ Попытайся не совершать
+ошибок, которые нас подведут!
++++
  Now don't be complacent!
-
+ Не останавливайся на
+достигнутом!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  We're gonna hit it hard! Yup!
-
+ Мы примем это всерьёз! Да!
++++
  Don't you worry about me none!
-
+ Даже не переживай за меня!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Yay for us, [player]! в™Є
-
+ Ура нам, [player]! ♪
++++
  I'll do my best! в™Є
-
+ Я сделаю всё возможное! ♪
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " Tee-hee! I'm not about to fall
 prey easily!"
-
+ Хи-хи! Я не собираюсь так
+легко становиться чей-то добычей!
++++
 " The world has decayed in this
 darkness. I simply hate it this way!"
-
+ Мир утонул в этой тьме. Я
+это так просто не оставлю!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  We must proceed with caution.
-
+ Надо идти с осторожностью.
++++
 " Let us fight complacency! And
 let us proceed gingerly!"
-
+ Сразим самоуверенность! И
+будем действовать осторожнее!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  
-
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__151
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__152
@@ -17221,9 +18838,9 @@ let us proceed gingerly!"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__153
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__154
-
++++
  
-
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__156
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__157
@@ -17231,97 +18848,122 @@ let us proceed gingerly!"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__158
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__159
-
++++
 " We must persevere,
 [player]!"
-
+ Мы должны выстоять,
+[player]!
++++
  We must tread carefully.
-
+ Мы должны идти аккуратнее.
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Let's show them!
-
+ Покажем им!
++++
 " Now don't get careless,
 [player]!"
-
+ Не теряй бдительность,
+[player]!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " I've got you covered! Don't
 worry!"
-
+ Не переживай! Я прикрою
+твою спину!
++++
  Let's keep moving, [player]!
-
+ Идём, [player]!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  WE'RE GOING, [player]!
-
+ ИДЁМ, [player]!
++++
  SHOW URGENCY!
-
+ ГОВОРИ, БЫСТРО!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " MY FULL SUPPORT IS YOURS!
 HAVE CONFIDENCE!"
-
+ Я ПОДДЕРЖУ ТЕБЯ!
+БУДЬ УВЕРЕННЕЙ!
+ +++
  NO ENEMY IS MY EQUAL!
-
+ МНЕ НИКТО НЕ РОВНЯ!
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " ASSISTANCE... WILL GIVE...
 ASSISTANCE..."
-
+ ПОМОЩЬ... ОКАЖУ...
+ПОМОЩЬ…
++++
 " MY POWER...IS YOURS...
 MY POWER...IS YOURS..."
-
+ МОЯ МОЩЬ... ТВОЯ...
+МОЯ МОЩЬ... ТВОЯ…
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
 " It concerns me not which
 enemies await us."
-
+ Меня беспокоит не то, что
+нас поджидают враги.
++++
  The darkness swells within me...
-
+ Тьма сгущается во мне...
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  Treasure! в™Є Treasure! в™Є
-
+ Сокровища! ♪ Сокровища! ♪
++++
 " What a fine love I have! в™Є
 For items of all shapes and sizes! в™Є"
-
+ Я люблю всё! ♪
+Все предметы разных форм и размеров! ♪
++++
 [M:D1]
 
 [M:D1]
 
 [M:D1]
-
++++
  I'm counting on you!
-
+ Я на тебя рассчитываю!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__201
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__202
@@ -17329,52 +18971,67 @@ For items of all shapes and sizes! в™Є"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__203
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__204
-
++++
 " There's no telling what's ahead.
 We'd better go carefully."
-
+ Трудно сказать, что нас ждёт.
+Нужно быть осторожнее.
++++
  Let's move on!
-
+ Нужно идти дальше!
++++
  Let's hang in there!
-
+ Мы обязательно справимся!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__208
-
 [M:D1]TALK_MESSAGE_GROUND_WAIT__209
-
++++
 " Who knows what we might face!
 Let's be careful!"
-
+ Кто знает, с чем мы будем
+иметь дело! Будем осторожнее!
++++
  We should speed it up!
-
+ Нам нужно поторопиться!
++++
  Let's do it! No excuses!
-
+ Мы справимся! И никаких
+отговорок!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__213
-
 [M:D1]TALK_MESSAGE_GROUND_WAIT__214
-
++++
 " There's no telling what's in
 store! Let's go carefully!"
-
+ Трудно сказать, что нас ждёт!
+Будем осторожнее!
++++
  We should get a move on!
-
+ Нам нужно двигаться дальше!
++++
  Let's keep at it!
-
+ Поднажмём!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__218
-
 [M:D1]TALK_MESSAGE_GROUND_WAIT__219
-
++++
  Hurry! There's no time to waste!
-
+ Скорее! Нельзя терять
+времени!
++++
  Watch out for [kind:0]!
-
+ [kind:0] опасный враг!
+Будем настороже!
++++
  Keep your senses sharp!
-
+ Будем держать ухо востро!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__223
-
 [M:D1]TALK_MESSAGE_GROUND_WAIT__224
-
++++
  Once you're ready, let's go!
 
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__226
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__227
@@ -17492,9 +19149,10 @@ store! Let's go carefully!"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__283
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__284
-
++++
  I'm counting on you!
-
+ Я на тебя рассчитываю!
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__286
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__287
@@ -17602,16 +19260,22 @@ store! Let's go carefully!"
 [M:D1]TALK_MESSAGE_GROUND_WAIT__338
 
 [M:D1]TALK_MESSAGE_GROUND_WAIT__339
-
++++
  Once you're ready, let's go!
-
+ Когда будем готовы, пойдем!
++++
 " What are we going to
 find here? I'm so excited!"
-
+ Что мы здесь найдём?
+Мне так интересно!
++++
  Exploring is so much fun!
-
+ Исследования - это так
+весело!
++++
  Let's find lots of treasure! в™Є
-
+ Давай найдём горы сокровищ! ♪
++++
 [M:D1]TALK_MESSAGE_GROUND_WAIT__344
 
 Nothing
@@ -91356,7 +93020,7 @@ Adventure Log
 - [CS:K]Darkrai[CR] joined the team.
 
 - [CS:K]Shaymin[CR] joined the team.
-
+---
 Square
 
 Wigglytuff's Guild
@@ -91616,7 +93280,138 @@ In the Field
 Treasure Town
 
 Treasure Town
-
++++
+Площадь
+Гильдия Виглитаффа
+Мыс Шарпедо
+[M:D1]???
+Город Сокровищ
+[M:D1]???
+[M:D1]???
+Из Начала
+Подземное Озеро
+Кристальное Озеро
+Старые Руины
+Темпоральная Башня
+Горячие Источники
+Форт
+Сияющий Источник
+Комната Сокровищ
+Пляж
+Вход у Скалистого Берега
+Вход у Горы Хорн
+Лагерь
+Вход у Паровых Пещер
+Паровые Пещеры
+Скалистые Равнины
+Зыбучая Пещера
+Кристальная Пещера
+Вход у Пещер Бездны
+Вход у Тёмного Холма
+Вход у Запечатанных Руин
+Запечатанные Руины
+Вход в Сумеречный Лес
+Вход в Сумеречный Лес
+Дебри Сумеречного Леса
+Вход у Заросшего Леса
+Вход в Пещеру у Моря
+Пещера у Моря
+Вход в Сокрытые Земли
+Сокрытые Земли
+Вход в Темпоральную Башню
+Темпоральная Башня
+Вход в Загадочный Лес
+Комната Стелы
+Комната Стелы
+Комната Стелы
+Дивное Море
+Вход в Пространственный Разлом
+Пространственный Разлом
+Тёмный Кратер
+Пещера Звёзд
+Глубины Пещеры Звёзд
+Глубины Пещеры Звёзд
+Яма Пещеры Звёзд
+Разлом Богатств
+Дно Ямы
+Вход в Бесплодную Долину
+Бесплодная Долина
+Поляна Бесплодной Долины
+Поляна Бесплодной Долины
+Вход в Тёмную Пустошь
+Вход в Темпоральную Башню
+Темпоральная Башня
+Чёрное Болото
+Вход в Пространственные Скалы
+Тёмная Ледяная Гора
+Тёмная Ледяная Гора
+Тёмная Ледяная Гора
+Вход в Лес Сосулек
+Лес Сосулек
+Лес Сосулек
+Вход Бескрайней Ледяной Горы
+Бескрайняя Ледяная Гора
+Пик Бескрайней Ледяной Горы
+Вход в Южные Джунгли
+Расселина Валунов
+Расселина Валунов
+Расселина Валунов
+Иллюзорная Комната
+Известняковая Пещера
+Известняковая Пещера
+Пещера Источников
+Пещера Источников
+Пещера Источников
+Яма Пещеры Источников
+Яма Пещеры Источников
+Деревня Шейминов
+1-ый Переход
+2-ой Переход
+3-ий Переход
+4-ый Переход
+5-ый Переход
+6-ой Переход
+7-ой Переход
+8-ой Переход
+9-ый Переход
+Вершина Небесного Пика
+Вершина Небесного Пика
+Вход в Пещеру-Расщелину
+Пещера-Расщелина
+Гильдия Виглитаффа
+Вход Гильдии
+Подуровень Гильдии 1
+Подуровень Гильдии 2
+Комната Гильдмастера
+Гильдейский Обеденный Зал
+Комната Команды
+Коридор Гильдии
+Комната Команды
+Комната Команды
+Мыс Шарпедо
+Мыс Шарпедо
+Мыс Шарпедо
+Перекрёсток
+Дорога на Пляж
+Перекрёсток
+Кафе Спинды
+Горячие Источники
+Тюремная Камера
+Прерии
+Дом Иглибаффа
+Дом Иглибаффа
+Убежище Армальдо
+Убежище Армальдо
+Остров Пелиппера
+Остров Пелиппера
+Город Сокровищ
+Город Сокровищ
+Додзё Маровака
+Запечатанная Бездна
+В Поле
+Город Сокровищ
+Город Сокровищ
+---
 Test Dungeon
 
 Beach Cave
