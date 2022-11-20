@@ -786,33 +786,34 @@ Today's "Oh My Gosh"
 Here Comes Team Charm!
 
 In the Future of Darkness
-
+---
 Normal Rank
-
 Bronze Rank
-
 Silver Rank
-
 Gold Rank
-
 Diamond Rank
-
 Super Rank
-
 Ultra Rank
-
 Hyper Rank
-
 Master Rank
-
 Master [M:S3] Rank
-
 Master [M:S3][M:S3] Rank
-
 Master [M:S3][M:S3][M:S3] Rank
-
 Guildmaster Rank
--
+Обычный Ранг
+Бронзовый Ранг
+Серебрянный Ранг
+Золотой Ранг
+Алмазный Ранг
+Супер Ранг
+Ультра Ранг
+Гипер Ранг
+Ранг Мастера
+Ранг Мастера [M:S3]
+Ранг Мастера [M:S3][M:S3]
+Ранг Мастера [M:S3][M:S3][M:S3]
+Ранг Гильдмастера
+---
 Options
 Настройки
 Touch Screen
@@ -902,22 +903,25 @@ Frame Type
 5
 
 [string0]
-
+---
 PokГ©mon that can learn this move
-
 Can Learn
-
 Can't Learn
-
+Список Покемонов, изучающих приём:
+Изучает
+Не изучает
++++
 Other
 Прочее
 "View settings and saved game data,
 send a Demo Dungeon, and more..."
-
+---
 Adventure Log
-
+Статистика Приключения
++++
 Check your career as an adventurer.
-
+Просмотреть статистику приключения.
+---
 New Game
 
 Start an entierly new adventure
@@ -927,73 +931,110 @@ Continue
 "Resume your adventure from your last
 save point."
 
+---
 Go Rescue
-
+На Спасение
++++
 "Resume your rescue mission from your
 last session."
-
+Возобновить задание по спасению с
+сохранённого места.
++++
 Delete Save Data
-
+Удалить Сохранение
++++
 "This will delete your saved game data.
 Caution: This will delete it permanently!"
-
+Удалить ваши данные сохранения.
+Внимание: Это действие необратимо!
++++
 Rename Team
-
+Переименовать Команду
++++
 Rename your exploration team.
-
+Переименовать вашу команду.
++++
 Change Windows
-
+Вид Окон
++++
 Change Window Settings
-
+Сменить отображение окон.
++++
 Revive Team
-
+Вернуть Команду
++++
 "Resume your adventure from where your team
 was last defeated."
-
+Возобновите своё приключение с места
+поражения вашей группы.
++++
 Awaiting Rescue
-
+Ожидание Спасения
++++
 "You are waiting for rescue by a friend.
 You may also choose to give up waiting."
-
+Вы ожидаете спасения от друга.
+Также вы можете прекратить ждать.
++++
 Go Rescue
-
+На Спасение
++++
 Rescue a waiting friend.
-
+Спасти ожидающего друга.
++++
 Standby Adventure
-
+Приключение-Ожидание
++++
 "While waiting for rescue, you can explore a
 different dungeon."
-
+Пока вы ждёте спасения, вы можете
+исследовать другое подземелье.
++++
 Friend Rescue
-
+Спасти Друга
++++
 "Using wireless communication, Nintendo WFC,
 or passwords, friends may rescue each other."
-
+Друзья могут спасать друг друга через
+беспроводное соединение или по паролю.
++++
 Nintendo WFC
 ВФС Нинтендо
 "Manage friend codes, adjust email settings,
 and set up Nintendo Wi-Fi Connection. "
 Просмотреть коды дружбы, настроить
 эл. почту и включить ВФС Нинтендо.
+---
 Trade Items
-
+Обмен Предметами
++++
 "Using wireless communication, you can
 trade stored items with a friend."
-
+Вы можете обмениваться предметами из
+хранилища с другом.
++++
 Wonder Mail S
-
+Чудо-Почта S
++++
 "Using wireless communication, Nintendo WFC,
 or passwords, exchange Wonder Mail S."
-
+Обмен Чудо-Почты S по беспроводному
+соединению или паролю.
++++
 Trade Team
-
+Обмен Командами
++++
 "Using wireless communication or Nintendo
 WFC, you can exchange team data with others."
-
+Вы можете обмениваться с другом своими
+командами.
++++
 Sky Jukebox
-
+Проигрыватель
++++
 Listen to music from "Explorers of Sky."
-
+Послушать музыку из "Explorers of Sky."
++++
 [CS:C]Debug[CR]
 
 "[M:D1][CS:C]This is the Debug Mode.
@@ -1003,7 +1044,7 @@ It won't be in the released version.[CR]"
 
 "[M:D1][CS:C]Using wireless communication, you can upload
 events by Wonder Mail S.[CR]"
-
+---
 Send Demo Dungeon
 Отправить Демо Подземелье
 "Send a Demo Dungeon to a friend via
@@ -1014,32 +1055,48 @@ Exit
 Выход
 Return to the Top Menu.
 Вернуться в Главное Меню
+---
 Select which story you'd like to play.
-
+Выберите, в какую историю вы хотите
+сыграть.
++++
 Main Story
-
+Главная История
++++
 Special Episodes
-
+Особые Эпизоды
++++
 Episode List
-
+Список Эпизодов
++++
 Episode List[M:R7]
-
+Список Эпизодов[M:R7]
++++
 Play the Special Episode from the beginning.
-
+Сыграть в Особый Эпизод с самого начала.
++++
 "Once a Special Episode has been started, you
 cannot begin another Special Episode."
-
+Если вы начнёте проходить Особый Эпизод,
+вы не сможете начать другой Эпизод.
++++
 Return
-
+Назад
++++
 Special Episode
-
+Особый Эпизод
++++
 Select which story you'd like to play.
-
+Выберите какую историю вы хотите пройти.
++++
 "This is the story in progress.
 Select ""Continue"" to play."
-
+Вы проходите эту историю.
+Выберите "Продолжить", чтобы играть.
++++
 Return
-
+Назад
++++
 [CS:C]Dungeon Debug Play[CR]
 
 [CS:C]Ground Debug Play[CR]
@@ -1075,93 +1132,132 @@ No
 [string0]
 
 [area:0]
-
+---
 "The quicksave data
 [S:76]is corrupted."
-
+Данные б. сохранения
+[S:76]повреждены.
++++
 "The team was defeated
 [S:76]during an adventure."
-
+Ваша команда потерпела
+[S:76]поражение в вылазке.
++++
 [value:0:1]
-
++++
 "OK to resume the saved
 adventure?"
-
+Продолжить приключение?
++++
 "Stop resting and continue playing
 using the quicksave data?"
-
+Прекратить отдых и продолжить
+играть дальше?
++++
 "Stop resting and continue playing
 using the quicksave data?"
-
+Ðñåëñàóéóû ïóäúö é ðñïäïìçéóû
+éãñàóû äàìûšå?
+++++
 "OK to revive your team where it
 was defeated?"
-
+Привести команду в чувство
+на месте поражения?
++++
 "OK to stop awaiting rescue and
 give up on the mission?"
-
+Прекратить ждать спасения и
+отступить из вылазки?
++++
 "Do you really want to stop
 waiting for rescue?"
-
+Точно прекратить ждать
+спасения?
++++
 "Your saved game data will be
 deleted. Is that OK?"
-
+Данные сохранения будут
+удалены. Всё устраивает?
++++
 "All of your save data will be
 erased. Is that OK?"
-
+Все данные сохранения
+будут удалены. Продолжить?
++++
 [M:D0]
-
++++
 "Do you want to overwrite the
 Special Episode save data?"
-
+Хотите перезаписать данные
+сохранения Особого Эпизода?
++++
 "You've already cleared this
 Special Episode. Play it again?"
-
+Вы уже завершили этот Особый
+Эпизод. Сыграть ещё раз?
++++
 Adventure Record
-
+Сохранённое Приключение
++++
 [CS:C][value0:0:4]-[value0:1:4][CR]
-
++++
 Name:
-
+Имя:
++++
 Episode:
-
+Эпизод:
++++
 Location:
-
+Место:
++++
 Play time:
-
+Время игры:
++++
 Adventures:
-
+Приключений:
++++
 Helper:
-
+Помощник:
++++
 Gift:
-
+Подарок:
++++
 [CS:F][string:1][CR] ([CS:K][string:0][CR])
 
 [string0]
-
++++
 Rescue:
-
+Спасение:
++++
 [value0:0:4]-[value0:1:4]-[value0:2:4]
-
++++
 Items
-
+Вещи
++++
 Team
-
+Группа
++++
 Team
-
+Группа
++++
 Job List
-
+Задания
++++
 Others
-
+Прочее
++++
 [CS:C]Debug[CR]
 
 Exit
-
+Назад
++++
 [rank:0]
 
 ([digits_c:0])
-
+---
 To next Rank: [digits_c:0]
-
+До следующего Ранга: [digits_c:0]
+---
 This team is the best it can be!
 
 [time:0]
@@ -1184,8 +1280,10 @@ Mission objectives
 Цели задания
 Recruitment search
 Поиск рекрутов
+---
 Game Hints
--
+Справка
+---
 Destination
 
 "[CN][dungeon:0] is the destination.
@@ -1206,114 +1304,190 @@ PokГ©mones
 Team Charm
 
 ????
-
+---
 "[CN]The save data could not be accessed.
 [CN]Please turn the power off
 [CN]and reinsert the DS Card."
-
+[CN]Данные сохранения недоступны.
+[CN]Пожалуйста, выключите питание и
+[CN]вставьте Карту DS.
++++
 [CN]Save failed.
-
+[CN]Ошибка сохранения.
++++
 [CN]The save data couldn't be deleted.
-
+[CN]Данные сохранения не удалены.
++++
 "[CN]Saving your adventure...
 [CN]Please don't turn off the power
 [CN]or touch the Game Card."
-
+[CN]Сохранение приключения...
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 [CN]Save completed!
-
+[CN]Игра сохранена!
++++
 "[CN]Saving your adventure...
 [CN]Please don't turn off the power
 [CN]or touch the Game Card."
-
+[CN]Сохранение приключения...
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 [CN]Save completed!
-
+[CN]Игра сохранена!
++++
 "[CN]Quicksaving your adventure...
 [CN]Please don't turn off the power
 [CN]or touch the Game Card."
-
+[CN]Идёт быстрое сохранение приключения...
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 "[CN]Your adventure has been saved.
 [CN]When in a dungeon, you can use Rest
 [CN]to quicksave before ending the game."
-
+[CN]Ваше приключение сохранено.
+[CN]Если вы в подземелье, вы можете
+[CN]быстро сохранить игру через "Отдых".
++++
 "[CN]Quicksaving your adventure...
 [CN]Please don't turn off the power
 [CN]or touch the Game Card."
-
+[CN]Идёт быстрое сохранение приключения...
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 "[CN]Quicksaving your adventure...
 [CN]Please don't turn off the power
 [CN]or touch the Game Card."
-
+[CN]Идёт быстрое сохранение приключения...
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 "[CN]Your adventure has been saved.
 [CN]When in a dungeon, you can use Rest
 [CN]to quicksave before ending the game."
-
+[CN]Ваше приключение сохранено.
+[CN]Если вы в подземелье, вы можете
+[CN]быстро сохранить игру через "Отдых".
++++
 "[CN]Your adventure has been saved.
 [CN]When you resume play, the quicksave
 [CN]data will be deleted.[C]
 [CN]When you want to shut down the game, use
 [CN]your room's bed to save your progress, or
 [CN]use Rest to quicksave in a dungeon."
-
+[CN]Ваше приключение сохранено.
+[CN]Когда вы возобновите игру, данные
+[CN]быстрого сохранения будут удалены.[C]
+[CN]Когда вы захотите сохранить игру,
+[CN]воспользуйтесь лежанкой в своей
+[CN]комнате или кнопкой "Отдых" в вылазке.
++++
 "[CN]Quicksaving your adventure...
 [CN]Please don't turn off the power
 [CN]or touch the Game Card."
-
+[CN]Идёт быстрое сохранение приключения...
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 "[CN]Your adventure has been saved.
 [CN]When you resume play, the quicksave
 [CN]data will be deleted.[C]
 [CN]When you want to shut down the game, use
 [CN]your room's bed to save your progress, or
 [CN]use Rest to quicksave in a dungeon."
-
+[CN]Ваше приключение сохранено.
+[CN]Когда вы возобновите игру, данные
+[CN]быстрого сохранения будут удалены.[C]
+[CN]Когда вы захотите сохранить игру,
+[CN]воспользуйтесь лежанкой в своей
+[CN]комнате или кнопкой "Отдых" в вылазке.
++++
 "[CN]The save data could not be accessed.
 [CN]Please turn the power off
 [CN]and reinsert the DS Card."
-
+[CN]Данные сохранения недоступны.
+[CN]Пожалуйста, выключите питание и
+[CN]вставьте Карту DS.
++++
 "[CN]The corrupted Nintendo Wi-Fi Connection
 [CN]User Information has been deleted.
 "
-
+[CN]Повреждённая Информация Пользователя
+[CN]Вай-Фай Соединения Нинтендо удалена.
++++
 "[CN]The saved game data is corrupted and is
 [CN]being deleted. Please don't turn off the
 [CN]power or remove the Game Card."
-
+[CN]Данные сохранения повреждены и теперь
+[CN]находятся в процессе удаления. Не
+[CN]выключайте питание.
++++
 "[CN]The corrupted saved game data has 
 [CN]been deleted."
-
+[CN]Повреждённые данные сохранения удалены.
++++
 "[CN]Initializing the saved game data.
 [CN]Please don't turn off the power."
-
+[CN]Инициализация данных сохранения.
+[CN]Пожалуйста, не выключайте питание.
++++
 [CN]Initialized the save data.
-
+[CN]Данные сохранения инициализированы.
++++
 "[CN]Your game data was not properly saved or
 [CN]quicksaved so your game cannot be resumed.[C]
 [CN]Your last outing will be considered a defeat.
 [CN]Before shutting down, use your bed to save
 [CN]progress or use Rest to quicksave in dungeons."
-
+[CN]Ваши данные не были сохранены должным
+[CN]образом. Игру невозможно продолжить.[C]
+[CN]Ваша последняя вылазка будет считаться
+[CN]неудачной. Воспользуйтесь лежанкой в
+[CN]своей комнате или "Отдыхом", чтобы[C]
+[CN]сохранить игру.
++++
 "[CN]You may not resume your dungeon adventure
 [CN]using this saved game data. Your last outing
 [CN]will be considered a defeat."
-
+[CN]Вы не можете возобновить приключение,
+[CN]используя эти данные сохранения. Ваша
+[CN]последняя вылазка окончена поражением.
++++
 "[CN]Deleting the saved game data.
 [CN]Please do not turn off the power
 [CN]or remove the Game Card."
-
+[CN]Удаление данных сохранения.
+[CN]Не выключайте питание и не вынимайте
+[CN]Игровую Карту.
++++
 [CN]Your adventure has been deleted.
-
+[CN]Приключение удалено.
++++
 "[CN]Clearing all saved game data.
 [CN]Please don't turn off the power."
-
+[CN]Удаление всех данных сохранения.
+[CN]Не выключайте питание.
++++
 [CN]The saved game data has been cleared.
-
+[CN]Данные сохранения удалены.
++++
 "[CN]Deleting all saved game data.
 [CN]Please don't turn off the power."
-
+[CN]Удаление данных сохранений.
+[CN]Не выключайте питание.
++++
 [CN]The saved game data has been destroyed.
-
+[CN]Данные сохранения уничтожены.
++++
 "All saved game data will be deleted.
 Is that OK?"
-
+Все сохраненные данные будут удалены.
+Всё устраивает?
++++
 Yes
 
 No
@@ -1564,12 +1738,15 @@ Team [team:]! в™Є So, can I join you?"
 "[CN]For advancing in rank, the team
 [CN]was awarded one [item:0]![C]
 [CN]The [item:0] was put in storage."
-
+---
 Accept [string0] as a team member?
-
+Принять Покемона [string0] в группу?
++++
 "A new member joined the team!
 Give [string:0] a nickname?"
-
+К вам присоединяется новый член группы!
+Дать Покемону [string:0] прозвище?
++++
 Yes
 
 No
@@ -1577,35 +1754,36 @@ No
 Yes
 
 No
-
+---
 Trash
-
 Give
-
 Return
-
 Info
-
 Forget
-
 Cancel
-
 Yes
-
 No
-
 Exit
-
 The bag is empty!
-
 Eat
-
 Use
-
 Which?
-
 Which?
-
+Мусор
+Дать
+Вернуть
+Инфо
+Забыть
+Отмена
+Да
+Нет
+Выход
+Сумка пуста!
+Съесть
+Исп.
+Кому?
+Кому?
+---
 "[name:0] took the Gummi and ate it.
 This Gummi looks like a big favorite!
 [name:0]'s IQ went up!"
@@ -5825,7 +6003,7 @@ It is a Drill PokГ©mon.
 [string0] used the [item:0].
 [string0] применяет предмет [item:0].
 Use
-Применить
+Исп.
 [string0] hurled the [item:0].
 [string0] метает [item:0].
 Hurl
@@ -5853,19 +6031,19 @@ Peel
 [string0] used the [item:0].
 [string0] применяет предмет [item:0].
 Use
-Применить
+Исп.
 [string0] used the [item:0].
 [string0] применяет предмет [item:0].
 Use
-Применить
+Исп.
 [string0] used the [item:0].
 [string0] применяет предмет [item:0].
 Use
-Применить
+Исп.
 [string0] used the [item:0].
 [string0] применяет предмет [item:0].
 Use
-Применить
+Исп.
 [string0] equipped the [item:0].
 [string0] одевает предмет [item:0].
 Equip
@@ -5940,30 +6118,49 @@ Quicksave
 Сохранение
 Give Up
 Отступить
--
+---
 "Your adventure to this point will be saved in
 preparation for shutting down. Is this OK?"
-
+Ваше приключение будет сохранено, а
+вы выйдете в главное меню.
+Сохранить игру?
++++
 "Give up on this adventure? If you do, it will be
 treated as a defeat."
-
+Отступить и покинуть подземелье? Если
+вы это сделаете, то вам будет засчитано
+поражение. 
++++
 "Stairs leading to the next floor. If you are on
 the final floor, you will escape from the
 dungeon."
-
+Лестница, ведущая на следующий этаж.
+Если вы находитесь на последнем этаже,
+то вы покинете подземелье.
++++
 "The warp zone leading to the next floor. If you
 are on the final floor, you will escape from
 the dungeon."
-
+Варп-зона, ведущая на следующий этаж.
+Если вы находитесь на последнем этаже,
+то вы покинете подземелье.
++++
 "You reached the rescue spot where your
 friend's team went down! Send an [CS:E]A-OK Mail[CR:] to
 let your friend know you've rescued the
 defeated team."
-
+Вы достигли точки, где команда вашего
+друга потерпела поражение! Отправьте
+[CS:E]ОТВ-Письмо[CR:], чтобы дать ему
+знать, что вы спасли его команду.
++++
 "You've found the Hidden Stairs! An enticing
 scent lingers in the air... What in the world
 could these stairs lead to?"
--
+Вы обнаружили Скрытую Лестницу!
+В воздухе витает завораживающий запах...
+Куда же ведёт эта лестница?
+---
 Stairs
 Лестница
 Warp Zone
@@ -5976,31 +6173,42 @@ Info
 Инфо
 Cancel
 Отмена
--
+---
 Tile underfoot[BAR]
-
+Клетка под ногами[BAR]
++++
 [trap:0]
 
 [trap:0]
 
 Move: [move:0]
-
+Приём: [move:0]
++++
 Move: [string0]
-
+Приём: [string0]
+---
 "Will the linked moves be forgotten,
 including the selected [move:0]?"
-
+Забыть связанные приёмы, включая и
+выбранный приём [move:0]?
++++
 "The PokГ©mon will forget the move
 [move:0]. Is that OK?"
-
+Покемон забудет приём [move:0].
+Всё устраивает?
++++
 The move [move:0] was set.
-
+Установлен приём [move:0].
++++
 The move [move:0] was deselected.
-
+Снята пометка с приёма [move:0].
++++
 The move [move:0] was delinked.
-
+Разделён приём [move:0].
++++
 The linked moves were left unchanged.
--
+Связанные приёмы остались без изменений.
+---
 Exit
 Выход
 -
@@ -6019,18 +6227,22 @@ Treasure Bag
 Сумка с Ценностями
 Ground
 Земля
--
+---
 Item: [item:0]
-
+Предмет: [item:0]
++++
 You have no items.
-
+У вас нет предметов.
++++
 Which?
-
+С чем?
++++
 Held by [string:0]
-
+Это держит [string:0]
++++
 Exit
 Выход
--
+---
 
 Asleep
 
@@ -6491,7 +6703,7 @@ Rescue
 Спасти
 Tactics meeting
 Задать тактику
--
+---
 an enemy's [move:0].
 
 [CN]Dungeon: [dungeon:0]
@@ -6673,7 +6885,99 @@ succeeded in the rescue mission.
 completed a mission! Impressive!
 
 befriended [CS:N]Mew[CR]!
-
++++
+от вражеского приёма [move:0].
+[CN]Подземелье: [dungeon:0]
+[string:1] терпит поражение
+[string:1]
+Уровень: [CLUM_SET:54][digits:1][CLUM_SET:80]Очки Опт.: [CLUM_SET:140][experience:0]
+ОЗ:[CLUM_SET:54][digits:0]
+Атака:[CLUM_SET:54][digits:0]
+[CLUM_SET:92]Защита:[CLUM_SET:140][digits:1]
+Сп. Атк.:[CLUM_SET:54][digits:0]
+[CLUM_SET:92]Сп. Зщт.:[CLUM_SET:140][digits:1]
+Атака:[CLUM_SET:54][CS:W][digits:0] [CR]
+[CLUM_SET:92]Защита:[CLUM_SET:140][CS:W][digits:1] [CR]
+Сп. Атк.:[CLUM_SET:54][CS:W][digits:0] [CR]
+[CLUM_SET:92]Сп. Зщт.:[CLUM_SET:140][CS:W][digits:1] [CR]
+Предмет:[CLUM_SET:54]Нет предмета
+Предмет:[CLUM_SET:54][string0]
+трансформируется в друга.
+покинут и не становится другом.
+[CS:C]теряет сознание от дебаг-атаки.[CR]
+теряет сознание от Удар-Прыжка.
+теряет сознание от Пинка С Лёту.
+теряет сознание от Уз Судьбы врага.
+теряет сознание, покрывшись слизью.
+терпит поражение от мощного приёма.
+терпит поражение от мощного приёма.
+теряет сознание от отдачи приёма.
+теряет сознание от плещущегося врага.
+от сдерживаемой энергии врага.
+терпит поражение от мощного приёма.
+терпит поражение от мощного приёма.
+терпит поражение от мощного приёма.
+терпит поражение от мощного приёма.
+терпит поражение от мощного приёма.
+терпит поражение от мощного приёма.
+теряет сознание от [CS:H]шипов[CR].
+[CS:C]дебаг-урона[CR].
+теряет сознание от ожога.
+теряет сознание, будучи в ограничении.
+теряет сознание от распространения яда.
+теряет сознание, будучи в обвитии.
+сражает проклятие.
+высушивается досуха Зёрнами-Пиявками.
+теряет сознание от Песни Гибели.
+теряет сознание, страдая от кошмаров.
+теряет сознание от брошенного камня.
+теряет сознание от голода.
+испаряется во взрыве.
+теряет сознание от [CS:H]Каштановой Ловушки[CR].
+теряет сознание от ловушки.
+теряет сознание от [CS:H]Ямы-Ловушки[CR].
+от урона [CS:I]Взрыв-Зерна[CR].
+теряет сознание от брошенной вещи.
+становится предметом.
+теряет сознание в полёте.
+теряет сознание от летящего Покемона.
+отступает из экспедиции.
+удаляется во имя события.
+уходит.
+выносится неведомой силой.
+возвращается с павшим спутником.
+теряет сознание от погоды.
+поддаётся контролю разума.
+не удалось защитить Покемона-клиента.
+теряет сознание от [CS:I]Чудо-Орба[CR].\
+теряет сознание от предмета.
+-
+не удалось сопроводить клиента.
+возвращается с Покемоном [string:2].
+возвращается с [CS:N]Бидуфом[CR].
+возвращается с [CS:N]Гровайлом[CR].
+возвращается с [CS:N]Селеби[CR].
+возвращается с [CS:N]Чатотом[CR].
+возвращается с [CS:N]Кресселией[CR].
+теряет сознание от [CS:H]Токсичных Шипов[CR].
+теряет сознание от [CS:H]Камней-Ловушек[CR].
+теряет сознание от плохих снов.
+попадает во взрыв, теряя сознание.
+теряет сознание от [CS:I]Пальси Ягоды[CR].
+[M:D1]
+[M:D1]
+[M:D1]
+[M:D1]
+[M:D1]
+[M:D1]
+[M:D1]
+[M:D1]
+ускользает в ходе экспедиции.
+зачищает подземелье.
+успешно завершает задание по спасению.
+завершает задание! Поразительно!
+заводит дружбу с [CS:N]Мью[CR]!
+---
 [M:D1]
 
 [M:D1]
@@ -6732,9 +7036,10 @@ Someone
 Кто-то
 Someone
 Кто-то
--
+---
 [CN]The Last Outing
--
+[CN]Итоги Вылазки
+---
 Message log
 Лог сообщений
 ---
@@ -7019,7 +7324,7 @@ Exit
 [wiseness:0]
 
 [M:D1]Test Dungeon
-
+---
 Recover the stolen item.
 
 Recover the stolen item.
@@ -7383,6 +7688,189 @@ Train further toward excellence!
 Meet with [CS:N]Torkoal[CR].
 
 Explore!
++++
+Верните украденный предмет.
+Верните украденный предмет.
+Найдите жемчужину [CS:N]Споинка[CR].
+Спасите [CS:N]Азурилла[CR].
+Спасите [CS:N]Азурилла[CR].
+Исследуйте водопад.
+Найдите Идеальных Яблок и принесите их в гильдию.
+Направляйтесь в лагерь.
+Направляйтесь в лагерь.
+Направляйтесь в лагерь.
+Направляйтесь в лагерь.
+Найдите Затуманенное Озеро.
+Найдите Затуманенное Озеро.
+Найдите Затуманенное Озеро.
+Найдите Затуманенное Озеро.
+Найдите Затуманенное Озеро.
+Верните [CS:Z]Поплавок[CR].
+Верните [CS:Z]Поплавок[CR].
+Верните [CS:Z]Поплавок[CR].
+Найдите Шестерню Времени.
+Найдите Шестерню Времени.
+Найдите Шестерню Времени.
+Найдите Шестерню Времени.
+Найдите путь к озеру [CS:N]Азельфа[CR].
+Идите к озеру [CS:N]Азельфа[CR].
+Не дайте [CS:N]Гровайлу[CR] украсть Шестерню Времени!
+Сбегите от преследователей.
+Сбегите от преследователей.
+Догоните [CS:N]Гровайла[CR].
+Догоните [CS:N]Гровайла[CR].
+Помогите [CS:N]Гровайлу[CR].
+Найдите [CS:N]Селеби[CR].
+Направляйтесь к вершине [CS:P]Дебрей[CR][CS:P]Сумеречного Леса[CR].
+Получите Шестерню Времени.
+Найдите место со странной конструкцией.
+Найдите место со странной конструкцией.
+Найдите место со странной конструкцией.
+Найдите Радужный Камнерабль.
+Найдите Радужный Камнерабль.
+Одолейте [CS:N]Даскнуара[CR].
+Предотвратите паралич планеты.
+Предотвратите паралич планеты.
+Предотвратите паралич планеты.
+Сдайте выпускной экзамен.
+Сдайте выпускной экзамен.
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Найдите группу [CS:N]Фионов[CR].
+Найдите группу [CS:N]Фионов[CR].
+Найдите группу [CS:N]Фионов[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Раскройте загадки [CS:P]Пещеры Эгиды[CR].
+Найдите [CS:N]Дроузи[CR].
+Найдите причину кошмаров [CS:N]Азурилла[CR].
+Сбегите от [CS:N]Палкии[CR].
+Выберитесь из [CS:P]Пространственного Разлома[CR].
+Выберитесь из [CS:P]Пространственного Разлома[CR].
+Одолейте [CS:N]Даркрая[CR].
+Одолейте [CS:N]Даркрая[CR].
+Одолейте [CS:N]Даркрая[CR].
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Получите [CS:I]Аква-Монику[CR].
+Получите [CS:I]Аква-Монику[CR].
+Получите [CS:I]Терра-Тарелку[CR].
+Получите [CS:I]Терра-Тарелку[CR].
+Получите [CS:I]Ледяную Флейту[CR].
+Получите [CS:I]Ледяную Флейту[CR].
+Получите [CS:I]Барабан Огня[CR].
+Получите [CS:I]Барабан Огня[CR].
+Получите [CS:I]Каменный Рог[CR].
+Получите [CS:I]Каменный Рог[CR].
+Получите [CS:I]Мелодику Неба[CR].
+Получите [CS:I]Мелодику Неба[CR].
+Получите [CS:I]Травяной Рожок[CR].
+Получите [CS:I]Травяной Рожок[CR].
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Исследуйте!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Двигайтесь к Вершине!
+Вразумите [CS:N]Мака[CR] и [CS:N]Граймера[CR]!
+Исследуйте [CS:P]Пещеру Звёзд[CR]!
+Исследуйте [CS:P]Пещеру Звёзд[CR]!
+Исследуйте [CS:P]Пещеру Звёзд[CR]!
+Исследуйте [CS:P]Пещеру Звёзд[CR]!
+Разбудите спящего [CS:N]Дзирати[CR]!
+Исследуйте [CS:P]Мрачный Лес[CR]!
+Исследуйте [CS:P]Восточную Пещеру[CR]!
+Исследуйте [CS:P]Разлом Богатств[CR]!
+Исследуйте [CS:P]Разлом Богатств[CR]!
+Одержите победу над Засадой Монстров!
+Идите в [CS:P]Темпоральную Башню[CR]!
+Идите в [CS:P]Темпоральную Башню[CR]!
+Одолейте [CS:N]Саблаев[CR]!
+Идите в [CS:P]Темпоральную Башню[CR]!
+Идите к [CS:P]Темпоральной Вершине[CR]!
+Идите к [CS:P]Темпоральной Вершине[CR]!
+Поищите [CS:N]Селеби[CR]!
+Одолейте [CS:N]Саблаев[CR]!
+Сбегите из [CS:P]Пространственных Скал[CR]!
+Пересеките [CS:P]Тёмную Ледяную Гору[CR]!
+Пересеките [CS:P]Тёмную Ледяную Гору[CR]!
+Победите [CS:N]Мамосвайна[CR]!
+Догоните [CS:N]Саблаев[CR]!
+Приведите [CS:N]Диалгу[CR] в чувство!
+Приведите [CS:N]Диалгу[CR] в чувство!
+Приведите [CS:N]Диалгу[CR] в чувство!
+Сбегите из [CS:P]Южных Джунглей[CR]!
+Найдите Сокровище!
+Найдите Сокровище!
+Одолейте [CS:N]Агрона[CR]!
+Найдите Сокровище!
+Найдите Сокровище!
+Найдите Сокровище!
+Найдите Сокровище!
+Одолейте Команду [CS:X]АВД[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+Арестуйте [CS:N]Хонтера[CR]!
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+Тренируйтесь и совершенствуйтесь!
+Встретьтесь с [CS:N]Торкоалом[CR].
+Исследуйте!
 ---
 [string:1] was defeated!
 [string:1] терпит поражение!
@@ -87805,87 +88293,119 @@ Please wait..."
 "Your team has been registered under
 [string0].
 Team number: [value0:0:4]-[value0:1:4]-[value0:2:4]"
-
+---
 Exit
-
 Job Bulletin Board
-
 Outlaw Notice Board
-
 Job List
-
 [name:0][M:T0] Is this OK?
-
+Выход
+Доска Объявлений
+Доска Разыскиваемых
+Список Заданий
+[name:0][M:T0] Всё устраивает?
++++
 "This [CS:E]A-OK Mail[CR] will be sent.
 Is that OK?"
-
+Будет отправлено [CS:E]ОТВ-Письмо[CR].
+Всё устраивает?
++++
 Receive
-
 Take Job
-
 Suspend
-
 Delete
-
 ID:
-
+Получить
+Взяться
+Отложить
+Удалить
+ID:
++++
 [S:8][M:B2]: Receive[CLUM_SET:120]Accepted [value:0:1]/[value:1:1]
-
+[S:8][M:B2]: Взять Задание[CLUM_SET:120]Взято [value:0:1]/[value:1:1]
++++
 To do a job, take it off [CS:C]Suspended[CR] status.
-
+Сначала примите [CS:C]Отложенное[CR] Задание.  
++++
 A-OK Mail
-
 SOS Mail
-
 Thank-You Mail
-
 Sort Jobs
-
 Job Bulletin Board
-
 Outlaw Notice Board
-
+ОТВ-Письмо
+SOS-Письмо
+Благодарность
+Сорт. Задания
+Доска Объявлений
+Доска Разыскиваемых
++++
 [M:D0]NPC Job
 
 [M:D0]Bottle Job
-
++++
 Accepted Jobs
-
+Принятые Задания
++++
 Wonder Mail S
-
+Чудо-Почта S
++++
 "[CN]You can't handle
 [CN]this job yet!"
-
+[CN]Вы пока не можете
+[CN]взять это задание!
++++
 "[CN]You have previously
 [CN]accepted this job.
 [CN]It is not available."
-
+[CN]Вы уже приняли
+[CN]это задание. Оно
+[CN]больше недоступно.
++++
 "[CN]You can't handle
 [CN]this job now!"
-
+[CN]Вы ещё не можете
+[CN]справиться с заданием!
++++
 "[CN]You can't handle
 [CN]this job yet!"
-
+[CN]Вы ещё не можете
+[CN]справиться с заданием!
++++
 "[CN]You can't handle
 [CN]this job yet!"
-
+[CN]Вы ещё не можете
+[CN]справиться с заданием!
++++
 "[CN]You can't handle
 [CN]this job yet!"
-
+[CN]Вы ещё не можете
+[CN]справиться с заданием!
++++
 "[CN]That's odd! This job's location is
 [CN][dungeon:0].
 [CN]This appears to be outdated."
-
+[CN]Странно! Место этого задания:
+[CN][dungeon:0].
+[CN]Более неактуально.
++++
 "[CN]You can't handle
 [CN]this job yet!"
-
+[CN]Вы ещё не можете
+[CN]справиться с заданием!
++++
 "[CN]You have done this job
 [CN]already. You can't
 [CN]take the job again."
-
+[CN]Вы уже выполнили это
+[CN]задание. Его больше
+[CN]невозможно взять.
++++
 "[CN]You can't handle
 [CN]this job yet!"
-
+[CN]Вы ещё не можете
+[CN]справиться с заданием!
++++
 Yes
 
 No
@@ -88317,48 +88837,56 @@ SOS Mail from [CS:X][string0][CR]
 A-OK Mail from [CS:X][string0][CR]
 
 Thank-You Mail from [CS:X][string0][CR]
-
+---
 We were defeated! Please help!
-
+Нас разгромили! Помогите!
++++
 "Thanks for waiting! Your team has now
 been rescued!"
-
+Спасибо за ожидание! Ваша команда
+спасена!
++++
 Thank you! You saved us!
-
+Спасибо! Вы нас спасли!
++++
 
 
 [CS:C]Suspended[CR]
-
+[CS:C]Отложено[CR]
++++
 [CS:E]Job Taken[CR]
-
+[CS:E]Принято[CR]
++++
 Done
-
+Готово
++++
 Time
-
 Darkness
-
 Sky
-
 [digits_c:0][M:S0]
-
 [digits_c:0][M:S0] + ?
-
 [item:0] + ?
-
 ???
-
 [item:0]
-
 ???
-
 ???
-
 ???
-
 [M:D2]???
-
 [CS:C]Egg[CR]
-
+Время
+Тьма
+Небеса
+[digits_c:0][M:S0]
+[digits_c:0][M:S0] + ?
+[item:0] + ?
+???
+[item:0]
+???
+???
+???
+[M:D2]???
+[CS:C]Яйцо[CR]
++++
 Help!
 
 I can't get out!
@@ -88828,1720 +89356,2647 @@ Wow, they're fast...!
 I can't believe they ran away!
 
 Stop running!
-
+---
 "How'd I get in this mess? I can't exit!
 "
+Как я в это угодил? Не могу выбраться!
 
++++
 "I was attacked when I was resting!
 "
+На меня напали во время отдыха!
 
++++
 "I got lost in this dungeon!
 "
+Я потерялся в подземелье!
 
++++
 "This dungeon is scary!
 "
+Это подземелье страшное!
 
++++
 "Taking on that tough enemy was a mistake...
 "
+Не выстоял перед сильным врагом...
 
++++
 "I've reached my limit...
 "
+Я на пределе...
 
++++
 "I'm close to fainting...
 "
+Я на грани потери сознания...
 
++++
 "I lost in a battle...
 "
+Меня одолели...
 
++++
 "I was knocked out...
 "
+Меня вырубили...
 
++++
 "Whoa! It's too rough here...
 "
+Ого! Здесь слишком опасно...
 
++++
 "I can't take another step.
 "
+Я не могу сделать и шагу дальше.
 
++++
 "I'm famished...
 "
+Я изголодаюсь...
 
++++
 "I got lost while exploring!
 "
+Я потерялся во время вылазки!
 
++++
 "I lost my way while exploring!
 "
+Я не могу найти дорогу домой!
 
++++
 "My exploration went astray!
 "
+Моя вылазка стала непредсказуемой!
 
++++
 "I was set upon by bandits!
 "
+На меня напали бандиты!
 
++++
 "I can't get back!
 "
+Не могу вернуться!
 
++++
 Please, I need help! 
-
+Пожалуйста, мне нужна помощь!
++++
 Someone, please! 
-
+Кто-нибудь, прошу!
++++
 Someone, help! 
-
+Кто-нибудь, помогите! 
++++
 I feel faint... Please help... 
-
+Чувствую слабость... Помогите... 
++++
 Where am I? Help! 
-
+Где я? На помощь! 
++++
 Whoa! Someone! Help! 
-
+Оой! Кто-нибудь! На помощь! 
++++
 I'm fading... Help... 
-
+Я угасаю... На помощь... 
++++
 Someone, please help! 
-
+Кто-нибудь, на помощь! 
++++
 Help! 
-
+Помогите! 
++++
 Gasp! Oh no! 
-
+Ах! О, нет! 
++++
 Yikes! 
-
+Ничего себе! 
++++
 "[name:0] may be in danger!
 "
+[name:0] может быть в опасности!
 
++++
 "[name:0] is still missing.
 "
+[name:0] всё ещё не найден.
 
++++
 "[name:0] hasn't been heard from!
 "
+[name:0] пропал без вести!
 
++++
 "[name:0] hasn't come back!
 "
+[name:0] не вернулся!
 
++++
 "[name:0] might be unable to return.
 "
+[name:0] возможно, не может вернуться.
 
++++
 "[name:0] may be in danger!
 "
+[name:0] может быть в опасности!
 
++++
 "[name:0] appears to be injured!
 "
+[name:0], вероятно, ранен!
 
++++
 "[name:0] went missing this morning!
 "
+[name:0] пропал этим утром!
 
++++
 "[name:0] is too scared to move!
 "
+[name:0] боится сдвинуться с места!
 
++++
 "[name:0] may be confused!
 "
+[name:0] может быть в замешательстве!
 
++++
 "Trouble may have found [name:0]!
 "
+[name:0] в неприятной ситуации!
 
++++
 "[name:0] was paralyzed!
 "
+[name:0] парализован!
 
++++
 "[name:0]'s whereabouts are unknown!
 "
+[name:0]! Я не знаю где он!
 
++++
 "I'm worried about [name:0]!
 "
+Я волнуюсь за Покемона [name:0]!
 
++++
 "[name:0] has been cornered!
 "
+[name:0] прижат в угол!
 
++++
 "[name:0]'s been gone a long time!
 "
+[name:0] ушёл уже очень давно!
 
++++
 "[name:0] is about to faint!
 "
+[name:0] скоро потеряет сознание!
 
++++
 "[name:0] may have fainted already!
 "
+[name:0] возможно, без сознания!
 
++++
 "It appears as if [name:0] can't escape!
 "
+Похоже, что [name:0] не может сбежать!
 
++++
 "[name:0] was attacked by assailants!
 "
+[name:0] под атакой налётчиков!
 
++++
 "[name:0] hasn't reemerged!
 "
+[name:0] не появился!
 
++++
 "[name:0] appears to be helpless!
 "
+[name:0] похоже, беспомощен!
 
++++
 "[name:0] appears to be trapped!
 "
+[name:0] похоже, в ловушке!
 
++++
 "Something happened to [name:0]!
 "
+[name:0]! Что-то с ним случилось!
 
++++
 "[name:0] has possibly been attacked!
 "
+Возможно, [name:0] атакован!
 
++++
 "[name:0] is running out of time!
 "
-
+У Покемона [name:0] мало времени!
+ 
++++
 "I got separated from [name:0].
 "
+[name:0] и я разделились.
 
++++
 "Hurry, bring back [name:0].
 "
+Скорее, найдите Покемона [name:0].
 
++++
 "[name:0] is too hungry to move!
 "
+[name:0] не может двигаться от голода!
 
++++
 "[name:0] is out there fighting all alone!
 "
+[name:0] сражается совсем один!
 
++++
 "I'm worried for [name:0]'s safety!
 "
+Я переживаю за Покемона [name:0]!
 
++++
 "[name:0] may have had an accident!
 "
+[name:0] возможно, пострадал!
 
++++
 "[name:0] appears to be lost!
 "
+[name:0] похоже, потерялся!
 
++++
 "[name:0] appears to be stuck!
 "
+[name:0] не может выбраться!
 
++++
 "[name:0] is lost!
 "
+[name:0] потерялся!
 
++++
 "[name:0] went the wrong way!
 "
+[name:0] ушёл не тем путём!
 
++++
 "[name:0]'s been missing for three days!
 "
+[name:0] - нет вестей уже три дня!
 
++++
 "[name:0] can't walk anymore!
 "
+[name:0] больше не может ходить!
 
++++
 "I can't contact [name:0]!
 "
+[name:0] не отзывается!
 
++++
 "I lost contact with [name:0]!
 "
+[name:0] никак не отзовётся!
 
++++
 Please! Someone, help! 
-
 Please! I need help! 
-
 Someone! Anyone? 
-
 I don't care who... Someone, help! 
-
 Help me! Please! 
-
 I'm pleading for help! 
-
 Someone, help! 
-
 Please, I need an exploration team's help! 
-
 A rescue is urgently needed! 
-
 Reward upon rescue! 
-
 Help... Anyone with an exploration team! 
-
 Won't some exploration team help? 
-
 I'm offering rewards! Please! 
-
+Прошу! Кто-нибудь, помогите!
+Прошу! Нужна помощь!
+Кто-нибудь? Помогите?
+Не важно кто... Помогите мне!
+Помогите мне! Прошу!
+Я молю о помощи!
+Кто-нибудь, помогите!
+Мне нужна помощь команды исследователей!
+Нужно срочное спасение!
+Плачу награду после спасения!
+Помогите... Любые исследователи!
+Поможет ли мне команда исследователей?
+Я дам награду! Прошу вас!
++++
 Please rescue [CS:N]Weedle[CR]! He's my son! Please! 
-
+Прошу, спасите [CS:N]Видла[CR]! Он мой сын!
+Пожалуйста!
++++
 Oh, my cute little [CS:N]Pidgey[CR]! Please help! 
-
+Ох, мой малюточка [CS:N]Пиджи[CR]!
+Прошу, помогите!
++++
 "[CS:N]Rattata[CR] is missing! My precious child! Please,
 won't someone help me? "
-
+[CS:N]Раттата[CR] пропал! Моё дорогое дитя!
+Прошу, помогите кто-нибудь!
++++
 "Please rescue [CS:N]Pichu[CR]! That little cutie can't
 charge power well yet! "
-
+Пожалуйста, спасите [CS:N]Пичу[CR]! Малютка даже
+ещё подзаряжаться не научился!
++++
 "My sweet [CS:N]Cleffa[CR] disappeared! Please let me
 know if you find my child! "
-
+Мой дорогой [CS:N]Клеффа[CR] пропал! Прошу, дайте
+мне знать, если найдёте моё дитя!
++++
 "Please rescue [CS:N]Zubat[CR]! He's so young that he
 can't even hang from ceilings very well! "
-
+Прошу, спасите [CS:N]Зубата[CR]! Он так мал, что
+ещё не может верно свисать с потолка!
++++
 "[CS:N]Oddish[CR] vanished from sight! She may be buried
 somewhere! Someone, please help! "
-
+[CS:N]Оддиш[CR] исчезла из-под носа! Она где-то
+закопалась! Прошу, помогите!
++++
 "My baby [CS:N]Poliwag[CR]! He wandered off... He only
 just learned how to walk! Help! "
-
+Мой малыш [CS:N]Поливаг[CR]! Он куда-то забрёл...
+Он еще только научился ходить! Помогите!
++++
 "Help! [CS:N]Togepi[CR]'s just a baby! I'm worried sick!
 Please help! "
-
+Помогите! [CS:N]Тогепи[CR] еще малыш! Я очень
+волнуюсь! Пожалуйста, помогите!
++++
 "Please look for [CS:N]Phanpy[CR]! You'll know my son by
 his very long trunk! "
-
+Прошу, поищите моего [CS:N]Фанпи[CR]! Вы его
+быстро узнаете по его длинному хоботу!
++++
 "My son can be reckless with his thunderbolts,
 but he's got a kind heart. Please help! "
-
+Мой сын неосторожен со своими молниями,
+но у него доброе сердце. Помогите!
++++
 "My baby [CS:N]Magby[CR] is lost! I'm terribly worried!
 She's an upbeat child who likes to be near fire! "
-
+Моя малышка [CS:N]Магби[CR] потерялась! Я очень
+переживаю! Она разгорячённая девочка!
++++
 "Please search for [CS:N]Larvitar[CR]!
 He just loves to eat dirt! Please help! "
-
+Пожалуйста, найдите [CS:N]Ларвитара[CR]! Он очень
+любить поедать грязь! Прошу, помогите!
++++
 "My [CS:N]Wurmple[CR] went missing! You'll know him by
 the cute little spikes on his backside! "
-
+Мой [CS:N]Вурмпл[CR] пропал! Его легко узнать
+по миленьким шипам на его спинке!
++++
 "Please find my [CS:N]Aron[CR]! He's my only child!
 Please help us! "
-
+Пожалуйста, найдите моего [CS:N]Арона[CR]! Он мой
+единственный ребёнок! Помогите нам!
++++
 "Please find my little [CS:N]Trapinch[CR]! My baby is
 probably hiding! He must be terrified! "
-
+Прошу, найдите моего малютку [CS:N]Трапинча[CR]!
+Возможно, он прячется! Он напуган!
++++
 "Save my baby [CS:N]Spheal[CR]! You'll spot my baby
 easily! She loves to roll everywhere! "
-
+Спасите мою малютку [CS:N]Сфила[CR]! Её легко
+заметить! Она любит всюду кататься!
++++
 "Please look for [CS:N]Taillow[CR]!
 My baby is very timid, so I'm worried! "
-
+Прошу, поищите [CS:N]Тейлоу[CR]! Мой малютка
+очень пугливый и я переживаю за него!
++++
 "My precious friend can chat with all
 three heads. Help! Help! Help! "
-
+Мой дорогой друг может болтать за
+троих. Помогите! Помогите! Помогите!
++++
 "Please save [name:0]! He's my drilling
 buddy! I'm pleading for both of our sakes! "
-
+Прошу, спасите [name:0]! Он мой
+сверло-друг! Я молю вас о помощи!
++++
 "Please save my best friend [name:0]!
 We're the best of bivalve buddies! "
-
+Прошу, спасите моего друга [name:0]!
+Мы - лучшие двустворчатые приятели!
++++
 "Please rescue [name:0]. I can't stand to
 see a sludge buddy hurt! "
-
+Прошу, спасите друга [name:0]. Я не
+вынесу видеть боль приятеля-слизи!
++++
 "Help! [name:0] isn't much now, but my
 friend will be amazing after evolution! "
-
+Помогите! [name:0] неказист, но мой
+друг похорошеет после эволюции!
++++
 "Help! I'm friends with [name:0] because
 we both evolve fast! Please help! "
-
+Помогите! [name:0] - мой друг, ведь
+мы оба быстро эволюционируем! Прошу!
++++
 "We identify with each other because we both
 evolved from [CS:N]Wurmple[CR]. Please help! "
-
+Мы знаем друг-друга, ведь мы оба были
+[CS:N]Вурмплами[CR]. Прошу, помогите!
++++
 "[name:0] and I are of the same height.
 We're best friends forever! Please help! "
-
+[name:0] и я одного роста. Мы самые
+лучшие друзья! Пожалуйста, помогите!
++++
 "Please help [name:0], a good friend who
 shares my love of fire! Someone? Anyone? "
-
+[name:0] нуждается в помощи, он как
+и я, обожает пироманию! Поможете?
++++
 "Please rescue [name:0]! We've been close
 since we were Eggs! "
-
+Прошу, спасите [name:0]! Мы знаем
+друг-друга ещё когда мы были Яйцами!
++++
 "Without [name:0], I can't try to use
 toxic powders! Someone, please help! "
-
+Без [name:0], я не могу применять
+токсичную пыльцу! Кто-нибудь, помогите!
++++
 "[name:0] is really noisy. But it's lonely
 without the racket... Sob! "
-
+[name:0] очень шумный. Но без треска
+мне одиноко... Хнык!
++++
 "I can't play catch without my pal
 [name:0]! Please help! "
-
+Без [name:0] мне в догонялки не
+поиграть! Пожалуйста, помогите! 
++++
 "Please help [name:0]! Our cries are
 identical! We can tell each other anything! "
-
+Прошу, помогите [name:0]! Наши кличи
+одинаковы! Мы понимаем друг-друга!
++++
 "Someone save [name:0], my friend and
 rival at juggling! We need each other! "
-
+Кто-нибудь, спасите [name:0], моего
+друга и соперника-жонглёра! Прошу!
++++
 "We promised each other that we'd perform
 magical, hypnotic shows together. Please help! "
-
+Мы пообещали друг-другу, что будем
+проводить двойное гипно-шоу. Помогите!
++++
 "I want to help [name:0] because we both
 have pincers! Help! I'm in a pinch! "
-
+[name:0] нуждается в помощи, ведь у
+нас у обоих есть клещи! Я в отчаянии!
++++
 "Please help [name:0]! We're both lazy,
 so we're comfortable around each other! "
-
+[name:0] нужен мне! Мы оба ленивы,
+и нам вдвоём комфортно!
++++
 "I lock horns with [name:0] for fun.
 I terribly miss doing that... "
-
+[name:0] и я бодаемся ради веселья.
+Я очень по этому скучаю...
++++
 "We promised to show each other how sharp
 our claws could be... Someone, help! "
-
+Мы обещали демонстрировать друг-другу
+остроту наших когтей... Помогите!
++++
 "Please help [name:0]! She's tiny, round,
 and my best friend! Oh, please, please! "
-
+Прошу, спасите [name:0]! Она круглая,
+маленькая и моя лучшая подруга! Прошу!
++++
 "Without [name:0] around, there's no one
 to heckle! Please break my boredom! "
-
+[name:0] нет рядом, и мне не над кем
+поиздеваться! Развейте мою скуку!
++++
 "Please save [name:0]. We're both alike
 in being kind of vacant and unpredictable! "
-
+Прошу, спасите [name:0]. Мы оба очень
+похожи и непредсказуемы!
++++
 "...Help... Please... Um...
 Who was it? "
-
+...Помогите... Прошу... Эм...
+Как там его звали?
++++
 "Without [name:0], there's no one for me
 to play with when it's dark! Please help! "
-
+Без [name:0], мне не с кем играть по
+ночам! Пожалуйста, помогите!
++++
 "I'm so sad without [name:0]'s company.
 We always showed flowers to each other... "
-
+Мне так грустно, что [name:0] рядом
+нет. Мы всегда хвастали цветами...
++++
 "Please save [name:0]. We've both been in
 the delivery business for many years! "
-
+Прошу, спасите [name:0]. Мы работаем
+в сфере доставки уже долгие годы! 
++++
 "Please save [name:0]! We're both
 old-timers who are longtime friends! "
-
+Прошу, спасите [name:0]. Мы оба
+уже очень давние друзья! 
++++
 "Help [name:0], please! We often took
 strolls on the wind together. "
-
+Помогите [name:0], прошу! Мы часто
+летаем вместе по ветру. 
++++
 "I feel lonely without [name:0] to help me
 pull off pranks. Please help! "
-
+Без [name:0], что помогает мне делать
+розыгрыши, мне одиноко. Помогите! 
++++
 "Please rescue [name:0]! The beach feels
 empty without my usual friend... "
-
+Прошу, спасите [name:0]! Без моего
+друга, на пляже пустовато...
++++
 "We make each other happy. It's in our nature.
 Please save [name:0]! "
-
+Мы делаем друг-друга счастливыми. Это
+для нас обыденно. Спасите [name:0]!
++++
 "Please! Please rescue [name:0]!
 We're madly in love! "
-
+Пожалуйста! [name:0] нуждается в
+помощи! Мы очень друг-друга любим!
++++
 "Please rescue my precious [name:0]!
 We're in love! Please help! "
-
+[name:0] в беде! Спасите мою
+прелесть! Мы влюблены! Помогите!
++++
 "Please rescue [name:0]! We've pledged our
 eternal friendship to each other! "
-
+Прошу, спасите [name:0]! Мы поклялись
+друг-другу в вечной дружбе!
++++
 "Please save my [name:0]! Now I know
 what [name:0] means to me... "
-
+Прошу, спасите [name:0]! Теперь, я
+знаю, что [name:0] для меня всё...
++++
 "Please save [name:0]! We're no good if
 we're not together! "
-
+Прошу, спасите [name:0]! Если мы не
+вместе, нам обоим плохо!
++++
 "I can't live without [name:0]! My heart is
 breaking! Please help! "
-
+[name:0]! Я не могу жить без него!
+У меня сердце разрывается! На помощь!
++++
 "Please rescue [name:0]! We detest each
 other, but we push each other to excel! "
-
+Прошу, спасите [name:0]! Мы друг
+друга ненавидим, но это можно предолеть!
++++
 "Please save [name:0]. We owe each other
 a game! He needs to be here for it! "
-
+Прошу, спасите [name:0]! Мы должны
+друг-другу по игрушке!
++++
 "[name:0] can't leave until we settle which
 one of us is better once and for all! Help! "
-
+[name:0] не уйдёт, пока мы не узнаем,
+кто из нас двоих лучший! Помогите!
++++
 "[name:0] has been a rival since my
 ancestors' time. The rivalry can't end! "
-
+[name:0] - мой соперник с давних
+времён. Соперничеству не прекратиться!
++++
 "I've been rivals with [name:0] for
 generations. It can't suddenly end like this! "
-
+[name:0] поколениями является моим
+соперником. Так просто всё не кончится!
++++
 "My little brother [CS:N]Pichu[CR] disappeared!
 I'm really worried! Someone, please help! "
-
+Мой младшенький братишка [CS:N]Пичу[CR] исчез!
+Я очень переживаю! Кто-нибудь, помогите!
++++
 "Let's go exploring together to
 [dungeon:0]'s [floor:0]!"
-
+[dungeon:0]! Сходим-ка
+туда на [floor:0], поисследуем!
++++
 "Seeking fellow explorers to reach
 [dungeon:0]'s [floor:0]!"
-
+Ищу исследователей в такое место:
+[dungeon:0] [floor:0]!
++++
 "Let's explore [dungeon:0]'s [floor:0]!
 Let's have fun with this!"
-
+[dungeon:0] веселое место!
+Идём туда на [floor:0]
++++
 "Let's team up and solve the mystery of
 [dungeon:0]'s Sealed Chamber."
-
+Давайте соберёмся и решим загадку
+[dungeon:0].
++++
 "There's a Sealed Chamber in there!
 Someone crack that mystery with me!"
-
+Закрытая Комната существует! Кто-нибудь,
+помогите разгадать её тайну!
++++
 "The Sealed Chamber there is hiding something.
 We'll open it together!"
-
+Закрытая Комната скрывает в себе нечто
+загадочное. Откроем её вместе!
++++
 "If you take me, I can open the Sealed Chamber.
 Doesn't anyone want to escort me?"
-
+Если вы меня возьмёте, я смогу открыть
+Закрытую Комнату. Сопроводите меня?
++++
 "We should cooperate and search for
 [dungeon:0]'s Golden Chamber!"
-
+Соберёмся и отыщем Золотую Комнату в
+[dungeon:0]!
++++
 "The Golden Chamber's supposed to be full of
 treasure! Let's team up and look for it!"
-
+Золотая Комната наверняка полна
+сокровищ! Соберёмся и отыщем её!
++++
 "[dungeon:0] supposedly has a
 Golden Chamber! I could use help!"
-
+[dungeon:0] возможно
+скрывает Золотую Комнату! Нужна помощь!
++++
 "There's a wild territory that needs exploring!
 Let's be the first to conquer it!"
-
+Неизведанная территория требует, чтобы
+её исследовали! Будем одними из первых!
++++
 "I've discovered a new dungeon that nobody
 knows about! Anyone care to join me?"
-
+Я обнаружил новое подземелье!
+Кто-нибудь желает присоединиться?
++++
 "There's this dungeon that no one knows about
 yet. Let's get an exploration team together."
-
+Есть такое подземелье, о котором никто
+не знает. Соберём туда экспедицию.
++++
 "Help me find the rare [item:0]!
 "
+Помогите найти [item:0]!
 
++++
 "[item:0]... I must find it!
 "
+[item:0]... Надо это найти!
 
++++
 "Let's go discover the [item:0]!
 "
+Найдём [item:0]!
 
++++
 "I need help to get the [item:0]!
 "
+Нужно найти [item:0]!
 
++++
 "Let's look for the precious [item:0]!
 "
+Поищем ценный [item:0]!
 
++++
 "The [item:0] must be there!
 "
+Там есть [item:0]!
 
++++
 "The treasured [item:0] must be found!
 "
+[item:0]! Найдем это!
 
++++
 Join me for this adventure!
-
 Seeking like-minded explorers!
-
 Let's go exploring together!
-
 Let's find it and bring it back!
-
 Let's do our best together!
-
+Присоединяйтесь ко мне!
+Ищу тех, кто мне поможет!
+Пойдём на вылазку вместе!
+Найдём этот предмет!
+Сделаем всё, что в наших силах!
++++
 "It's a legendary mask, rumored to be from a
 long-lost civilization. Please join me!"
-
+По слухам, эта легендарная маска
+принадлежит утерянной цивилизации!
++++
 "It's a peculiar mechanical part, veiled by
 legendary mystery. Let's team up to find it!"
-
+Это удивительная часть механизма,
+окутанная легендарной тайной. Найдём её!
++++
 "They say the [CS:I]Golden Seed[CR] is an incredible
 Seed... Someone join me! We have to find it!"
-
+Говорят, что [CS:I]Золотое Зерно[CR] - самое
+невероятное... Нам нужно его найти!
++++
 "I heard the [CS:I]Lost Loot[CR] is buried somewhere.
 It's worth a ton of money. Let's find it!"
-
+Мне известно, что где-то закопано
+[CS:I]Утерянное Добро[CR]. Оно очень дорогое!
++++
 "Somewhere in this world is the fantastic
 [CS:I]Wonder Gummi[CR]. I need a team to find it!"
-
+Где-то в этом мире есть прекрасное
+[CS:I]Чудо-Желе[CR]. Мне нужна команда на поиск!
++++
 "It's an ancient treasure that's said to be
 the most precious of precious things! Join me!"
-
+Говорят, что это древнее сокровище
+самое ценное из всех! Пойдём со мной!
++++
 "No one has ever seen the [CS:I]Golden Apple[CR], or so
 it's said! Let's discover it together!"
-
+Никто никогда не видел [CS:I]Золотое Яблоко[CR],
+поэтому нам нужно найти его!
++++
 "The slab is supposed to keep an incredible
 secret. Help me in my quest to find it!"
-
+Эта табличка скрывает в себе невероятный
+секрет. Помогите мне её найти!
++++
 "This fossil gives its holder ancient energy! Or
 so it's said! Let's assemble a team and find it!"
-
+Эта окаменелость даёт своему носителю
+энергию древности! Найдем её!
++++
 "Anyone interested in finding an incredible
 object? It's truly worth bragging about!"
-
+Кто-нибудь интересуется необычными
+вещами? Об этом стоит узнать больше!
++++
 "I want a tour of [dungeon:0]!
 "
+[dungeon:0]!
 
++++
 "I want to see what sort of a place it is!
 "
+Я очень хочу посмотреть на это место!
 
++++
 "I've always wanted to go there!
 "
+Я всегда хотел туда пойти!
 
++++
 "I'm too weak and get beaten up easily...
 "
+Я слабый и меня легко одолеть...
 
++++
 "I want to sightsee, but I can't get very far.
 "
+Хочу повидать мир, но у меня не выходит.
 
++++
 "I really want to go there!
 "
+Я очень хочу туда пойти!
 
++++
 "It's been my dream to go there.
 "
+Я мечтаю туда пойти.
 
++++
 Please take me there!
-
 Please escort me there!
-
 Please! Won't someone take me?
-
 Someone take me! I can reward generously!
-
 I have rewards for anyone that can take me!
-
+Кто-нибудь возьмите меня туда!
+Прошу, сопроводите меня!
+Пожалуйста! Кто пойдёт со мной?
+Возьмите меня! Я щедро заплачу!
+Я награжу тех, кто меня возьмёт!
++++
 "[name:0] is waiting for me! 
 "
+[name:0] меня ждёт!
 
++++
 "We promised to meet in the dungeon! 
 "
+Мы пообещали встретиться в подземелье!
 
++++
 "I want to meet with [name:0]. 
 "
+Я хочу увидеть друга [name:0]. 
 
++++
 "I'm worried about [name:0]... 
 "
+[name:0]... Я за него переживаю.
 
++++
 "I can't go by myself... 
 "
+Я не могу пойти самостоятельно...
 
++++
 "I can't go on my own power... 
 "
+Я не могу идти своими силами...
 
++++
 "I'm too weak. It's not possible. 
 "
+Я слишком слаб. Это невыносимо.
 
++++
 "[name:0] is waiting in the dungeon. 
 "
+[name:0] ждёт в подземелье.
 
++++
 "[name:0] has been waiting forever... 
 "
+[name:0] ждёт уже целую вечность...
 
++++
 "Hurry, [name:0] is in trouble... 
 "
+Быстрее, [name:0] в беде...
 
++++
 "I want to help [name:0]! 
 "
+[name:0] нуждается в моей помощи!
 
++++
 "[name:0] hasn't returned! 
 "
+[name:0] ещё не вернулся!
 
++++
 "[name:0] may have fainted inside... 
 "
+[name:0], возможно, без сознания...
 
++++
 "I'm sick with worry... 
 "
+Меня гложет тревога...
 
++++
 "We haven't seen each other in a long time. 
 "
+Мы друг-друга уже давно не видели.
 
++++
 "I have to go! 
 "
+Мне нужно идти!
 
++++
 "We have to meet! No matter what it takes! 
 "
+Нам нужно встретиться! Любой ценой!
 
++++
 "I don't care how! We must meet! 
 "
+Мне всё равно как, но мы встретимся!
 
++++
 "I want to apologize to [name:0]. 
 "
+[name:0] ждёт от меня извинений.
 
++++
 "I'm close friends with [name:0]! 
 "
+Я и [name:0] - близкие друзья!
 
++++
 "I want to join up with my team right away! 
 "
+Я очень хочу встретить свою команду!
 
++++
 "I want to form an exploration team again. 
 "
+Хочу снова собрать свою команду.
 
++++
 "I'm worried that thugs will jump me... 
 "
+Я боюсь, что на меня нападут негодяи...
 
++++
 Please take me to see [name:0]! 
-
+[name:0] - тот кого я хочу увидеть!
++++
 Please take me there with you! 
-
 Please escort me there! 
-
 Someone, please escort me! 
-
+Прошу, возьмите меня с собой!
+Прошу, сопроводите меня туда!
+Кто-нибудь, сопроводите меня!
++++
 "Please! Take me to meet [name:0]! 
 "
+Прошу! Мне надо увидеть [name:0]!
 
++++
 "Please escort me to my [name:0]! 
 "
+Прошу, сопроводите к [name:0]! 
 
++++
 "Help me meet [name:0]! 
 "
+Мне надо встретить [name:0]! 
 
++++
 "I really want to meet [name:0]! 
 "
+Я очень хочу увидеть [name:0]! 
 
++++
 "I'm so worried about [name:0]... 
 "
+[name:0]... Я беспокоюсь за него.
 
++++
 "Without [name:0], I... 
 "
+[name:0]... Без него, я...
 
++++
 We're in love! Please take me there! 
-
 We belong together! Please escort me! 
-
 We've entrusted our futures to each other! 
-
 This means everything to me! 
-
 It's no good if we're not together! 
-
 I'm very lonely! Please take me with you! 
-
+Мы влюблены! Возьмите меня с собой!
+Мы должны быть вместе! Сопроводите меня!
+Мы доверили друг-другу наше будущее!
+Это для меня многое значит!
+Ничего хорошего, если мы не вместе!
+Мне одиноко! Возьмите меня с собой!
++++
 "Having one [item:0] is reassuring. 
 "
+[item:0] успокаивает.
 
++++
 "[item:0]! So convenient to have! 
 "
+[item:0]! Очень полезно!
 
++++
 "One [item:0] needed for exploration. 
 "
+[item:0] нужен в вылазке.
 
++++
 "[item:0]! I love how it smells! 
 "
+[item:0]! Он хорошо пахнет!
 
++++
 "[item:0] wanted as a charm. 
 "
+Требуется [item:0].
 
++++
 "One [item:0]. That's all I need. 
 "
+[item:0]. Всё что нужно.
 
++++
 "[item:0]! I get scared without it! 
 "
+[item:0]! Страшно без этого!
 
++++
 "[item:0] makes me strong. 
 "
+[item:0] делает меня крепче.
 
++++
 "[item:0] wanted...to test its effects. 
 "
+[item:0]... попробовать бы.
 
++++
 "[item:0] wanted for nostalgia's sake. 
 "
+Нужен [item:0].
 
++++
 "I lost my [item:0]. 
 "
+Я потерял [item:0].
 
++++
 "[item:0] is so popular right now! 
 "
+[item:0] популярная вещь!
 
++++
 "Is it true about the [item:0]? 
 "
+[item:0]? Он и правда есть?
 
++++
 Please! May I have one? 
-
 Please trade me one! 
-
 Please find one for me! 
-
 Please give me one! 
-
 Please share one with me! 
-
 Please help! Reward offered! 
-
 Please! I'm offering a generous reward! 
-
 Please let me know if you find one! 
-
 Please search for it! 
-
 Please! I need your help! 
-
 Please help! You're my only hope! 
-
 Please share a little bit! 
-
 Please share one with me! 
-
 Please! I need some cooperation! 
-
 Please help me out! 
-
 Please help! I'm offering a reward! 
-
 Please contact me if you find it! 
-
+Пожалуйста! Можно это мне?
+Пожалуйста, дайте мне это!
+Пожалуйста, найдите это мне!
+Пожалуйста, дайте мне это!
+Пожалуйста, поделитесь этим!
+Помогите! Обещаю награду!
+Прошу! Я щедро вас награжу!
+Прошу, скажите мне если найдёте это!
+Прошу, поищите это!
+Прошу, мне нужна ваша помощь!
+Помогите! Вы - моя последняя надежда!
+Пожалуйста, поделитесь немного! 
+Поделитесь этим со мной!
+Прошу! Мне нужна поддержка!
+Пожалуйста, помогите мне!
+Прошу, помогите! Я дам награду!
+Свяжитесь со мной, если найдёте это!
++++
 "It's an exceedingly rare [item:0].
 "
+Это редкий [item:0].
 
++++
 "[item:0]! It's the talk of the town!
 "
+[item:0]! Это хотят все!
 
++++
 "I dream of that [item:0].
 "
+[item:0]. Это моя мечта.
 
++++
 "[item:0]! I've always wanted one!
 "
+[item:0]! Всегда хотел это!
 
++++
 "I have a craving for one [item:0]!
 "
+Я очень хочу [item:0]!
 
++++
 "It's a bedazzling [item:0].
 "
+Это прекрасный [item:0].
 
++++
 "I'm a dedicated [item:0] collector!
 "
+Я собираю [item:0]!
 
++++
 "[item:0] is quite hard to come by.
 "
+[item:0] не пропустить.
 
++++
 "I must have it, this [item:0]!
 "
+Этот [item:0] нужен мне!
 
++++
 "It's a hidden treasure, that [item:0]!
 "
+[item:0]! Вот так ценность!
 
++++
 Please let me have it if you find one!
-
 I have a reward if you can bring me one.
-
 Please contact me if you find it!
-
 Please trade me one!
-
 I'll give you my life savings for it!
 
++++
 "[item:0]! It's what I love to eat.
 "
+[item:0]! Обожаю это есть.
 
++++
 "I want one [item:0] very badly!
 "
+Я очень хочу [item:0]!
 
++++
 "What do I obsess about? The [item:0]!
 "
+Что я хочу? [item:0]!
 
++++
 I can't live without it! Please!
-
+Мне без этого никуда! Пожалуйста!
++++
 Please get me one! I need help!
-
+Прошу, достаньте мне это! Помогите!
++++
 "[item:0]! I can't leave without it.
 "
+[item:0]! Без этого никуда.
 
++++
 "One [item:0]... It's all I need!
 "
+[item:0]... Всё что и надо!
 
++++
 "[item:0]... I can't find one.
 "
+[item:0]... Не могу найти.
 
++++
 "I haven't found one [item:0] yet...
 "
+Я так и не нашёл [item:0].
 
++++
 "I lost my [item:0].
 "
+Я потерял [item:0].
 
++++
 "My [item:0] supply ran out when I fell.
 "
+У меня пропал [item:0].
 
++++
 "I can't move without my [item:0]!
 "
+[item:0]! Без этого никуда!
 
++++
 "I'm waiting for my [item:0] supply.
 "
+Я хочу себе [item:0].
 
++++
 "I can't explore without my [item:0]!
 "
+Без [item:0] мне никуда!
 
++++
 "It's essential for exploring!
 "
+Это важный предмет для вылазок!
 
++++
 "It's absolutely necessary for exploring!
 "
+Это очень нужно для вылазок!
 
++++
 "I foolishly lost it while exploring...
 "
+Я по глупости потерял это в вылазке...
 
++++
 Please! I must have one delivered!
-
 Please help! I'm counting on you!
-
 Please! I need your help!
-
 Please help! You're my only hope!
-
 Please help me out!
-
 Please! Please help me!
-
 Please! Someone help!
-
 Please! Won't someone help me?
-
 Please, won't someone deliver one to me?
-
+Прошу! Мне нужно это доставить!
+Прошу, помогите! Я рассчитываю на вас!
+Прошу! Мне нужна ваша помощь!
+Помогите! Вы моя последняя надежда!
+Прошу, помогите мне!
+Пожалуйста! Прошу, помогите мне!
+Пожалуйста! Помогите, кто-нибудь!
+Пожалуйста! Разве мне никто не поможет?
+Прошу, неужели никто это не доставит?
++++
 "Waaah! [name:0] took my [item:0]!
 "
+[name:0] украл [item:0]!
 
++++
 "[name:0] ripped off my [item:0]!
 "
+[name:0] стащил [item:0]!
 
++++
 "[name:0] ran off with my [item:0].
 "
+[name:0] вынес [item:0].
 
++++
 "Some [name:0] stole my [item:0]!
 "
+[name:0] украл [item:0]!
 
++++
 "[name:0] took my [item:0]!
 "
+[name:0] забрал [item:0]!
 
++++
 "[name:0] stole my [item:0]!
 "
+[name:0] украл [item:0]!
 
++++
 "Eek! [name:0] has my [item:0]!
 "
+Иии! У [name:0] [item:0]!
 
++++
 "[name:0] took my only [item:0]!
 "
+[name:0] взял [item:0]!
 
++++
 "[name:0] pilfered my [item:0]!
 "
+[name:0] утащил [item:0]!
 
++++
 "[name:0] swiped my [item:0]!
 "
+[name:0] украл [item:0]!
 
++++
 "[name:0] took my [item:0] and ran!
 "
+[name:0] взял [item:0]!
 
++++
 "Grrr... [name:0] has my [item:0]!
 "
+Грр... У [name:0] [item:0]!
 
++++
 "[name:0] stole one [item:0]!
 "
+[name:0] украл [item:0]!
 
++++
 "[name:0] has taken my [item:0]!
 "
+[name:0] забрал [item:0]!
 
++++
 Please, get it back for me!
-
 I need it back! Please go get it!
-
 Get it back! And teach the thief a lesson!
-
 I'm offering a reward! Someone, help!
-
 I need someone to get it back for me!
-
 Please find it and bring it back to me.
-
 It's something I've got to have back!
-
 Please punish the thief and get it back!
-
 Get that robber! Bring my stuff back!
-
 Defeat that crook! Get it back, please!
-
+Прошу, верните мне это!
+Мне это нужно! Прошу, найдите это!
+Верните это! И проучите вора!
+Я щедро награжу вас! Помогите мне!
+Мне нужен кто-то, чтобы это вернуть!
+Прошу, найдите это и верните мне!
+Мне нужно это вернуть!
+Прошу, накажите вора и верните вещь!
+Поймайте грабителя! Верните мне вещь!
+Одолейте воришку! Верните вещь, прошу!
++++
 "Looking for former teammate [name:0]!
 "
+Ищу бывшего члена группы, [name:0]!
 
++++
 "I'm looking for my mentor, [name:0].
 "
+Я ищу своего наставника, [name:0].
 
++++
 "My bodyguard [name:0] is missing.
 "
+Телохранитель [name:0] пропал.
 
++++
 "I'm searching for the lost [name:0].
 "
+Ищу пропавшего: [name:0].
 
++++
 "I'm trying to find [name:0], an old friend.
 "
+Хочу найти [name:0], своего друга.
 
++++
 "Missing explorer: [name:0]!
 "
+Пропал исследователь: [name:0]!
 
++++
 "I need help finding my friend, [name:0].
 "
+Нужно найти моего друга, [name:0].
 
++++
 "I'm searching for my partner, [name:0].
 "
+Я ищу своего спутника, [name:0].
 
++++
 Offering a reward for a rescue!
-
 Please let me know if this PokГ©mon is found.
-
 Please! My friend must be found!
-
 He has to be in a dungeon somewhere! Please!
-
 She must be somewhere! Please find her!
-
+Предлагаю награду за спасение!
+Прошу, дайте знать, если найдете его.
+Прошу! Моего друга надо найти!
+Он где-то в подземелье! Прошу!
+Она должна быть где-то там! Найдите её!
++++
 "This crook steals personal treasures!
 "
+Этот воришка крадёт личные ценности!
 
++++
 "This PokГ©mon is causing trouble everywhere!
 "
+Этот Покемон всюду чинит неприятности!
 
++++
 "This brute is ambushing travelers!
 "
+Этот грубиян нападает на прохожих!
 
++++
 "This cowardly PokГ©mon preys on the weak!
 "
+Этот подлец-Покемон охотится на слабых!
 
++++
 "This PokГ©mon muscles in on treasure!
 "
+Этот Покемон отбирает сокровища!
 
++++
 "This criminal knows no bounds!
 "
+У этого негодяя не знает границ!
 
++++
 "This thug pressures PokГ©mon to hand it over!
 "
+Этот бандит грабит Покемонов!
 
++++
 "This PokГ©mon has made a career out of crime!
 "
+Этот Покемон - отъявленный негодяй!
 
++++
 "This notorious criminal can be anywhere!
 "
+Этот ужасный злодей может быть повсюду!
 
++++
 "This PokГ©mon goes for big prizes only!
 "
+Этот Покемон ворует только по крупному!
 
++++
 "This leader lords over a band of thieves!
 "
+Этот лидер заправляет шайкой воров!
 
++++
 "This crook is notorious through the land!
 "
+Это печально известный жулик!
 
++++
 "Even outlaws steer clear of this leader!
 "
+Даже негодяи сторонятся этого лидера!
 
++++
 "This PokГ©mon makes even felons afraid!
 "
+Этого Покемона боятся даже негодяи!
 
++++
 "This fiend shows no mercy!
 "
+Этот злодей беспощаден!
 
++++
 "This vicious PokГ©mon does awful things!
 "
+Этот жестокий Покемон творит ужасы!
 
++++
 "Tough to top this PokГ©mon for sheer vileness!
 "
+Трудно найти Покемона ужаснее него!
 
++++
 "This troublemaker is rowdy beyond belief!
 "
+Этот смутьян невероятно буйный!
 
++++
 "This PokГ©mon has a rotten mean streak!
 "
+Этот Покемон настоящий злюка!
 
++++
 "This slick-talking PokГ©mon cons everyone!
 "
+Сладкоречивый Покемон всех обманывает!
 
++++
 "Who can say how much this crook has stolen?
 "
+Кто знает, сколько этот лиходей украл?
 
++++
 "This PokГ©mon sneaks off with others' stuff!
 "
+Этот Покемон крадёт вещи других!
 
++++
 "What does this PokГ©mon say? Lies! Only lies!
 "
+Что говорит этот Покемон? Ложь! Враньё!
 
++++
 "This swindler is a serious fast-talker!
 "
+Этот аферист всех забалтывает!
 
++++
 "This smooth-talker exploits others' big dreams!
 "
+Этот говорун наживается на других!
 
++++
 "A bad thing lurks in this PokГ©mon's heart!
 "
+В сердце этого Покемона кроется зло!
 
++++
 "She beguiles victims with her cute looks!
 "
+Она соблазняет жертв своим милым видом!
 
++++
 "Don't be fooled by her cuteness!
 "
+Не ведитесь на её милый вид!
 
++++
 "Don't let yourselves be bewitched by its smile!
 "
+Не позволяйте ему очаровать вас улыбкой!
 
++++
 "Don't let appearances fool you!
 "
+Не позволяйте внешности обмануть вас!
 
++++
 "Beware! Its smile hooks victims in!
 "
+Осторожно! Он манит жертв улыбкой!
 
++++
 "It gains your trust, then abuses it!
 "
+Он дружит с вами и пользуется этим!
 
++++
 "It only pretends to be weak!
 "
+Он только притворяется слабым!
 
++++
 "This lawless PokГ©mon preys upon the gullible!
 "
+Этот негодяй обманывает доверчивых!
 
++++
 "Its smile masks its bad intentions.
 "
+Под его улыбкой, скрывается недоброе.
 
++++
 "Bad thoughts are always brewing in its mind!
 "
+Он постоянно замышляет недоброе!
 
++++
 Help us apprehend this wrongdoer!
-
+Помогите нам арестовать этого негодяя!
++++
 Please bring this criminal to justice!
-
+Пожалуйста, найдите управу на негодяя!
++++
 Please help with this investigation!
-
+Помогите нам в расследовании!
++++
 "I need the [item:0] to evolve!
 And I really want to evolve! Help! "
-
+Для эволюции нужен [item:0]!
+А я очень хочу эволюционировать!
++++
 "This is a rescue via a communication mode.
 Get a friend to rescue your fallen team! "
-
+Это спасение по сетевому режиму.
+Позовите друга, чтобы спасти команду!
++++
 "This is a rescue via a communication mode.
 Rescue your friend's fallen team! "
-
+Это спасение по сетевому режиму.
+Спасите команду вашего друга!
++++
 "This is a rescue via a communication mode.
 Thank your friend for rescuing your team! "
-
+Это спасение по сетевому режиму.
+Поблагодарите друга за спасение команды!
++++
 "Find the [CS:I]Aqua-Monica[CR] that lies hidden deep
 beneath [CS:P]Bottomless Sea[CR]!"
-
+Найдите [CS:I]Аква-Монику[CR], что скрыта в
+глубинах [CS:P]Бездонного Моря[CR]!
++++
 "Find the [CS:I]Terra Cymbal[CR] that lies hidden deep
 beneath [CS:P]Shimmer Desert[CR]!"
-
+Найдите [CS:I]Терра-Тарелку[CR], что скрыта в
+[CS:P]Мерцающей Пустыне[CR]!
++++
 "Find the [CS:I]Icy Flute[CR] that lies hidden deep within
 [CS:P]Mt. Avalanche[CR]!"
-
+Найдите [CS:I]Ледяную Флейту[CR], что скрыта в
+глубинах [CS:P]Г. Лавина[CR]!
++++
 "Find the [CS:I]Fiery Drum[CR] that lies hidden deep
 within the [CS:P]Giant Volcano[CR]!"
-
+Найдите [CS:I]Барабан Огня[CR], что скрыт в жерле
+[CS:P]Гигантского Вулкана[CR]!
++++
 "Find the [CS:I]Rock Horn[CR] that lies hidden in the
 depths of [CS:P]World Abyss[CR]!"
-
+Найдите [CS:I]Каменный Рог[CR], что скрыт в
+глубинах [CS:P]Мировой Бездны[CR]!
++++
 "Find the [CS:I]Sky Melodica[CR] that lies hidden in the
 inner reaches of [CS:P]Sky Stairway[CR]!"
-
+Найдите [CS:I]Мелодику Неба[CR], что скрыта в
+далёких уголках [CS:P]Лестницы в Небо[CR]!
++++
 "Find the [CS:I]Grass Cornet[CR] that lies hidden deep
 within [CS:P]Mystery Jungle[CR]!"
-
+Найдите [CS:I]Травяной Рожок[CR], что скрыт в
+дебрях [CS:P]Загадочных Джунглей[CR]!
++++
 "[M:D0]Event Transmission 1
 Contents to be decided."
 
 "[M:D0]Event Transmission 2
 Contents to be decided."
-
++++
 "Can someone bring back a [CS:I]Gabite Scale[CR]?
 It's for our sick friend!"
-
+Кто нибудь может раздобыть [CS:I]Чешуйку[CR]
+[CS:I]Габайта?[CR] Она нужна больному другу!
++++
 It was stolen... 
-
+Эту вещь украли... 
++++
 It was taken... 
-
+Эту вещь забрали... 
++++
 "I am the strongest PokГ©mon, [CS:N]Mewtwo[CR].
 I challenge you, Team [team], to a duel!"
-
+Я - сильнейший Покемон, [CS:N]Мьюту[CR].
+Я вызываю Команду [team] на бой!
++++
 "My name is [CS:N]Entei[CR]! Team [team]! I'm
 waiting for you at [dungeon:0]!"
-
+Я - Энтей! Команда [team]! Я жду
+вас в месте [dungeon:0]!
++++
 "The famous Team [team]! My lightning
 will be your downfall!"
-
+Знаменитая Команда [team]!
+Мои молнии поставят вас на место!
++++
 "My name is [CS:N]Suicune[CR]. I just have to know how
 strong Team [team] really are!"
-
+Имя мне - [CS:N]Суикун[CR]. Я лишь хочу узнать,
+насколько сильна Команда [team]!
++++
 "I'm [CS:N]Jirachi[CR]. I'd like to have a battle with the
 famous Team [team]. в™Є"
-
+Я [CS:N]Дзирати[CR]. Я хочу сразиться со
+знаменитой Командой [team]. ♪
++++
 "There's a strange power emanating from
 Team [team]. Let's go a round or two!"
-
+От Команды [team] исходит
+таинственная сила. Сразимся!
++++
 "Team [team]! We've heard about you!
 We'll be waiting in [dungeon:0]!"
-
+Команда [team]! Мы слышали о вас!
+[dungeon:0], мы ждём тут!
++++
 "Team [team]! в™Є You have a great
 beat! в™Є We'd like to dance...er...duel with you!"
-
+Команда [team]! ♪ У вас отличный
+такт! Хотим потанц... подраться с вами!
++++
 "Team [team]! Seems you're getting kind
 of carried away! You'll have to face us first!"
-
+Команда [team]! Кажется, вы
+много о себе возомнили! Сразимся!
++++
 "Team [team], let's compete sometime.
 We're in [dungeon:0]."
-
+Команда [team], нам нужно
+сразиться. В [dungeon:0].
++++
 "Team [team]! We've been training hard
 to challenge you to a battle!"
-
+Команда [team]! Мы долго
+тренировались и вызываем вас на бой!
++++
 "Team [team]! We challenge you to a
 battle to see which of us is the strongest!"
-
+Команда [team]! Мы вызываем вас
+на поединок! Узнаем, кто из нас сильнее!
++++
 "Hey, Team [team]. Do you think you can
 break through my strong armor?"
-
+Эй, Команда [team]. Думаете, что
+сможете пробить мою стальную защиту?
++++
 "You're pretty famous, Team [team]! If
 we knock you out, then we can be famous too!"
-
+Вы очень известны, Команда [team]!
+Мы вас победим и станем даже известнее! 
++++
 "Do you have the guts to stand up against our
 mysterious attacks, Team [team]?"
-
+Хватит ли у Команды [team]
+сил выстоять против нас, или нет?
++++
 "Huh? Team [team]? Come battle us!
 We're waiting in [dungeon:0]!"
-
+А? Команда [team]? Выходите на
+бой! В [dungeon:0]!
++++
 "Come battle us, Team [team]! You won't
 run away, right?"
-
+Сразитесь с нами, Команда [team]!
+Вы ведь не сбежите, верно?
++++
 "We really admire you, Team [team]!
 Please honor us with a battle sometime!"
-
+Мы восхищены, Команда [team]!
+Почтите нас славной битвой!
++++
 "We've mastered the art of fighting. We want
 to see how you match up, Team [team]."
-
+Мы мастерски освоили боевые искусства.
+Справитесь с нами, Команда [team]?
++++
 "Dear Team [team], we challenge you.
 We'll be waiting in [dungeon:0]."
-
+Команда [team], выходите на бой.
+[dungeon:0] - ждём вас.
++++
 Hey, Team [team]! Come fight us!
-
+Эй, Команда [team]! Сразимся!
++++
 "Team [team], we're waiting to challenge
 you in [dungeon:0]. See you soon."
-
+Команда [team], мы ждём вас в
+[dungeon:0]. Увидимся.
++++
 "Hey! Team [team]! Challenge! Duel!
 With us! We're waiting! Hurry!"
-
+Эй! Команда [team]! Сражение!
+Дуэль! С нами! Мы ждём! Поскорее!
++++
 "We'd really like the chance to challenge
 Team [team] to a battle."
-
+Нам бы очень хотелось испытать Команду
+[team] в сражении.
++++
 "We wonder if you will be weak to our three
 types, Team [team]?"
-
+Интересно, слабы ли вы против наших
+трёх типов, Команда [team]?
++++
 "We've heard stories about Team [team].
 We'll challenge you to see if they're true."
-
+Мы многое слышали о Команде [team].
+Мы хотим испытать вас в бою.
++++
 "We can see it! Our victory over
 Team [team]! Come face us in battle!"
-
+Мы видим её! Нашу победу над Командой
+[team]! Сразитесь с нами!
++++
 "We hear you're pretty strong, Team 
 [team]. I guess we'll find out the truth!"
-
+Мы слышали, что вы весьма сильны,
+Команда [team]. Проверим?
++++
 "We're waiting for you, Team [team].
 Don't keep us waiting long."
-
+Мы ждём вас, Команда [team].
+Не заставляйте нас долго ждать.
++++
 "Team [team]? We've heard you're
 strong, but is it true? Come show us!"
-
+Команда [team]? Мы знаем, что
+вы сильны, но насколько? Покажите нам!
++++
 "Hey, Team [team]! Hurry over to
 [dungeon:0] so we can beat you!"
-
+Эй, Команда [team]! Спешите в
+[dungeon:0] на бой!
++++
 "Ha ha ha! Team [team], do you think you
 can dodge my strange steps?"
-
+Ха-ха-ха! Команда, [team], сможете
+ли вы увернуться от моих шагов?
++++
 "Team [team], let's have a duel. в™Є Come
 fight us, fair and square!"
-
+Команда [team], сразимся. ♪
+Выходите на честный и справедливый бой!
++++
 "Here's the shelter of cute, clobbering outlaws.
 "
+Здесь убежище милых громил-негодяев.
 
++++
 "Here you'll find the criminals who smile darkly.
 "
+Тут прячутся негодяи со злыми помыслами.
 
++++
 "Look for the secret base of scheming minds.
 "
+Поищите скрытую базу коварных негодяев.
 
++++
 "The base of outlaws who exploit any weakness.
 "
+База негодяев, что охотятся на слабых.
 
++++
 "Refuge of thieves who fool everyone.
 "
+Убежище обманывающих всех воров.
 
++++
 "Find the hiding spot of the big-mouthed outlaw.
 "
+Найдите убежище большеротого негодяя.
 
++++
 "Hiding place of the outlaw who lies, lies, lies!
 "
+Здесь прячется негодяй, кто лжёт, лжёт!
 
++++
 "Finally found the criminal's hideout.
 "
+Убежище негодяя наконец найдено.
 
++++
 "Found the lawless criminal's base.
 "
+Найдена база опасного негодяя.
 
++++
 "Located the big boss's hideout.
 "
+Найдено убежище большого босса.
 
++++
 "Find the cruel thief's hideout.
 "
+Найти убежище жестокого вора.
 
++++
 "Found the thieves' den.
 "
+Найдено убежище воров.
 
++++
 "Found the outlaws' hideout.
 "
+Найдено убежище негодяев.
 
++++
 "Found the hideout of the band of thieves.
 "
+Найдено убежище шайки воров.
 
++++
 "Found the hooligans' hideout.
 "
+Найдено убежище хулиганов.
 
++++
 "Found the great thieves' secret base.
 "
+Найдена секретная база воров.
 
++++
 Help us apprehend this wrongdoer!
-
+Помогите нам арестовать этого негодяя!
++++
 March in there and arrest them!
-
+Отправляйтесь и арестуйте их!
++++
 Please help with this investigation!
-
+Пожалуйста, помогите в расследовании!
++++
 "The scoundrel is waiting in the Monster House.
 "
+Этот подлец ждёт в Засаде Монстров.
 
++++
 "That coward will wait with its henchmen.
 "
-
+Этот трус будет ждать с прихвостнями.
+ 
++++
 "That coward's always surrounded by henchmen!
 "
+Этот трус вечно в окружении прихвостней!
 
++++
 "It'll call for help as soon as it's found!
 "
+Если его найдут, то он позовет дружков!
 
++++
 "A terrible criminal who commands others.
 "
+Ужасный негодяй, командующий другими.
 
++++
 "Those thieves operate in a group.
 "
+Эти воры работают сообща.
 
++++
 "Get close, and their henchmen will swoop in.
 "
+В бою ему помогают прихвостни.
 
++++
 Take care when apprehending this criminal!
-
+Будьте особенно острожны при аресте!
++++
 Once you've found them, careful catching them!
-
+Будьте осторожны при аресте!
++++
 Use extra caution in your investigations!
-
+Будьте особенно осторожны!
++++
 "They escaped just before we could catch them.
 "
+Он сбежал прямо перед его поимкой.
 
++++
 "They run away too fast to be caught.
 "
+Он слишком быстро бегает от правосудия.
 
++++
 "I took my eyes off them and they ran.
 "
+Только отвёл взгляд и его след простыл.
 
++++
 "This outlaw runs off before we know it!
 "
+Этот негодяй очень быстро сбежал!
 
++++
 "This outlaw keeps restlessly running away.
 "
+Этот негодяй постоянно сбегает.
 
++++
 "This outlaw suddenly pops up, then runs off.
 "
+Этот негодяй появился и сбежал.
 
++++
 "You'll get only a glimpse as the outlaw flees.
 "
+Этот негодяй постоянно сверкает пятками.
 
++++
 "This coward is always on the run.
 "
+Этот трус постоянно в бегах.
 
++++
 Help us apprehend this wrongdoer!
-
+Помогите нам арестовать этого негодяя!
++++
 Once you've found them, bring them in!
-
+Приволоките его сюда, если найдёте!
++++
 Please help with this investigation!
-
+Помогите в этом расследовании!
++++
 "I'm afraid to do anything about this scoundrel!
 "
+Я опасаюсь этого негодяя!
 
++++
 "I can't stand sly thieves!
 "
+Терпеть не могу коварных воров!
 
++++
 "I don't stand a chance against this big boss!
 "
+Я не выстою в бою с этим большим боссом!
 
++++
 "They're too wild. I don't want to interfere!
 "
+Они слишком злы. Не хочу вмешиваться!
 
++++
 "They're too mean. I can't stand up to them!
 "
+Он слишком груб. Я его не выношу!
 
++++
 "Too scary! I can't stand up to them by myself!
 "
+Как страшно! Я не выстою перед ним!
 
++++
 "I want to be the one to catch them!
 "
+Я хочу быть тем, кто поймает его!
 
++++
 "They're terrible. They defeat us every time!
 "
+Он ужасен. Он постоянно нас побеждает!
 
++++
 "They're always one step ahead of being caught!
 "
+Он всегда на шаг впереди!
 
++++
 "They're so creepy. They terrify me!
 "
+Он такой жуткий. Он меня пугает!
 
++++
 "They're so frightening. They've got me shaking!
 "
+Он такой жуткий. Я трясусь от страха!
 
++++
 "They elude capture by showing up unexpectedly!
 "
+Он постоянно избегает ареста!
 
++++
 "It's a big, scary scoundrel!
 "
+Это большой и страшный негодяй!
 
++++
 "Let's go capture them! I'll go with you.
 "
+Поймаем его! Я пойду с вами.
 
++++
 "I'll come with you to help capture them!
 "
+Я пойду с вами и помогу поймать его!
 
++++
 "Let's catch this criminal! I'll come too!
 "
+Поймаем негодяя! Я пойду с вами!
 
++++
 "I'll come with you. We can succeed together!
 "
+Я пойду с вами. Вместе мы преуспеем!
 
++++
 "I'll join you in catching these criminals!
 "
+Я пойду с вами на поимку негодяев!
 
++++
 "Let's hide the treasure we can't carry in the
 cave near the beach."
-
+Спрячем сокровище, которое мы не можем
+унести, в пещере рядом с пляжем.
++++
 "Let's hide the treasure we found earlier in the
 shade of the bluff!"
-
+Спрячем найденное нами сокровище в тени
+утёса!
++++
 "Let's hide our treasure in a bristly
 mountain."
-
+Спрячем наше сокровище в колючей
+горе.
++++
 "I think we could find some ancient treasure
 in that cave hidden by the waterfall."
-
+Думаю, что мы можем найти древние
+сокровища в пещере за водопадом. 
++++
 "I bet there's some secret treasure hidden in
 that forest all the big eaters love."
-
+Сокровище точно скрыто в том лесу, куда
+ходят все обжоры.
++++
 Let's hide our treasure on that craggy beach.
-
+Спрячем наше добро на скалистом берегу.
++++
 "Let's hide our bandit's treasure here.
 The password is ""horn""!"
-
+Спрячем там наше награбленное.
+Пароль: "Хорн"!
++++
 "There's an ancient treasure sleeping within
 the fog in a forest somewhere."
-
+В туманном лесу где-то скрыто древнее
+сокровище.
++++
 "Let's leave our footprints in that steamy cave
 to show we were there!"
-
+Мы оставим наши отпечатки в той паровой
+пещере, чтобы показать, что мы там были!
++++
 "I was startled by all the lightning and
 dropped my precious treasure..."
-
+Меня поразил этот свет и я уронил своё
+ценное сокровище...
++++
 "My precious treasure. в™Є
 I hid it in the sand so no one will take it."
-
+Моё ценное сокровище. ♪ Я спрятал его
+в песках. Никто его не увидит.
++++
 "A legendary treasure sleeps in the cave where
 the sand flows..."
-
+Легендарное сокровище в пещере, где
+пески затягивают...
++++
 "I'll hide my treasure here. They'll be too busy
 looking at the crystals to notice it..."
-
+Я спрячу здесь своё добро. Пока они
+смотрят на кристаллы, меня не увидят.
++++
 "I bet you can find an ancient treasure along
 the path to the lake..."
-
+Определённо, если пойти к озеру, то
+можно найти древнее сокровище...
++++
 "(The letters are blurry. It's hard to read...)
 Trea... hid... in ...shrou... ...rest"
-
+(Текст неразборчив. Трудно читать...)
+Сокр... спря... в ..росш.. ..су.
++++
 "Let's hide the treasure we stole in that cave
 that stinks like the seashore!"
-
+Спрячем наше награбленное в той пещере,
+что пахнет как морской берег!
++++
 "Outlaws like mysterious forests. Then, when
 they get caught, their loot can never be found!"
-
+Негодяи словно загадочные леса. Но, если
+их поймают, их награбленное не найти!
++++
 "I dropped my important treasure... But the
 blizzard is so bad, I can't go out and look."
-
+Я выронил моё сокровище... Но метель
+такая сильная, я не могу вернуться.
++++
 "A treasure resting in a frozen cave...
 I wonder if the legends are true!"
-
+Сокровище в ледяной пещере...
+Интересно, правдивы ли легенды!
++++
 "Ha ha! в™Є I dropped my precious treasure
 in the southernmost sea. в™Є"
-
+Ха-ха! ♪ Я уронил своё сокровище
+в самом южном море. ♪
++++
 "There's a legendary pirate treasure sleeping in
 the western sea."
-
+В западном море сокрыто легендарное
+пиратское сокровище.
++++
 "I found more treasure than I could carry...
 It looks like my travail was not enough..."
-
+Я набрал больше сокровищ, чем смог
+унести... Травейл... добраться бы...
++++
 "I dropped my important treasure while I was
 strolling around in the sky..."
-
+Пока я летал в небесах, я выронил своё
+важное сокровище...
++++
 "I'll throw my treasure in that crater so
 nobody can take it from me!"
-
+Я сброшу своё сокровище в тот кратер
+и его никогда не найдут!
++++
 "I found treasure in a concealed place!
 Hee hee. в™Є This is my secret!"
-
+Я нашёл сокровище в скрытом месте!
+Хи-хи. ♪ Это моя тайна!
++++
 I forgot my treasure in a resort paradise...
-
+Я оставил сокровище на пляже...
++++
 "I want to submerge my treasure in that sea, to
 see if the rumors about the bottom are true..."
-
+Я хочу потопить своё сокровище в этом
+море и узнать, есть ли у него дно...
++++
 "We're going to hide the desert thieves'
 treasure somewhere shimmery but safe."
-
+Мы спрячем сокровища пустынных воров
+в каком-нибудь мерцающем месте.
++++
 "Avalanches bury all kinds of things...
                                          -unknown-"
-
+Лавины могут спрятать много всего...
+                                         -некто-
++++
 "Oh no... I was worried, so I hid my treasure...
 But what will I do if it erupts? Still worried..."
-
+О, нет... Я переживал и спрятал вещь...
+Но если он начнет извергаться? Ох...
++++
 "I fell into this abyss and found some absolutely
 amazing stuff! Ha ha! в™Є My little secret!"
-
+Я упал в эту бездну и нашёл кое-что
+удивительное! Ха-ха! ♪ Мой секрет!
++++
 "I thought nobody could put things in the sky,
 but I did it! Ha ha! в™Є My little secret!"
-
+Я думал, что в небе ничего не спрячешь,
+но мне удалось! Ха-ха! ♪ Мой секрет!
++++
 "I bet you could find a treasure
 deep in a mysterious jungle..."
-
+Полагаю, что сокровище скрыто в дебрях
+загадочных джунглей...
++++
 "I thought the river would wash it away, but I
 left it there anyway! Ha! в™Є My little secret!"
-
+Мне казалось, что река смоет это, но я
+всё равно оставил это там! ♪ Мой секрет!
++++
 "Oh, no! I dropped my treasure, and the whole
 thing just slid away somewhere!"
-
+О, нет! Я уронил сокровище и оно
+было унесено обвалом!
++++
 "I should hide my treasure on the prairie,
 since I can't carry it with me..."
-
+Мне нужно скрыть сокровище в прериях...
+Не могу его унести...
++++
 "It's such a small place. If I don't go back and
 get my treasure soon, someone will find it!"
-
+Какое крошечное место. Если я не приду
+туда и не заберу добычу, её утащат!
++++
 "I was able to hide my treasure, but the cave
 is such a maze. I don't know if I'll find it..."
-
+Я смог спрятать сокровище, но пещера
+словно лабиринт. Найти бы его потом...
++++
 "Thieves hid their treasure in a
 sweet-smelling forest, I hear..."
-
+Я слышал о том, что воры спрятали своё
+награбленное в приятно пахнущем лесу...
++++
 "I don't know anything about that. Nope. в™Є
 Not about a treasure hidden in the lake. в™Є"
-
+Ничего об этом не знаю. Не-а. ♪
+Ни о каком сокровище в озере. ♪
++++
 "I hope this treasure will make whoever
 finds it very happy. в™Є"
-
+Надеюсь, что тот, кто найдёт это
+сокровище, будет очень счастлив. ♪
++++
 "Oh, no! My treasure was blown away by the
 icy mistral... A cold, dry wind!"
-
+О, нет! Моё сокровище унес мистраль...
+Этот холодный, сухой ветер!
++++
 "I bet you could find a legendary treasure hiding
 somewhere beyond that shimmering hill..."
-
+Полагаю, что сокровище таится где-то за
+этим мерцающим холмом...
++++
 "No one will ever think to look for treasure in
 this wilderness."
-
+Никто и не подумает искать сокровище в
+этой затерянной пустыне.
++++
 "My precious treasure. в™Є I dropped it in
 a dark forest, and now I can't find it..."
-
+Моё сокровище. ♪ Я выронил его в тёмном
+лесу и теперь не могу найти...
++++
 "(The letters are blurry. It's hard to read...)
 Hid... trea... on ...ro Is... Nor..."
-
+(Текст неразборчив. Читать трудно...)
+Спр... сокр.. в Сев.. ..ль-Ос...
++++
 "Outlaws are hiding their treasure on the
 eastern part of an island that has a lake."
-
+Негодяи прячут своё сокровище на
+восточной части острова с озером.
++++
 "I heard of a hidden treasure on the western
 part of an island that has a lake on it..."
-
+Я слышал о скрытом сокровище на
+западной части острова с озером...
++++
 "Dear partner: I hid the treasure on an island,
 in the sou... (The memo's torn. It cuts off...)"
-
+Дорогой друг: Я спрятал сокровище на
+острове, на южн... (Записка оборвана...)
++++
 "The treasure is at the depths of the lake on
 Zero Island... Can someone get it for me?"
-
+Сокровище в глубинах озера на острове
+Нуль... Кто может его достать?
++++
 [M:D0]
-
++++
 [M:D1]Treasure Memo (planned)
 
 [M:D1]Treasure Memo (planned)
-
++++
 "The legends of treasure in the forest are like
 distant, forgotten memories..."
-
+Легенда о лесных сокровищах словно
+далёкое, забытое воспоминание...
++++
 "There's treasure in a certain sea. Go out
 and find it, along with your courage."
-
+В кое-каком море спрятаны сокровища.
+Найдите их, будьте смелее.
++++
 "Legends are told of treasure in the
 beautiful islands to the southeast..."
-
+Легенды говорят о сокровище, что есть
+на красивых островах на юго-востоке...
++++
 "It seems like you could happen across treasure,
 even in a raging inferno."
-
+Кажется, что можно наткнуться на скрытое
+сокровище даже в инфернальном закутке.
++++
 [M:D1]Treasure Memo (planned)
 
 [M:D1]Treasure Memo (planned)
 
 [M:D1]Treasure Memo (planned)
-
++++
 "Retrieve the [item:0]!
 "
+Отыщите [item:0]!
 
++++
 "Bring back the [item:0]!
 "
+Верните [item:0]!
 
++++
 "Take back my [item:0]!
 "
+Верните мой [item:0]!
 
++++
 "Please retrieve my [item:0]!
 "
+Прошу, верните мой [item:0]!
 
++++
 "Please bring back my [item:0]!
 "
+Прошу, верните мне [item:0]!
 
++++
 "Someone retrieve my [item:0]!
 "
+Кто-нибудь, верните [item:0]!
 
++++
 "Someone! Bring back my [item:0]!
 "
+Кто-нибудь! Верните [item:0]!
 
++++
 "Please! Retrieve my [item:0]!
 "
+Прошу! Верните мне [item:0]!
 
++++
 "Please bring back my [item:0]!
 "
+Прошу, верните мой [item:0]!
 
++++
 "I want my [item:0] back!
 "
+Я хочу мой [item:0]!
 
++++
 "I need my [item:0] back!
 "
+Мне нужен мой [item:0]!
 
++++
 The thief is on [floor:0]!
-
 The thief ran to [floor:0]!
-
 They took my item and ran to [floor:0]!
-
 The sneaky thief is on [floor:0].
-
 I think they took my item and ran to [floor:0].
-
 I'm pretty sure the thief is on [floor:0].
-
 I think the thief is on [floor:0].
-
 The one who took it is on [floor:0].
-
 The thief's on [floor:0]!
-
 I'm sure the criminal is on [floor:0]!
-
 There's a thief on [floor:0]!
-
 I'm sure the thief is still on [floor:0]!
-
 The thief is probably on [floor:0].
-
 The thief's on [floor:0]! Someone help!
-
 The criminal's on [floor:0]! Someone help!
-
 The criminal's on [floor:0]! Please get my item!
-
 The thief's on [floor:0]! Please get my item!
-
+Вор на [floor:0]!
+Вор сбежал на [floor:0]!
+Он украл мой предмет и удрал на [floor:0]!
+Воришка находится на [floor:0]!
+Я думаю, он сбежал на [floor:0].
+Я уверен, что вор находится на [floor:0]!
+Я думаю, что вор на [floor:0].
+Тот, кто взял предмет, на [floor:0].
+Вор находится на [floor:0]!
+Я уверен, что негодяй на [floor:0]!
+На [floor:0] находится вор!
+Вор всё ещё находится на [floor:0]!
+Вор, вероятно, на [floor:0].
+Вор на [floor:0]! Помогите!
+Негодяй на [floor:0]! Помогите!
+Негодяй на [floor:0]! Верните мою вещь!
+Воришка на [floor:0]! Верните мою вещь!
++++
 "[name:0] stole the [item:0] 
 "
+[name:0] украл [item:0]
 
++++
 "[name:0] took the [item:0] 
 "
+[name:0] взял [item:0] 
 
++++
 "[name:0] snatched the [item:0] 
 "
+[name:0] стащил [item:0] 
 
++++
 "[name:0] seized the [item:0] 
 "
+[name:0] утащил [item:0]
 
++++
 and ran away. 
-
 and I couldn't catch them. 
-
 and ran away! 
-
 and ran away. 
-
 and I couldn't catch up! 
-
 and ran away, again! 
-
 and I can't catch 'em. 
-
 Please return it!
-
 Please! Get it back!
-
 Could you help?
-
 Please! Somebody!
-
 I'll give a reward!
-
 Someone, return it!
-
 C'mon! I'm begging!
-
 Somebody help!
-
 Please! Retrieve it!
-
 Please! I need it!
-
 Please retrieve it!
-
 Oh, get it for me!
-
+и сбежал.
+и я не смог поймать его.
+и сбежал!
+и сбежал.
+и у меня не вышло догнать его!
+и сбежал, снова!
+и у меня не вышло поймать его.
+Прошу, верните его!
+Прошу! Верните это!
+Можете помочь?
+Прошу! Кто-нибудь!
+Я щедро награжу!
+Кто-нибудь, верните это!
+Прошу! Я умоляю!
+Кто-нибудь, на помощь!
+Прошу! Верните это!
+Прошу! Мне это нужно!
+Прошу, верните это!
+О, найдите это мне!
++++
 Job Summary 
-
 Client: 
-
 Challenger: 
-
 Rescued:
-
 Objective: 
-
 Place: 
-
 Restrictions:
-
 None
-
+Сводка Задания 
+Клиент: 
+Соперник: 
+Спасены: 
+Цель: 
+Место: 
+Ограничения:
+Нет
++++
 With [type:0]-type partner
-
+Со спутником типа - [type:0]
 With [kind:0]
-
+С Покемоном [kind:0]
++++
 Difficulty: 
-
 ([digits:0])
-
 [CS:C]?[CR]
-
 Reward: 
-
 Loot: 
-
 Gift:
-
 [string0]
-
 Helper:
-
 [kind:0]
-
 Wonder Mail S: 
-
 [dungeon:0] 
-
 Near [dungeon:0] 
-
+Сложность:
+([digits:0])
+[CS:C]?[CR]
+Награда:
+Добыча:
+Подарок:
+[string0]
+Помощник:
+[kind:0]
+Чудо-Почта S:
+[dungeon:0] 
+Близ [dungeon:0] 
++++
 [CS:P]????[CR] [floor:0]
 
 [CS:P]???[CR]
-
++++
 [CS:P][dungeon:0] Pit[CR]
-
+[CS:P]Дно [dungeon:0][CR]
++++
 [CS:N]???[CR]
-
++++
 Friend Rescue 
-
+Спасение Друга
++++
 Find [item:0]. 
-
 Deliver [item:0].
-
 Rescue [name:0].
-
 Rescue [name:0]. 
-
 Escort to [name:0].
-
 Explore with [name:0].
-
 Prospect with [name:0].
-
 Guide [name:0].
-
 Search for [name:0].
-
 Take item from [name:0].
-
 Retrieve the stolen item.
-
 Arrest [name:0].
-
 Defeat [name:0].
-
 Search
-
 Find Treasure
-
+Найти [item:0].
+Доставить [item:0].
+Спасти [name:0].
+Спасти [name:0].
+Сопроводить к [name:0].
+Идти на вылазку с [name:0].
+Идти на разведку с [name:0].
+Провести [name:0].
+Поискать [name:0].
+Забрать вещь у [name:0].
+Вернуть украденный предмет.
+Арестовать [name:0].
+Одолеть [name:0].
+Найти
+Найти Сокровище
++++
 [M:D2]Dummy Data Title
 
 [M:D2]Dummy Data Comment
@@ -90557,29 +92012,30 @@ Find Treasure
 
 "[M:D0]Special Episode Transmission
 Summary Display"
-
++++
 Rescue Description
-
 Friend Rescue
-
 Undertake Rescue
-
 Receive SOS Mail
-
 Go Rescue
-
 Send A-OK Mail
-
 Get Thank-You Mail
-
 Get Help
-
 Send SOS Mail
-
 Receive A-OK Mail
-
 Send Thank-You Mail
-
+Описание Спасения
+Спасение Друга
+Взяться за Спасение
+Получить SOS-Письмо
+На Спасение
+Отправить SOS-Письмо
+Получить Благодарность
+Получить Помощь
+Отправить SOS-Письмо
+Получить ОТВ-Письмо
+Отправить Благодарность
++++
 "Friends can rescue each other's defeated teams
 using DS Wireless Communications, Nintendo
 Wi-Fi Connection, or passwords.
@@ -90590,7 +92046,18 @@ dungeon.
 
 You may also call for help from a friend to
 save your fallen team in a dungeon."
+---
+Друзья могут спасать команды друг-друга
+по Беспроводному Соединению DS, Нинтендо
+Wi-Fi Соединению или по паролю.
 
+Вы можете отправиться на спасение,
+чтобы спасти поверженную команду вашего
+друга в подземелье.
+
+Также вы можете позвать на помощь
+вашего друга, чтобы спасти вашу команду.
++++
 "If your friend's team needs rescuing, you must
 first receive an [CS:E]SOS Mail[CR] from your friend.
 When you get the [CS:E]SOS Mail[CR], you may embark
@@ -90600,7 +92067,17 @@ If you manage to rescue your friend's defeated
 team, send back an [CS:E]A-OK Mail[CR] to your friend.
 Once you do so, you will be eligible to receive
 a [CS:E]Thank-You Mail[CR] back from your friend."
+---
+Если команду вашего друга надо спасти,
+то вы сперва должны получить от него
+[CS:E]SOS-Письмо[CR]. Получив [CS:E]SOS-Письмо[CR], вы
+сможете выдвигаться с [CS:P]Острова Пелиппера[CR].
 
+Если вам удастся спасти команду друга,
+отправьте [CS:E]ОТВ-Письмо[CR]. Сделав так, вы
+сможете получить [CS:E]Благодарность[CR] от
+вашего друга.
++++
 "There are several ways in which you can
 receive an [CS:E]SOS Mail[CR] from a friend's team that
 lies defeated in a dungeon: over DS Wireless
@@ -90612,6 +92089,16 @@ to accept [CS:E]SOS Mail[CR] over the Internet, which
 connects you with players in need of rescue all
 across the world."
 
+[CS:E]SOS-Письмо[CR] можно получить несколькими
+способами: через Беспроводное Соедиение
+DS, через Wi-Fi Соединение Нинтендо
+или при обмене паролями.
+
+Используя Wi-Fi Соединение Нинтендо,
+можно принимать [CS:E]SOS-письма[CR] от игроков
+по Интернету, что позволяет вам спасать
+команды игроков по всему миру.
++++
 "Once you receive an [CS:E]SOS Mail[CR], select
 ""Go Rescue"" on the Top Menu. Your team will
 be taken to [CS:P]Pelipper Island[CR] to begin the Friend
@@ -90623,6 +92110,17 @@ your own adventures, so go farther in your
 own story if you want to do rescues in
 more-challenging dungeons."
 
+При получении [CS:E]SOS-Письма[CR], выберите
+"На Спасение". Ваша команда будет
+перенесена на [CS:P]Остров Пелиппера[CR] и начнёт
+Спасение Друга. Чтобы завершить задание
+в подземелье, доберитесь до [CS:E]Точки[CR]
+[CS:E]Спасения[CR]. Внимание! Вы можете войти
+только в те подземелья, что уже были
+пройдены вами однажды, поэтому, чтобы
+проходить сложные задания, вам нужно
+завершать главы сюжета.
++++
 "If you manage to rescue your friend's team,
 send an [CS:E]A-OK Mail[CR] to let your friend know. In
 some modes, you can send your [CS:E]A-OK Mail[CR] with
@@ -90634,12 +92132,28 @@ DS Wireless Communications:[CLUM_SET:140][CLUM_SET:145]PokГ©mon or item
 Nintendo Wi-Fi Connection:[CLUM_SET:140][CLUM_SET:145]PokГ©mon or item
 Password:[CLUM_SET:140][CLUM_SET:145]Item only"
 
+Если вы сможете спасти команду вашего
+друга, отправьте ему [CS:E]ОТВ-Письмо[CR]. В
+некоторых режимах, вы сможете послать
+[CS:E]ОТВ-Письмо[CR] с предметом или Покемоном
+помощником. Отправка Покемона-помощника
+не уберёт его из списка рекрутов.
+[CN]<<[CS:E]ОТВ-Письмо[CR] Вложения>>
+Беспроводное Соед. DS:[CLUM_SET:140][CLUM_SET:145]Покемон или вещь
+Нинтендо ВФС:[CLUM_SET:140][CLUM_SET:145]Покемон или вещь
+Пароль:[CLUM_SET:140][CLUM_SET:145]Только вещь
++++
 "If you send an [CS:E]A-OK Mail[CR] informing your
 friend of a successful rescue, you may receive
 a [CS:E]Thank-You Mail[CR] in return from your friend.
 The [CS:E]Thank-You Mail[CR] may also come with a
 reward item attached."
 
+Если вы отправите [CS:E]ОТВ-Письмо[CR] вашему
+другу, вы сможете получить [CS:E]Благодарность[CR]
+в ответ от вашего друга. [CS:E]Благодарность[CR]
+также может содержать предмет-награду.
++++
 "If your team was defeated and needs rescue,
 send an [CS:E]SOS Mail[CR] to a friend. Once you send
 your [CS:E]SOS Mail[CR], you must wait for your friend
@@ -90651,6 +92165,16 @@ from the spot where you were defeated. When
 your team is revived, don't forget to
 send a [CS:E]Thank-You Mail[CR] to your rescuing friend!"
 
+Если вашу команду одолели и её нужно
+спасти, отправьте [CS:E]SOS-Письмо[CR] другу.
+После этого, вам нужно дождаться, пока
+он не отправит вам [CS:E]ОТВ-Письмо[CR].
+
+Если придёт [CS:E]ОТВ-Письмо[CR], ваша команда
+сможет продолжить с точки поражения.
+После спасения, не забудьте послать
+[CS:E]Благодарность[CR] спасителю!
++++
 "If your team is defeated in a dungeon, you can
 send a friend an [CS:E]SOS Mail[CR] seeking help. But
 there are some dungeons where it is impossible
@@ -90662,6 +92186,17 @@ but you can play the ""Standby Adventure."" If
 you can't wait for rescue, you'll have to leave
 the dungeon and return to Treasure Town."
 
+Если вашу команду одолели и её нужно
+спасти, отправьте [CS:E]SOS-Письмо[CR] другу.
+Но из некоторых подземелий невозможно
+запросить спасение.
+
+При отправке [CS:E]SOS-Письма[CR], вы не сможете
+продолжить приключение, пока вашу
+команду не спасут, но вы сможете сыграть
+в "Приключение-Ожидание". Если вы не
+хотите ждать, вы вернётесь в Город.
++++
 "If your friend successfully rescues your team,
 your friend must send you an [CS:E]A-OK Mail[CR]
 before you can continue.
@@ -90673,6 +92208,15 @@ Wi-Fi Connection, your friend can also send
 you a helper PokГ©mon together with the
 [CS:E]A-OK Mail[CR]."
 
+Если ваш друг успешно спасёт вашу
+команду, он должен будет отправить вам
+[CS:E]ОТВ-Письмо[CR], прежде чем вы продолжите.
+
+После принятии [CS:E]ОТВ-Письма[CR], вы сможете
+продолжить вылазку. Ваш друг также
+может отправить вам Покемона-помощника
+вместе с [CS:E]ОТВ-Письмом[CR].
++++
 "If your team has been rescued, be sure to send
 a [CS:E]Thank-You Mail[CR] to the friend that came to
 your rescue.
@@ -90681,6 +92225,14 @@ You may also attach a reward item from
 storage to your [CS:E]Thank-You Mail[CR] and send it to
 your friend."
 
+Если вашу команду спасли, отправьте
+[CS:E]Благодарность[CR] другу, что пришёл вам на
+помощь.
+
+Вы также можете выбрать предмет из
+вашего хранилища и отправить его вместе
+с [CS:E]Благодарностью[CR].
++++
 [CS:C]Debug switch[CR]
 
 [CS:C]OFF[CR]
@@ -92741,25 +94293,44 @@ Switch set moves:[CLUM_SET:123][CLUM_SET:130][M:B1]"
 Связать приёмы:[CLUM_SET:123][CLUM_SET:130][M:B6]+[M:B2]
 Сместить приёмы:[CLUM_SET:123][CLUM_SET:130][M:B7]+[M:B20]
 Вкл/выкл заданный приём:[CLUM_SET:123][CLUM_SET:130][M:B1]
--
+---
 "Head for the stairway! As you go, you can
 attack enemies by pressing [M:B2]!
 Enemies won't move or act until you do."
+Найдите лестницу! Во время вылазки,
+вы можете атаковать врагов кнопкой [M:B2]!
 
+Враги не будут совершать действия, если
+этого не будете делать вы.
++++
 "You can carry one item. The items you find on
 the floor have a variety of useful effects.[C]
 If you find an item, open the menu with [M:B4],
 then use the Items option to see what it
 does."
-
+Вы можете носить только один предмет.
+Предметы, найденные на этаже, обладают
+множеством полезных эффектов.[C]
+Если вы нашли предмет, откройте меню
+кнопкой [M:B4], после чего, выберите
+"Вещи", чтобы узнать о нём больше.
++++
 "In some areas, you will see a ground tile with
 a green arrow. It's called a Wonder Tile.
 Step on it to heal any stat changes."
-
+В некоторых местах, вы можете найти
+клетку с изображением зелёной стрелки.
+Это - Чудо-Клетка.
+Наступив на Чудо-Клетку, ваши временные
+изменения характеристик будут обнулены.
++++
 "Have questions about anything? You can check
 out quick hints by opening the menu with [M:B4],
 then selecting Others to find the Hints option."
-
+Есть какие-либо вопросы? Вы можете
+просмотреть советы, открыв меню кнопкой
+[M:B4] и выбрав "Прочее" и "Справка".
++++
 "You and your partner can now hold one item
 each. Now that you have the Treasure Bag, you
 can also keep 16 items in your inventory.[C]
@@ -92767,19 +94338,40 @@ Some items, like [CS:I]Bows[CR], work only if held by
 a PokГ©mon. So use the Give option, found
 under the Items section of the menu, to hand
 it over."
-
+Вы и ваш спутник теперь могут держать
+при себе один из предметов. Поскольку
+вы получили Сумку с Ценностями, вы[C]
+также можете хранить до 16 предметов в
+вашем инвентаре.[C]
+Некоторые предметы, такие как [CS:I]Банты[CR],
+действуют только если их держит Покемон.[C]
+Выберите "Дать" в меню предметов, чтобы
+Покемон взял выбранный предмет.
++++
 "Eat an [CS:I]Apple[CR] or a Gummi if you get hungry.
 If you get too hungry, you'll risk fainting
 before long, so keep an eye on your [CS:E]Belly[CR] in
 the menu."
-
+Если вы проголодались, съешьте [CS:I]Яблоко[CR]
+или Желе.[C]
+Если вы изголодаетесь, то вы начнёте
+терять сознание, поэтому следите за
+показателем [CS:E]Сытости[CR] в меню.
++++
 "Team members will earn Experience Points
 (Exp. Points) when they defeat an enemy. And
 they'll level up when they earn enough of them![C]
 A PokГ©mon will get more [CS:E]HP[CR], raised stats,
 and a possible new move each time it levels
 up. So battle hard to level up more often!"
-
+При победе над врагом, все члены вашей
+команды будут получать Очки Опыта. При
+наборе Опыта, они повысят свой Уровень![C]
+При повышении Уровня, Покемон получит
+больше [CS:E]ОЗ[CR], характеристик и также он
+может изучить новый приём.[C]
+Сражайтесь и становитесь сильнее!
++++
 "To earn bonus Exp. Points, a PokГ©mon must use
 its moves at least once while battling an
 enemy, not just its regular [M:B2] attack.[C]
@@ -92787,33 +94379,64 @@ Use the Moves option in the menu to unleash
 one of these moves or to set a specific move
 for quicker access.[C]
 Hold [M:B6] and press [M:B2] to use a set move."
-
+Чтобы получить больше Очков Опыта во
+время сражения, Покемону нужно хотя бы
+раз применить приём, а не обычный удар.[C]
+Выберите один из приёмов в меню
+"Приёмы" чтобы воспользоваться им, либо
+назначить его на быстрое действие.[C]
+Чтобы быстро применить назначенный
+приём, удерживайте [M:B6] и нажмите [M:B2].
++++
 "If a PokГ©mon's [CS:E]HP[CR] gets low, it puts itself at
 great risk of fainting from further enemy
 attack! When this happens, just run away!"
-
+Если [CS:E]ОЗ[CR] Покемона низки, он рискует
+потерять сознание от атаки врага!
+Если у Покемона мало [CS:E]ОЗ[CR], убегайте!
++++
 "Help your partner be a smart teammate by
 tweaking its IQ Skills and Tactics settings!
 You can find these in the menu under Team!
 You can also use the Switch option to keep
 your partner from using certain moves."
-
+Укажите своему спутнику, что ему нужно
+делать, настроив его Навыки IQ и задав
+нужную Тактику![C]
+Всё это можно найти в меню "Группа"!
+Также вы можете нажать "Сменить",
+чтобы не давать применять приёмы.
++++
 "Eating an [CS:I]Apple[CR] or a Gummi fills your Belly.
 Eat one if you're about to faint from hunger.
 To do so, find it under Items, then select Eat."
-
+При поедании [CS:I]Яблока[CR] или Желе
+восполняется Сытость. Съешьте их, если
+вы изголодались и теряете сознание.[C]
+Чтобы съесть что-нибудь, выберите
+"Вещи" и вариант "Съесть".
++++
 "An [CS:I]Oran Berry[CR] restores [CS:E]HP[CR]. If you want to use
 the Berry, open the menu with [M:B4], select it in
 the Items inventory, then select Eat."
-
+[CS:I]Пельси Ягода[CR] восполняет [CS:E]ОЗ[CR]. Если вам
+нужно применить Ягоду, нажмите [M:B4],
+выберите "Вещи" и вариант "Съесть".
++++
 "A [CS:I]Cheri Berry[CR] heals [CS:J]paralysis[CR]. Open the menu
 with [M:B4], select it in the Items inventory,
 then select Eat."
-
+[CS:I]Вишн Ягода[CR] исцеляет [CS:J]паралич[CR]. Если вам
+нужно применить Ягоду, нажмите [M:B4],
+выберите "Вещи" и вариант "Съесть".
++++
 "You can eat a [CS:I]Blast Seed[CR] to breathe fire at the
 target in front of you. To use it, open the
 menu, select it from Items, then select Eat."
-
+Вы можете съесть [CS:I]Взрыв-Зерно[CR], чтобы
+выдохнуть во врага спереди огонь. Чтобы
+съесть его, выберите "Вещи" и "Съесть".
++++
 "Throw [CS:I]Geo Pebbles[CR] at distant foes.
 First, set them as your ammo (use the item's
 [CS:E]Set[CR] option). Then throw them by
@@ -92822,57 +94445,111 @@ You can hold up to 99 [CS:I]Geo Pebbles[CR] or [CS:I]Sticks[CR] as
 one item in the Treasure Bag, so make sure to
 sort the Treasure Bag by opening it and
 pressing [M:B1]!"
-
+Вы можете кидать [CS:I]Джео-Камни[CR] в отдалённых
+врагов. Для начала, задайте их как
+снаряды (выбрав действие "[CS:E]Задать[CR]").[C]
+Задав снаряды, можно их кинуть, если
+зажать кнопку [M:B6] и нажать [M:B7].[C]
+В Сумке с Ценностями можно хранить до
+99 ед. [CS:I]Джео-Камней[CR] или [CS:I]Палок[CR] как один
+предмет, поэтому всегда сортируйте вещи
+в Сумке с Ценностями, нажимая [M:B1]!
++++
 "A [CS:I]Pecha Berry[CR] heals [CS:J]poisoned[CR] or [CS:J]badly poisoned[CR]
 PokГ©mon. Open the menu with [M:B4], select it in
 the Items inventory, then select Eat."
-
+[CS:I]Сепри Ягода[CR] исцеляет [CS:J]отравленных[CR], либо
+[CS:J]тяжело отравленных[CR] Покемонов. Чтобы
+съесть её, выберите "Вещи" и "Съесть".
++++
 "Throw a [CS:I]Sleep Seed[CR] at an enemy to put it to
 sleep for a while. Don't eat it, or else you will
 fall asleep!"
-
+Метните [CS:I]Зерно Усыпления[CR] во врага, чтобы
+вогнать его в сон. Но не ешьте его, или
+вы сами уснёте!
++++
 "[M:S0] is this world's money! Save it up to buy
 useful items for your adventures!"
-
+[M:S0] - деньги этого мира!
+Копите их, чтобы покупать полезные вещи
+в свои экспедиции!
++++
 "[CS:I]Max Elixir[CR] fully restores a PokГ©mon's [CS:E]Power
 Points (PP)[CR]. To use it, open the menu with [M:B4],
 select it from Items, then select Ingest."
-
+[CS:I]Макс. Эликсир[CR] полностью восполняет
+[CS:E]Очки Силы (ОС)[CR] Покемона. Чтобы применить
+его, выберите вариант "Глотать".
++++
 "The item [CS:I]Heal Seed[CR] heals all of a PokГ©mon's
 status problems. To use it, open the menu
 with [M:B4], find it under Items, then select Eat."
-
+[CS:I]Зерно Исцеления[CR] полностью исцеляет все
+статус-проблемы Покемона. Чтобы съесть
+его, выберите его и нажмите "Съесть".
++++
 "Throw a [CS:I]Stun Seed[CR] at an enemy to stun it,
 making it unable to act...until it is attacked.
 Beware: eating it will stun you!"
-
+Метните [CS:I]Зерно Оглушения[CR] во врага, чтобы
+оглушить его...до момента получения им
+урона.
+Осторожно: при съедении, оно оглушит
+вас!
++++
 "If you eat a [CS:I]Warp Seed[CR], you'll be warped to a
 random tile on the same floor. If you throw it
 at an enemy, it will be warped away instead."
-
+Если вы съедите [CS:I]Варп-Зерно[CR], вы будете
+телепортированы в случайное место на
+этаже.
+Если метнуть Варп-Зерно во врага, то
+вместо вас, телепортируется он.
++++
 "You can throw a [CS:I]Vile Seed[CR] at a tough enemy to
 reduce its [CS:E]Defense[CR] and [CS:E]Special Defense[CR] to their
 lowest levels."
-
+Вы можете метнуть [CS:I]Зерно Зла[CR] в сильного
+врага, чтобы свести его [CS:E]Защиту[CR] и [CS:E]Спец.[CR]
+[CS:E]Защиту[CR] к минимуму.
++++
 "You can throw an [CS:I]X-Eye Seed[CR] at a tough enemy
 to make it dizzy and behave strangely. But
 don't eat it yourself!"
-
+Вы можете метнуть [CS:I]Зерно Раздора[CR] в
+сильного врага, чтобы он начал вести
+себя странно, но не ешьте это сами!
++++
 "If a PokГ©mon eats a [CS:I]Violent Seed[CR], its [CS:E]Attack[CR]
 and [CS:E]Special Attack[CR] are boosted to the highest
 levels. Select it from Items, then select Eat."
-
+При съедении [CS:I]Зерна Жестокости[CR], [CS:E]Атака[CR] и
+[CS:E]Спец. Атака[CR] Покемона будет увеличена
+до максимума.
+Выберите его из меню "Вещи", затем
+нажмите "Съесть".
++++
 "This is an [CS:I]Oran Berry[CR]...isn't it?
 Wait... If you look closer, that's not an ""[CS:I]a[CR],"" it's
 an ""[CS:I]e[CR]""! This is the ""[CS:I]Oren Berry[CR]"" ""[CS:E]Lookalike
 Item[CR]""! You should always check the Item Info
 to make sure you've got the right item and not
 one of these sneaky Lookalikes!"
-
+Это [CS:I]Пельси Ягода[CR]... точно ли?
+Стоп... Если приглядеться, в названии
+не "[CS:I]е[CR]", а "[CS:I]а[CR]"! Это "[CS:I]Пальси Ягода[CR]"!
+Это [CS:E]Ложный Предмет[CR]! Всегда проверяйте
+Информацию Предмета, чтобы понять, где
+обычная вещь и где эти Ложные фальшивки!
++++
 "The [CS:I]Rainy Orb[CR] and [CS:I]Sunny Orb[CR] are strange Orbs
 that can change the weather! Changing the
 weather can help prevent damage from hail."
-
+[CS:I]Орб Дождя[CR] и [CS:I]Орб Солнца[CR] это загадочные
+сферы, что могут менять погоду! Смена
+погоды позволит избежать урона от града.
++++
 Adventure Log
 
 ??????????
@@ -93923,13 +95600,270 @@ Treasure Town
 [M:D1]Dummy
 
 [M:D1]Dummy
-
+Тестовое Подземелье
+Пещера у Пляжа
+Дно Пещеры у Пляжа
+Вымокший Утёс
+Г. Бристл
+Вершина Г. Бристл
+Пещера за Водопадом
+Яблоневый Лес
+Скалистый Берег
+Обходной Путь
+Г. Хорн
+Каменистый Путь
+Туманный Лес
+Лесной Путь
+Паровые Пещеры
+Верхние Паровые Пещеры
+Вершина Паровых Пещер
+Скалистые Равнины
+Далёкие Скалистые Равнины
+Скалистая Поляна
+Северная Пустыня
+Зыбучая Пещера
+Зыбучая Яма
+Подземное Озеро
+Кристальная Пещера
+Кристальный Переход
+Кристальное Озеро
+Пещеры Бездны
+Тёмный Холм
+Запечатанные Руины
+Глубины Запечатанных Руин
+Дно Запечатанных Руин
+Сумеречный Лес
+Дебри Сумеречного Леса
+Заросший Лес
+Пещера у Моря
+Глубины Пещер у Моря
+Дно Пещер у Моря
+Сокрытые Земли
+Сокрытое Нагорье
+Старые Руины
+Темпоральная Башня
+Теморальный Шпиль
+Темпоральная Вершина
+Загадочный Лес
+Поляна Загадочного Леса
+Остров Метели
+Пещера-Расщелина
+Глубины Пещеры-Расщелины
+Дно Пещеры-Расщелины
+Закрытое Море
+Дивное Море
+Глубины Дивного Моря
+Дно Дивного Моря
+Пещера Ледяной Эгиды
+Комната Реджиайса
+Пещера Каменной Эгиды
+Комната Реджирока
+Пещера Стальной Эгиды
+Комната Реджистила
+Глубины Пещер Эгиды
+Комната Реджигигаса
+Г. Травейл
+Кошмары
+Пространственный Разлом
+Глубины Простр. Разлома
+Дно Простр. Разлома
+Тёмный Кратер
+Глубины Тёмного Кратера
+Дно Тёмного Кратера
+Скрытые Руины
+Глубины Скрытых Руин
+Морской Пляж
+Бездонное Море
+Глубины Бездонного Моря
+Мерцающая Пустыня
+Дно Мерцающей Пустыни
+Г. Лавина
+Пик Г. Лавина
+Гигантский Вулкан
+Пик Гигантского Вулкана
+Мировая Бездна
+Дно Мировой Бездны
+Лестница в Небо
+Вершина Лестницы в Небо
+Загадочные Джунгли
+Дебри Загадочных Джунглей
+Река Безмятежности
+Пещера Обавлов
+Пышная Прерия
+Крошечный Луг
+Пещера-Лабиринт
+Лес Пельси
+Далёкое Озеро
+Мыс Счастья
+Г. Мистраль
+Мерцающий Холм
+Затерянная Пустыня
+Полуночный Лес
+Север Нуль-Острова
+Восток Нуль-Острова
+Запад Нуль-Острова
+Юг Нуль-Острова
+Центр Нуль-Острова
+Башня Судьбы
+[M:D1]Dummy
+[M:D1]Dummy
+Лес Забвения
+Коварные Воды
+Юго-Восточные Острова
+Инфернальная Пещера
+1-ый Переход
+2-ой Переход
+3-ий Переход
+4-ый Переход
+5-ый Переход
+6-ой Переход
+7-ой Переход
+8-ой Переход
+9-ый Переход
+Проход к Небесному Пику
+Поляна 5-ого Перехода
+Вершина Небесного Пика
+Пещера Звёзд
+Глубины Пещеры Звёзд
+Глубины Пещеры Звёзд
+Глубочайшие Пещеры Звёзд
+Яма Пещеры Звёзд
+Мрачный Лес
+Восточная Пещера
+Разлом Богатств
+Глубины Разлома Богатств
+Дно Разлома Богатств
+Бесплодная Долина
+Дебри Бесплодной Долины
+Поляна Бесплодной Долины
+Тёмная Пустошь
+Темпоральная Башня
+Темпоральный Шпиль
+Сумеречный Лес
+Чёрное Болото
+Пространственные Скалы
+Тёмная Ледяная Гора
+Пик Тёмной Ледяной Горы
+Верх Тёмной Ледяной Горы
+Лес Сосулек
+Бескрайняя Ледяная Гора
+Пик Бескр. Ледяной Горы
+Верх Бескр. Ледяной Горы
+Южные Джунгли
+Расселина Валунов
+Глубины Расселины Валунов
+Проход Расселины Валунов
+Правый Пещерный Путь
+Левый Пещерный Путь
+Известняковая Пещера
+Глубины Известняк. Пещеры
+Глубочайшие Изв. Пещеры
+Пещера Источников
+Верхние Пещеры Источников
+Верхние Пещеры Источников
+Средние Пещеры Источников
+Нижние Пещеры Источников
+Глубины Пещер Источников
+Дно Пещер Источников
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+Пещера Звёзд
+Деревня Шейминов
+Убежище Армальдо
+Сияющий Источник
+Горячие Источники
+Спасение
+Нормальный/Летающий Лбр.
+Тёмный/Огненный Лабиринт
+Каменный/Водный Лабиринт
+Травяной Лабиринт
+Электр./Стальной Лабиринт
+Ледяной/Земляной Лабиринт
+Боевой/Психический Лбр.
+Ядовитый/Жучий Лабиринт
+Драконий Лабиринт
+Призрачный Лабиринт
+Лабиринт Исследователя
+Финальный Лабиринт
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Додзё
+[M:D1]Подзмелье Спасения
+[M:D1]База
+???
+Пляж
+Неизвестно
+[M:D1]Бидуф
+[M:D1]Гровайл
+[M:D1]Селеби
+[M:D1]Чатот
+[M:D1]Кресселия
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+Город Сокровищ
+Город Сокровищ
+[M:D1]Снаружи
+[M:D1]Клиент
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+[M:D1]Dummy
+---
 Waterfall Cave
-
+Пещера за Водопадом
 Secret Waterfall
-
+Секретный Водопад
 Quicksand Desert
-
+Зыбучая Пустыня
+---
 Test Dungeon
 
 Beach Cave
@@ -97387,3 +99321,21 @@ Select with [M:B6]
 [CN]The PokГ©mon Company
 
 [CN]CHUNSOFT
+--- --- --- --- --- --- --- ---
+Скрипты
+--- --- --- --- --- --- --- ---
+[CN][player] cleared the\n[CN][CS:P]Beach Cave[CR]! Impressive!
+[CN][player] успешно зачищает\n[CN][CS:P]Пещеру у Пляжа[CR]! Потрясающе!
++++
+[CN][player] cleared [CS:P]Drenched Bluff[CR]!\n[CN]Very impressive!
+[CN][player] успешно зачищает\n[CN][CS:P]Вымокший Утёс[CR]!\n[CN]Очень впечатляет!
++++
+[CN][player] cleared\n[CN][CS:P]Mt. Bristle[CR]! Impressive!
+[CN][player] успешно зачищает\n[CN][CS:P]Г. Бристл[CR]! Потрясающе!
++++
+[CN]It\'s impossible to go any farther.[K]\n[CN]Let\'s go back to Treasure Town.
+[CN]Дальше прохода нет.[K]\n[CN]Нужно возвращаться в Город Сокровищ.
++++
+[CN][player] cleared [CS:P]Apple Woods[CR]\n[CN]in admirable fashion!
+[player] восхитительным образом\n[CN]зачищает [CS:P]Яблоневый Лес[CR]!
++++
