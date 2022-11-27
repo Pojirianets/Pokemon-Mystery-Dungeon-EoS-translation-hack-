@@ -1259,21 +1259,26 @@ To next Rank: [digits_c:0]
 До следующего Ранга: [digits_c:0]
 ---
 This team is the best it can be!
-
+Эта команда в лучшей форме!
+---
 [time:0]
 
 [CS:G][gold_left:0][CR][M:S0]
--
+---
 Money
-
+Деньги
++++
 [M:S3]
-
++++
 Others
-
+Прочее
++++
 Options
-
+Настройки
++++
 Window
-
+Вид Окон
++++
 Message log
 Лог сообщений
 Mission objectives
@@ -1285,10 +1290,13 @@ Game Hints
 Справка
 ---
 Destination
-
+Направление
++++
 "[CN][dungeon:0] is the destination.
 [CN]Should the team go there?"
-
+[CN]Направление: [dungeon:0].
+[CN]Отправиться туда?
++++
 Yes
 
 No
@@ -1505,7 +1513,7 @@ No
 [CS:I]Prism Ticket[CR]
 
 ......
-
+---
 " Hello! Welcome back![C]
  Your rescue mission...[K]was a
 great success, of course![C]
@@ -1513,231 +1521,397 @@ great success, of course![C]
 Team [team:]![C]
  Here's the reward for your
 successful rescue mission."
-
+ Приветствую! С возвращением![C]
+ Твоя спасательная операция...[K]
+разумеется, увенчалась успехом![C]
+ Другого от Команды [team:]
+и не ожидалось![C]
+ Вот твоя награда за успешное
+спасение.
++++
 " I hope you will continue rescuing
 friends in trouble![C]
  And now I must save your
 adventure."
-
+ Надеюсь, что ты продолжишь
+вызволять друзей из беды![C]
+ А теперь, мне нужно
+сохранить твоё приключение.
++++
  Thank you!
-
+ Спасибо!
++++
  Thank you for rescuing me!
-
+ Спасибо, что спасли меня!
++++
 " Thank you for rescuing
 [name:1]!"
-
+ Спасибо, что спасли
+[name:1]!
++++
 " Thank you for escorting me to
 [name:1]!"
-
+ Спасибо, что сопроводили
+меня к [name:1]!
++++
 " Thanks for taking me on an
 adventure!"
-
+ Спасибо, что взяли меня
+с собой в приключение!
++++
  Thanks for searching with me!
-
+ Спасибо, что искали со
+мной!
++++
  Thanks for guiding me!
-
+ Спасибо, что сопроводили
+меня!
++++
 " Thank you for getting me the
 [item:0]!"
-
+ Спасибо, что нашли для меня
+[item:0]!
++++
 " Thank you for delivering the
 [item:0]!"
-
+ Спасибо, что доставили
+[item:0]!
++++
  Thanks for finding [name:1]!
-
+ Спасибо, что нашли
+[name:1]!
++++
 " Thank you for getting back my
 [item:0]!"
-
+ Спасибо, что вернули мне
+[item:0]!
++++
 " ZZZT! You brought [name:1]
 in for arrest! ZZZT!"
-
+ БЗЗЗ! Вы взяли негодяя
+[name:1] под стражу! БЗЗЗ!
++++
 " That was a great fight!
 You've completely beaten me. Congrats!"
-
+ Это была отличная битва!
+Вы меня одолели. Поздравляю!
++++
 "[CN][hero]'s team
 [CN]received [CS:G][gold_left:0][CR][M:S0]."
-
+[CN]Команда [hero]
+[CN]получает [CS:G][gold_left:0][CR][M:S0].
++++
 "[CN][hero]'s team received
 [CN]the team's share of [CS:G][gold_left:0][CR][M:S0]."
-
+[CN]Команда [hero] получает
+[CN]долю в [CS:G][gold_left:0][CR][M:S0].
++++
 "[CN][hero]'s team received
 [CN]the team's share of [CS:G][gold_left:0][CR][M:S0]."
-
+[CN]Команда [hero] получает
+[CN]долю в [CS:G][gold_left:0][CR][M:S0].
++++
 "[CN][hero]'s team 
 [CN]received [CS:G][gold_left:0][CR][M:S0]!"
-
+[CN]Команда [hero]
+[CN]получает [CS:G][gold_left:0][CR][M:S0].
++++
 "[CN][hero]'s team
 [CN]received an Egg![C]
 [CN]The Egg will be cared for
 [CN]by [CS:K]Chansey[CR] Day Care.
 [CN]Check on it every so often."
-
+[CN]Команда [hero]
+[CN]получает Яйцо![C]
+[CN]О Яйце позаботится
+[CN][CS:K]Ченси[CR] из Дневного Ухода.
+[CN]Проверяйте его время от времени.
++++
 "[CN][hero]'s team received
 [CN]the item [string0].[C]
 [CN]The [string0] was put in storage."
-
+[CN]Команда [hero] получает
+[CN]предмет [string0].[C]
+[CN][string0] убран в хранилище.
++++
 [CN]The [string0] was obtained.
-
+[CN]Вы получаете [string0].
++++
 "[CN]The [string:2] was thrown away.
 [CN]The [string0] was put in storage."
-
+[CN]Предмет [string:2] выброшен.
+[CN][string0] убран в хранилище.
++++
 "[CN]The [string0] was thrown away.
 [CN]The [string:2] went in the Treasure Bag."
-
+[CN]Предмет [string0] выброшен.
+[CN][string:2] убран в Сумку.
++++
 "[CN]Storage was sorted.
 [CN]Sent the [string0] to storage."
-
+[CN]Хранилище отсортировано.
+[CN][string0] убран в хранилище.
++++
 Yes
 
 No
-
++++
 "[name:0][M:T0] Thank you![C]
 [name:0][M:T0] I'll do my best!
 I won't disappoint you!"
-
+[name:0][M:T0] Спасибо![C]
+[name:0][M:T0] Я сделаю всё возможное!
+Я вас не разочарую!
++++
 "[name:0][M:T0] Thank you![C]
 [name:0][M:T0] I'll do my best!
 I won't disappoint you!"
-
+[name:0][M:T0] Спасибо![C]
+[name:0][M:T0] Я сделаю всё возможное!
+Я вас не разочарую!
++++
 "[name:0][M:T0] I owe you...[C]
 [name:0][M:T0] From now on...[K]
 I want to be part of your team!"
-
+[name:0][M:T0] Я ваш должник...[C]
+[name:0][M:T0] Отныне, я...[K]
+Я хочу быть частью вашей команды!
++++
 "[name:0][M:T0] Hey, thanks![C]
 [name:0][M:T0] From now on, my strength...[K]
 My strength is yours!"
-
+[name:0][M:T0] Ого, спасибо![C]
+[name:0][M:T0] Отныне, моя сила...[K]
+Моя сила принадлежит вам!
++++
 "[name:0][M:T0] It's the natural choice...[C]
 [name:0][M:T0] From now on, I...[K]
 I'm joining your team!"
-
+[name:0][M:T0] Это мой выбор...[C]
+[name:0][M:T0] Отныне, я...[K]
+Я вступаю в вашу команду!
++++
 "[name:0][M:T0] Thank you so very much.[C]
 [name:0][M:T0] My strength...[K]
 My strength will now assist you!"
-
+[name:0][M:T0] Спасибо вам огромное.[C]
+[name:0][M:T0] Моя сила...[K]
+Моя сила станет вашим союзником!
++++
 "[name:0][M:T0] Thank you. в™Є[C]
 [name:0][M:T0] Yay! в™Є Yay! в™Є[K]
 I won't disappoint you!"
-
+[name:0][M:T0] Спасибо. ♪[C]
+[name:0][M:T0] Ура! ♪ Ура! ♪[K]
+Я вас не разочарую!
++++
 "[CN][CS:F][string0][CR] joined
 [CN][hero]'s team!"
-
+[CN][CS:F][string0][CR] присоединяется
+[CN]к команде [hero]!
++++
 [CN][CS:F][string0][CR] joined the team.
-
+[CN][CS:F][string0][CR] вступает в команду.
++++
 [CN][CS:F][string0][CR] joined the team.
-
+[CN][CS:F][string0][CR] вступает в команду.
++++
 "[CN][hero]'s team had to give
 [CN]up on having [CS:N][string0][CR]
 [CN]join the team."
-
+[CN]Команда [hero] отказывается от
+[CN]помощи Покемона [CS:N][string0][CR].
++++
 "[CN][hero]'s team
 [CN]received [CS:G][gold_left:0][CR][M:S0] instead!"
-
+[CN]Вместо этого, команда [hero]
+[CN]получает [CS:G][gold_left:0][CR][M:S0]!
++++
 [CN]Gave up on the [string0].
-
+[CN]Отказались от [string0].
++++
 [CN]Gave up on the [string0].
-
+[CN]Отказались от [string0].
++++
 "[name:0][M:T0] Here's your reward of
 [CS:G][gold_left:1][CR][M:S0]!"
-
+[name:0][M:T0] Вот ваша награда в
+[CS:G][gold_left:1][CR][M:S0]!
++++
 [name:0][M:T0] Please accept this [CS:G][gold_left:1][CR][M:S0]!
-
+[name:0][M:T0] Прошу, примите эти [CS:G][gold_left:1][CR][M:S0]!
++++
 "[CS:N]Magnezone[CR]: ZZZT! This is the bounty
 on this outlaw's head! ZZZT!"
-
+[CS:N]Магнезон[CR]: БЗЗЗ! Вот ваша
+награда за поимку негодяя! БЗЗЗ!
++++
 "[name:0][M:T0] I lost, so I'll give you
 [CS:G][gold_left:0][CR][M:S0]!"
-
+[name:0][M:T0] Вы победили меня, вот ваши
+[CS:G][gold_left:0][CR][M:S0]!
++++
 "[name:0][M:T0] That was an incredible battle![C]
 [name:0][M:T0] I'll give you this reward
 for beating me."
-
+[name:0][M:T0] Это была прекрасная битва![C]
+[name:0][M:T0] Вот, держите награду.
++++
 "[name:0][M:T0] You really knocked me out![C]
 [name:0][M:T0] I'll give you this reward
 for defeating me."
-
+[name:0][M:T0] Вот это вы меня одолели![C]
+[name:0][M:T0] Вот, держите награду за
+славную битву.
++++
 "[name:0][M:T0] That was a great battle![C]
 [name:0][M:T0] I'll give you this reward
 for winning!"
-
+[name:0][M:T0] Это была отличная битва![C]
+[name:0][M:T0] Держите награду за победу!
++++
 "[name:0][M:T0] You're so strong![C]
 [name:0][M:T0] In recognition of your win,
 I would like to present you with this reward."
-
+[name:0][M:T0] Вы очень сильны![C]
+[name:0][M:T0] В знак уважения к вам,
+я хочу дать вам этот подарочек.
++++
 "[name:0][M:T0] Such a wonderful battle![C]
 [name:0][M:T0] This is for you! в™Є"
-
+[name:0][M:T0] Какая чудесная битва![C]
+[name:0][M:T0] Это для вас! ♪
++++
 "[name:0][M:T0] Please take this Egg
 as a token of my appreciation!"
-
+[name:0][M:T0] Прошу, возьмите это Яйцо
+в знак моей признательности!
++++
 "[name:0][M:T0] As your reward,
 please take this Egg!"
-
+[name:0][M:T0] В качестве награды,
+прошу, возьмите это Яйцо!
++++
 "[CS:N]Magnezone[CR]: ZZZT! Take this Egg as your
 reward! ZZZT!"
-
+[CS:N]Магнезон[CR]: БЗЗЗ! В качестве награды,
+вы получите это Яйцо! БЗЗЗ!
++++
 "[name:0][M:T0] I lost...
 So I'll give you this Egg!"
-
+[name:0][M:T0] Победа не за мной...
+Вот, держите это Яйцо!
++++
 "[name:0][M:T0] Please have this
 [string0] as your reward!"
-
+[name:0][M:T0] Прошу, возьмите
+[string0] в награду!
++++
 "[name:0][M:T0] To show my thanks, I want
 you to have my [string0]!"
-
+[name:0][M:T0] В знак моей благодарности,
+я дам вам [string0]!
++++
 "[CS:N]Magnezone[CR]: ZZZT! Take this item as your
 reward! ZZZT!"
-
+[CS:N]Магнезон[CR]: БЗЗЗ! Возьмите этот предмет
+в награду! БЗЗЗ!
++++
 "[name:0][M:T0] Since I lost, I'll give you
 this [string0]!"
-
+[name:0][M:T0] Вы победили и я дам вам
+этот [string0]!
++++
 "[name:0][M:T0] To demonstrate my gratitude,
 I will join your team![C]
 [name:0][M:T0] I'll try not to disappoint you!"
-
+[name:0][M:T0] Чтобы выразить вам свою
+признательность, я вступлю в команду![C]
+[name:0][M:T0] Постараюсь не подвести вас!
++++
 "[name:0][M:T0] The adventurous exploits of
 Team [team:] are an inspiration to me![C]
 [name:0][M:T0] Please, let me become
 a member of your team!"
-
+[name:0][M:T0] Приключения Команды
+[team:] меня вдохновляют![C]
+[name:0][M:T0] Прошу, дайте мне стать
+членом вашей команды!
++++
 "[name:0][M:T0] You've really shown me your
 strength, Team [team:]![C]
 [name:0][M:T0] I'd like to join your team!"
-
+[name:0][M:T0] Вы показали вашу силу,
+Команда [team:]![C]
+[name:0][M:T0] Я хочу вступить в вашу
+команду!
++++
 "[name:0][M:T0] Wow, that was a great battle![C]
 [name:0][M:T0] Team [team:], eh? [K]You're a
 great team...[K] Can I join you?"
-
+[name:0][M:T0] Ого, это была прекрасная
+битва![C]
+[name:0][M:T0] Команда [team:], так?[K]
+Вы хорошая команда...[K] Могу ли я
+вступить к вам?
++++
 "[name:0][M:T0] Great job defeating me![C]
 [name:0][M:T0] You've sure caught my attention![K]
 I'd like to join Team [team:]!"
-
+[name:0][M:T0] Вы со мной справились![C]
+[name:0][M:T0] Теперь я вами заинтересован![K]
+Я хочу вступить в Команду [team:]!
++++
 "[name:0][M:T0] What an incredible battle![C]
 [name:0][M:T0] That was great! [K]From today on,
 I'm joining Team [team:]! [K]Is that OK?"
-
+[name:0][M:T0] Это был замечательный бой![C]
+[name:0][M:T0] Великолепно![K] Отныне, я
+присоединяюсь к Команде [team:]![K] 
+Возьмёте меня?
++++
 "[name:0][M:T0] That was a good matchup.[C]
 [name:0][M:T0] If it's OK with you, can I
 join Team [team:]?"
-
+[name:0][M:T0] Прекрасный был бой.[C]
+[name:0][M:T0] Если вы не против, могу
+ли я вступить в Команду [team:]?
++++
 "[name:0][M:T0] Pretty good work![C]
 [name:0][M:T0] Just as I expected,
 Team [team:]! в™Є So, can I join you?"
-
+[name:0][M:T0] Неплохая работа![C]
+[name:0][M:T0] Всё как и ожидалось,
+Команда [team:]! ♪ Могу ли я
+присоединиться к вам?
++++
 "[CN]Team [team:0] earned
 [CN][digits_c:0] Explorer Rank Points!"
-
+[CN]Команда [team:0] получает
+[CN][digits_c:0] Очков Ранга Исследователей!
++++
 "[CN]Congratulations![C]
 [CN]Team [team:0] went up in rank
 [CN]from the [rank:2]
 [CN]to the [rank:3]!"
-
+[CN]Поздравляем![C]
+[CN]Команда [team:0] повышена с ранга
+[CN][rank:2] до ранга
+[CN][rank:3]!
++++
 "[CN]The number of items that can
 [CN]be kept in storage has been
 [CN]increased from [digits_c:0] to [digits_c:1]."
-
+[CN]Количество возможных предметов
+[CN]на хранении увеличено с
+[CN][digits_c:0] до [digits_c:1].
++++
 "[CN]For advancing in rank, the team
 [CN]was awarded one [item:0]![C]
 [CN]The [item:0] was put in storage."
+[CN]За продвижение по рангу, команда
+[CN]получает [item:0]![C]
+[CN][item:0] убран в хранилище.
 ---
 Accept [string0] as a team member?
 Принять Покемона [string0] в группу?
@@ -1788,265 +1962,368 @@ Which?
 This Gummi looks like a big favorite!
 [name:0]'s IQ went up!"
 
+[name:0] съедает Желе.
+Покемону очень понравился вкус Желе!
+IQ [name:0] увеличивается!
++++
 "[name:0] took the Gummi and ate it.
 This Gummi looks like a favorite!
 [name:0]'s IQ went up!"
 
+[name:0] съедает Желе.
+Покемону очень понравился вкус Желе!
+IQ [name:0] увеличивается!
++++
 "[name:0] took the Gummi and ate it.
 It doesn't seem to dislike this Gummi.
 [name:0]'s IQ went up!"
 
+[name:0] съедает Желе.
+Покемону не так уж и не нравится Желе.
+IQ [name:0] увеличивается!
++++
 "[name:0] took the Gummi and ate it.
 It appears to be just a little satisfied.
 [name:0]'s IQ went up!"
 
+[name:0] съедает Желе.
+Покемон слегка удоволетворён.
+IQ [name:0] увеличивается!
++++
 "[name:0] took the Gummi and ate it.
 However, [name:0]'s IQ does not appear
 to go any higher."
 
+[name:0] съедает Желе.
+Но, похоже, IQ [name:0] никак
+не увеличилось.
++++
 It doesn't appear to be hungry.
-
+Похоже, Покемон не голоден.
++++
 "[name:0]'s IQ helped it learn how to use
 [wiseness:0]!"
-
+IQ [name:0] помогает изучить
+"[wiseness:0]"!
++++
 "Yes! [name:0] grew explosively! Attack,
 Defense, and other stats rose by 1!"
-
+Да! [name:0] становится сильнее!
+Атака, Защита и прочие характеристики
+увеличились на 1!
++++
 Yes! [name:0]'s Attack rose by 1!
-
+Да! Атака [name:0]
+увеличивается на 1!
++++
 Yes! [name:0]'s Special Attack rose by 1!
-
+Да! Специальная Атака [name:0]
+увеличивается на 1!
++++
 Yes! [name:0]'s Defense rose by 1!
-
+Да! Защита [name:0]
+увеличивается на 1!
++++
 Yes! [name:0]'s Special Defense rose by 1!
-
+Да! Специальная Защита [name:0]
+увеличивается на 1!
++++
 Unused
 
 Unused
 
 Unused
-
+---
 Abandon: [string0]
-
 Give up on the [string0]?
-
 [CN]The [string0] was abandoned.
-
 [CN]The [item:0] was thrown away.
-
 [CN]The [item:0] was sent to storage.
-
+Выкинуть: [string0]
+Выкинуть [string0]?
+[CN][string0] выброшен.
+[CN][item:0] выброшен.
+[CN][item:0] убран в хранилище.
++++
 "[CN]The storage space is full.
 [CN]Throw away an item in storage?"
-
+[CN]У вас нет места в хранилище.
+[CN]Выбросить оттуда предмет?
++++
 Throw away stored item
-
+Выбросить предмет
 Abandon [item:0]
-
+Не брать [item:0]
++++
 [CN]Choose an item in storage to be thrown away.
-
+[CN]Выберите предмет из хранилища, чтобы
+[CN]его выбросить.
++++
 [CN]Throw away this [string0]?
-
+[CN]Выбросить [string0]?
++++
 Trash
-
 Info
-
 Exit
-
+Мусор
+Инфо
+Выход
++++
 [CN]Throw away an item in storage?
-
+[CN]Выбросить предмет из хранилища?
++++
 [CN]Give up on the [string:2]?
-
+[CN]Не брать [string:2]?
++++
 "[CN]The Treasure Bag is full. Would you like to
 [CN]throw away an item in the Treasure Bag?"
-
+[CN]Ваша Сумка с Ценностями полная. Хотите
+[CN]выбросить из неё предмет?
++++
 Throw away an item
-
+Выбросить предмет
++++
 Abandon [item:0]
-
+Не брать [item:0]
++++
 [CN]Choose the item to throw away.
-
 Trash
-
 Exit
-
+[CN]Выберите предмет, чтобы его
+[CN]выбросить.
+Мусор
+Выход
++++
 "[CN]Throw away this item
 [CN]from the Treasure Bag?"
-
+[CN]Выбросить этот предмет
+[CN]из Сумки с Ценностями?
++++
 [CN]You abandoned the [string:2].
-
+[CN]Вы отказались от [string:2].
++++
 "[CN]You threw out the [string0]
 [CN]and put the [string:1] in the
 [CN]Treasure Bag."
-
+[CN]Вы выбрасываете [string0]
+[CN]и кладёте [string:1] в
+[CN]Сумку с Ценностями.
++++
 "Your team is full. Would you like to release a
 member?"
-
+Ваша группа заполнена. Хотите убрать
+одного из членов группы?
++++
 Release a member
-
 Give up on new member
-
 Choose a PokГ©mon to be released.
-
 [name:0] was released from the team.
-
 Say Farewell
-
 Summary
-
 Check IQ
-
 Exit
-
 Will you release a team member?
-
+Убрать члена группы
+Не брать в группу
+Выберите Покемона, чтобы его убрать.
+[name:0] убран из группы.
+Попрощаться
+Сводка
+Сверка IQ
+Выход
+Убрать члена группы?
++++
 "If you release it, you can never add this
 specific member to your active team roster
 ever again. [K]Is that really OK?"
-
+Если вы его уберёте, вы больше не
+сможете добавить этого члена группы
+в вашу активную группу. [K]Всё устраивает?
++++
 Yes
 
 No
-
++++
 Summary
-
 Moves
-
 Check IQ
-
 Exit
-
 Rename
-
 To Whom?
-
 Storage
-
 Ammo
-
 Food
-
 Eqpt.
-
 TM
-
 Orbs
-
 Swap
-
 Boxes
-
 Other
-
 Exit
-
 All
 
+Сводка
+Приёмы
+Сверка IQ
+Выход
+Переим.
+Кому?
+Хранилище
+Снаряды
+Еда
+Снаряж.
+ТМ
+Орбы
+Сменить
+Шкатул.
+Прочее
+Выход
+Все
++++
 
-
++++
 Didn't find anything.
-
 Items to Send
-
 [value:0:4]
-
 [now_team]
-
 [now_team]
-
 No.
-
 Level
-
 PokГ©mon name
-
 Nickname
-
 Type
-
 Exit
 
+Ничего не найдено.
+Вещи на Отправку
+[value:0:4]
+[now_team]
+[now_team]
+Номер
+Уровень
+Назв. Покемона
+Прозвище
+Тип
+Выход
+---
 All
-
 None found.
-
 Sort: [string0]
-
 None
-
 Yes
-
 No
-
+---
 Store
-
 Take
-
 Info
-
 Cancel
-
 Exit
-
 Item: [string0]
-
 In Bag:
-
 [value:0:2]/[value:1:2]
 
+Хранить
+Забрать
+Инфо
+Отмена
+Выход
+Предмет: [string0]
+В Сумке:
+[value:0:2]/[value:1:2]
++++
 " Hello, there!
 Welcome to [kind:] Storage."
-
+ Приветик!
+Добро пожаловать в [kind:]-Хранилище.
++++
  Anything else, dear?
-
+ Что-нибудь ещё, дорогуша?
++++
  Thanks, sweetie! Come again!
-
+ Спасибо, солнышко!
+Приходи ещё!
++++
 " What would you like to store?
 (You can use [M:B6] to choose more than one item,
 or [M:B7] and [M:B6] to select everything.)"
+ Что ты желаешь хранить?
 
+
+(Вы можете нажать [M:B6], чтобы выбрать
+более одной вещи или [M:B7]+[M:B6], чтобы
+выбрать всё сразу.)
++++
  Care to store anything else?
-
+ Хочешь положить на хранение
+что-нибудь ещё?
++++
 " I'll put your [string0] in
 storage, OK?"
-
+ Я помещу [string0]
+на хранение, хорошо?
++++
 " I'll put the items you chose
 in storage, OK?"
-
+ Я помещу выбранные тобой
+предметы в хранилище, хорошо?
++++
 " OK, stored away! You can count
 on me, honey."
-
+ Хорошо, всё на хранении!
+Можешь на меня положиться, дорогуша.
++++
 " What will you take out? (You
 can use [M:B6] to choose more than one item.)"
-
+ Что ты хочешь забрать?
+(Вы можете нажать [M:B6], чтобы выбрать
+более одной вещи.)
++++
  Care to take out anything else?
-
+ Нужно забрать что-нибудь ещё?
++++
 " I'll take your [string0] out
 of storage, OK?"
-
+ Я заберу [string0]
+из хранилища, хорошо?
++++
 " I'll take the items you chose out
 of storage, OK?"
-
+ Я заберу из хранилища
+выбранные тобой предметы, хорошо?
++++
  There you go, sweetie!
-
+ Держи, дорогуша!
++++
 " Oh? You don't seem to have
 anything."
-
+ Что? Но у тебя ничего нет.
++++
 " Oh? You don't have the room to
 carry any more items, dear."
-
+ Что? Но у тебя нет места,
+чтобы нести что-либо ещё, дорогуша.
++++
 " Oh? You don't have anything
 stored, dear."
-
+ Что? Но у тебя нет ничего
+на хранении, дорогуша.
++++
 " Sorry, dear. You can't put that
 [string0] in storage."
-
+ Извини, дорогуша. Но ты не
+можешь положить [string0]
+в хранилище.
++++
 " Sorry, dear. I can't take any
 more of that item."
-
+ Прости, дорогуша. Я не могу
+взять ещё таких предметов.
++++
 " Sorry, dear. I've run out of
 storage space."
-
+ Прости, дорогуша. У меня
+закончилось место в хранилище.
++++
 " I can store items that you found
 in dungeons or that you bought from shops.[C]
  If you faint in a dungeon, some
@@ -2060,117 +2337,195 @@ disappear![C]
 you can't bear to lose, be sure to leave
 them with me!"
 
+ Я могу хранить найденные или
+купленные тобой предметы.[C]
+ Если ты потеряешь сознание в
+подземелье, то некоторые из твоих
+предметов будут утрачены...[C]
+ Но всё, что ты дашь мне на
+хранение, будет в полной безопасности.[C]
+ Я приглядываю за хранилищем,
+поэтому у меня ничего не пропадёт![C]
+ Если у тебя есть какие-либо
+предметы, которые ты не можешь позволить
+потерять, оставь их мне на хранение!
++++
 " Oh? I'm afraid you don't have
 any items to be stored, dear."
-
+ Что? Боюсь, что у тебя нет
+каких-либо предметов, дорогуша.
+---
 Goods
-
+Товары
++++
 Goods
-
+Товары
++++
 [gadget_bag]
-
++++
 In Bag:
-
+В Сумке:
++++
 [value:0:2]/[value:1:2]
-
++++
 [M:S6][value:0:4]/[value:1:4]
-
++++
 [M:S7][value:0:4]/[value:1:4]
-
++++
 Money
-
+Деньги
++++
 [CS:E][gold:0][CR]
-
++++
 Yes
-
++++
 No
-
++++
 Sell
-
+Продать
++++
 Buy
-
+Купить
++++
 Sell All
-
+Продать Всё
++++
 Info
-
+Инфо
++++
 Cancel
-
+Отмена
++++
 Exit
-
+Выход
++++
 Item: [string0]
-
+Предмет: [string0]
++++
 " Welcome to the [kind:0]
 Shop! в™Є"
-
+ Добро пожаловать в Лавку
+[CS:K]Кеклеонов[CR]! ♪
++++
 " May I help you with anything
 else?"
-
+ Могу я помочь тебе еще с
+чем-нибудь?
++++
  Thanks! Please come again! в™Є
-
+ Спасибо! Приходи ещё! ♪
++++
 " Very well! Feel free to examine
 my merchandise! в™Є (You can use [M:B6] to choose
 more than one item.)"
-
+ Очень хорошо! Взгляни на мои
+товары! ♪ (Вы можете нажать на [M:B6],
+чтобы выбирать более одного предмета.)
++++
 " Do you wish to buy anything else
 today?"
-
+ Желаешь купить что-нибудь ещё?
++++
 " That [string0]? That will
 be [CS:G][gold_left:0][CR][M:S0]. Is that to your liking?"
-
+ [string0]?
+Это обойдётся тебе в [CS:G][gold_left:0][CR][M:S0].
+Желаешь это купить?
++++
 " Altogether, that comes to
 [CS:G][gold_left:0][CR][M:S0]. Is that OK?"
-
+ Общая стоимость этих вещей
+составит [CS:G][gold_left:0][CR][M:S0]. Всё устраивает?
++++
  Thank you! All yours! в™Є
-
+ Спасибо! Всё твоё! ♪
++++
 " Very well! What will you sell?
 (You can use [M:B6] to choose multiple items.)"
-
+ Очень хорошо! Что ты хочешь
+продать? (Вы можете нажать на [M:B6],
+чтобы выбирать более одного предмета.)
++++
 " Do you wish to sell anything 
 else? (You can use [M:B6] to choose
 multiple items.)"
-
+ Хочешь продать что-нибудь еще?
+(Вы можете нажимать на [M:B6], чтобы
+выбирать более одного предмета.)
++++
 " Your [string0]? I can
 pay you [CS:G][gold_left:0][CR][M:S0] for that. Will you sell
 it for that price?"
 
+[string0]?
+За это я могу заплатить [CS:G][gold_left:0][CR][M:S0].
+Устроит такая цена?
++++
 " I can pay [CS:G][gold_left:0][CR][M:S0] for
 everything. Is that acceptable?"
-
+ За все эти вещи я могу заплатить
+[CS:G][gold_left:0][CR][M:S0]. Всё устраивает?
++++
  Done deal! Thank you! в™Є
-
+ Отличная сделка! Спасибо! ♪
++++
 " You know...[K]I'm sold out. Please
 forgive me.[C]
  I will have new merchandise
 for you tomorrow, I swear!"
 
+ Честно говоря...[K] У меня нет
+товаров. Прошу, извини меня.[C]
+ Клянусь, завтра у меня появятся
+новые вещи на продажу!
++++
 " What? [K]You don't seem to have
 the money."
-
+ Что? [K]Похоже, у тебя не хватает
+денег.
++++
 " Goodness! You're overflowing
 with money![C]
  You couldn't possibly carry any
 more money!"
 
+ Боже! У тебя слишком много
+денег![C]
+ Ты совершенно никак не сможешь
+унести ещё больше денег!
++++
  Oh? [K]Nothing to sell?
-
+ Что? [K]Нечего продавать?
++++
 " Oh?[K] You don't seem to have
 anything!"
-
+ Что?[K] Но у тебя ничего нет!
++++
 " Oh! [K]You have no more space for
 items!"
-
+ Ой! [K]У тебя нет места под вещи!
++++
 " Uh-oh![K] No more merchandise![C]
  I'm completely sold out!"
-
+ Ой-ёй! Товар закончился![C]
+ Всё продано!
++++
 " Oh![K] Sorry, you don't seem to
 have enough money!"
-
+ Ой![K] Прости, но, похоже, у тебя
+не хватает денег!
++++
 " Oh my![K] I couldn't possibly take
 that from you!"
-
+ Ох![K] Я совсем не могу взять
+это у тебя!
++++
 " Oh my![K] You can't carry any
 more money! Sorry, I can't complete the deal."
-
+ Ой-ёй![K] Ты не можешь нести
+больше денег! Прости, но сделка не
+состоится.
++++
 " We, the [kind:] Brothers,
 have a passion for selling items! в™Є[C]
  Items are useful for your
@@ -2187,29 +2542,64 @@ we restock! Visit us when you return! в™Є[C]
  Even in dungeons! Visit us
 everywhere!"
 
+ Мы, Братья [CS:K]Кеклеоны[CR], очень
+любим торговать предметами! ♪[C]
+ Предметы очень полезны на
+вылазках в подземелья![C]
+ Используй предметы с умом! И
+находи для них другие применения![C]
+ Ах, да! Если в нашей лавке не
+останется предметов... [C]
+ Мы добудем что-нибудь новое
+на продажу в следующий день![C]
+ Поэтому, пройдись по подземелью,
+чтобы у нас появился новый товар! И не
+забудь навестить нас после этого! ♪[C]
+ И ещё! Ты можешь всюду найти
+Лавки других [CS:K]Кеклеонов[CR]...[C]
+ Они есть даже в подземельях!
+Заходи и к ним тоже!
++++
 " Welcome to [kind:0] Wares,
 where you can find Orbs and TMs! в™Є"
-
+ Добро пожаловать в Лавку
+Снаряжения [CS:K]Кеклеонов[CR]! Здесь ты сможешь
+купить Орбы и ТМ! ♪
++++
 " May I assist you in any
 other way?"
-
+ Я могу помочь чем-нибудь ещё?
++++
  Thanks! Please come again! в™Є
-
+ Спасибо! Приходи ещё! ♪
++++
 " Ah, very well! Take a look at my
 merchandise. All chosen with pride! в™Є
 (You can use [M:B6] to choose multiple items.)"
-
+ А, очень хорошо! Взгляни на
+мой товар. Здесь всё только самое
+лучшее! ♪
+(Вы можете нажать на [M:B6], чтобы
+выбирать более одного предмета.)
++++
 " Do you wish to purchase anything
 else?"
-
+ Хочешь купить что-нибудь ещё?
++++
 " That [string0]? That will
 be [CS:G][gold_left:0][CR][M:S0]. Is that acceptable?"
-
+ [string0]?
+Это обойдётся в [CS:G][gold_left:0][CR][M:S0].
+Всё устраивает?
++++
 " Altogether, that comes to
 [CS:G][gold_left:0][CR][M:S0]. Is that OK?"
-
+  Общая стоимость этих вещей
+составит [CS:G][gold_left:0][CR][M:S0]. Всё устраивает?
++++
  Thank you! Well chosen! в™Є
-
+ Спасибо! Прекрасный выбор! ♪
++++
 " Ah, very well! What do you wish
 to sell?
 (You can use [M:B6] to choose multiple items.)"
@@ -2224,43 +2614,69 @@ price?"
 
 " I will pay [CS:G][gold_left:0][CR][M:S0] for
 everything you're offering. Is that acceptable?"
-
++++
  We have a deal! Thank you! в™Є
-
+ Договорились! Спасибо! ♪
++++
 " You know...[K]I'm sold out. So
 sorry, my friend.[C]
  Tomorrow! Tomorrow I shall
 have more wares!"
-
+ Видишь ли...[K]У меня нет товара.
+Мне очень жаль.[C]
+ Но завтра! Завтра у меня будет
+больше товаров!
++++
 " Oh?[K] You seem short on money,
 my friend."
-
+ А?[K] У тебя маловато денег,
+дружище.
++++
 " Oh! You're carrying too much
 money, my friend![C]
  You can't hold any more!"
-
+ Ой! Дружище, у тебя с собой
+слишком много денег![C]
+ Больше тебе не унести!
++++
 " Oh? [K]You don't seem to have
 anything that you can sell."
-
+ Что? [K]Но у тебя нет ничего,
+что ты можешь продать.
++++
 " Oh? [K]You seem to have nothing,
 my friend."
-
+ Что? [K]Дружище, похоже, у тебя
+него нет.
++++
 " Oh![K] You've run out of space for
 any more of my wares, my friend!"
-
+ Ой![K] Дружище, у тебя закончилось
+место под мои товары!
++++
 " Oh?[K] My shelves are bare of
 wares![C]
  I am completely sold out, friend!"
-
+ Что? Мои полки совершенно 
+пусты![C]
+ У меня всё продано!
++++
 " Oh! [K]You're short on money, my
 friend!"
-
+ Ой![K] Дружище, у тебя не хватает
+денег!
++++
 " Whoa![K] I... I can't accept
 anything like that!"
-
+ Ого![K] Я... Я такое не могу
+принять!
++++
 " Oh no![K] My friend, you cannot
 add to your money! I cannot do this."
-
+ О, нет![K] Дружище, ты не можешь
+нести больше денег! Я не могу это
+сделать.
++++
 " PokГ©mon moves...[K]are the path to
 ultimate power![C]
  Smash walls![K] Fly![K] So many
@@ -2277,26 +2693,49 @@ I've taken on a rosy hue![C]
  I do hope you will shop at our
 market. Visit my elder brother and me!"
 
+ Приёмы Покемонов...[K] кратчайший
+путь к невероятному могуществу![C]
+ Круши стены![K] Летай![K] Приёмов
+очень много. Все они динамичны,
+и по своему элегантны![C]
+ И некоторые приёмы, непонятные
+и редкие, они...[K] просто великолепны![C]
+ Каждый день, я продаю самые
+разные приёмы![K] Их можно изучить,
+применив Технический Механизм, или ТМ![C]
+ Видишь? Разве это не здорово?
+Об этом можно только мечтать![C]
+ Ох, я так взбудоражился, что
+у меня появился розоватый оттенок![C]
+ Надеюсь, ты будешь заходить
+в нашу Лавку. Приходи к моему страшему
+брату и ко мне!
++++
 Store
-
 Take
-
 Info
-
 Cancel
-
 Money: [CS:G][bank:0][CR]
-
 Savings: [CS:G][bank:0][CR]
-
  Welcome to [kind:] Bank!
-
  How may I help? Hee-hee...
-
+ 
+Хранить
+Забрать
+Инфо
+Отмена
+Деньги: [CS:G][bank:0][CR]
+Сбережения: [CS:G][bank:0][CR]
+ Добро пожаловать в Банк
+[CS:K]Даскалла[CR]!
+ Чем я могу служить? Хе-хе...
++++
 " Your bank balance is
 [CS:G][bank_left:0][CR][M:S0]. Now, how may I serve you?
 Hee-hee..."
-
+ Сейчас на хранении [CS:G][bank_left:0][CR][M:S0].
+Так, чем я могу служить? Хе-хе...
++++
 " Did you know that if you fall in
 a dungeon, half of your money will be spirited
 away, never to be found again? Hee-hee...[C]
@@ -2312,52 +2751,98 @@ I'm hauntingly honest...[K]hee-hee![C]
  So leave your money with me.
 It will rest in peace...[K]hee-hee!"
 
+ Тебе известно, что если ты
+свалишься без чувств в подземелье, то
+половина твоих денег истончится и более
+никогда не увидит свет? Хе-хе...[C]
+ Избегай этой судьбы...[K]Хе-хе...[K]
+оставляя свои деньги в Банке [CS:K]Даскалла[CR].[C]
+ Если тебя одолеют в подземелье,
+то твои деньги будут в целости и
+сохранности, со мной.[C]
+ Признаю, я выгляжу весьма
+зловеще...[K]хе-хе...[C]
+ Но не суди меня по внешнему
+виду! Я пугающе честен...[K] Хе-хе![C]
+ Храни у меня деньги.
+Они будут покоиться здесь с миром...[K]
+Хе-хе!
++++
 " I look forward to your next
 visit! Hee-hee!"
-
+ Я буду ждать твоего следующего
+визита! Хе-хе!
++++
 " I look forward to your next
 visit. Hee-hee!"
-
+ Я буду ждать твоего следующего
+визита! Хе-хе!
++++
  You wish to cancel. All right.
-
+ Желаешь выйти. Как угодно.
++++
 " What?[K] Oh, deepest sorrow! You
 have no money!"
-
+ Что?[K] О, горе! У тебя нет денег!
++++
 " Whoooa! What a vast stash of
 money you have here![K] Our safe is about to
 burst! Hee-hee![C]
  Unfortunately, we can't take any
 more."
-
+ Оогоо! Вот это запасы денег
+у тебя![K] Моё хранилище скоро лопнет!
+Хе-хе![C]
+ К сожалению, я не могу взять
+больше денег.
++++
 " How much do you want to
 deposit?"
-
+ Сколько денег ты хочешь
+положить на хранение?
++++
 " [CS:G][gold_left:0][CR][M:S0]! It will rest here
 in peace. Forever, if you wish. Hee-hee!"
-
+ [CS:G][gold_left:0][CR][M:S0]! Они будут покоиться
+здесь с миром. Вечно, если пожелаешь.
+Хе-хе!
++++
 " What?[K] I'm sorry, but you can't
 carry any more money! [K]There's not even a
 ghost of a chance! Hee-hee!"
-
+ Что?[K] Извиняюсь, но ты не
+можешь унести больше денег![K] На это
+даже призрачного шанса нет! Хе-хе!
++++
 " What?[K] I'm sorry to say that you
 have no money here. Your vault is barren!"
-
+ Что?[K] Мне жаль это говорить, но
+денег на хранении нет. Твоё хранилище
+мертвецки пусто!
++++
  How much will you withdraw?
-
+ Сколько денег ты хочешь
+забрать?
++++
  [CS:G][gold_left:0][CR][M:S0]? OK, here it is!
-
+ [CS:G][gold_left:0][CR][M:S0]? Хорошо, прошу!
++++
 Deposit?
-
+Положить деньги?
++++
 Withdraw?
-
+Забрать деньги?
++++
 Yes
-
+Да
 No
-
+Нет
++++
 Appraise
-
+Оценить
 Info
-
+Инфо
+---
 " [kind:] Day Care welcomes
 you! в™Є[K] I love taking care of Eggs! в™Є[C]
  If you ever get an Egg, I'll
@@ -2368,6 +2853,16 @@ as rewards for missions sometimes. в™Є[C]
  So, if you want an Egg, go on
 lots of missions! в™Є"
 
+ Добро Пожаловать в Дневной Уход
+[kind:]! ♪ Я ухаживаю за Яйцами! ♪[C]
+ Если тебе попадётся Яйцо, я
+присмотрю за ним! ♪[K] Я буду приглядывать
+за ним, словно за собственным! ♪[C]
+ Я слышала, что Яйца иногда можно
+получить как награду за задания. ♪[C]
+ Поэтому, если ты хочешь найти
+Яйцо, выполняй задания! ♪
++++
 " This is [kind:] Day Care!
 I'll take care of any more Eggs that you get![C]
  I've heard that you can get Eggs
@@ -2375,18 +2870,33 @@ as rewards for doing missions sometimes! в™Є[C]
  So, if you want an Egg, go on
 lots of missions! в™Є"
 
+ Это Дневной Уход [kind:]!
+Здесь, я ухаживаю за всеми найденными
+тобой Яйцами![C]
+ Я слышала, что Яйца иногда можно
+получить как награду за задания. ♪[C]
+ Поэтому, если ты хочешь найти
+Яйцо, выполняй задания! ♪
++++
 Check Egg
-
+Проверить Яйцо
++++
 Info
-
+Инфо
++++
 Cancel
-
+Отмена
++++
 " I'm looking after your Egg! в™Є
 It's doing fabulously well! в™Є"
-
+ Я приглядываю за твоим Яйцом! ♪
+Оно прекрасно себя чувствует! ♪
++++
 " Please come back another time
 to check on it! в™Є"
-
+ Возвращайся в другой раз и
+проверь его состояние! ♪
++++
 " [kind:] Day Care takes
 Eggs and looks after them for PokГ©mon! в™Є[C]
  I'm responsible for caring for
@@ -2398,20 +2908,43 @@ as rewards for missions sometimes. в™Є[C]
  So, if you want an Egg, go on
 lots of missions! в™Є"
 
+ Дневной Уход [kind:] принимает
+Яйца Покемонов и ухаживает за ними! ♪[C]
+ Я несу ответственность за Яйца,
+ухаживая за ними, как за собственными! ♪[C]
+ Я надеюсь, что тебе будет в
+радость узнать кто растёт в Яйце! ♪[C]
+ Я слышала, что Яйца иногда можно
+получить как награду за задания. ♪[C]
+ Поэтому, если ты хочешь найти
+Яйцо, выполняй задания! ♪
++++
 " [se_play:0]Huh...?[K] The Egg...[C]
  Is it...?[K] Could it be...?[K]
 Is it close to hatching?[C]
  Could it...?![C]
  Will it...?!"
 
+ [se_play:0]А...?[K] Яйцо...[C]
+ Оно...?[K] Может, оно...?[K]
+Скоро вылупится?[C]
+ Скоро ли...?![C]
+ Вылупится ли...?!
++++
 " [se_play:0]Huh...?[K] The Egg...[C]
  Is it...?[K] Could it be...?[K]
 Is it close to hatching?[C]
  Could it...?![C]
  Will it...?!"
 
+ [se_play:0]А...?[K] Яйцо...[C]
+ Оно...?[K] Может, оно...?[K]
+Скоро вылупится?[C]
+ Скоро ли...?![C]
+ Вылупится ли...?!
++++
 Unused
-
++++
 " Huh...?[K] What?[se_play:0][C]
  The Egg...[K][me_play:1]hatched![C]
  A healthy [CS:N][string0][CR]![K]
@@ -2419,22 +2952,44 @@ Look! See it smile? It's adorable! в™Є[C]
  Oh? The [CS:N][string0][CR] wants
 to join your team! в™Є[K] What will you do?"
 
+ А...?[K] Что?[se_play:0][C]
+ Яйцо...[K][me_play:1]вылупилось![C]
+ Это здоровый Покемон [CS:N][string0][CR]![K]
+Гляди! Видишь его улыбку?
+Как это очаровательно! ♪[C]
+ Что? [CS:N][string0][CR] хочет быть в твоей
+команде! ♪[K] Как поступишь?
++++
 Accept [string0] into the team?
-
+Принять Покемона [string0] в команду?
++++
 "You didn't accept the baby PokГ©mon for your
 exploration team.[C]
 So [CS:N][string0][CR] went off, happy and
 carefree!"
-
+Вы не приняли малыша-Покемона в вашу
+команду исследователей.[C]
+[CS:N][string0][CR] счастливо и беззаботно
+уходит восвояси!
++++
 " Hmmm...[K] Well...[K] Not quite yet...[C]
  Give it a little more time, then
 come by for another look! в™Є"
-
+ Хммм...[K] Что-ж...[K] Ещё не время...[C]
+ Просто дай ему ещё немножечко
+времени и навести его в другой раз! ♪
++++
 "[CS:F][string0][CR] joined the team![C]
 [CS:F][string0][CR] is happy to be a member![C]
 [CS:F][string0][CR] went off to be a part of your
 [CS:K]Chimecho[CR] Assembly roster."
 
+[CS:F][string0][CR] вступает в команду![C]
+[CS:F][string0][CR] радуется тому, что находится
+в вашей группе![C]
+[CS:F][string0][CR] уходит и становится на
+ожидание в Сборном Пункте [CS:K]Чаймеко[CR].
++++
 [M:D1]Not in use.
 
 [M:D1]Not in use.
@@ -2448,95 +3003,160 @@ come by for another look! в™Є"
 [M:D1]Unused
 
 [M:D1]Unused
-
++++
 " Huh? Well, this is unusual![K]
 The baby is holding a special item![C]
  You should think about keeping
 that item with you! в™Є"
 
+ Что? Ого, как необычно![K]
+Малыш держит при себе особый предмет![C]
+ Возможно, стоит оставить этот
+предмет себе! ♪
++++
 " Or that's what I would suggest,
 if you had the room for it.[C]
  You don't, so I'll take it over to
 storage for you later! в™Є"
 
+ Ну, или это то, что я бы
+предложила, будь у тебя для него место.[C]
+ Но, его у тебя нет, поэтому я
+уберу его в твоё хранилище! ♪
++++
 "A new member joined the team!
 Give [string:0] a nickname?"
-
+К вам присоединяется новый член группы!
+Дать Покемону [string:0] прозвище?
++++
 You do NOT want to throw that out!
-
+Вы НЕ захотите это выбрасывать!
++++
 Refused to take [CS:N][string0][CR] as a member.
-
+Вы отказались взять Покемона [CS:N][string0][CR]
+в группу.
++++
 Received
-
+Получено
+---
 Appraise
-
+Оценка
++++
 Item: [kind:0]
-
+Предмет: [kind:0]
++++
 Select with [M:B6]
-
+Выбор: [M:B6]
++++
 [value:0:2]/[value:1:2]
-
++++
 Yes
 
 No
-
++++
 Cancel
-
+Отмена
++++
 Swap
-
+Обмен
++++
 View List
-
+Просмотр Списка
++++
 Info
-
+Информация
++++
 Exit
-
+Выход
++++
 " Meh-heh-heh. Welcome to the
 [kind:] Swap Shop. Want to swap? It'll
 cost ya [CS:G][gold_left:0][CR][M:S0]."
-
+ Хе-хе-хе. Добро пожаловать в
+Обменную Лавку [CS:K]Кроганка[CR]. Хочешь что-то
+обменять? Это обойдётся тебе в [CS:G][gold_left:0][CR][M:S0].
++++
 " Meh-heh-heh. Anything else you
 wanna swap?"
-
+ Хе-хе-хе. Хочешь обменять
+чего-нибудь еще?
++++
 " Meh-heh-heh...[K] Hey, hold it!
 No money, no swap. Got that?"
-
+ Хе-хе-хе...[K] Эй, постой-ка!
+Нет денег - нет обмена. Всё ясно?
++++
 " Didn't I tell ya? It's [CS:G][gold_left:0][CR][M:S0]
 for every swap. Meh-heh-heh![C]
  That means you don't have the
 money to do it right now!"
 
+ Что я тебе говорил? За каждый
+обмен, плата [CS:G][gold_left:0][CR][M:S0]. Хе-хе-хе![C]
+ Это значит, что у тебя нет денег
+на обмен!
++++
 " Let me take a look... Nope, you
 don't have a set of swappable items. Meh-heh."
-
+ Дай-ка взглянуть... Не-а, у
+тебя нет предметов на обмен. Хе-хе.
++++
 " Meh-heh-heh. Sorry...[C]
  It looks like there's nobody to trade with now."
-
+ Хе-хе-хе. Сожалею...[C]
+ Похоже, с тобой пока некому
+обмениваться.
++++
 " So which Exclusive Item do you
 want?"
 
+ Так какой Эксклюзивный Предмет
+тебе нужен?
++++
  You don't wanna? Meh-heh-heh!
-
+ Ничего не надо? Хе-хе-хе!
++++
  What...? [K]Whoa![C]
-
+ Что...? [K]Ого![C]
++++
 " So you wanna swap your
 [item:1] and [item:2] for that?[C]
  It'll cost [CS:G][gold_left:0][CR][M:S0]. OK?"
 
+ Хочешь обменять на это свои
+[item:1] и [item:2]?[C]
+ Это обойдётся тебе в [CS:G][gold_left:0][CR][M:S0]. Пойдёт?
++++
 " So you wanna swap your
 [item:1], [item:2], and
 [item:3] for that?[C]
  It'll cost [CS:G][gold_left:0][CR][M:S0]. OK?"
 
+ Хочешь обменять на это свои
+[item:1], [item:2] и
+[item:3]?[C]
+ Это обойдётся тебе в [CS:G][gold_left:0][CR][M:S0]. Пойдёт?
++++
 " So you wanna swap your
 [digits:1] Exclusive Items, then?[C]
  It'll cost [CS:G][gold_left:0][CR][M:S0]. OK?"
 
+ Хочешь обменять на это свои
+[digits:1] Эксклюзивных Вещей?[C]
+ Это обойдётся тебе в [CS:G][gold_left:0][CR][M:S0]. Пойдёт?
++++
 " Let's do this swap then!
 Meh-heh-heh![C]"
 
+ Тогда, начнём обмен!
+Хе-хе-хе![C]
++++
 "[CN][name:0] put the [se_play:0]Exclusive Items
 [CN]in the Swap Cauldron.[C]"
 
+[CN][name:0] кладёт [se_play:0]Эксклюзивные Предметы
+[CN]в Обменный Котёл.[C]
++++
 " Meh-heh-heh![K]
 Seems to me your swap went off
 without a hitch![C]
@@ -2546,9 +3166,21 @@ swapped got you this [item:1].[C]
 Treat it with care.
 Meh-heh-heh!!"
 
+ Хе-хе-хе![K]
+Как по мне, твой обмен прошёл без
+сучка и задоринки![C]
+ Эти Эксклюзивные Предметы были
+обменены на [item:1].[C]
+ Я бы сказал, что вещица редкая.
+Береги её и польза будет вечная.
+Хе-хе-хе!!
++++
 "[CN][hero] accepted
 [CN]the [me_play:1][item:1]."
 
+[CN][hero] получает
+[CN][me_play:1][item:1].
++++
 " Meh-heh-heh![K] Seems that we
 brewed up a successful swap there![C]
  What? [K]What's that?!
@@ -2558,14 +3190,34 @@ So incredibly special![C]
  I rarely see something so
 valuable! Treat it with respect! Meh-heh-heh!"
 
+ Хе-хе-хе![K] Похоже, приготовился
+успешный обмен![C]
+ Что?[K] Что это такое?!
+[item:1]?! Должно быть, мне
+мерещится![C]
+ Это невероятно ценная вещь![K]
+Невероятно особенная вещь![C]
+ Редко удаётся увидеть что-то
+столь ценное! Береги эту вещь!
+Хе-хе-хе!
++++
 "[CN][hero] accepted the extremely
 [CN]rare and precious [me_play:1][item:1]!"
 
+[CN][hero] забирает невероятно
+[CN]редкий и ценный [me_play:1][item:1]!
++++
 " ...But you can't take it. Not when
 you don't have room for it! Meh-heh-heh.[C]
  So I'll send it to your storage
 later. You be sure to check on it."
 
+ ...Но ты не сможешь это взять.
+Не тогда, когда у тебя нет места
+в Сумке! Хе-хе-хе.[C]
+ Поэтому, я отправлю это в твоё
+хранилище. Обязательно загляни туда.
++++
 " See the Swap Cauldron behind
 me? When ya throw in some Exclusive Items...[C]
  They're swapped for one
@@ -2576,6 +3228,19 @@ swappable items![C]
 can get back rare items in swaps.[C]
  Count on it! Meh-heh-heh!"
 
+ Видишь позади меня Обменный
+Котёл? Если бросить туда немного
+Эксклюзивных Предметов...[C]
+ Они будут обменены на экземпляр
+Эксклюзивного Предмета для другого
+Покемона.[C]
+ Но тебе нужно бросить туда
+набор из предметов, которые поддаются
+обмену![C]
+ Не переживай. Это того стоит.
+Редкие предметы можно будет вернуть.[C]
+ Положись на меня! Хе-хе-хе!
++++
 " If you look up the [CS:E]Info[CS::D] on
 items, the ones that are Exclusive Items will 
 have this [M:S3] mark on them.[C]
@@ -2597,6 +3262,29 @@ and lugging them all the way here.[C]
 so you can do better swaps, OK?
 Meh-heh-heh!"
 
+ Если ты будешь смотреть [CS:E]Инфо[CS::D] у
+предметов, то заметишь, что Эксклюзивные
+Предметы имеют пометку [M:S3][C]
+ Чтобы провести обмен, тебе
+потребуется набор предметов, что
+отмечены [M:S3].[C]
+ Вот тебе пример для ясности.[K]
+Допустим, у тебя есть [CS:Z]Коготь Шинкса[CR] и
+[CS:Z]Клык Шинкса[CR]...[C]
+ Ты сможешь поменять их на
+[CS:Z]Ярлык Вспышки[CR]. Понимаешь?[C]
+ Кроме того,[K] не обязательно
+держать Эксклюзивные Предметы для обмена
+в своей сумке...[C]
+ Можно обменивать Эксклюзивные
+Предметы, что находятся в хранилище.[C]
+ Поэтому, не стоит переживать за
+то, что придётся таскать сюда вещи из 
+хранилища.[C]
+ Совершай вылазки и сможешь
+обменивать предметы на более хорошие
+и полезные вещи, хорошо? Хе-хе-хе!
++++
 " Which Exclusive Items will have
 an effect on you or your team...?[K]
 You can view them in a list.[C]
@@ -2604,74 +3292,120 @@ You can view them in a list.[C]
 want on the list...[K]then of course you can
 trade for it!"
 
+ Какие Эксклюзивные Предметы
+влияют на тебя или твою группу...?[K]
+Это можно узнать в списке.[C]
+ Если в списке есть предмет,
+который нужен тебе...[K] Тогда, конечно же,
+ты сможешь его получить в обмене!
++++
  Come again! Meh-heh-heh!
-
+ Приходи ещё! Хе-хе-хе!
++++
 " OK, so which Exclusive
 Items are you offering in return?"
-
+ Хорошо, какие Эксклюзивные
+Предметы ты предлагаешь взамен?
++++
 " Whose list of Exclusive Items
 do you want to see?"
-
+ Чей список Эксклюзивных
+Предметов ты хочешь увидеть?
++++
 " Here's a list of Exclusive Items
 that [name:0] can use."
-
+ Вот список Эксклюзивных
+Предметов, которые подойдут для
+[name:0].
++++
 " Would you like to see anyone
 else's Exclusive Items list?"
-
+ Хочешь просмотреть список
+чьих-либо Эксклюзивных Предметов?
++++
 Trade Info
-
+Инфо о Обменах
++++
 List Info
-
+Инфо о Списках
++++
 Exit
-
+Выход
++++
 " What information would you like
 to get?"
-
+ О чём ты хочешь узнать?
++++
 Yes
 
 No
-
+---
 Get appraisal
-
+Оценить
++++
 Item info
-
+Инфо о предмете
++++
 Info
-
+Инфо
++++
 Cancel
-
+Отмена
++++
 " This is [kind:] Appraisal.
 My service costs [CS:G][gold_left:0][CR][M:S0]. What do you
 wish?"
-
+ Это Пункт Оценки [kind:].
+Мои услуги обойдутся в [CS:G][gold_left:0][CR][M:S0].
+Что тебе угодно?
++++
  You have no items to appraise.
-
+ У тебя нет вещей для оценки.
++++
 " You...[K]you have no items in need
 of appraisal, it seems."
-
+ Ты...[K]ты, судя по всему, не
+имеешь предметов, которым требуется
+моя оценка.
++++
 Appraise
-
+Оценка
++++
 Cancel
-
+Отмена
++++
 " Your [item:1]? And you
 will pay [CS:G][gold_left:0][CR][M:S0]?"
-
+ [item:1]?
+И платой твоей будет [CS:G][gold_left:0][CR][M:S0]?
++++
  What more do you wish?
-
+ Чего ты ещё желаешь?
++++
 Item info
-
+Инфо предмета
++++
  You...[K]you won't, eh...?
-
+ Ты...[K]не хочешь, а...?
++++
  You...[K]you are short on money.
-
+ Тебе...[K]тебе не хватает денег.
++++
 " Let the appraisal begin![K]
 Kwee...![K] Kwee...![K] KWAH![C]"
-
+ Да начнётся оценка![K]
+Квее...![K] Квее...![K] КВОХ![C]
++++
  Kwah... HAH!
-
+ Квох... ХАА!
++++
 " And so...[K]it is revealed...[C]
  Within the box...[K]
 was this [me_play:1][string0]!"
-
+ Итак...[K]всё открыто...[C]
+ В шкатулке лежит...[K]
+[me_play:1][string0]!
++++
 " You may find yourself unable
 to open a treasure box...[K]
 to know what item is within![C]
@@ -2685,68 +3419,119 @@ reveal what it truly is![C]
  But...[K]such knowledge comes at
 a cost..."
 
+ Открыть шкатулку с сокровищем
+самому не так-то просто...[K]
+и узнать, что внутри![C]
+ Вот так загадка! И в такое время
+нужды! Квох... Хаа![C]
+ Принеси нерушимую шкатулку
+мне для оценки...[K]
+мне для вскрытия![C]
+ Я дам тебе предмет и открою,
+чем на самом деле он является![C]
+ Но...[K]такие знания имеют свою
+цену...
++++
 " When you get another box, I'll
 have the eyes to probe its mysteries."
-
+ Если ты найдёшь ещё одну
+шкатулку, я смогу узнать её секреты.
++++
 Exit
-
+Выход
++++
 Yes
-
+Да
 No
-
+Нет
++++
 Exit
-
+Выход
++++
 Proceed
-
+Связать
++++
 Info
-
+Инфо
++++
 Cancel
-
+Отмена
++++
 Set move
-
+Задать
++++
 Link
-
+Связать
++++
 Delink
-
+Разделить
++++
 Forget
-
+Забыть
++++
 Deselect
-
+Убрать
++++
 Switch
-
+Сменить
++++
 Remember
-
+Вспомнить
++++
 Moves
-
+Приёмы
++++
 Summary
-
+Сводка
++++
 Check IQ
-
+Сверка IQ
++++
 Info
-
+Инфо
++++
 Cancel
-
+Отмена
++++
 " Howdy! Welcome to the
 [kind:] Link Shop![C]
  I'll link all the moves you want
 for just [CS:G][gold_left:0][CR][M:S0] a session!"
 
+ Привет! Добро пожаловать в
+Связь-Лавку [CS:K]Элективайра[CR]![C]
+ Я свяжу любые твои приёмы,
+всего лишь [CS:G][gold_left:0][CR][M:S0] за сеанс!
++++
  Good! Who wants to link moves?
-
+ Отлично! Кому нужно связать
+приёмы?
++++
  So do we keep going?
-
+ Так что, продолжим?
++++
 " Huh? [K]You seem to be a special
 PokГ©mon![C]
  I don't think that I can help you
 remember any forgotten moves. Sorry!"
 
+ Что? [K]Похоже, ты не совсем
+обычный Покемон![C]
+ Не думаю, что я смогу помочь
+тебе вспомнить забытые приёмы. Извини!
++++
 " Huh? [K]You don't seem to have
 forgotten any moves...so I can't help you
 remember any!"
-
+ Что? [K]У тебя нет никаких
+забытых приёмов... Поэтому я не смогу
+помочь тебе вспомнить что-либо! 
++++
 " So which forgotten move do you
 want to remember?"
-
+ Какой забытый приём нужно
+вспомнить?
++++
 " So you want to remember the
 [move:] move?[K] OK, here goes![C]
  Crank it up! Bzzzzt...[K] Zzzzat![K]
@@ -2754,13 +3539,28 @@ Electivire![C]
  Success![K][se_play:0] You remembered the
 [move:] move!"
 
+ Значит, нужно вспомнить приём
+[move:]?[K] Хорошо, начинаем![C]
+ Завожусь! Бзззть...[K] Ззззть![K]
+Элективайр![C]
+ Успех![K][se_play:0] Ты вспоминаешь
+приём [move:]!
++++
 "This PokГ©mon can't learn another move until it
 forgets one first. Choose a move to forget."
 
+Этот Покемон не сможет выучить другой
+приём, пока он не забудет известный ему
+приём. Выберите приём, чтобы его забыть.
++++
 " So forget the [move:]
 move and any moves linked to it, then
 remember the [move:1] move?"
 
+ Забыть приём [move:]
+и все связанные с этим приёмы, и
+вспомнить приём [move:1]?
++++
 " OK, here goes![C]
  Crank it up! Bzzzzt...[K] Zzzzat![K]
 Electivire![C]
@@ -2769,9 +3569,21 @@ Electivire![C]
 [move:] and any moves linked to it...
 And remembered[se_play:0] [move:1]!"
 
+ Значит, нужно вспомнить приём
+[move:]?[K] Хорошо, начинаем![C]
+ Завожусь! Бзззть...[K] Ззззть![K]
+Элективайр![C]
+ Успех![C]
+ Ты забываешь приём
+[move:] и все связанные с этим
+приёмы...[C]
+ И вспоминаешь[se_play:0] [move:1]!
++++
 " So forget the [move:]
 move, then remember [move:1]?"
-
+ Забыть приём [move:]
+и вспомнить приём [move:1]?
++++
 " OK, here goes![C]
  Crank it up! Bzzzzt...[K] Zzzzat![K]
 Electivire![C]
@@ -2780,15 +3592,31 @@ Electivire![C]
 [move:] and remembered
 [move:1]!"
 
+ Хорошо, начинаем![C]
+ Завожусь! Бзззть...[K] Ззззть![K]
+Элективайр![C]
+ Успех![C]
+[se_play:0] [name:] забывает приём
+[move:] и вспоминает приём
+[move:1]!
++++
 " Huh?[K] You don't have enough
 money."
-
+ Что?[K] У тебя недостаточно
+денег.
++++
 " You won't have any moves at all
 if you forget that move."
 
+ Если ты забудешь этот приём,
+у тебя их вовсе не останется.
++++
 " So forget the [move:]
 move and any moves linked to it?"
-
+ Так что, забыть приём
+[move:] и все связанные с этим
+приёмы?
++++
 " OK, here goes![C]
  Crank it up! Bzzzzt...[K] Zzzzat![K]
 Electivire![C]
@@ -2796,9 +3624,18 @@ Electivire![C]
  You've forgotten the move
 [move:] and any moves linked to it!"
 
+ Хорошо, начинаем![C]
+ Завожусь! Бзззть...[K] Ззззть![K]
+Элективайр![C]
+ Успех![C]
+ Ты забываешь приём
+[move:] и все связанные с этим
+приёмы!
++++
 " So forget the move
 [move:]?"
-
+ Забыть приём [move:]?
++++
 " OK, here goes![C]
  Crank it up! Bzzzzt...[K] Zzzzat![K]
 Electivire![C]
@@ -2806,9 +3643,17 @@ Electivire![C]
  [name:] forgot the move
 [move:]!"
 
+ Хорошо, начинаем![C]
+ Завожусь! Бзззть...[K] Ззззть![K]
+Элективайр![C]
+ Успех![C]
+ [name:] забывает приём
+[move:]!
++++
 " Sure thing! What do you want to
 know?"
-
+ Хорошо! Что ты хочешь знать?
++++
 " When you use moves in a
 dungeon...[K]it takes time to use the move
 menu each and every time![C]
@@ -2823,6 +3668,21 @@ It's so convenient![C]
  You can also switch your set
 move at any time in a dungeon. Check it out!"
 
+ Когда ты применяешь приёмы в
+подземелье...[K] Лезть каждый раз в меню и
+использовать приём оттуда слишком долго![C]
+ Но можно сократить время,
+если Задать приём на быстрое применение![C]
+ После того, как ты задашь
+приём, нажми [M:B6] и [M:B2], чтобы быстро
+применить его![K] Видишь, всё просто![C]
+ Просто задай приём во время
+вылазки...затем нажми [M:B6] и [M:B2], чтобы
+применить его! Как удобно![C]
+ Также ты можешь в любое
+время изменить свой заданный приём.
+Обязательно попробуй так сделать!
++++
 " When two or three moves are
 linked...[K]you can unleash them as part of a
 single, chained move! All in one turn![C]
@@ -2841,6 +3701,27 @@ linked together, the faster you'll get hungry![C]
  Here's a major detail. [K]Linked
 moves are delivered from top to bottom!"
 
+ Если связаны два или три
+приёма...ты сможешь применить их в
+один ход как серию приёмов![C]
+ К примеру, если связать
+приёмы [CS:M]Царапание[CR] и [CS:M]Рычание[CR]...[C]
+ То, и [CS:M]Царапание[CR] и [CS:M]Рычание[CR]
+будут применены в один ход![K] Здорово,
+правда?[C]
+ Если пользоваться таким...[K]
+То эти связанные приёмы...[K] Могут
+оказаться мощной комбинацей![C]
+ Но есть небольшой подвох.
+При применении связанных приёмов, будет
+расходоваться твоя Сытость...[C]
+ И чем больше приёмов будет
+находиться в серии приёмов, тем быстрее
+ты проголодаешься![C]
+ И вот еще кое-что.[K] Связанные
+приёмы применяются в порядке сверху
+вниз!
++++
 " You can split up linked moves by
 selecting the Delink command.[C]
  You can also switch around the
@@ -2851,6 +3732,19 @@ while pressing up or down on [M:B8].[C]
 moves to create powerful chain effects! Play
 around with links to unleash your potential!"
 
+ Можно разделить связанные
+приёмы, если выбрать команду
+"Разделить".[C]
+ Ты также можешь сменить порядок
+применения связанных приёмов.[C]
+ Смени их, зажав [M:B7] и
+нажимая вверх или вниз на [M:B8].[C]
+ Подумай, какие приёмы можно
+связать, чтобы достичь мощной серии
+приёмов![C]
+ Экспериментируй и раскрой
+свой истинный потенциал!
++++
 " What if you had to forget a
 move, then later wanted it back?[K]
 It happens a lot, right?[C]
@@ -2865,41 +3759,77 @@ Just a bracing zap! [K]The spark of an idea![C]
  A flash of inspiration![K] And that's
 how you remember a move. Ha![C]"
 
+ Что, если тебе пришлось
+забыть приём, но понадобилось его
+вспомнить?[C]
+ Такое часто случается, не
+так ли?[C]
+ Я могу помочь тебе разрешить
+эту проблему.[C]
+ Мои шокирующие таланты могут
+помочь тебе зажечь искру тех приёмов,
+что уже когда-то были известны![C]
+ Всякое может ускользнуть из
+нашего разума и из-за этого, мы забываем
+важные вещи.[C]
+ Всё что нужно - небольшой
+разряд![K] Крошечная искорка![K] Проблеск
+мысли![K] Вспышка вдохновения![C]
+ Так и вспоминаются приёмы.
+Ха![C]
++++
 " Come see me whenever you have
 some linking to do!"
 
+ Если тебе понадобится связать
+приёмы, навести меня!
++++
 Yes
 
 No
-
+---
 Members
-
+Члены Группы
++++
 Info
-
+Инфо
++++
 Cancel
-
+Отмена
++++
 Make Leader
-
+Дать Лидера
++++
 Join Team
-
+В Группу
++++
 Standby
-
+В Резерв
++++
 Say Farewell
-
+Попрощаться
++++
 Summary
-
+Сводка
++++
 Moves
-
+Приёмы
++++
 Check IQ
-
+Сверка IQ
++++
 Exit
-
+Выход
++++
 " Hello, there! Welcome to
 [kind:] Assembly!"
-
+ Привет! Добро пожаловать на
+Сборный Пункт [kind:]!
++++
 " Did you need me for anything
 else?"
-
+ Нужно что-нибудь ещё?
++++
 " Sure thing![K] I'll reassemble your
 team to make [name:] the leader.[C]
  From now on, [name:] will
@@ -2907,14 +3837,27 @@ serve as the leader in a dungeon.[C]
  [name:], good luck as you
 do good!"
 
+ Конечно![K] Я пересоберу твою
+группу, чтобы лидером признавали
+[name:].[C]
+ Отныне, [name:] будет
+вести группу в подземельях.[C]
+ Удачи тебе, [name:]!
++++
 " Sure thing! [K][name:] will be
 taken off the active-team roster for rest."
-
+ Хорошо! [K][name:] покинет
+текущую группу и отправится в резерв.
++++
 " You want to add [name:] to
 the active-team roster, right?[K] Let's do it![C]
 [se_play:0] Dingly-ding... Ding![K]
 Calling [name:] to active duty!"
-
+ Хочешь добавить [name:] в
+текущую группу, верно?[K] Так и сделаем![C]
+[se_play:0] Дилинь-динь... Динь![K]
+[name:] вызывается на службу!
++++
 " Let me confirm that! Do you
 really want to release [name:] from your
 list of recruited PokГ©mon forever?[C]
@@ -2922,10 +3865,22 @@ list of recruited PokГ©mon forever?[C]
 add this specific member to your active
 team roster ever again. [K]Is that really OK?"
 
+ Нужно подтверждение! Ты
+действительно хочешь навсегда убрать
+Покемона [name:] из списка рекрутов?[C]
+ Если ты его выпустишь, то он
+больше никогда не сможет присоединиться
+в текущую группу.[K] Точно всё устраивает?
++++
 " OK! Confirmed.[C]
  I'll let [name:] know that
 it has been released from Team [team:]."
 
+ Хорошо! Потдверждено.[C]
+ [name:] будет оповещён, что
+он больше не является частью Команды
+[team:].
++++
 " Using my Assembly, you can
 choose which of your team members you'd like
 to assemble for an exploration outing.[C]
@@ -2939,6 +3894,21 @@ there after you put them on the active roster.[C]
 if a PokГ©mon asks to join your team, and you
 already have the same PokГ©mon on your team...[C]"
 
+ В моём Сборном Пункте, ты
+можешь выбрать, какие из членов твоей
+команды будут собраны в экспедицию.[C]
+ Выбранные члены команды будут
+ждать начала экспедиции снаружи
+гильдии...[C]
+ Они будут ждать на перекрёстке
+возле колодца. После того, как они
+станут частью текущей группы, ты сможешь
+поговорить с ними.[C]
+ Кроме того, если ты находишься
+в подземелье и Покемон захочет стать
+частью твоей команды и у тебя уже будет
+такой Покемон...[C]
++++
 " That PokГ©mon won't be displayed
 in [CS:N]this color[CR] but will appear in [CS:j]this color[CR]
 instead.[C]
@@ -2957,24 +3927,56 @@ members you can take with you...[C]
  You'll discover all these things
 and more as you explore!"
 
+ То, этот Покемон не будет
+отображён [CS:N]этим цветом[CR], а будет иметь
+[CS:j]этот цвет[CR].[C]
+ К примеру, если у тебя в
+команде есть Старли...[C]
+ И в подземелье другой Старли
+попросится в твою команду...[C]
+ Название этого [CS:j]Старли[CR] будет
+окрашено в [CS:j]этот цвет[CR], так что, будь
+внимательнее! ♪[C]
+ И наконец, [K]в некоторые из
+подземелий ты не сможешь взять с собой
+дополнительных членов группы.[C]
+ Кроме того, есть такие
+подземелья, которые ограничивают число
+возможных членов группы...[C]
+ Чем больше ты будешь
+исследовать, тем больше нового ты
+будешь узнавать!
++++
 " Using my Assembly, you can
 choose which of your team members you'd like
 to assemble for an exploration outing.[C]"
-
+ На моём Сборном Пункте, ты
+можешь выбирать, какие члены команды
+будут собраны в экспедицию![C]
++++
 " The members you choose don't
 show up here, though![C]
  They'll wait for you near where
 you head out of town to a dungeon![C]"
-
+ Но выбранные тобой члены
+команды не будут ждать здесь![C]
+ Он будут ждать тебя возле
+выхода из города![C]
++++
  May your exploration go well!
-
+ Пусть твои экспедиции пройдут
+гладко!
++++
 " The exploration team already has
 the same kind of PokГ©mon as [name:].[C]
  So I'm sorry.[K] You can't add
 [name:] to the active team."
-
+ В исследовательской группе уже
+есть такой Покемон как [name:].[C]
+ Мне жаль. [K][name:] не может
+быть в текущей группе.
++++
 Yes
-
 No
 
 "[CN]This place serves no purpose to you.
@@ -3075,195 +4077,195 @@ Apply a nickname?
 
 "[CN]A team member has evolved.
 [CN]The active team has been disbanded."
-
+---
 Diary
-
 Page
-
 Bidoof's Journal
-
 Sunflora's Diary
-
 Exploration Team Federation Q&A
-
 Bidoof's Journal
-
 1. I'll Try Hard!
-
 2. Happy Time!
-
 3. Bulletin Board Goof-Up
-
 4. Exploring with [CS:N]Sunflora[CR]
-
 5. Moves Are Awesome!
-
 6. Gas Attack!
-
 7. Expedition!
-
 8. Camaraderie
-
 9. Awesome Expedition
-
 10. No Sleep!
-
 11. The Guild at Night
-
 12. Shocking News!
-
 13. Very Sad...
-
 14. Welcome Back!
-
 15. Don't Give Up!
-
 16. Graduation Exam?
-
 17. Congratulations!
-
 18. Aiming for Graduation
-
 19. Recent Events
-
 20. [CS:N]Manaphy[CR]?
-
 21. Cheer Up!
-
 22. Awesome Team [CS:X]Charm[CR]
-
 23. Peace Is Best
-
 24. [CS:N]Azurill[CR]...
-
 25. Sure to Win!
-
 26. Keeping It Going
-
 1. What a Scream!
-
 2. That Silly [CS:N]Loudred[CR]!
-
 3. Lovely Food!
-
 4. Exploration Basics
-
 5. Types and Matchups
-
 6. Mystery!
-
 7. A Rare Expedition
-
 8. Inspiration!
-
 9. Back Home!
-
 10. Oh My Gosh! [CS:N]Dusknoir[CR]!
-
 11. Where's [CS:N]Grovyle[CR]?
-
 12. Total Shocker!
-
 13. Those Kids...
-
 14. Welcome Back!
-
 15. They're Saving Us!
-
 16. Graduation Exam
-
 17. Yay! Graduation!
-
 18. The [CS:P]Surrounded Sea[CR]!
-
 19. Beaten to the Punch
-
 20. Worries...
-
 21. Bidding Farewell
-
 22. Yippee! Team [CS:X]Charm[CR]!
-
 23. Thunderstorm! Eek!
-
 24. Nightmare! Eek!
-
 25. [CS:N]Darkrai[CR]
-
 26. Thank You!
-
 Q1: What's the Exploration Team Federation?
-
 Q2: What's written here?
-
 Q3: How do I know what to do?
-
 Q4: How do I start a job?
-
 Q5: What's the Explorer Rank?
-
 Q6: Is eating Gummis a good thing to do?
-
 Q7: How do I talk to my partner?
-
 Q8: What are types?
-
 1. I'll Try Hard!
-
 2. Happy Time!
-
 3. Bulletin Board Goof-Up
-
 4. Exploring with [CS:N]Sunflora[CR]
-
 5. Moves Are Awesome!
-
 6. Gas Attack!
-
 7. Expedition!
-
 8. Camaraderie
-
 9. Awesome Expedition
-
 10. No Sleep!
-
 11. The Guild at Night
-
 12. Shocking News!
-
 13. Very Sad...
-
 14. Welcome Back!
-
 15. Don't Give Up!
-
 16. Graduation Exam?
-
 17. Congratulations!
-
 18. Aiming for Graduation
-
 19. Recent Events
-
 20. [CS:N]Manaphy[CR]?
-
 21. Cheer Up!
-
 22. Awesome Team [CS:X]Charm[CR]
-
 23. Peace Is Best
-
 24. [CS:N]Azurill[CR]...
-
 25. Sure to Win!
-
 26. Keeping It Going
 
+Дневник
+Стр.
+Дневник Бидуфа
+Дневник Санфлоры
+Федерация Команд Исследователей В&О
+Дневник Бидуфа
+1. Я Буду Стараться!
+2. Так Счастлив!
+3. Промашка с Досками
+4. Вылазка с [CS:N]Санфлорой[CR]
+5. Приёмы Классные!
+6. Газовая Атака!
+7. Экспедиция!
+8. Товарищество
+9. Чудесная Экспедиция
+10. Без Сна!
+11. Ночная Гильдия
+12. Шокирующие Новости!
+13. Как Грустно...
+14. С Возвращением!
+15. Не Сдавайтесь!
+16. Выпускной Экзамен?
+17. Поздравляю!
+18. Цель на Выпускной
+19. Недавние События
+20. [CS:N]Манафи[CR]?
+21. Выше Нос!
+22. Чудесная Команда [CS:X]Шарм[CR]!
+23. Мир Лучше Всего
+24. [CS:N]Азурилл[CR]...
+25. Победа за Ними!
+26. Жизнь Продолжается
+1. Вот Это Крик!
+2. Этот Глупый [CS:N]Лаудред[CR]!
+3. Чудесная Еда!
+4. Основы Вылазок
+5. Типы и Сражения
+6. Загадка!
+7. Особая Экспедиция
+8. Вдохновление!
+9. Снова Дома!
+10. О Бог Мой! [CS:N]Даскнуар[CR]!
+11. Где же [CS:N]Гровайл[CR]?
+12. Какой Кошмар!
+13. Эти Дети...
+14. С Возвращением!
+15. Они Спасают Нас!
+16. Выпускной Экзамен
+17. Ура! Выпускной!
+18. [CS:P]Закрытое Море[CR]!
+19. Меня Опередили!
+20. Переживания...
+21. Прощание
+22. Ура! Команда [CS:X]Шарм[CR]!
+23. Гроза! Иии!
+24. Кошмар! Иии!
+25. [CS:N]Даркрай[CR]
+26. Спасибо!
+В1: О Федерации Команд Исследователей
+В2: Что здесь написано?
+В3: Как я узнаю, что мне делать?
+В4: Как начать задание?
+В5: Что такое Ранг Исследователя?
+В6: Полезно ли есть Желе?
+В7: Как говорить со спутником?
+В8: Что такое типы?
+1. Я Буду Стараться!
+2. Так Счастлив!
+3. Промашка с Досками
+4. Вылазка с [CS:N]Санфлорой[CR]
+5. Приёмы Классные!
+6. Газовая Атака!
+7. Экспедиция!
+8. Товарищество
+9. Чудесная Экспедиция
+10. Без Сна!
+11. Ночная Гильдия
+12. Шокирующие Новости!
+13. Как Грустно...
+14. С Возвращением!
+15. Не Сдавайтесь!
+16. Выпускной Экзамен?
+17. Поздравляю!
+18. Цель на Выпускной
+19. Недавние События
+20. [CS:N]Манафи[CR]?
+21. Выше Нос!
+22. Чудесная Команда [CS:X]Шарм[CR]!
+23. Мир Лучше Всего
+24. [CS:N]Азурилл[CR]...
+25. Победа за Ними!
+26. Жизнь Продолжается
++++
 [CN][string:0] became level [digits_c:0]!
-
 [CN][string:0] didn't level up.
-
 [CN][string:0] learned [move:0]!
 
 "This PokГ©mon can learn a new [CS:M]move[CR] but must
@@ -3287,20 +4289,27 @@ Move [move:0] will be forgotten. OK?
 [CN][string:0]'s Sp. Atk. went up [digits_c:3]!
 
 [CN][string:0]'s Sp. Def. went up [digits_c:4]!
-
+---
 Requirement
-
+Требования
++++
 |[CLUM_SET:132]Number Held
-
+|[CLUM_SET:122]В наличии
++++
 "Any
 [CLUM_SET:24]Exclusive Items[CLUM_SET:91][value:0:3]"
-
+Любые
+[CLUM_SET:24]Эксклюзивные Предметы[CLUM_SET:122][value:0:3]
++++
 [item:0][CLUM_SET:103]1[S:4]|[CLUM_SET:170][value:0:3]
-
+[item:0][CLUM_SET:123]1[S:4]|[CLUM_SET:170][value:0:3]
++++
 Exclusive Items in Bag: [CLUM_SET:170][value:0:3]
-
+Эксклюзив. Предметы в Сумке:[CLUM_SET:170][value:0:3]
++++
 Excl. Items in Storage: [CLUM_SET:170][value:0:3]
-
+Экскл. Предметы в Хранилище:[CLUM_SET:170][value:0:3]
++++
 "[CN][M:S0] and items obtained in the Special Episodes
 [CN]will be stored in the Duskull Bank and
 [CN]Kangaskhan Storage, respectively."
@@ -45796,7 +46805,7 @@ knows the [LS:10048]Item Master[LE] IQ Skill.
 
 Select detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]"
 +++
-Прдемет, приводящий Покемона без
+Предмет, приводящий Покемона без
 сознания в чувство. Становится
 [LS:10790]Простым Зерном[LE] после применения.
 Этот предмет может быть применён
@@ -94133,25 +95142,26 @@ Points) since your last save at a save point."
 [CS:E]Сохранения[CR], то вам нужно будет снова
 сохраниться! Если это не сделать, то вы
 потеряете свой прогресс в подземелье!
--
+---
 Game Hints
-
 Controls 1
-
 Controls 2
-
 Touch Screen
-
 Recording Your Adventures
-
 Performing Missions
-
 Recruiting Team Members
-
 Organizing Your Team
-
 About Gummis
-
+Справка
+Управление 1
+Управление 2
+Сенсорный Экран
+Сохранение Приключений
+Выполнение Заданий
+Набор Членов Группы
+Сбор Своей Команды
+Больше о Желе
++++
 "Controls in Treasure Town
   Walk:[CLUM_SET:103][CLUM_SET:110][M:B8]
   Run:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B8]
@@ -94159,6 +95169,13 @@ About Gummis
   Talk with partner:[CLUM_SET:103][CLUM_SET:110][M:B7]
   Open menu:[CLUM_SET:103][CLUM_SET:110][M:B4]"
 
+Управление в Городе Сокровищ
+  Ходьба:[CLUM_SET:143][CLUM_SET:150][M:B8]
+  Бег:[CLUM_SET:143][CLUM_SET:150][M:B3]+[M:B8]
+  Изучить/говорить:[CLUM_SET:143][CLUM_SET:150][M:B2]
+  Говорить со спутником:[CLUM_SET:143][CLUM_SET:150][M:B7]
+  Открыть меню:[CLUM_SET:143][CLUM_SET:150][M:B4]
++++
 "Menu and Shopping Controls
   Confirm:[CLUM_SET:123][CLUM_SET:130][M:B2]
   Cancel:[CLUM_SET:123][CLUM_SET:130][M:B3]
@@ -94168,6 +95185,15 @@ About Gummis
   Sort:[CLUM_SET:123][CLUM_SET:130][M:B1]
   Descriptions:[CLUM_SET:123][CLUM_SET:130][M:B0]"
 
+Управление в Меню
+  Подтвердить:[CLUM_SET:153][CLUM_SET:160][M:B2]
+  Отменить:[CLUM_SET:153][CLUM_SET:160][M:B3]
+  Выбор нескольких предметов: [CLUM_SET:153][CLUM_SET:160][M:B6]
+  Открыть Меню Поиска:[CLUM_SET:153][CLUM_SET:160][M:B4]
+  Открыть Меню Сортировки:[CLUM_SET:153][CLUM_SET:160][M:B5]
+  Сортировать:[CLUM_SET:153][CLUM_SET:160][M:B1]
+  Описание:[CLUM_SET:153][CLUM_SET:160][M:B0]
++++
 "Touch the Map
   Walk:[CLUM_SET:96][CLUM_SET:103]Tap and hold
   Run:[CLUM_SET:96][CLUM_SET:103]Tap twice and hold
@@ -94178,6 +95204,16 @@ Touch Partner
 Touch Player Character
   Open menu:[CLUM_SET:96][CLUM_SET:103]Tap"
 
+Касания по Карте
+  Ходьба:[CLUM_SET:86][CLUM_SET:93]Касание + удерживание
+  Бег:[CLUM_SET:86][CLUM_SET:93]Двойное касание + удерж.
+Касание по Союзному Покемону
+  Поговорить:[CLUM_SET:86][CLUM_SET:93]Касание
+Касание по Спутнику
+  Поговорить:[CLUM_SET:86][CLUM_SET:93]Двойное касание
+Касание по Персонажу-Игроку
+  Открыть меню:[CLUM_SET:86][CLUM_SET:93]Касание
++++
 "Save your progress regularly as you go through
 your adventure. It's simple: just walk onto
 your room's bed to save, so you can easily do
@@ -94188,6 +95224,17 @@ Kangaskhan Rock. So when you're away from
 Treasure Town and can't return to the Guild,
 keep an eye open for a Kangaskhan Rock."
 
+Регулярно сохраняйте своё приключение.
+Это просто сделать: подойдите к своей
+лежанке в комнате и сохраните игру,
+после чего вы сможете вернуться к игре
+позже!
+
+Также вы можете сохранять прогресс у
+любой Статуи Кангасхана. Если вы не
+можете вернуться в гильдию, пользуйтесь
+Статуей Кангасхана.
++++
 "Any job you accept from the Job Bulletin Board
 or Outlaw Notice Board will appear on your Job
 List. To activate a job mission, you must then
@@ -94199,6 +95246,17 @@ not completed will have the [M:R4] mark on your
 Job List. You can also [CS:E]Suspend[CR] an active job if
 you decide to do it later."
 
+Любое задание с Доски Объявлений или с
+Доски Разыскиваемых, принятое вами,
+появится в Списке Заданий. Чтобы начать
+выполнять задание, выберите вариант
+[CS:E]Взяться[CR]. Если этого не сделать перед
+походом в подземелье, вы не сможете
+выполнить задание, даже если вы дойдёте
+до нужного этажа! [CS:E]Принятые[CR], но не 
+завершённые задания будут отмечены
+пометкой [M:R4] в вашем Списке Заданий.
++++
 "[team]'s explorations will send them all
 over this world...and beyond. The team may
 enter dungeons that are too challenging for just
@@ -94210,6 +95268,16 @@ completing jobs. All PokГ©mon have a variety of
 offers to the team by checking out Summary in
 the Team section of the menu."
 
+Команда [team] побывает во многих
+местах этого мира...и за его пределами.
+Команда может наткнуться на черезчур
+сложные для прохождения подземелья!
+К счастью, вы можете вербовать некоторых
+побеждённых Покемонов к себе в группу.
+Все Покемоны обладают своими [CS:E]приёмами[CR] и
+[CS:E]способностями[CR], поэтому узнавайте о них
+больше в меню Группы.
++++
 "Before you go to a dungeon, stop by [CS:K]Chimecho[CR]
 Assembly and assemble the perfect team for
 the mission ahead. You can put up to four
@@ -94221,6 +95289,17 @@ Note: Some dungeons have stricter limits on
 the number of team members and total team
 body size."
 
+Прежде чем отправиться в подземелье,
+загляните к [CS:K]Чаймеко[CR] и соберите идеально
+подходящую для задания группу. В группе
+может быть до 4 Покемонов. Также общий
+размер Покемонов в группе не может быть
+больше 6 [M:S3].
+
+Внимание: В некоторых подземельях могут
+быть свои ограничения на количество
+членов группы и размер Покемонов.
++++
 "You will find Gummi treats in dungeons. No
 PokГ©mon can resist these colorful treats!
 
@@ -94232,6 +95311,17 @@ a team member a matching Gummi to raise its
 [CS:E]IQ[CR] the most. Eating a Gummi in a dungeon might
 also affect stats other than [CS:E]IQ[CR]!"
 
+В подземельях можно найти вкусное Желе.
+Ни один Покемон не устоит перед таким
+цветастым угощением! Оно увеличивает [CS:E]IQ[CR]
+Покемона, помогая им изучить множество
+важных в экспедициях навыков. Желе
+окрашены в цвета, связанные с типами
+Покемонов, поэтому скармливайте своим
+членам группы подходящее для них Желе.
+Если съесть Желе в подземелье, то оно
+сможет повлиять не только на [CS:E]IQ[CR]!
++++
 "[CN]Controls
 
   Move cursor:[CLUM_SET:123][CLUM_SET:130][M:B20]
@@ -94255,7 +95345,20 @@ also affect stats other than [CS:E]IQ[CR]!"
   Open Sort Menu:[CLUM_SET:123][CLUM_SET:130][M:B5]
   Sort:[CLUM_SET:123][CLUM_SET:130][M:B1]
   Description:[CLUM_SET:123][CLUM_SET:130][M:B0]"
--
+
+[CN]Управление
+
+  Ходьба:[CLUM_SET:143][CLUM_SET:150][M:B8]
+  Бег:[CLUM_SET:143][CLUM_SET:150][M:B3]+[M:B8]
+  Отмена:[CLUM_SET:143][CLUM_SET:150][M:B3]
+  Изучить/говорить:[CLUM_SET:143][CLUM_SET:150][M:B2]
+  Поговорить со спутником:[CLUM_SET:143][CLUM_SET:150][M:B7]
+  Открыть меню:[CLUM_SET:143][CLUM_SET:150][M:B4]
+  Открыть Меню Поиска:[CLUM_SET:143][CLUM_SET:150][M:B4]
+  Открыть Меню Сортировки:[CLUM_SET:143][CLUM_SET:150][M:B5]
+  Сортировать:[CLUM_SET:143][CLUM_SET:150][M:B1]
+  Описание:[CLUM_SET:143][CLUM_SET:150][M:B0]
+---
 "[CN]Controls
 
   Walk:[CLUM_SET:103][CLUM_SET:110][M:B8]
@@ -94268,7 +95371,9 @@ also affect stats other than [CS:E]IQ[CR]!"
   Display log:[CLUM_SET:103][CLUM_SET:110][M:B6]+[M:B3]
   Turn on the spot:[CLUM_SET:103][CLUM_SET:110][M:B5]+[M:B8]
   Wait/heal HP:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B2]"
-  
+
+
+---
 [CN]Управление
 
   Ходьба:[CLUM_SET:103][CLUM_SET:110][M:B8]
@@ -99321,9 +100426,710 @@ Select with [M:B6]
 [CN]The PokГ©mon Company
 
 [CN]CHUNSOFT
+---
+Info
+Инфо
++++
+Cancel
+Отмена
++++
+ Welcome to the fresh and
+friendly [CS:K]Spinda[CR]'s Juice Bar!
+ Добро пожаловать в свежайший
+и дружелюбнейший Бар Напитков [CS:K]Спинды[CR]!
++++
+ Can I get you anything else?
+ Нужно что-нибудь еще?
++++
+ Give me an ingredient, and I will
+use it to make a wonderful, delicious drink for
+you.[C]
+ Not just for you, either. Any of
+your team members relaxing in the café can
+enjoy one of my nutritious drinks.[C]
+ Please refresh yourself with a
+delicious drink and allow the flower of
+conversation to bloom.
+
+ Дай мне ингредиент и я сделаю
+из него для тебя чудесный и вкусный
+напиток.[C]
+ Впрочем, не обязательно только
+для тебя. Любой из членов твоей группы,
+кто отдыхает в кафе, сможет насладиться
+питательным напитком.[C]
+ Освежись вкусным напитком и
+позволь расцвести цветку разговора.
++++
+ Have a great day.
+ Хорошего дня.
++++
+ I'm sorry to say this, but in this
+café you must provide your own ingredients.[C]
+ You don't appear to have any
+food items.
+
+ Мне жаль это говорить, но в
+этом кафе все приносят только свои
+ингредиенты.[C]
+ Похоже, у тебя нет никаких
+предметов еды.
++++
+ Which ingredient shall I use?
+ Какой ингредиент мне нужно
+использовать?
++++
+Give
+Info
+Exit
+ Who will drink this?
+Drink
+Summary
+Moves
+Check IQ
+Exit
+
+Дать
+Инфо
+Выход
+ Кто будет это пить?
+Выпить
+Сводка
+Приёмы
+Сверка IQ
+Выход
++++
+ Use [item:0] to make a
+drink for [name:0]?
+ Использовать [item:0],
+чтобы я сделал напиток? Его будет пить
+[name:0].
++++
+No
+Нет
++++
+ Please select another ingredient.
+ Пожалуйста, выбери другой
+ингредиент.
++++
+ [name:0] of [team]![C]
+ [name:0] of [team]![C]
+ [hero] is looking for you.
+ 
+ [name:0] из [team]![C]
+ [name:0] из [team]![C]
+ Вас ожидает [hero].
++++
+[item:0] Mix
+[item:0] Juice
+[item:0] Dew
+[item:0] Soda
+Juicy [item:0]
+[item:0] Green Tea
+[item:0] Shake
+[item:0] au Lait
+Drinkable [item:0]
+[item:0] Milk
+[item:0] Tea
+[item:0] Broth
+Hot [item:0] Drink
+Pulpy [item:0]
+[item:0] Water
+[item:0] Beverage
+[item:0] Smoothie
+[item:0] Puree
+
+[item:0]-Микс
+[item:0]-Сок
+[item:0]-Роса
+[item:0]-Содовая
+[item:0]-Сок
+[item:0]-Зелёный Чай
+[item:0]-Шейк
+[item:0] с молоком
+[item:0]-Жидкость
+[item:0]-Молоко
+[item:0]-Чай
+[item:0]-Похлёбка
+[item:0]-Горячий Напиток
+[item:0] с мякотью
+[item:0]-Вода
+[item:0]-Напиток
+[item:0]-Смузи
+[item:0]-Пюре
++++
+ I've got a good feeling about this
+drink!
+ У меня хорошее предчувствие
+насчёт этого напитка!
++++
+[CN][name:0]
+[CN]drank the [string0]![se_play:0]
+[CN][name:0] выпивает
+[CN][string0]![se_play:0]
++++
+[CN]A light, rich flavor
+[CN]that just melts in your mouth.
+[CN]Лёгкий, насыщенный вкус напитка
+[CN]просто тает во рту.
++++
+[CN]Moderately sweet, the
+[CN]natural flavor comes
+[CN]bursting forth...
+[CN]Не слишком сладкий, естественный
+[CN]вкус напитка отчётливо чувствуется
+[CN]во рту...
++++
+[CN]A savory fragrance and
+[CN]unique bitterness come together
+[CN]for a mature flavor...
+[CN]Пикантный аромат в сочетании
+[CN]с необычной горечью придают
+[CN]напитку зрелый вкус...
++++
+[CN]The delicious flavor overwhelms
+[CN]your senses and delights
+[CN]your digestive system.
+[CN]Потрясающий вкус захлёстывает
+[CN]чувства и радует пищеварительную
+[CN]систему.
++++
+[CN]An indescribably wonderful flavor...
+[CN]A special blend for the
+[CN]discerning Pokémon.
+[CN]Неописуемо чудесный вкус...
+[CN]Особый купаж для особо
+[CN]привередливых Покемонов.
++++
+[CN]The various flavors don't clash...
+[CN]Instead, they blend together in
+[CN]beautiful harmony in this fine drink!
+[CN]Разнообразные вкусы не конфликтуют...
+[CN]Напротив, они полностью соединяются
+[CN]в одну великолепную гармонию вкуса!
++++
+[CN][STS]!!!!!!!!!![STE]
+[CN]An intense shock runs
+[CN]through your entire body![C]
+[CN]Bleah! This tastes terrible!!
+[CN][STS]!!!!!!!!!![STE]
+[CN]Всё тело передёргивает!
+[CN]Бее! На вкус просто ужасно!!
++++
+[CN]A light, rich flavor
+[CN]that just melts in your mouth...[C]
+[CN]And then you're hit with this...
+[CN]fishy aftertaste... Ugh... Disgusting...
+[CN]Лёгкий, насыщенный вкус напитка
+[CN]просто тает во рту.[C]
+[CN]Затем наступает... Рыбное послевкусие...
+[CN]Фу... Отвратительно...
++++
+[CN]This...this is a flavor for a true
+[CN]connoisseur...[C]
+[CN]This flavor...this strong flavor...[K]
+[CN]Only the overwhelming flavor remains...
+[CN]It tastes so terrible I want to cry...
+[CN]Это...вкус для настоящего
+[CN]ценителя...[C]
+[CN]Этот вкус...такой насыщенный вкус...[K]
+[CN]Оставляет ошеломляющее послевкусие...[K]
+[CN]Столь ужасное, что плакать хочется...
++++
+ WHOAAAAAAA!
+This is...[K] THIS IS...!![C]
+ ВАААААААУ!
+Это...[K] ЭТО!!.[C]
++++
+ This drink is so wonderful, so
+amazing, that I couldn't have made it if I tried.
+It is so incredible that it is a miracle!
+ Этот напиток так чудесен, так
+великолепен, что лучше я сделать не мог!
+Настоящее чудо, а не напиток!
++++
+[CN][name:0] drank the amazing
+[CN]miracle drink![se_play:0]
+[CN][name:0] выпивает потрясающий
+[CN]чудо-напиток![se_play:0]
++++
+[CN]!!!!!!!![W:20]
+[CN][STS]Unbelieeeevable!![STE]
+[CN]!!!!!!!![W:20]
+[CN][STS]Неверояяяяятно!![STE]
++++
+[CN]Never before has a heavenly, super-special,
+[CN]incredible, miracle-combination flavor
+[CN]like this been experienced![C]
+[CN]Right now, right here, [name:0] is
+[CN]enjoying a flavor that is out of this world!
+
+[CN]Никто и никогда еще не испытывал столь
+[CN]божественную, сверхособенную, чудесную
+[CN]и невероятную комбинацию вкуса![C]
+[CN]Прямо здесь, прямо сейчас, [name:0]
+[CN]наслаждается вкусом, что родом
+[CN]словно не из этого мира!
++++
+[CN][name:0] felt happy!
+[CN][name:0] чувствует счастье!
++++
+[CN]Wow![STS] Wonderful![STE][K]
+[CN]Вау![STS] Чудесно![STE][K]
++++
+[CN][string0] went up [digits_c:0] point(s)!
+[CN][string0] увеличивается на [digits_c:0]!
++++
+[CN][string0] went up [digits_c:0] point(s)![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN][string0] увеличивается на [digits_c:0]![C]
+[CN]Или, как казалось, но на самом деле
+[CN]эта характеристика достигла максимума.
++++
+[CN][string0] increased!
+[CN][string0] увеличивается!
++++
+[CN]Huh?[K] Whaaat?[K]
+[CN]А?[K] Чтооо?[K]
++++
+[CN][string0] went up [digits_c:0] point(s)!
+[CN][string0] увеличивается на [digits_c:0]!
++++
+[CN][string0] went up [digits_c:0] point(s)![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN][string0] увеличивается на [digits_c:0]![C]
+[CN]Или, как казалось, но на самом деле
+[CN]эта характеристика достигла максимума.
++++
+[CN]IQ increased, too!
+[CN]Также увеличивается IQ!
++++
+[CN][STS]Shock!![STE][K]
+[CN][STS]Ужас!![STE][K]
++++
+[CN][name:0]'s [string0] dropped [digits_c:0]!
+[CN][string0] [name:0]
+[CN]уменьшается на [digits_c:0]!
++++
+[CN][name:0]'s [string0] dropped [digits_c:0]![C]
+[CN]Or so it seemed, but actually
+[CN]it can't go any lower.
+
+[CN][string0] [name:0]
+[CN]уменьшается на [digits_c:0]![C]
+[CN]Или, как казалось, но на самом деле
+[CN]эта характеристика достигла минимума.
++++
+[CN][name:0]'s IQ went down!
+[CN]IQ [name:0] снижается!
++++
+[CS:E]Max HP[CR]
+[CS:E]Макс. ОЗ[CR]
++++
+Attack
+Sp. Attack
+Defense
+Sp. Defense
+
+Атака
+Сп. Атака
+Защита
+Сп. Защита
++++
+[CN]Lucky! [move:0] became much stronger!
+[CN]Повезло!
+[CN]Приём [move:0] стал гораздо сильнее!
++++
+[CN][move:0] became stronger!
+[CN]Приём [move:0] становится сильнее!
++++
+[CN]Lucky! [move:0] became much stronger!
+[C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN]Повезло!
+[CN]Приём [move:0] стал гораздо сильнее!
+[C]
+[CN]Или, как казалось, но на самом деле
+[CN]мощь приёма уже максимальна.
++++
+[CN][move:0] became stronger![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN]Приём [move:0] становится сильнее![C]
+[CN]Или, как казалось, но на самом деле
+[CN]мощь приёма уже максимальна.
++++
+[CN]IQ increased!
+[CN]IQ увеличивается!
++++
+ Also... This was sent to you by
+that guest over there.
+ Ещё... Это меня попросил
+передать тот гость неподалёку.
++++
+ I see you are a true connoisseur!
+ Вижу, вы настоящий ценитель!
++++
+ I noticed the way you tasted
+your drink, getting to know the flavor before
+gulping it down...[C]
+ You're obviously a gourmet, and
+I would love to join you on your adventures!
+ То, как вы пили этот напиток,
+смакуя вкус, перед тем, как его
+проглотить...[C]
+ Вы настоящий ценитель, поэтому
+я с радостью присоединюсь к вашей
+команде!
++++
+ What do you think? Will you let
+me join your team?
+ Что скажете? Позволите ли
+вы мне вступить в вашу комманду?
++++
+[CN][name:0] left, looking disappointed...
+[CN][name:0] разочарованно уходит...
++++
+[CN]Huh? There's something written on the bottom
+[CN]of the glass you just drained.
+[CN]А? На дне стакана что-то написано.
++++
+[CN]Woohoo![W:15][C]
+[CN]It's a secret exploration spot that now only
+[CN]you know about. Nobody else!
+[CN]Ооогооо![W:15][C]
+[CN]Это секретное место для исследований,
+[CN]о котором теперь знаете только вы.
+[CN]И никто больше!
++++
+[CN][name:0] learned the IQ Skill
+[CN][wiseness:0]!
+[CN][name:0] изучает Навык IQ
+[CN][wiseness:0]!
++++
+[CN][name:0]'s IQ went up tremendously!
+[CN]IQ [name:0] серьёзно увеличивается!
++++
+[CN][name:0]'s IQ went up significantly!
+[CN]IQ [name:0] значительно увеличивается!
++++
+[CN][name:0]'s IQ went up!
+[CN]IQ [name:0] увеличивается!
++++
+[CN][name:0]'s IQ went up slightly.
+[CN]IQ [name:0] слегка увеличивается!
++++
+[CN][name:0]'s [string0] rose [digits_c:0]!
+[CN][string0] [name:0] повышается на [digits_c:0]!
++++
+[CN][string:0]'s [CS:E]Max HP[CR] increased by [digits_c:0].
+[CN][CS:E]Макс. ОЗ[CR] [string:0] увеличиваются
+на [digits_c:0].
++++
+[CN][string:0]'s [CS:E]Max HP[CR] increased by [digits_c:0].[C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+
+[CN][CS:E]Макс. ОЗ[CR] [string:0] увеличиваются
+на [digits_c:0].[C]
+[CN]Или, как казалось, но на самом деле
+[CN]эта характеристика достигла максимума.
++++
+[CN][name:0]'s [string0] strengthened!
+[CN][string0] [name:0] усиливается!
++++
+[CN][name:0]'s [string0] strengthened![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN][string0] [name:0] усиливается![C]
+[CN]Или, как казалось, но на самом деле
+[CN]это уже на максимуме.
++++
+[CN][name:0]'s level became [digits_c:0]![C]
+[CN][se_play:1]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN]Уровень [name:0] становится [digits_c:0]!
+[CN][se_play:1]Или, как казалось, но на самом деле
+[CN]он уже максимальный.
++++
+ Hello!
+Welcome to the Recycle Shop, where everyone
+is happy! Hey, why not?
+ Привет!
+Добро пожаловать в Центр Переработки,
+где все всегда рады! А почему нет?
++++
+ Would you like anything else?
+ Хочешь что-нибудь ещё?
++++
+Recycle
+Переработка
++++
+Prize Ticket
+Призовой Билет
++++
+Info
+Информация
++++
+Cancel
+Отмена
++++
+ We've got a new Offer here!
+It will be here for a limited time only!
+ У нас есть новое Предложение!
+Оно будет доступно только ограниченное
+количество времени!
++++
+ What'd you like to trade with?
+ Что ты желаешь обменять?
++++
+ Will you recycle anything else?
+ Хочешь переработать что-нибудь
+еще?
++++
+Offer
+Предложение
++++
+Prize Ticket
+Item
+Cancel
+
+Призовой Билет
+Предмет
+Отмена
++++
+[M:D1] I'm sorry, we are all out of
+today's Offer!
+[M:D1] Мне жаль, но у нас на сегодня
+нет Предложения!
++++
+ This Offer ends today!
+Don't miss it!
+ Предложение ограничено по
+времени! Не упусти его!
++++
+ Select the item you want, and
+the items you'll have to trade to get it will
+appear on the top screen!
+ Выбери нужный тебе предмет
+и вещи, которые тебе нужно будет за него
+отдать, появятся на верхнем экране!
++++
+ You want this [item:0]?
+ Хочешь [item:0]?
++++
+ Am I wrong?
+ Я ошибаюсь?
++++
+ You don't have enough items to
+trade for this [item:0]!
+ У тебя не хватает предметов,
+чтобы получить вещь [item:0]!
++++
+ OK, select which items you
+will offer in trade.
+ Хорошо, выбери, какие предметы
+ты предложишь взамен.
++++
+ Do you want to cancel?
+ Хочешь всё отменить?
++++
+ Will you recycle these [digits:1]
+items for this [item:0]?
+ Обменяешь [digits:1] предметов на
+вещь [item:0]?
++++
+ Am I wrong?
+ Я ошибаюсь?
++++
+ Thanks for recycling![K]
+Here's your [item:0].
+ Спасибо за переработку![K]
+Вот тебе [item:0].
++++
+ Do you want to redeem that
+[item:0] for a Prize now?
+ Желаешь использовать этот
+[item:0] и получить приз?
++++
+Redeem
+Отдать
++++
+Not now
+Не сейчас
++++
+ You're not going to redeem it
+now? OK, here's your [item:0].
+ Не сейчас? Хорошо, вот твой
+[item:0].
++++
+ Thank you for recycling![K]
+Here's your [item:0].[C]
+ You don't have enough space in
+your Treasure Bag for it, so I'll send it to
+your storage.
+ Спасибо за переработку![K]
+Вот [item:0].[C]
+ Похоже, у тебя в Сумке с
+Ценностями нет места, поэтому я отправил
+этот предмет в твоё хранилище.
++++
+ You don't have enough space in
+your Treasure Bag for it, so I'll send it to
+your storage.
+ В твоей в Сумке с Ценностями
+нет места, поэтому я отправил этот
+предмет в твоё хранилище.
++++
+[CN]Sent the [item:0] to storage.
+[CN][item:0] отправляется
+[CN]в хранилище.
++++
+ Thank you for recycling![K]
+Here's your [item:0].
+ Спасибо за переработку![K]
+Вот [item:0].[C]
++++
+[CN][hero] received the
+[CN][item:0]!
+[CN][hero] получает
+[CN][item:0]!
++++
+ Oh! Congratulations! That
+recycle comes with this [item:0]!
+ О! Поздравляю! Эта переработка
+принесла предмет [item:0]!
++++
+ You can redeem one bonus
+[CS:I]Prize Ticket[CR]! What would you like to do?
+ Можно обменять один бонусный
+[CS:I]Призовой Билет[CR]! Что хочешь сделать?
++++
+ If you don't redeem your bonus
+[CS:I]Prize Ticket[CR] now, it becomes invalid. OK?
+ Если не обменять бонусный
+[CS:I]Призовой Билет[CR] сейчас, он станет
+недействительным. Всё устраивает?
++++
+ Are you sure? OK, I'll just
+throw it away.
+ Точно? Хорошо, тогда я просто
+выброшу его.
++++
+ During your explorations, you've
+undoubtedly collected a few extra, unnecessary
+items, yes?[C]
+ And when you try to sell your
+unwanted items, you don't get much money for
+them, am I right?[C]
+ It's so frustrating, you just
+want to throw them out![K] But isn't
+that wasteful?[C]
+ That's why we've set up this
+Recycle Shop.[C]
+ It's a great service, where you
+can trade in your unwanted items for things
+that you need![C]
+ The items from your Treasure
+Bag and storage are presented together, so you
+don't have to waste time moving them around![C]
+ You can recycle any item, as
+long as it's not a Throwing Item, like a[CS:I] Stick[CR].[C]
+ Plus, there are fun Prizes
+available with [CS:I]Prize Tickets[CR], so make sure
+to recycle!
+
+ Во время вылазок, тебе точно
+попадались ненужные предметы, так?[C]
+ И при попытке продать такие
+предметы, за них давали гроши, я прав?[C]
+ Это так раздражает, выкидывать
+предметы просто жалко! Но разве это не
+расточительно?[C]
+ Именно поэтому мы открыли
+здесь этот Центр Переработки.[C]
+ Это прекрасная услуга, с её
+помощью ты можешь обменивать ненужные
+предметы на то, что тебе нужно![C]
+ Предметы из Сумки с Ценностями
+и хранилища выбираются вместе, поэтому
+тебе не нужно их сюда таскать![C]
+ Можно переработать любой
+предмет, если он не является метательным,
+таким как [CS:I]Палка[CR].[C]
+ Кроме того, за наши [CS:I]Призовые[CR]
+[CS:I]Билеты[CR] можно получить весёлые Призы,
+поэтому обязательно перерабатывай вещи!
++++
+ Come back anytime!
+ Приходи в любое время!
++++
+[CLUM_SET:8]Trade Requirement[CLUM_SET:128]|[CLUM_SET:140] Held
+[CLUM_SET:8]Требования[CLUM_SET:128]|[CLUM_SET:140] При себе
++++
+[CLUM_SET:16]Required Item
+[CLUM_SET:16]Требуемый Предмет
++++
+[CLUM_SET:18]Any item[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][value:2:3]
+[CLUM_SET:18]Любой предмет[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][value:2:3]
++++
+[CLUM_SET:18]Any item[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][CS:W][value:2:3][CR]
+[CLUM_SET:18]Любой предмет[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][CS:W][value:2:3][CR]
++++
+[CLUM_SET:8]Info
+[CLUM_SET:8]Информация
++++
+[CLUM_SET:8]Lists the required item for trade. You can
+[CLUM_SET:8]also check how many items you have.
+[CLUM_SET:8]Показывает требуемый предмет. Также
+[CLUM_SET:8]можно посмотреть кол-во ваших вещей.
++++
+Item
+Offer
+Prize Ticket
+Storage
+Recycle
+Info
+Cancel
+[value:1:3]/[value:2:3]
+Select with [M:B6]
+
+Предмет
+Предл.
+Приз. Билет
+Хранилище
+Переработка
+Инфо
+Отмена
+[value:1:3]/[value:2:3]
+Выбор: [M:B6]
++++
 --- --- --- --- --- --- --- ---
 Скрипты
 --- --- --- --- --- --- --- ---
+unionall.ssb
+--- ---
+[CN]Would you like to save your adventure?
+Save and Continue
+Save and Return to Top Menu
+Don\'t Save
+Yes
+No
+[CN]Желаете сохранить своё приключение?
+Сохранить и Продолжить
+Сохранить и выйти в Главное Меню
+Не сохранять
+Да
+Нет
+--- ---
+P01P01A/enter04.ssb
+--- ---
+[CN]Where would you like to go?
+[CN]Куда вы хотите отправиться?
+--- ---
 [CN][player] cleared the\n[CN][CS:P]Beach Cave[CR]! Impressive!
 [CN][player] успешно зачищает\n[CN][CS:P]Пещеру у Пляжа[CR]! Потрясающе!
 +++
@@ -99339,3 +101145,2018 @@ Select with [M:B6]
 [CN][player] cleared [CS:P]Apple Woods[CR]\n[CN]in admirable fashion!
 [player] восхитительным образом\n[CN]зачищает [CS:P]Яблоневый Лес[CR]!
 +++
+
+
+--- ---
+G01P03A/enter13.ssb
+--- ---
+\n[CN]All sorts of information is written here...
+\n[CN]Здесь написана различная информация...
++++
+Q1: What\'s the Exploration Team Federation?
+В1: Федерация Команд Исследователей?
++++
+A1: The Pokémon Exploration Team Federation\nis a mysterious organization to which all\nexcellent explorers belong.
+О1: Федерация Команд Исследователей\nПокемонов - это загадочная организация,\nв которой работают все исследователи.
++++
+The Federation collects dues from guilds\nnationwide for producing items and badges\nused by exploration teams.
+Федерация собирает налоги с гильдий по\nвсему миру за производство снаряжения\nи значков для команд исследователей.
++++
+The Federation also operates a number of\nservices for explorers. It\'s an indispensable\norganization for explorers!
+Федерация также оказывает услуги для\nисследователей. Эта организация\nвыполняет очень важную работу!
++++
+To put it simply, it\'s an incredibly great\norganization!
+Проще говоря, это невероятно отличная\nорганизация!
++++
+...That is all.
+...На этом всё.
++++
+Q2: What\'s written here?
+В2: Что здесь написано?
++++
+A2: This spot is reserved for useful notices,\nhints, tips, advice, and so on.
+О2: В этом месте написаны полезные\nзаметки, подсказки, советы и так далее.
++++
+...That is all.
+...На этом всё.
++++
+Q3: How do I know what to do?
+В3: Как я узнаю, что мне делать?
++++
+A3: If you\'re not sure what to do, try looking\nup some hints!
+О3: Если вы не знаете, что делать,\n
+попробуйте посмотреть справку!
++++
+To get some hints, press [M:B4] to access the\nmenu, then find them under Others.
+Чтобы найти справку, нажмите [M:B4], чтобы\nоткрыть меню и затем, нажмите "Прочее".
++++
+The hints will give you all sorts of useful\ninformation for your explorations.
+Справка покажет вам самую разную\nполезную информацию.
++++
+So if you\'re stuck, look up some hints!
+Поэтому, если вы что-то не понимаете,\nзагляните в справку!
++++
+Q4: How do I start a job?
+В4: Как начать задание?
++++
+A4: If you\'ve already put the job on your Job\nList, you must then use the Take Job option.
+О4: Если вы уже получили задание в свой\nСписок Заданий, вам нужно Взяться за\nполученное задание.
++++
+If you see a job on the Job Bulletin Board or\nthe Outlaw Notice Board that you want to do,\nyou have to do two things...
+Если на Доске Объявлений или Доске\nРазыскиваемых есть задание, которое вы\nхотите выполнить, сделайте две вещи...
++++
+First, choose the job from a board to add it to\nyour Job List. Second, select it from your Job\nList, then use the Take Job option.
+Сначала, выберите задание, чтобы\nдобавить его в Список Заданий.[C]После этого, выберите его в Списке\nЗаданий и нажмите "Взяться".
++++
+Exploration teams should take care of jobs\nthey\'ve added to their list as soon as possible!
+Любая команда исследователей обязана\nвыполнять задания в самые кратчайшие\nсроки!
++++
+Now, go! Quit reading this and explore!
+Теперь, вперед! Хватит это читать и\nотправляйтесь на вылазку!
++++
+Q5: What\'s the Explorer Rank?
+В5: Что такое Ранг Исследователя?
++++
+A5: The Explorer Rank indicates your\nstanding within the Pokémon Exploration Team\nFederation.
+О5: Ранг Исследователя отражает вашу\nрепутацию в Федерации Команд\nИсследователей.
++++
+An exploration team gains Rank Points for\ncompleting jobs. Upon earning set amounts\nof points, the team goes up in rank.
+За выполнение заданий, команда\nисследователей получает Очки Ранга.[C]После достижения определённого значения\nочков, команда получает новый ранг.
++++
+A team gets a new Explorer Badge when it\ngoes up in rank. But that\'s not all. You\'ll\ndiscover more benefits as you rank up!
+Если команда получает новый ранг, она\nтакже получает и новый Значок. Но это\nещё не всё.[C]Команда также получит награду за\nпродвижение по рангу!
++++
+Finally, you\'ll notice that there is a footprint\nimprinted on the back of the badge.
+И наконец, можно заметить, что на задней\nчасти Значка есть отпечаток лапы.
++++
+That doubles as a security pass for the guild.\nIt lets you enter and exit the guild whenever\nyou want. Did you know that?
+Отпечаток служит пропуском в гильдию.[C]Он позволяет вам беспрепятственно\nперемещаться по гильдии. Знали ли вы об\nэтом?
++++
+Those who are first starting out should work\ntoward the Bronze Rank!
+Начинающим стоит стремиться к получению\nБронзового Ранга!
++++
+Q6: Is eating Gummis a good thing to do?
+В6: Полезно ли есть Желе?
++++
+A6: Yes! Of course you should eat Gummis!\nIt boosts your IQ!
+О6: Да! Конечно же, вам стоит съедать\nЖеле! Оно увеличивает ваш IQ!
++++
+When your IQ goes up, you\'ll gain IQ Skills\nthat help you while exploring.
+Повышая ваш IQ, вы приобретаете новые\nНавыки IQ, которые помогут вам во время\nвылазок.
++++
+That\'s why you shouldn\'t hesitate to eat\nGummis. Eat as much as you want!
+Поэтому, не стесняйтесь съедать Желе.\nЕшьте столько, сколько влезет! 
++++
+Specific types of Pokémon have a different\nfavorite Gummi. If a Pokémon eats its\nfavorite, its IQ goes up much faster!
+Определённые типы Покемонов имеют свои\nпредпочтения в Желе. Если Покемон съест\nлюбимое Желе, его IQ сильно увеличится!
++++
+It\'s great to eat lots of Gummis! And it\'s best\nto eat lots of your favorite kind of Gummis!
+Есть много Желе - очень полезно! А ещё\nполезнее - есть много своего любимого\nЖеле!
++++
+Q7: How do I talk to my partner?
+В7: Как говорить со спутником?
++++
+A7: What?[K] Your partner is right next to you,\nbut you can\'t chat?
+О7: Что? Ваш спутник прямо рядом с вами\n
+но вы не можете с ним/ней поговорить?
++++
+Just be brave and talk to your partner. Your\nfriend will understand what\'s on your mind.
+Просто будьте смелее и поговорите со\nсвоим спутником. Ваш товарищ сразу\nпоймёт, что у вас на уме.
++++
+Press [M:B7] to talk to your partner. Your partner\nwill never ignore you!
+Нажмите [M:B7], чтобы поговорить со своим\n
+спутником. Ваш товарищ не откажет вам\n
+в ответе!
++++
+Talk to your partner especially if you\'re not\nsure what to do next. Press [M:B7] and strike up\na conversation!
+Особенно полезно говорить со спутником,\nесли вы не уверены, что нужно делать\nдальше.[C]Нажмите [M:B7] и завяжите беседу!
++++
+Your partner is sure to have useful advice\nfor you!
+Ваш спутник наверняка даст вам\nкакой-нибудь полезный совет!
++++
+Q8: What are types?
+В8: Что такое типы?
++++
+A8: Pokémon are categorized by types such as\nFire, Water, and Grass. Many Pokémon even\nhave two types.
+О8: Покемоны подразделяются на типы,\nтакие как Огонь, Вода и Трава. Многие\nПокемоны могут иметь сразу два типа. 
++++
+The amount of damage that an attacking\nPokémon does with its move is related to the\nmove\'s type and the defending Pokémon\'s type.
+Величина урона, которого атакующий\nПокемон наносит своим приёмом, зависит\nот типа приёма и защищающегося Покемона.
++++
+For example, a Fire-type Pokémon is weak\nagainst Water-type moves.
+К примеру, Покемон Огненного типа будет\nполучать больше урона от приёмов Водного\nтипа.
++++
+And a Water-type Pokémon will be weak to\nElectric-type moves.
+А Покемон Водного типа будет получать\nувеличенный урон от приёмов\nЭлектрического типа.
++++
+Learn how all types of Pokémon and moves\nmatch up, so you can battle effectively.[K]\nThat\'s you, the exploration team reading this!
+Узнайте больше о типах Покемонов и\nэффективности приёмов, чтобы вы могли\nсражаться в полную силу.[C]Да, это обращение к вам, команда, что\nчитает это сообщение!
+--- ---
+G01P02A/enter07.ssb
+--- ---
+[CN][CS:N]Wigglytuff[CR]\'s Guild\n[CN]Ten Rules for Exploration Teams
+[CN]Десять Правил для Исследователей\n[CN]В Гильдии [CS:N]Виглитаффа[CR]
++++
+[CN]One![K]\n[CN]Don\'t shirk work!
+[CN]Номер Один![K]\n[CN]Не увиливай от работы!
++++
+[CN]Two![K]\n[CN]Run away and pay!
+[CN]Номер Два![K]\n[CN]При побеге - поплатись!
++++
+[CN]Three![K]\n[CN]Smiles go for miles!
+[CN]Номер Три![K]\n[CN]Улыбайся до ушей!
++++
+[CN]Four![K]\n[CN]Once you put a job on your team\'s list,\n[CN]then use Take Job! That step can\'t be missed!
+[CN]Номер Четыре![K]\n[CN]Занеси задание в список и Возьмись за\n[CN]него! Этот шаг трудно пропустить!
++++
+[CN]Five![K]\n[CN]Restock your supplies and rations\n[CN]before heading out on explorations!
+[CN]Номер Пять![K]\n[CN]Чтобы вылазка не обернулась бедой,\n[CN]запасайся припасами и едой!
++++
+[CN]Six![K]\n[CN]Before you explore, try to think\n[CN]about the moves you should link!
+[CN]Номер Шесть![K]\n[CN]Прежде чем на вылазку убегать,\n[CN]подумай, какие приёмы стоит связать!
++++
+[CN]Seven![K]\n[CN]While exploring, don\'t you panic!\n[CN]Stay cool and calm, never manic!
+[CN]Номер Семь![K]\n[CN]На вылазке паниковать не стоит!\n[CN]Спокойных лишь награда удостоит!
++++
+[CN]Eight![K]\n[CN]Helping all Pokémon in need\n[CN]is an explorer\'s duty, indeed!
+[CN]Номер Восемь![K]\n[CN]Исследователю рады везде\n[CN]если он помогает Покемонам в беде!
++++
+[CN]Nine![K]\n[CN]Do lots of jobs! That\'s truly the key!\n[CN]You\'ll reach Gold Rank. Just wait and see!
+[CN]Номер Девять![K]\n[CN]Выполняй задания! В этом секрет!\n[CN]Золотой Ранг получи. Славой будешь согрет!
++++
+[CN]Ten![K]\n[CN]The money you earn is shared with the guild![K]\n[CN]That\'s the way our friendship will build!
+[CN]Номер Десять![K]\n[CN]Деньгами с гильдией нужно делиться!\n[CN]Только так наша дружба может сложиться!
++++
+--- ---
+G01P02A/enter08.ssb
+--- ---
+[CN]Welcome!\n[CN][CS:N]Wigglytuff[CR]\'s Guild!
+[CN]Гильдия [CS:N]Виглитаффа[CR]!\n[CN]Добро пожаловать!
++++
+[CN]No salespeople!\n[CN]No agents!\n[CN]No survey takers!
+[CN]Продавцам входа нет!\n[CN]Комиссионерам входа нет!\n[CN]Опрашивающим входа нет!
++++
+--- ---
+G01P04A/enter25.ssb
+--- ---
+[CN]\n[CN]Crew Rooms →
+[CN]\n[CN]Комнаты Команд →
+--- ---
+G01P04A/enter24.ssb
+--- ---
+[CN]\n[CN]← Mess Hall
+[CN]\n[CN]← Обеденный Зал
+--- ---
+G01P06A/enter04.ssb
+--- ---
+[CN]Please wash up before eating!\n[CN]                             -[CS:N]Chimecho[CR]
+[CN]Пожалуйста, умывайте лапы перед едой!\n[CN]                             -[CS:N]Чаймеко[CR]
+--- ---
+G01P07A/enter07.ssb
+--- ---
+[CN]GET UP ALREADY!\n[CN]         -[CS:N]Loudred[CR]
+[CN]ПРОСЫПАЙТЕСЬ УЖЕ НАКОНЕЦ!\n[CN]         -[CS:N]Лаудред[CR]
+--- ---
+G01P10A/enter04.ssb
+--- ---
+[CN]Something is written here...
+[CN]Здесь что-то написано...
++++
+[CN]This is [CS:N]Bidoof[CR]\'s diary.\n[CN]Should we sneak a peek?
+[CN]Это дневник [CS:N]Бидуфа[CR].\n[CN]Заглянуть в него?
++++
+Read
+Читать
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 4: Exploring with [CS:Y]Sunflora[CR]\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 4: Вылазка с [CS:Y]Санфлорой[CR]\n[CN] День ХХ, Месяц ОО, Солнечная Погода
++++
+[CS:Y]Sunflora[CR] is some kind of awesome!
+[CS:Y]Санфлора[CR] довольно таки классная!
++++
+Yup yup! I went exploring with [CS:Y]Sunflora[CR] the\nother day.
+Да-да! Недавно я ходил вместе с\n[CS:Y]Санфлорой[CR] на вылазку.
++++
+It turns out [CS:Y]Sunflora[CR]\'s a real expert at\nfighting in dungeons.
+Оказывается, что [CS:Y]Санфлора[CR] очень хорошо\nумеет сражаться в подземельях.
++++
+When an enemy is just out of reach, she\ndoesn\'t move toward it! Instead she uses [M:B2] to\nlaunch her regular attack, striking at nothing!
+Если до врага немного не достать, она\nне идёт к нему навстречу![C]Вместо этого, она действует на [M:B2]\nи бьёт пустоту своим обычным ударом!
++++
+Then the enemy usually spends that turn closing\nthe distance on her. And then, on her next turn,\nshe\'s the first one close enough to hit!
+После этого, враг обычно тратит ход на\nто, чтобы к ней приблизиться. И затем,\nона наносит свой удар первой!
++++
+Yup yup! She sure knows what she\'s doing,\nby golly!
+Да-да! Она определённо знает, что\nделает, точно говорю!
++++
+Why, I wanted to whoop and holler when I saw\nher use that trick. So thrilling![K] Sigh...
+Вот, я даже хотел вскричать, когда\nувидел, что она делает. Это так\nзахватывающе![K] Эх...
++++
+As for me, I always rush into a fight...[K]\nThat\'s why I end up being first to get hit!
+А вот я всегда рвусь в драку...[K]\nПоэтому я всегда получаю первый удар!
++++
+But it\'s all right, I reckon. I know the way to\ndo it now and can explore better now. Yup yup!
+Но, думаю, всё в порядке. Теперь я знаю\nкак поступать и смогу лучше исследовать\nподземелья. Да-да!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 3: Bulletin Board Goof-Up\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 3: Промашка с Досками\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+I... I didn\'t realize it!
+Я... Я не понял этого!
++++
+After you take jobs on the Job Bulletin Board\nand Outlaw Notice Board...to actually do \'em,\nyou need to use \"Take Job\" on your Job List!
+Если взять задания с Доски Объявлений и\nДоски Разыскиваемых, то...чтобы их\nвыполнить, за них нужно Взяться[C]в Списке Заданий!
++++
+I didn\'t know that... So I went to dungeons\nwithout first activating the jobs with that\n\"Take Job\" command, by golly...
+Я не знал этого... И ходил в подземелья\nне Взявшись перед этим за задание,\nей-богу...
++++
+Oof! It\'s no wonder why I could never do my\njobs once I got to a dungeon...
+Ух! Неудивительно, почему я никак не\nмогу выполнять задания, отправляясь на\nвылазки в подземелья...
++++
+I finally understand why [CS:N]Chatot[CR]\'s always so\nupset with me, by golly...
+Теперь я понимаю, почему [CS:N]Чатот[CR] всегда\nтак мной недоволен, ей-богу...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 2: Happy Time!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 2: Так Счастлив!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Yup yup! I\'m happy, by golly!
+Да-да! Я счастлив, ей-богу!
++++
+Oh?[K] Why am I so downright happy?
+О?[K] Почему я так счастлив?
++++
+Well...[K] Finally...
+Что-ж...[K] Наконец-то...
++++
+Finally, I\'ve got junior members under me!
+Наконец-то, я не самый младший член\nгильдии!
++++
+Oof! This is some kind of wonderful![K] And the\ntwo are both so friendly and kind.[K] I feel so\nlucky. Yup yup!
+Ух! Это очень чудесно! Кроме того, эти\nдвое такие дружные и добрые. Мне так\nповезло. Да-да!
++++
+I\'ve got to set a good example for my\nnew pals! I have to be better. Yup yup!
+Нужно показать себя перед ними в хорошем\nсвете! Мне нужно быть лучше. Да-да!
++++
+Yeaaah! I\'ll do better starting tomorrow!
+Дааа! Буду начинать с завтрашнего дня!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 1: I\'ll Try Hard!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 1: Я Буду Стараться!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oof...![K] Seems that it\'s been a mighty long time\nsince I apprenticed at this here guild.
+Уф!.. Похоже, прошло уже очень много\nвремени с тех пор, как я стал новичком\nв этой гильдии.
++++
+I get so frustrated being so klutzy and slow...\nYup yup! Don\'t I know it!
+Я так расстраиваюсь от того, что я такой\nнеуклюжий и медлительный... Да-да!\nБудто бы я об этом не знаю!
++++
+I\'m a slow worker. And it takes me longer to\nlearn than others.
+Я медленно работаю. И мне нужно больше\nвремени, чтобы научиться чему-либо, чем\nпрочим.
++++
+Oof... I sure miss my home and folks. Yup yup!
+Уф... Я скучаю по дому и родне. Да-да!
++++
+But![K] I can\'t be what I want to be if I admit\ndefeat now! No sirree, by golly!
+Но![K] Я не смогу быть тем, кем хочу стать,\nесли я сдамся! Нет, сэрррр, ей-богу!
++++
+Yup yup! I have my big dream![K] I\'m surely going\nto become a first-class explorer, yup!
+Да-да! Я осуществлю свою мечту![K] Я стану\nпервоклассным исследователем, да!
++++
+And that\'s why I\'ve started this here diary!\nIt\'s a way for me to keep track of what I\'m\nmade of. Yup yup!
+И поэтому я начал вести дневник! Это\nмой способ отслеживать все изменения,\nпроисходящие со мной. Да-да!
++++
+Yup yup! Tomorrow, I\'ll hold my head up high!\nI\'ll get things done!
+Да-да! С завтрашнего дня, я буду\nработать над собой! Я буду доводить\nдела до конца!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 26: Keeping It Going\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 26: Жизнь Продолжается\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+So [hero] and [partner] are back!\nBack in Treasure Town, by golly!
+[hero] и [partner] вернулись!\nЕй-богу, вернулись в Город Сокровищ!
++++
+Oof... I\'m so glad for this... By golly, I\'m\noverjoyed...
+Уф... Я так этому рад... Ей-богу, меня\nпереполняет радость...
++++
+They had me so worried... Sniffle...
+Я так за них переживал... Хнык...
++++
+Yup yup, [hero] and [partner] aren\'t\njust rookies to me anymore.
+Да-да, [hero] и [partner] для меня\nуже давно не новички.
++++
+They\'re my friends... My trusted fellow guild\nmembers...
+Они мои друзья... Мои согильдейцы...
++++
+And they\'re my heroes.
+И они - мои герои.
++++
+I swear I\'ll become a first-rate explorer one\nday! For that...I\'ll try, try, try, by golly!
+Клянусь, когда-нибудь я стану\nпервоклассным исследователем![C]Ради этого...\nЯ буду очень, очень, очень стараться!
++++
+I gotta catch up to [hero] and\n[partner]!
+[hero], я догоню тебя!\n[partner], тебя я догоню тоже!
++++
+That\'s why I\'m gonna keep going, and I hope\nthey will too!
+Поэтому я буду делать всё, что могу.\nИ надеюсь, что они сделают так же!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 25: Sure to Win!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 25: Победа за Ними!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Team [team:] has gone off to a place\ncalled the [CS:P]Dark Crater[CR].
+Команда [team:] отправилась в\n
+место, под названием [CS:P]Тёмный Кратер[CR].
++++
+Oh, [hero] and [partner]! You have\nto be tough, by golly!
+О, [hero] и [partner]!\nВам нужно быть сильными!
++++
+I\'ve never been much at understanding\nanything complicated, but...
+Я никогда не понимал чего-либо, что\nтрудно осознать, но...
++++
+But I know that [hero] and [partner]\ncan beat that [CS:N]Darkrai[CR]...
+Но я знаю, что [hero] и [partner]\nсмогут победить [CS:N]Даркрая[CR]...
++++
+And, by golly, I know they\'ll come back like\nthey\'ve always done!
+И ей-богу, я знаю, что как и прежде,\nони вернутся домой с победой!
++++
+My thoughts go with them, by gosh!
+Все мои мысли только о них, ей-богу!
++++
+They will... They\'re coming back, sure as the\nsun\'s coming up!
+Они... Они обязательно вернутся, это\nточно, как восходящее солнце!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 24: [CS:N]Azurill[CR]...\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 24: [CS:N]Азурилл[CR]...\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oof... Little [CS:N]Azurill[CR] is stuck in a nightmare that\nhe can\'t wake from...
+Уф... Малютка [CS:N]Азурилл[CR] погряз в кошмаре,\nиз которого не может проснуться...
++++
+I\'ve been getting plenty of sleep of late... But,\nmaybe because of all that sleep, I\'ve been\nwanting to sleep even more...
+Я в последнее время много сплю...\nНо, возможно, из-за этого сна, я хочу\nспать только больше...
++++
+Why, if I set my mind to it, I reckon I can\nsleep all the day and all the night, yup yup.
+Если я буду об этом думать, то я,\nвозможно, смогу проспать целый день и\nцелую ночь, да-да.
++++
+But that doesn\'t seem to be the problem with\nthat little guy...
+Но это, похоже, вовсе не связано с тем\nбеднягой...
++++
+It\'s a little worrying, by golly...
+Ей-богу, это немного меня беспокоит...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 23: Peace Is Best\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 23: Мир Лучше Всего\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Yawwwn... Shucks, I am sleepy...
+Уаааах... Вот же, что-то я сонный...
++++
+I write these entries at night... But, by golly,\nit\'s been hard to keep my eyelids peeled...
+Я пишу эти строки ночью... Но, ей-богу,\nкак же мне трудно не закрывать глаза...
++++
+I reckon that goes to show how peaceful it\'s\nbeen of late. Yup yup.
+Полагаю, что это показывает, насколько\nв последнее время всё спокойно. Да-да.
++++
+Why, it seems like it\'s been ages\nsince [hero]\'s team put a stop to the\nplanet\'s paralysis.
+Кажется, что прошло уже куча времени с\nтех пор, как [hero] и команда\nостановили паралич планеты.
++++
+It\'d be perfect, I reckon, if...[K] Everyone can be\ndecent to each other...[K] For a long, long time...
+Думаю, было бы идеально, если...[K]все\nотносились бы к друг-другу хорошо...[K]\nОчень и очень долго...
++++
+That\'s what I think...[K] Yup yup...[K] Zzzz...[K] Zzzzz...
+Вот что я думаю...[K] Да-да...[K] Хррр...[K]\nХррр...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 22: Awesome Team [CS:X]Charm[CR]\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 22: Чудесная Команда [CS:X]Шарм[CR]!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+What...?[K] I\'m amazed![K] I am downright amazed!\nYup yup yuppers!
+Что?..[K] Я в восхищении![K] Я просто\nпоражён! Да-да-дашечки!
++++
+Those superfamous and superattractive\nmembers of Team [CS:X]Charm[CR]...
+Суперзнаменитые и суперпривлекательные\nчлены Команды [CS:X]Шарм[CR]...
++++
+They\'re at the guild! Yup yup yuppers!
+Они в нашей гильдии! Да-да-дашечки!
++++
+But by golly, there\'s more! Talk of going\nexploring together came up!
+Но, ей-богу, это ещё не всё! Зашёл\nразговор о том, что мы все вместе\nотправимся на вылазку!
++++
+I am...[K]over the moon with happiness!
+Я...[K]на седьмом небе от счастья!
++++
+Since I have been getting better, if I may say\nso myself...[K] Why, it wouldn\'t be out of the\nquestion for me to shine, by golly!
+С тех пор, как я начал становиться\nопытнее, так сказать...[K] Для меня уже не\nстоит вопрос, смогу ли я себя показать!
++++
+If I did, maybe Miss [CS:N]Lopunny[CR] would be kind\nenough to give me a cheer... Oof...
+Если я постараюсь, то, возможно, Мисс\n[CS:N]Лопанни[CR] скажет мне несколько добрых\nслов... Уф...
++++
+Waaaah![K] I\'m an embarrassment to myself!
+Уааааа![K] Я позорю сам себя!
++++
+I\'m beside myself with embarrassment! Yipes!
+Я вне себя от смущения! Ужас!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 21: Cheer Up!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 21: Выше Нос!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Sniffle... Baby [CS:N]Manaphy[CR] had to go back to the\nsea today...
+Хнык... Малышу [CS:N]Манафи[CR] нужно было\nвернуться в море...
++++
+Like [CS:N]Corphish[CR] said... I reckon that [CS:N]Manaphy[CR] is\na Pokémon that rightly has to grow in the sea.
+Как и говорил [CS:N]Корфиш[CR]... Полагаю, что\n[CS:N]Манафи[CR] это Покемон, который по праву\nдолжен вырасти в море.
++++
+Oh, [hero] and [partner]! I hope that\nyou cheer up!
+О, [hero] и [partner]! Выше нос!
++++
+That baby [CS:N]Manaphy[CR] won\'t forget the two of\nyou, not even after a long time, I reckon.
+Этот малыш [CS:N]Манафи[CR] не забудет вас двоих\nещё долго, так я считаю.
++++
+One of these days, you will be able to see\neach other again, yup yup.
+Однажды, вы обязательно встретитесь\nвновь, да-да.
++++
+I\'ll keep it in mind that I should stay cheerful\nand upbeat around [hero] and\n[partner], yup yup!
+Я буду держать в уме, что мне нужно\nоставаться навеселе рядом с ними, да-да!
++++
+I just wish that they\'d get back to being their\nusual cheery selves soon, yup yup.
+Я желаю им вернуть своё привычное\nхорошее и весёлое расположение духа,\nда-да.
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 20: [CS:N]Manaphy[CR]?\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 20: [CS:N]Манафи[CR]?\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+So I was thinking that [CS:N]Chatot[CR] has been mighty\ntesty of late. What\'s been eating him?
+[CS:N]Чатот[CR] в последнее время какой-то очень\nраздражительный. Что его гложет?
++++
+Turns out that baby [CS:N]Manaphy[CR] had taken sick.\nI didn\'t know that...
+Думал я об этом, но оказывается, что\nмалыш [CS:N]Манафи[CR] заболел. Об этом я не\nзнал...
++++
+Oof... I hope that baby\'ll be all right... This is\nworrisome, by golly...
+Уф... Надеюсь, что с малышом будет всё\nв порядке... Ей-богу, это так меня\nтревожит...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 19: Recent Events\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 19: Недавние События\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+I put in another fine day of training today,\nyup yup.
+Сегодня я хорошо потренировался, да-да.
++++
+I reckon it\'s because I\'ve got the goal of\ngraduating. It\'s surely making every day\nmeaningful, yup yup.
+Я делаю это, потому что у меня есть цель\nвыпуститься из гильдии. Это определённо\nпридаёт смысл каждому моему дню.
++++
+Why, I can tell I\'m getting better and better at\nexploring, by golly!
+И вот, могу сказать, что я становлюсь\nвсё лучше и лучше в работе исследователя!
++++
+The way I\'ve been working lately, like a\nPokémon on a mission... I\'m proud of myself,\nby golly!
+То, как я работаю, как Покемон на\nзадании... Ей-богу, я горд собой!
++++
+I think I'm smitten with myself...[K] I\'m blushing!
+Думаю, я очарован собой...[K] Я краснею!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 18: Aiming for Graduation\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 18: Цель на Выпускной\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+I\'m doing the best I can so I can graduate.\nYup yup!
+Я делаю всё возможное, чтобы выпуститься\nиз гильдии. Да-да!
++++
+I got to thinking about how the others were\nconsidering their prospects for graduating.
+Я начал думать о том, что другие могут\nсказать о выпуске из гильдии.
++++
+So I went around asking others their thoughts\nabout graduation... Well, their answers were\nall over the place, yup yup.
+Поэтому я пошёл рсспрашивать других об\nэтом... Ну, их ответы были самыми\nразными, да-да.
++++
+Take, for instance, [CS:N]Croagunk[CR]. They say he\'s\ngood enough to graduate anytime he wants.
+Взять вот, к примеру, [CS:N]Кроганка[CR]. Он\nговорит, что он когда угодно может\nвыпуститься из гильдии.
++++
+Now, I don\'t rightly know if that is true,\nno sirree...
+Ну, на самом деле, не знаю, так ли это,\nнет сэрррр...
++++
+That said, [CS:N]Croagunk[CR] seems to have no interest\nin being on an exploration team in the first\nplace...
+Кстати, Кроганк абсолютно не выказывает\nникакого интереса к работе в команде\nисследователей...
++++
+They tell me he just joined the guild because\nhe had his heart set on getting that Swap\nCauldron.
+Он сказал мне, что он вступил в гильдию\nтолько для того, чтобы поработать с\nэтим Обменным Котлом.
++++
+You see, he was of a mind to graduate and\ntake the Swap Cauldron with him.
+Видите ли, у него было на уме выпуститься\nи забрать Обменный Котёл с собой.
++++
+But then he found out that the Swap Cauldron\nwas permanently stuck to the guild\'s floor.
+Но затем, он понял, что Обменный Котёл\nбыл намертво пригвождён к полу гильдии.
++++
+That settled things for him. He wasn\'t about to\nleave that Swap Cauldron, so he\'s been here\never since. Golly!
+На этом он успокоился. Он не собирался\nпокидать этот Обменный Котёл и с тех\nпор, он остался здесь. Вот так!
++++
+Yup yup! It seems to me everyone\'s got their\nown good reason. I\'m learning from it, yup yup.
+Да-да! Похоже, что у каждого своя цель.\nЯ понял это, да-да.
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 17: Congratulations!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 17: Поздравляю!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Sniffle... Team [team:] passed its\ngraduation exam!
+Хнык... Команде [team:] удалось\nпройти свой выпускной экзамен!
++++
+Well...[hero] and [partner]...\nCongratulations! Sniffle...
+Что-ж... [hero] и [partner]...\nПоздравляю! Хнык...
++++
+I\'m so happy for you all, yet so sad that you\'re\nout. My head is spinning... Sniffle...
+Я так рад за вас, но мне так грустно,\nчто вы больше здесь не учитесь.\nГолова кружится... Шмыг...
++++
+But I reckon that the other apprentices are\ngoing to graduate one day too...
+Но, я полагаю, что и другие ученики\nтоже однажды выпустятся...
++++
+And that\'ll mean me too...
+И я тоже...
++++
+...[K]That does it!
+...[K]Так тому и быть!
++++
+I\'m going to do my level best to graduate too!\nYup yup yuppers!
+Я сделаю всё возможное, чтобы тоже\nвыпуститься из гильдии! Да-да-дашечки!
++++
+It\'ll be my turn to shine!
+Я тоже однажды буду сиять!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 16: Graduation Exam?\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 16: Выпускной Экзамен?\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Team [team:] has been picked to take the\nguild\'s graduation exam.
+Команда [team:] будет проходить\nвыпускной экзамен гильдии.
++++
+They arrived after me. But they get to take\nthe exam before I can? That sorta rubs me\nthe wrong way...
+Они прибыли до меня. Но они будут\nвыполнять экзамен раньше меня? Это\nкак-то меня смущает...
++++
+But it\'s tough to argue against the sort of\nsuccess that Team [team:] has had.
+Но трудно спорить с тем, через что\nпрошла Команда [team:], чтобы\nзаслужить такую честь.
++++
+Besides, the others asked me (yup, me!) to\nhelp behind the scenes on the graduation exam!
+Кроме того, другие попросили меня\n(да, меня!) помочь подготовить всё для\nвыпускного экзамена!
++++
+Who knows what they have in mind for me to\ndo, though. I\'m always the last to know...
+Впрочем, я не знаю, что они от меня\nхотят. Вечно я всё узнаю последним...
++++
+This will be the first graduation exam I\'ll help\nout on. I wonder what I\'m supposed to do?
+Это будет первый выпускной экзамен, в\nкотором мне нужно будет помогать.\nИнтересно, что я должен сделать?
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 15: Don\'t Give Up!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 15: Не Сдавайтесь!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Team [team:]! You all have to shine!
+Команда [team:]! Вам всем нужно\nпроявить мужество!
++++
+I surely can\'t begin to imagine a place called\nthe [CS:P]Hidden Land[CR], but...
+Я абсолютно не могу представить себе\nместо под названием [CS:P]Сокрытые Земли[CR],\nно...
++++
+The two of them together... I\'m mighty sure\nthey can stop the planet\'s paralysis. Yup yup!
+Эти двое... Я совершенно точно уверен,\nчто им по силам остановить паралич\nпланеты. Да-да!
++++
+I\'ll lend my support from Treasure Town!
+Я буду болеть за них из Города\nСокровищ!
++++
+Go do it, [hero], [partner], [CS:N]Grovyle[CR],\nand [CS:N]Lapras[CR]!
+[hero], [partner], [CS:N]Гровайл[CR] и\n[CS:N]Лапрас[CR]! Вы справитесь!
++++
+You all do what you can to win!
+Сделайте всё возможное, чтобы победить!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 14: Welcome Back!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 14: С Возвращением!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Something happened that was half shocking\nand wholly happy! Yup yup!
+Произошло кое-что одновременно шокирующее\nи совершенно хорошее! Да-да!
++++
+It\'s all sorts of amazing, that\'s for sure![K]\nTeam [team:] came back!
+Но это совершенно точно поразительно![K]\nВернулась Команда [team:]!
++++
+Even more amazing is that they say they\nreturned...from the future!
+Но, что ещё более поразительно, они\nсказали, что они вернулись...\nИз будущего!
++++
+The story [partner] told was about as\namazing too... But more than anything...
+То, что рассказывает [partner]...\nЭто удивительно... Но больше всего...
++++
+I was overjoyed seeing the two of them back\nsafe where they belong, right here. Yup yup.
+Я так рад, что эти двое сюда вернулись\nв целости и сохранности. Да-да.
++++
+Yup yup! I was some kind of happy... Sniffle...
+Да-да! Я очень счастлив... Шмыг...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 13: Very Sad...\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 13: Как Грустно...\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+An awful long time has gone by since that\nTeam [team:] disappeared...
+С момента исчезновения Команды\n[team:] прошло ужасно много времени...
++++
+I hope that [partner] and [hero] are\ndoing fine...
+Надеюсь, [partner] и [hero] в\nпорядке...
++++
+After we became buddies in the guild and all...
+В конце-концов, мы ведь стали хорошими\nдрузьями...
++++
+I was counting on going exploring with them\nmore down the road...
+Я рассчитывал ходить с ними в совместные\nэкспедиции...
++++
+Oof... I miss them...
+Уф... Я скучаю по ним...
++++
+Oof... I surely do miss them...
+Уф... Я очень по ним скучаю...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 12: Shocking News!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 12: Шокирующие Новости!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+It\'s shocking, by golly!
+Как шокирующе, ей-богу!
++++
+I don\'t rightly understand it...not totally...
+Я абсолютно не понимаю этого...совсем...
++++
+But Pokémon can come from the future?!\nIs that even possible? I don\'t rightly know.
+Покемоны могут попадать сюда из\nбудущего?! Как это вообще возможно?\nЯ абсолютно не понимаю.
++++
+But it\'s what the great [CS:N]Dusknoir[CR] claimed, so\nyou gotta reckon there\'s a grain of truth in it.
+Но, если так заявил великий [CS:N]Даскнуар[CR],\n
+возможно, в этом есть какая-то правда.
++++
+This is all so confusing that it makes my head\nhurt. But I reckon I\'d best focus, yup yup...
+Это всё так запутывает, что от этого у\nменя разболелась голова. Но сейчас, мне\nнужно сосредоточиться, да-да...
++++
+Because now\'s the time we need to help get out\nthe word about [CS:N]Azelf[CR] and his buddies. Yup yup!
+Потому что сейчас нужно помочь\nраспространить слух о [CS:N]Азельфе[CR] и его\nприятелях. Да-да!
++++
+[CS:N]Grovyle[CR]\'s scheme can\'t continue!
+Козням [CS:N]Гровайла[CR] придёт конец!
++++
+Yup yup! I have to spread that rumor on thick!
+Да-да! Мне нужно распространить слух!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 11: The Guild at Night\n[CN]OO Month XX Day, Sunny"
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 11: Ночная Гильдия\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Thanks to [CS:N]Croagunk[CR], I haven\'t been able to\nget a good night\'s sleep lately.
+В последнее время я не могу заснуть.\nИ всё благодаря [CS:N]Кроганку[CR].
++++
+There\'s nothing to do if you\'re awake at night,\nso I took a stroll through the guild. Yup yup!
+Если ночью не спится, то делать\nабсолютно нечего, поэтому я решил\nпрогуляться по гильдии. Да-да!
++++
+I glanced in [partner] and [hero]\'s\nroom, but they were deep in sleep, by golly.
+Я заглянул в соседнюю комнату, но\n[partner] и [hero] крепко спали.
++++
+I reckon they must be exhausted from their\ndaily training, yup yup.
+Должно быть, они очень устали от своей\nежедневной тренировки, да-да.
++++
+I didn\'t peek into [CS:N]Chimecho[CR] and [CS:N]Sunflora[CR]\'s\nroom. That\'d be downright rude. Yup yup.
+В комнату [CS:N]Чаймеко[CR] и [CS:N]Санфлоры[CR] я не\nглядел. Это было бы просто грубо.\nДа-да.
++++
+Huh, diary? You wanted me to peek?
+Что, дневник? Хотел, чтобы я всё же\nпосмотрел?
++++
+I surely can\'t do that. It\'s just not done.[K]\nWho could live that down?
+Я определённо не мог этого сделать.\nЭто просто неправильно. Кто бы вообще\nмог это вынести?
++++
+And sneaking into the Guildmaster\'s room was\ntoo scary. So I gave that a pass and kept\nnosing around elsewhere. Yup yup.
+В комнату Гильдмастера я побоялся\nзаходить. Поэтому я пошёл в другие\nместа. Да-да.
++++
+Now, that [CS:N]Chatot[CR]! By golly, that one gave me\nquite the start!
+Вот [CS:N]Чатот[CR]! Ей-богу, как я удивился!
++++
+So, diary, where\'d you reckon that [CS:N]Chatot[CR]\nsleeps at night?
+Ну, дневничок, как ты считаешь, где\n[CS:N]Чатот[CR] спит по ночам?
++++
+Well, surprise, surprise![K] He sleeps on the top\nrung of the guild\'s entry ladder!
+Что-ж, сюрприз, сюрприз![K] Он спит на\nсамой верхней перекладине гильдейской\nвходной лестницы!
++++
+When I crept nearby, he thought I was trying\nto run away, by golly...
+Когда я крался рядом с ним, он подумал,\nчто я пытаюсь сбежать, да...
++++
+So he wildly attacked me![K] I\'m still sore all\nover from that, by gosh!
+И он начал атаковать меня![K] Я всё еще\nникак не могу от этого отойти, ей-богу!
++++
+P.S. [CS:P]Crystal Cave[CR] sure lived up to its name,\nbeing full of crystals and all.
+П.С. Вид [CS:P]Кристальной Пещеры[CR] точно\nсоответствует своему имени, ведь в ней\nдовольно много кристаллов, и подобного.
++++
+It surely was a pretty place! Yup yup.
+Это довольно красивое место! Да-да.
++++
+It was so pretty, I couldn\'t help...[K]helping\nmyself to a crystal!
+Там было так красиво и я не удержался...[K]\nЯ взял оттуда кристаллик!
++++
+It\'s my own precious treasure! Yup yup!
+Это моё собственное сокровище! Да-да!
++++
+But when everyone found out about it... All I\ngot was a bunch of grief... Sigh...
+Но когда все об этом узнали... Всё, чем\nмне удалось поживиться, это горькими\nслезами... Эх...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 10: No Sleep!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 10: Без Сна!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oof... I\'m feeling foggy from not getting my\nfair share of sleep.
+Уф... Я чувствую себя туманно из-за\nнедосыпа.
++++
+I share my room with [CS:N]Loudred[CR] and [CS:N]Corphish[CR],\nbut...
+Я сплю в комнате вместе с [CS:N]Лаудредом[CR]\nи [CS:N]Корфишем[CR], но...
++++
+Lately, [CS:N]Croagunk[CR]\'s taken to slipping into our\nroom for some shut-eye every so often.
+С недавних пор, в нашу комнату стал\nпрошмыгивать [CS:N]Кроганк[CR].
++++
+Well, that [CS:N]Croagunk[CR], he usually beds down by\nthat Swap Cauldron of his...[K] But lately he\'s\ntaken to sleeping here...
+Ну, тот [CS:N]Кроганк[CR], что обычно спит в\nобнимку со своим Обменным Котлом...[K]\nНо теперь он пожаловал спать здесь...
++++
+Just the other day, I was surprised to find\n[CS:N]Croagunk[CR] sleeping nearby, by golly...
+Вчера я очень удивился, когда увидел\nспящего поблизости [CS:N]Кроганка[CR], ей-богу...
++++
+And then he murmured, \"Meh-heh-heh! Morning\nthere, [CS:N]Bidoof[CR]!\" I mean, I don\'t want my day to\nstart that way!
+Он начал шептать: \"Хе-хе-хе! Утречка,\n[CS:N]Бидуф[CR]!\" Не так я хотел начинать свой\nдень!
++++
+That surely put a scare in me. Yup yup! Now I\ncan\'t sleep because that [CS:N]Croagunk[CR] might\nwant to hang out again... Oof...
+Это меня очень напугало. Да-да! Теперь\nя не могу уснуть из-за того, что сюда\nснова может проникнуть [CS:N]Кроганк[CR]... Уф...
++++
+P.S. The great [CS:N]Dusknoir[CR] is sure mighty wise.
+П.С. Великий [CS:N]Даскнуар[CR] очень мудр.
++++
+Not only that, he shows respect to everyone.\nEven me! By golly, you have to respect\nsomeone like that back!
+Кроме того, он со всеми общается учтиво.\nДаже со мной! Ей-богу, как такое можно\nне уважать!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 9: Awesome Expedition\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 9: Чудесная Экспедиция\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+We\'re back home! Back from our expedition at\nlast! Yup yup!
+Мы наконец-то вернулись домой из нашей\nэкспедиции! Да-да!
++++
+It was my first expedition. So, yup yup, I was\nscared something awful. But here I am, back\nhome at the guild, yup yup.
+Это была моя первая экспедиция. Да-да,\nя был ужасно напуган. Но теперь, я снова\nдома, в гильдии, да-да.
++++
+The expedition sure was inspiring. We got to\nsee pretty [CS:P]Fogbound Lake[CR] and other stuff!
+Эта экспедиция была очень вдохновляющей.\nМы наконец увидели [CS:P]Затуманенное Озеро[CR] и\nмного всего прочего!
++++
+But what sticks most in my mind, by golly...
+Но то, что мне особенно запомнилось...
++++
+was reaching base camp with [hero]\'s\nteam. Yup yup.
+Это то, как я дошёл до лагеря вместе с\nкомандой [hero]. Да-да.
++++
+It was the first expedition for all three of\nus. So it wasn\'t easy, no sirree.
+Это была первая экспедиция для всех\nнас, троих. Она была непростой.
++++
+I ended up causing a lot of trouble for\nTeam [team:], but...
+Я доставил Команде [team:]\nмножество хлопот, но...
++++
+We helped each other the best we could,\nby golly.
+Мы помогли друг-другу всем, чем только\nсмогли.
++++
+And we finally made it to base camp. I swear,\nthat had to be one of the happiest times in my\nlife, by golly.
+И вот, мы наконец-то добрались до лагеря.\nЕй-боже, клянусь, это был самый лучший\nмомент в моей жизни.
++++
+Oof... If it wasn\'t for Team [team:], this\nexpedition wouldn\'t have been quite so fun...
+Уф... Если бы не Команда [team:],\nэта экспедиция бы не прошла так весело...
++++
+I surely have to thank that [hero] and\n[partner]!
+[hero] и [partner] точно получат от\nменя мои благодарности!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 8: Camaraderie\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 8: Товарищество\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+There was sort of a scene today!
+Что сегодня произошло!
++++
+Those Team [team:] members were\ndenied dinner tonight. They went to bed hungry.
+Членам Команды [team:] отказали\nв ужине. Они ушли спать голодными.
++++
+I reckon they goofed up something bad to be\npunished that way. Yup yup!
+Полагаю, они натворили что-то плохое,\nза что их так наказали. Да-да!
++++
+Still...going without dinner\'s a rotten thing.
+Но всё же...идти спать без ужина это\nочень неприятно.
++++
+I know that I surely can\'t last a night without\na full belly. Yup yup!
+Я знаю, поскольку я точно не смогу и\nночи продержаться с пустым желудком.\nДа-да!
++++
+So I decided that I\'d save a bit of my dinner so\nI could share it with them.
+Поэтому, я решил оставить немного своего\nужина, чтобы я смог с ними поделиться.
++++
+Turns out that everyone had the same idea!
+Как оказалось, все думали о том же, о\nчём и я!
++++
+We all saved a bit of our dinners, it seems.
+Мы все не доели наш ужин.
++++
+So we all met up that night, and we\ntalked it over. Yup yup.
+Той ночью мы все собрались и обговорили\nэто. Да-да.
++++
+And we decided we\'ll share our food with\nTeam [team:].
+И по итогу решили поделиться нашей едой\nс Командой [team:].
++++
+We reckon we\'ll sneak them the food tomorrow\nmorning after the morning briefing. Yup yup!
+Думаю, мы подложим им еду завтра после\nутреннего построения. Да-да!
++++
+The older apprentices are usually really strict,\nbut it turns out they\'re awfully nice at heart...
+Ученики постарше обычно довольно строги,\nно оказывается, что они очень добры...
++++
+Oof... This is making me all emotional, by golly.
+Уф... Ей-богу, меня переполняют эмоции.
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 7: Expedition!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 7: Экспедиция!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+The guild\'s going on an expedition soon!
+Гильдия вскоре отправится на экспедицию!
++++
+It\'ll be my first expedition...[K] That\'s sure got\nmy heart racing, by golly.
+Это будет моя первая экспедиция...[K]\nЕй-богу, у меня от этого сердце\nколотится.
++++
+But will they think about choosing me?
+Но возьмут ли меня туда?
++++
+Compared to everyone else, I\'m slow and\nklutzy...
+По сравнению с другими, я медлительный\nи неуклюжий...
++++
+Even Team [team:]\'s rookies are getting\nbetter and better...
+Даже новички из Команды [team:]\nстановятся всё лучше и лучше...
++++
+But I\'m surely not giving up, by golly!
+Но, ей-богу, я не сдамся!
++++
+I\'ll do the best I can to get picked for the\nexpedition, yup yup!
+Я сделаю всё возможное, чтобы меня\nвзяли в экспедицию, да-да!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 6: Gas Attack!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 6: Газовая Атака!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Something was sure a surprise the other day!
+На днях кое-что для меня стало\nнеожиданностью!
++++
+I was checking out the Outlaw Notice Board,\nwhen it suddenly stank like rotten sulfur!
+Я просматривал Доску Разыскиваемых, и\nи внезапно учуял вонь, словно рядом\nчто-то сгнило!
++++
+But then everyone turned and looked at me like\nI had something to do with it, by golly!
+После чего все повернулись и посмотрели\nна меня так, словно я в чём-то виноват,\nей-богу!
++++
+I swear! I really had nothing to do with that\nawful stink, by golly!
+Я клянусь! Я совершенно никак не связан\nс этой вонью, ей-богу!
++++
+I know I\'ve been guilty in the past, like that\ntime in my room once...
+Знаю, бывали со мной курьёзы, как тогда,\nв моей комнате...
++++
+then twice in the Mess Hall, and once in\nthe Guildmaster\'s quarters, but...
+и дважды в Обеденном Зале, и один раз\nв комнате Гильдмастера, но...
++++
+By golly, I surely am not guilty of anything\nthis time, I swear!
+Ей-богу, клянусь, на этот раз, это\nсовершенно не моя вина! 
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 5: Moves Are Awesome!\n[CN]OO Month XX Day, Sunny
+[CN]Да-Да Дневник [CS:N]Бидуфа[CR]\n[CN]Запись 5: Приёмы Классные!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Well, seems there\'s another thing I was\nclueless about!
+Что-ж, есть ещё что-то, о чё я даже не\nподозревал!
++++
+When you use moves instead of regular attacks\nto defeat an enemy, you get more Exp. Points.\nDid everyone know that but me?
+Если применять приёмы вместо обычных\nударов, то при победе над врагом, можно\nполучить больше Опыта. Кто знал об этом?
++++
+I didn\'t know that! But there\'s more!
+Вот я не знал! Но это ещё не всё!
++++
+You need to hit the foe only once with a move.
+Попасть по врагу приёмом нужно только\nодин раз.
++++
+Other than that one move, you can strike it\nwith regular attacks. And you still get the\nboosted Exp. Points. How about that, by golly?
+Попав приёмом, можно добивать обычными\nударами. После победы, ты всё равно\nполучишь больше Очков Опыта.[C]Ей-богу, как тебе такое?
++++
+Moves also have higher critical-hit rates than\nthe regular attack. So you\'re cheating yourself\nif you\'re not using moves!
+У приёмов также больше шанс нанесения\nкритического удара, чем у обычной\nатаки. Грех таким не воспользоваться!
++++
+I\'ll be using more moves! Starting tomorrow!\nYup yup!
+С завтрашнего дня, я буду использовать\nбольше приёмов! Да-да!
++++
+P.S. So... I did exactly what I promised I\nwould! I used lots of moves while exploring!
+П.С. И... Я сделал в точности, как и\nобещал! Я применил множество приёмов во\nвремя вылазки!
++++
+But I used my moves so often that I ran out\nof PP for my moves almost right away...
+Но я так часто их использовал, что у\nменя быстро закончились ОС...
++++
+Oof...[K] Exploring is never as easy as it looks,\nI reckon.
+Уф...[K] Полагаю, исследовать сложнее чем\nкажется.
++++
+Ignore it
+Игнорировать
++++
+--- ---
+G01P09A/enter04.ssb
+--- --- 
+[CN]Something is written here...
+[CN]Здесь что-то написано...
++++
+[CN]This is [CS:N]Sunflora[CR]\'s diary.\n[CN]Should we sneak a peek?
+[CN]Это дневник [CS:N]Санфлоры[CR].\n[CN]Заглянуть в него?
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Episode 26: Thank You!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Эпизод 26: Спасибо!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! Yippee-yay-yay!\nOur [hero] and [partner] are back!\nBack in Treasure Town!
+О боже мой! Ура-ура-ура!\n[hero] и [partner] вернулись!\nВернулись в Город Сокровищ!
++++
+They defeated [CS:N]Darkrai[CR]![K] And they\'re back safe!
+Они одолели [CS:N]Даркрая[CR]![K] И вернулись\nв целости и сохранности!
++++
+Thank you, [hero] and [partner]!\nVery, very sincerely!
+[hero] и [partner]! Очень и очень\nискренно говорю вам! Спасибо!
++++
+From the bottom of my heart, I\'m filled with a\ndeep sense of gratitude.
+Я переполняюсь чувством глубочайшей\nблагодарности.
++++
+You two so bravely saved the world, not once,\nbut twice!
+Вы двое так храбро спасли мир, и не один\nраз, а дважды!
++++
+When I think back to when you first joined the\nguild...[K]you two were just the cutest!
+То время, когда вы впервые вступили в\nгильдию...[K]вы двое, были такими\nочаровательными!
++++
+But now you\'ve grown to be so capable and\nconfident.
+Но сейчас, вы стали такими способными\nи уверенными.
++++
+...[K]Oh my gosh! This must be what a mother\nfeels like watching her children grow!
+...[K]О боже мой! Должно быть, так себя\nчувствует мать, когда видит, как растут\nеё дети!
++++
+Oh my gosh! I feel horrified about writing\nthat![K] Anyway...
+О боже мой! Я чувствую ужас от того,\nчто пишу это![K] В общем...
++++
+Oh, [hero] and [partner]! Don\'t ever\nchange, my good friends!
+О, [hero] и [partner]!\nНе меняйтесь никогда, мои хорошие друзья!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 25: [CS:N]Darkrai[CR]\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 25: [CS:N]Даркрай[CR]\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Yippee! Oh my gosh! Little [CS:N]Azurill[CR]...[K]\nLittle [CS:N]Azurill[CR] has awoken from his nightmare!
+Урааа! О боже мой! Малютка [CS:N]Азурилл[CR]...[K]\nМалютка [CS:N]Азурилл[CR] пробудился от кошмара!
++++
+Ooh, this is so wonderful! Yippee![K] [CS:N]Cresselia[CR]\nmust be thanked properly for this!
+Ооо, это так чудесно! Ураа![K] Нужно\nхорошенько отблагодарить [CS:N]Кресселию[CR] за\nпомощь!
++++
+We also owe [CS:N]Cresselia[CR] for telling us how\neverything bad that happened came to be...\nEven the destruction of time.
+Мы также обязаны [CS:N]Кресселии[CR] за то, что\nмы узнали как всё плохое происходило...\nДаже уничтожение времени.
++++
+We were shocked to learn that it was all the\ndoing of one Pokémon... The one called [CS:N]Darkrai[CR].
+Мы были в шоке от того, что узнали, что\nвсё это происходило из-за одного\nПокемона... [CS:N]Даркрая[CR].
++++
+Now [hero] and [partner] are on\ntheir way to confront [CS:N]Darkrai[CR].
+Сейчас, [hero] и [partner] идут\nсражаться с [CS:N]Даркраем[CR].
++++
+Good luck, [hero] and [partner]!
+Удачи, [hero] и [partner]!
++++
+Please win! And please come back safe!
+Прошу, одолейте его! И прошу, вернитесь\nдомой живыми!
++++
+Go for it, Team [team:]!
+Вперёд, Команда [team:]!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 24: Nightmare! Eek!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 24: Кошмар! Иии!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+It was so peaceful for a while...[K] But now\nthere has been a sinister incident.
+Всё было так спокойно...[K] Но недавно\nпроизошёл жуткий случай.
++++
+Little [CS:N]Azurill[CR] seems to be stuck in a nightmare\nthat he can\'t wake from.
+Похоже, малютка [CS:N]Азурилл[CR] застрял в\nкошмаре, из которого он не может\nпроснуться
++++
+Oh my gosh! How is that possible?!
+О боже мой! Как это возможно?!
++++
+For the time being, Team [team:] has\ngone off in search of a Pokémon named\n[CS:N]Drowzee[CR].
+Команда [team:] отправилась на\nпоиски Покемона [CS:N]Дроузи[CR].
++++
+Apparently, [CS:N]Drowzee[CR] can go into the dreams of\nothers...[K] It would be wonderful if little [CS:N]Azurill[CR]\ncan be awoken that way.
+Судя по всему, [CS:N]Дроузи[CR] способен проникать\nв чужие сновидения...[K] Было бы чудесно,\nесли [CS:N]Азурилла[CR] можно так разбудить.
++++
+P.S. Oh my gosh, I don\'t really want to even\nwrite anything like this, but...
+П.С. О боже мой, я не хочу даже писать\nтакое, но...
++++
+Maybe... Well, lately... Maybe only because it\'s\nbeen so peaceful for so long... But...
+Возможно... Ну, с недавних пор... Может,\nэто только потому, что всё было мирно\nстоль долгое время... Но...
++++
+I can\'t get over this creepy feeling that\nsomething dreadful is going to happen...
+Я всё никак не могу отделаться от этого\nстранного чувства, что скоро произойдёт\nчто-то ужасное...
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 23: Thunderstorm! Eek!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 23: Гроза! Иии!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+...It\'s always sunny.
+...Обычно светит солнце.
++++
+The weather has been nice for a long\ntime now.
+Погода уже давно стоит хорошая.
++++
+It sure keeps me feeling perky![K] I wish the\nweather would stay sunny like this.
+Это определенно поднимает мне настроение![K]\nХотела бы я, чтобы погода всегда была\nтакой солнечной.
++++
+But, oh my gosh, everyone is saying there\'s a\nstorm coming...
+Но, о боже мой, все только и твердят о\nприближающейся грозе...
++++
+I guess that a Pokémon named [CS:N]Swampert[CR]\nsensed a storm coming and told everyone...
+Полагаю, что Покемон [CS:N]Свамперт[CR] почуял\nнадвигающуюся грозу и рассказал всем об\nэтом...
++++
+That\'s all fine and well, but...[K]I...[K]get spooked by\nthunder...
+Всё бы ничего, но...[K] Я...[K] Боюсь грозу...
++++
+The instant it thunders...[K] Eeeeek!
+В момент грозы...[K] Иииии!
++++
+Oooh, just as I wrote that! Eeeeek![K] Thunder!
+Оох, прямо во время письма! Ииии![K] Гроза!
++++
+...Oh! Actually, it was only [CS:N]Chimecho[CR] ringing\nher bell beside me...
+...Ой! Нет, это всего лишь [CS:N]Чаймеко[CR],\nпозвонила своим колокольчиком позади\nменя...
++++
+Oh my gosh! She startled me!
+О боже мой! Как она меня напугала!
++++
+That [CS:N]Chimecho[CR] is more mischievous than she\nlooks! Oh my gosh!
+Эта [CS:N]Чаймеко[CR] куда более озорная, чем\nможно подумать! О боже мой!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 22: Yippee! Team [CS:X]Charm[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 22: Ура! Команда [CS:X]Шарм[CR]!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! What an exciting day it was!
+О боже мой! Какой же сегодня был\nзахватывающий день!
++++
+Everyone\'s favorite celebrities, the women of\nTeam [CS:X]Charm[CR], came to our guild! Oh my gosh!
+Всеми любимые знаменитости, девушки из\nКоманды [CS:X]Шарм[CR], прибыли в нашу гильдию!\nО боже мой!
++++
+Yippee![K]\nYippee![K]\nYip-yip-yippeeeeee...
+Урааа![K]\nУраааа![K]\nУра-ура-урааааааа...
++++
+...[K]Oh![K] Where?[K] Oh my gosh! Where am I?!
+...[K]Ой![K] Где?[K] О боже мой! Где я?!
++++
+...[K]Oh, I see now...
+...[K]Ох, теперь ясно...
++++
+Oh my gosh! I just fainted from being so\nexcited!
+О боже мой! Я потеряла сознание от\nвосхищения!
++++
+Oh...! [CS:N]Chimecho[CR] is looking at me all puzzled![K]\nOh my gosh! This just won\'t do!
+Ой!.. [CS:N]Чаймеко[CR] смотрит на меня с\nнедоумением![K] О боже мой! Так не пойдет!
++++
+Um, anyway, the women of Team [CS:X]Charm[CR] came\ncalling on our guild for an oh-my-gosh kind of\nreason.
+Эм, в общем, девушки из Команды [CS:X]Шарм[CR]\nпришли в нашу гильдию по о-боже-мой\nкакой причине.
++++
+Turns out they\'re old friends of our\nGuildmaster. Wow![K] Oh my gosh, our\nGuildmaster is special!
+Оказывается, они давние друзья нашего\nГильдмастера. Ого![K] О боже мой, наш\nГильдмастер не так то прост!
++++
+I feel lucky that I\'ve stayed with the guild to\nfurther my training.
+Мне повезло, что я осталась в гильдии,\nчтобы тренироваться дальше.
++++
+Oh...! [CS:N]Chimecho[CR] is eyeing me curiously. I can\'t\nwrite like this, oh my gosh!
+Ой!.. На меня глазеет любопытная [CS:N]Чаймеко[CR].\nО боже мой, я не могу так писать!
++++
+So that\'s all for tonight! Good night!
+Тогда, на сегодня всё! Доброй ночи!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 21: Bidding Farewell\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 21: Прощание!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Baby [CS:N]Manaphy[CR] went back to the sea...
+Малыш [CS:N]Манафи[CR] отправился в море...
++++
+Poor [hero] and [partner] must be\ncrushed by this...
+[hero] и [partner] должно быть,\nраздавлены этим...
++++
+I feel terrible for them...
+Мне ужасно жаль их...
++++
+But... This is exactly the time we must be\ncheerful around them to uplift their spirits!
+Но... Сейчас самое время быть навеселе,\nчтобы их подбодрить!
++++
+When I see [hero] and [partner]\ntomorrow, I\'ll have to greet them with a big\nsmile!
+Если [hero] и [partner] мне завтра\nвстретятся, нужно будет им широко\nулыбнуться!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 20: Worries...\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 20: Переживания...\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+I heard that baby [CS:N]Manaphy[CR] has fallen sick...[K]\nThis worries me so much!
+Я узнала, что малыш [CS:N]Манафи[CR] заболел...[K]\nЭто меня очень беспокоит!
++++
+[CS:N]Corphish[CR] blurted out, \"Hey, hey! That baby\n[CS:N]Manaphy[CR] is probably a Pokémon that can only\ngrow up in the sea, hey, hey!\"
+[CS:N]Корфиш[CR] выпалил: \"Эй, эй! Этот малыш\n[CS:N]Манафи[CR], возможно, Покемон, который может\nрасти только в море, эй, эй!\"
++++
+I wanted to ask [CS:N]Corphish[CR], \"Then, why aren\'t\nyou in the water all the time?\"
+Я хотела спросить [CS:N]Корфиша[CR]: \"Но, в таком\nслучае, почему ты все время не плаваешь\nв воде?\"
++++
+But, oh my gosh, it wasn\'t the sort of thing to\nbring up just then!
+Но, о боже мой, тогда это была бы не\nсамая удачная фраза!
++++
+Please get better soon, [CS:N]Manaphy[CR]!
+Поправляйся, [CS:N]Манафи[CR]!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 19: Beaten to the Punch\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 19: Меня Опередили!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! Team [team:] has already\nexplored the [CS:P]Surrounded Sea[CR] through and\nthrough!
+О боже мой! Команда  [team:] уже\nполностью исследовала [CS:P]Закрытое Море[CR]!
++++
+Eeeek! They\'ve beaten me to the punch!
+Ииии! Они меня опередили!
++++
+Being free associates of the guild gives those\nkids an advantage, though. They\'re free to\ngo wherever and whenever they want.
+То, что они являются свободными\nпредставителями гильдии, несомненно\nбольшое преимущество. Они могут идти[C]куда им вздумается.
++++
+As opposed to me with my guild work. I can\'t\nfind time like they can...
+Со всей этой гильдейской работой, я так\nпоступить не могу. У меня нет столько\nсвободного времени...
++++
+Eek! I don\'t like writing this![K] It\'s all so whiny\nand self-pitying. Oh my gosh!
+Иии! Мне не нравится так писать![K] Всё\nзвучит плаксиво и жалостливо. О боже мой!
++++
+I don\'t remember turning into this loathsome\ncharacter![K] Oh my gosh! What am I to do?\nWhat am I to do?!
+Когда это я превратилась в такого\nотвратительного персонажа!?[K] О боже мой!\nЧто мне делать? Что же мне делать?!
++++
+P.S. That [hero]\'s team brought back a\ntiny baby from the [CS:P]Surrounded Sea[CR].
+П.С. Вместе с [hero] из [CS:P]Закрытого\nМоря[CR] также прибыл и крохотный малыш.
++++
+Oh my gosh! He\'s so mysterious! And so\nadorable! Yippee!
+О боже мой! Он такой загадочный! И такой\nмиленький! Уиии!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 18: The [CS:P]Surrounded Sea[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 18: [CS:P]Закрытое Море[CR]!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! I heard a fantastic rumor!
+О боже мой! Я услышала фантастический\nслух!
++++
+A rumor about a place called the [CS:P]Surrounded\nSea[CR]! Eek!
+Слух о месте под названием [CS:P]Закрытое\nМоре[CR]! Иии!
++++
+What treasures would one find at a place like\nthat...?
+Что за сокровища можно найти в таком\nместе?..
++++
+Oh my gosh! Yippee! I want to go there!
+О боже мой! Ураааа! Я хочу пойти туда!
++++
+I want to go so much, I feel like I\'m going to\nfaint just from writing about it!
+Я так хочу туда пойти, кажется, я сейчас\nупаду без чувств, пока пишу эти строки!
++++
+I think I will find time between my guild jobs\nand go! Oh my gosh! Yes, I will!
+Я думаю, что найду время между моими\nгильдейскими заданиями и пойду туда!\nО боже мой! Да, так и сделаю!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 17: Yay! Graduation!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 17: Ура! Выпускной!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+They did it!
+Они это сделали!
++++
+Those kids made it through the graduation\nexam!
+Эти дети смогли пройти выпускной экзамен!
++++
+Oh my gosh! The members of Team\n[team:] were so adorable when they\njoined the guild...[K] Now they\'re authorities!
+О боже мой! Члены Команды [team:]\nбыли таким очаровательными, когда они\nтолько присоединились к гильдии...[C]Теперь, они уважаемы!
++++
+It\'s sad that they\'re leaving the guild...[K]\nBut Sharpedo Bluff is very close by. I can\nvisit them anytime.
+Жаль, что они покидают гильдию...[K]\nВпрочем, Мыс Шарпедо не так уж и далеко.\nЯ могу навещать их в любое время.
++++
+So [hero] and [partner]...\nCongratulations!
+[hero] и [partner]...\nМои поздравления!
++++
+Do visit us at the guild even after you\ngraduate!
+Навещайте нас в гильдии, даже после\nвашего выпуска!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 16: Graduation Exam\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 16: Выпускной Экзамен\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Team [team:] has been chosen to take the\ngraduation exam.
+Команда [team:] будет проходить\nвыпускной экзамен.
++++
+But graduation...[K] Oh my gosh! I remember\nwhen they asked me if I wanted to take it...
+Но выпускной...[K] О боже мой! Я помню,\nкогда меня спросили, хочу ли я пройти\nэкзамен...
++++
+At the time, I refused because I wanted to\ntrain some more at the guild.
+В то время, я отказалась от этого,\nпотому что я хотела потренироваться\nв гильдии побольше.
++++
+Last year, [CS:N]Loudred[CR] took the exam... Of course,\nhe failed in spectacular fashion...
+В прошлом году, [CS:N]Лаудред[CR] попытался пройти\nэкзамен... Конечно же, он с треском\nпровалил его...
++++
+But those kids can make it! I\'m sure of it! Eek!
+Но эти дети справятся! Я уверена в этом!\nИии!
++++
+I\'ll be cheering for them!
+Я буду за них болеть!
++++
+P.S. It\'s that time of year again! The season\nof the grand master of all things bad![K] Yippee!
+П.С. Снова пришло это время! Момент,\nкогда появляется великий владыка всего\nсамого плохого![K] Урааа!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 15: They\'re Saving Us!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 15: Они Спасают Нас!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Our future is in the hands of those two kids.
+Наше будущее в лапах этих двух детей.
++++
+But I\'m convinced that those kids will not fail\nto stop the planet\'s paralysis.
+Но я уверена, что эти дети смогут\nостановить паралич планеты.
++++
+That [hero] and [partner]! Oh, but\ndon\'t forget [CS:N]Lapras[CR] and [CS:N]Grovyle[CR] too!
+[hero] и [partner]! О, и не стоит\nзабывать о [CS:N]Лапрасе[CR] и [CS:N]Гровайле[CR]!
++++
+You can\'t fail us!
+Вы нас не подведёте!
++++
+I hope you all come back safe and sound to\nTreasure Town. Soon!
+Я надеюсь, что вы все вернётесь в Город\nСокровищ в целости и сохранности!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 14: Welcome Back!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 14: С Возвращением!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! Yippee! What a shock!
+О боже мой! Урааа! Какое потрясение!
++++
+It\'s totally amazing! Team [team:] came\nback![K] From the future! Oh my gosh!
+Это просто потрясающе! Команда\n[team:] вернулась![K] Из будущего!\nО боже мой!
++++
+It was such an amazing thing! Yippee!
+Это так поразительно! Урааа!
++++
+We were even more amazed by [partner]\'s\naccount of it all. Oh my gosh!
+Но то, что рассказывает [partner]\nпро всё это, поразило нас ещё больше!\nО боже мой!
++++
+But if those kids said it, then it must be true.
+Но, если так сказали эти дети, то,\nскорее всего, это правда.
++++
+I choose to believe the kids.
+Я верю детям.
++++
+Oh![K] Then does that mean...
+О![K] Но тогда это значит...
++++
+That the great [CS:N]Dusknoir[CR], who I revere...[K]is\nactually a bad Pokémon?!
+Что великий [CS:N]Даскнуар[CR], которого я так\nуважала...[K]на самом деле плохой Покемон?!
++++
+Oh my gosh...[K] A bad Pokémon?!
+О боже мой...[K] Плохой Покемон?!
++++
+What should I do?! What should I do?!
+Что мне делать?! Что же мне делать?!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 13: Those Kids...\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 13: Эти Дети...\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Everyone, including myself, is down in the\ndumps at the guild.
+Все в гильдии и я в том числе, жутко\nподавлены.
++++
+I thought about why the guild is lacking energy\nlately... The answer is easy.
+Я думала о том, почему гильдии не\nхватает энергичности... Ответ прост.
++++
+It\'s because...[K]Team [team:] is missing.
+Всё потому...[K] Что Команда [team:]\nисчезла.
++++
+I didn\'t realize how lonely it would be without\nTeam [team:]...
+Я вовсе не осознавала, как нам будет\nодиноко без Команды [team:]...
++++
+[CS:N]Chatot[CR] has been very ill tempered lately and\nprone to annoying outbursts...[K] But that\'s also\nbecause he misses those kids.
+С недавних пор, [CS:N]Чатот[CR] стал очень\nраздражительным и часто не сдерживает\nсебя...[C]Это оттого, что он тоже скучает по этим\nдетям.
++++
+Oh, I hope they\'re safe... Those kids...
+Ох, я надеюсь, что они в порядке...\nЭти дети...
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 12: Total Shocker!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 12: Какой Кошмар!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! It\'s been one shocking thing after\nanother lately!
+О боже мой! В последнее время, друг за\nдругом, происходят шокирующие вещи!
++++
+It turns out that [CS:N]Grovyle[CR] is a wanted outlaw\non the run from (oh my gosh!) the future.
+Оказывается, что [CS:N]Гровайл[CR] - разыскиваемый\nнегодяй, сбежавший из (о боже мой!)\nбудущего.
++++
+And [CS:N]Dusknoir[CR] also came from the future\nto catch that [CS:N]Grovyle[CR]! Eek!
+И [CS:N]Даскнуар[CR] тоже прибыл из будущего,\nчтобы поймать [CS:N]Гровайла[CR]! Иии!
++++
+There have been so many unbelievable events!\nIt\'s like I\'m in a perpetual state of shock!\nOh...my...gosh!
+Произошло столько невероятных событий!\nЯ словно в состоянии постоянного\nпотрясения! О...боже...мой!
++++
+Anyway, [CS:N]Dusknoir[CR] vowed to catch [CS:N]Grovyle[CR]\non his own.
+В общем, [CS:N]Даскнуар[CR] поклялся поймать\n[CS:N]Гровайла[CR] своими собственными руками.
++++
+I\'m sure the great [CS:N]Dusknoir[CR] will honor his\npledge, so [CS:N]Grovyle[CR] will be caught.
+Я уверена, что великий [CS:N]Даскнуар[CR] исполнит\nсвою клятву и поймает [CS:N]Гровайла[CR].
++++
+We have to leave everything up to [CS:N]Dusknoir[CR].
+Нам нужно довериться [CS:N]Даскнуару[CR].
++++
+Good luck, [CS:N]Dusknoir[CR]!
+Удачи, [CS:N]Даскнуар[CR]!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 11: Where\'s [CS:N]Grovyle[CR]?\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 11: Где же [CS:N]Гровайл[CR]?\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+The whole guild is now searching for that\nthieving [CS:N]Grovyle[CR].
+Вся гильдия теперь ищет этого вора\n[CS:N]Гровайла[CR].
++++
+[CS:N]Bidoof[CR], [CS:N]Dugtrio[CR], and I searched [CS:P]Crystal Cave[CR].
+[CS:N]Бидуф[CR], [CS:N]Дагтрио[CR] и я обыскали [CS:P]Кристальную\nПещеру[CR].
++++
+But our search turned up nothing.
+Но наши поиски ни к чему не привели.
++++
+"Where could that [CS:N]Grovyle[CR] be...?
+Где же [CS:N]Гровайл[CR]?..
++++
+But he must be caught, no matter what!
+Но, несмотря ни на что, его нужно\nпоймать!
++++
+For [CS:N]Uxie[CR]\'s sake too, we\'ll catch that criminal!
+Мы поймаем этого негодяя, в том числе\nи ради [CS:N]Юкси[CR]!
++++
+P.S. That silly [CS:N]Bidoof[CR]...[K] Oh my gosh, he was\nno help looking for [CS:N]Grovyle[CR]...
+П.С. Этот глупый [CS:N]Бидуф[CR]... О боже мой,\nон совершенно не помогал искать\n[CS:N]Гровайла[CR]...
++++
+Not only that, he even brought home a crystal\nas a souvenir! Eeek!
+Мало того, он ещё и притащил домой\nкристалл в качестве трофея! Иии!
++++
+That reminds me...[K] When we were leaving\n[CS:P]Crystal Cave[CR], I caught [CS:N]Bidoof[CR] grinning to\nhimself...
+Я вспомнила... Когда мы покидали\n[CS:P]Кристальную Пещеру[CR], я увидела, как [CS:N]Бидуф[CR]\nухмыляется про себя...
++++
+Now that I think about it... Oh my gosh, that\nwas him grinning about that crystal!
+Теперь, подумав ещё раз... О боже мой,\nон тогда ухмылялся тому, что ему удалось\nстащить этот кристалл!
++++
+Oh my gosh, I never suspected [CS:N]Bidoof[CR] could\nleer in such an icky way! Eek!
+О боже мой, я и не подозревала, что\n[CS:N]Бидуф[CR] может ухмыляться таким мерзким\nобразом! Иии!
++++
+It\'s another new discovery! Eek!
+Вот так открытие! Иии!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 10: Oh My Gosh! [CS:N]Dusknoir[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 10: О Боже Мой! [CS:N]Даскнуар[CR]!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh oh my gosh oh my gosh!\nThe famous [CS:N]Dusknoir[CR] came to our guild!\nYippee!
+О боже мой о боже мой о боже мой!\nЗнаменитый [CS:N]Даскнуар[CR] прибыл в нашу\nгильдию! Ураааа!
++++
+And...and...and...! He plans to stay in Treasure\nTown for a while! Yippee!
+И...и...и!.. Он хочет ненадолго побыть\nв Городе Сокровищ! Урааа!
++++
+I got to talk to him! He\'s wise! And courteous!\nAnd handsome! And oh my gosh...[K]yippee!
+Мне нужно с ним поговорить! Он мудрый!\nИ учтивый! И красивый! И о боже мой...[K]\nУрааа!
++++
+Yip-yip-yippee! That\'s what it feels like!
+У-у-ураааа! Вот что я чувствую!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 9: Back Home!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 9: Снова Дома!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+We just got back from our expedition now!\nOh my gosh! Am I exhausted!
+Мы только что вернулись из экспедиции!\nО боже мой! Как же я устала!
++++
+Ooh! This expedition left a big impression\non me in every way!
+Оох! Эта экспедиция поразила меня до\nсамого основания!
++++
+Especially the sight of [CS:P]Fogbound Lake[CR]...[K] Oh my\ngosh, it moved me in ways I can\'t express!
+Особенно поразил меня вид [CS:P]Затуманенного\nОзера[CR]...[K] О боже мой, это тронуло меня\nтак, что и словами не описать!
++++
+Oh! But if I write any more details, [CS:N]Uxie[CR] would\nbe so upset. And that wouldn\'t be good! Eek!
+Ой! Но, если я напишу об этом месте\nподробнее, [CS:N]Юкси[CR] очень расстроится. Это\nбыло бы не очень хорошо! Иии!
++++
+This was the best of all the expeditions I\'ve\nattended!
+Это была самая лучшая экспедиция, в\nкоторой я когда-либо учавствовала!
++++
+Ooh, I hope I can go with everyone again\nsometime!
+Оох, надеюсь, когда-нибудь я снова пойду\nтуда вместе со всеми!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 8: Inspiration!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 8: Воодушевление!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! Something happened that was\ntotally uplifting!
+О боже мой! Произошло кое-что очень\nвоодушевляющее!
++++
+Tonight, Team [team:] had to go without\ndinner for some silly reason...
+Сегодня, Команда [team:] ушла спать\nбез ужина по какой-то совершенно глупой\nпричине...
++++
+While we were eating (oh my gosh!), [CS:N]Bidoof[CR]\nwas leaving a part of his dinner untouched!
+Пока мы все ели (о боже мой!), [CS:N]Бидуф[CR]\nоставил часть своего ужина нетронутой!
++++
+And this is [CS:N]Bidoof[CR], right? The one we call the\n\"bottomless barrel\" because of his big appetite!
+Тот самый [CS:N]Бидуф[CR], да? Тот, кого мы\nназываем \"бездонной бочкой\", потому\nчто он ест как не в себя!
++++
+Whatever could have caused that?! Maybe he\'s\nheartbroken!
+Что могло заставить его так поступить?!\nВозможно, он очень огорчён!
++++
+Well, I guessed that at first. But then I\nfigured out what he was really doing.
+Ну, так я поначалу думала. Но затем,\nя поняла, что он на самом деле задумал.
++++
+He was leaving some of his dinner for\n[hero]\'s team.
+Он оставлял часть своего ужина для\nэтих двоих.
++++
+Then (oh my gosh!) the others noticed too.
+После чего, (о боже мой!) другие тоже\nподметили это.
++++
+So we all did what [CS:N]Bidoof[CR] was doing. We left\nbits and pieces of our dinner.[K] (Though [CS:N]Loudred[CR]\nagonized over the decision to the end.)
+Поэтому, мы сделали всё то-же, что и\n[CS:N]Бидуф[CR]. Мы не доели часть нашего ужина.[K]\n(Хотя [CS:N]Лаудред[CR] был против этого.)
++++
+Yippee! Everyone pitched in to help! How sweet\nof them! Oh my gosh, I am getting emotional!
+Урааа! Все захотели им помочь! Как это\nмило! О боже мой, я вся на эмоциях!
++++
+In the end, we decided to share the smaller\nthings ourselves and leave them with one\nwhole [CS:I]Apple[CR] each!
+В конце-концов, мы решили поделиться\nтем немногим, что было у нас, и дать\nим каждому целое [CS:I]Яблоко[CR]!
++++
+[CS:N]Chimecho[CR], [CS:N]Bidoof[CR], and I will keep those two\n[CS:I]Apples[CR] for the night.
+[CS:N]Чаймеко[CR], [CS:N]Бидуф[CR] и я прибережём эти два\n[CS:I]Яблока[CR].
++++
+Tomorrow morning, we\'ll give them to\nTeam [team:].
+Завтра утром мы дадим их Команде\n[team:].
++++
+They must be hungry now, but they have to\nendure it just a little longer...
+Сейчас они, должно быть, голодные, но\nим нужно продержаться ещё немножечко...
++++
+We all have to stick together and try to make\nit into the expedition party!
+Нам всем нужно держаться вместе и\nпопасть в экспедицию!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 7: A Rare Expedition\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 7: Особая Экспедиция\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+In the morning briefing, [CS:N]Chatot[CR] told us\nsomething that\'s worth a good scream. Eek!
+На утреннем построении [CS:N]Чатот[CR] сказал\nнам кое-что, из-за чего можно закричать.\nИии!
++++
+There\'s an expedition coming up! Yippee!
+Скоро мы отправимся в экспедицию! Урааа!
++++
+Oh my gosh! It\'s been simply ages since our\nlast one!
+О боже мой! Прошло уже столько времени\nс тех пор, как прошла наша последняя\nэкспедиция!
++++
+On our last expedition, we brought home simply\nmassive amounts of treasures!
+С последней экспедиции мы принесли\nдомой просто гигантское количество\nсокровищ!
++++
+We shared everything with everyone in\nTreasure Town. It was a happy, happy time!
+Мы разделили всё с жителями Города\nСокровищ. Какое это было счастливое,\nсчастливое время!
++++
+Oooh, the upcoming expedition should be fun!\nI wonder where we\'ll explore this time?
+Ооо, новая экспедиция будет весёлой!\nИнтересно, куда мы отправимся на этот\nраз?
++++
+My roommate [CS:N]Chimecho[CR] and I got all excited\nguessing about the destination!
+Я и моя соседка по комнате, [CS:N]Чаймеко[CR],\nвсё пытаемся угадать, куда мы отправимся!
++++
+Of course, I\'m going to do everything I can to\nbe picked for the expedition!
+Конечно же, я сделаю всё возможное,\nчтобы меня взяли в экспедицию!
++++
+Oooh, I\'m feeling motivated! Yippee!
+Ооох, я чувствую мотивацию! Урааа!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 6: Mystery!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 6: Загадка!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Something very mysterious happened at our\nguild the other day!
+Недавно в нашей гильдии случилось нечто\nочень загадочное!
++++
+We were in the guild when (oh my gosh!) the\nplace was stunk up by an atrocious stench!
+Мы находились в гильдии, когда (о боже\nмой!) в округе начало дурно пахнуть!
++++
+Oh my gosh! I\'d never experienced such a foul\ncloud of fumes. It was an eek-worthy moment!
+О боже мой! Никогда не ощущала такой\nужасающий запах. От этого можно было\nзакр-иии-чать!
++++
+But...everyone denied responsibility for it!
+Но... Никто ни в чём не признался!
++++
+But there\'s no fooling me! Oh my gosh, I know\nwhat I smelled, and there was no mistaking it!
+Но меня то не обманешь! О боже мой,\nя знаю, что я ощущала и ошибки в моём\nнюхе быть не может!
++++
+Eek, how mysteriously it crept upon us!
+Иии, как загадочно это настигло нас!
++++
+Who is the culprit?! Eek!
+Кто же виноват?! Иии!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 5: Types and Matchups\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 5: Типы и Сражения\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! I had a nasty scare the other day!
+О боже мой! Недавно я очень сильно\nнапугалась!
++++
+While exploring a dungeon, I was careless and\ntook a hit from a Fire-type move! Silly me!
+Исследуя подземелье, я потеряла\nосторожность и по мне попали Огненным\nприёмом! Какая я глупая!
++++
+I\'m a Grass type! So I ended up taking a lot of\ndamage! Eek!
+Я Травяного типа! И получила много\nурона! Иии!
++++
+I should really explain what all this is about.
+Наверное, нужно объяснить о чём это я.
++++
+As you know, Pokémon come in many types,\nlike Fire and Water.
+Как уже известно, у Покемонов есть\nмножество типов, вроде Огненного и\nВодного.
++++
+All moves have types too! The matchup\nbetween the attacking move\'s type and the\ndefending Pokémon\'s type affects damage!
+У всех приёмов тоже есть типы! Тип\nприёма атакующего и тип защищающегося\nПокемона важен и влияет на урон!
++++
+As a Grass type, I should really watch out for\nFire-type moves! Knowing how types match up\nis so important.
+Поскольку я Травяного типа, мне нужно\nостерегаться приёмов Огненного типа!\nЗнание эффективности типов очень важно.
++++
+P.S. When I got into trouble because of all\nthis...[K] It was [CS:N]Loudred[CR] who saved me.
+П.С. Когда я попала в эту неприятную\nситуацию...[K] Меня спас [CS:N]Лаудред[CR].
++++
+Thank you, [CS:N]Loudred[CR].
+Спасибо, [CS:N]Лаудред[CR].
++++
+That other time I yelled at him! I said, \"Oh my\ngosh, [CS:N]Loudred[CR]! I never want to go exploring\nwith you ever again!\"
+В другой раз я на него накричала: \"О боже\nмой, [CS:N]Лаудред[CR]! Я больше никогда не стану\nходить с тобой на вылазки!\"
++++
+But...eek! Am I ever sorry for saying that!\nI take back everything nasty I said!
+Но...иии! Я очень сожалею о том, что я\nтак сказала! Я забираю все свои грубые\nслова назад!
++++
+I wonder if he would go to a dungeon with me\never again?
+Интересно, будет ли он вообще ходить\nсо мной в подземелья?
++++
+I think I will go apologize to him sincerely\ntomorrow. Yes, that\'s what I will do.
+Думаю, нужно будет перед ним искренне\nизвиниться. Да, так и сделаю.
++++
+I\'m sorry, [CS:N]Loudred[CR]. I hope we can keep on\nbeing teammates.
+Прости меня, [CS:N]Лаудред[CR]. Надеюсь, мы ещё\nбудем исследовать вместе.
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 4: Exploration Basics\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 4: Основы Вылазок\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+I promised, and now I\'ll deliver! Here\'s my\nreport on exploring with [CS:N]Bidoof[CR]!
+Я обещала и вот, рассказываю! Вот то,\nкак прошла моя вылазка с [CS:N]Бидуфом[CR]!
++++
+Oh my gosh! I was amazed at how little [CS:N]Bidoof[CR]\nknew about exploring.
+О боже мой! Я так удивилась тому, что\n[CS:N]Бидуф[CR] знает так мало о вылазках.
++++
+An example! If an enemy stands beside you,\npushing [M:B5] will make you face it. Easy, right?
+Вот, к примеру! Если позади стоит враг,\nто если нажать на [M:B5], к нему можно\nразвернуться. Просто, не так ли?
++++
+He didn\'t even know that!
+Он об этом даже не знает!
++++
+But all he needed was a little coaching.[K] When I\ntaught him, [CS:N]Bidoof[CR] picked things up quickly.\nHe\'s not so bad after all! Oh my gosh!
+Но его нужно было лишь немного поучить.[K]\nЯ научила его и [CS:N]Бидуф[CR] быстро всё понял.\nНе так уж он и плох! О боже мой!
++++
+We got the job done too! ♪[K] Another fun day!
+Мы выполнили наще задание! ♪[K]\nВесёлый был день!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 3: Lovely Food!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 3: Чудесная Еда!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Tomorrow, I\'ll be off exploring with [CS:N]Bidoof[CR].
+Завтра я иду на вылазку с [CS:N]Бидуфом[CR].
++++
+That [CS:N]Bidoof[CR] is sure to wander needlessly, so\nI should stock up on lots of food.
+Этот [CS:N]Бидуф[CR] определённо будет бродить\nбез дела, поэтому мне стоит запастись\nедой.
++++
+Oh? Why do we need lots of food?
+О? Почему нам нужно много еды?
++++
+Well, as you move around in a dungeon, you\'ll\nget hungry as your Belly empties of food.
+Ну, перемещаясь по подземелью, можно\nбыстро проголодаться, поскольку Сытость\nбудет снижаться.
++++
+If your Belly gets empty, you\'ll get weaker and\nweaker...until you faint! Oh my gosh! Terrible!
+Если не быть Сытым, то ты станешь\nслабее и слабее...пока не потеряешь\nсознание! О боже мой! Ужасно!
++++
+[CS:N]Bidoof[CR] is a little short on experience, so I\'ll\nback him up.
+[CS:N]Бидуфу[CR] не хватает опыта, но я прикрою\nего.
++++
+P.S. I plan to write about how my exploration\nwent with [CS:N]Bidoof[CR]...
+П.С. Я планирую написать о том, как\nпройдёт моя вылазка с [CS:N]Бидуфом[CR]...
++++
+Now that should really be something to look\nforward to! Eek!
+Вот этого действительно стоит ждать с\nнетерпением! Иии!
++++
+...Which again makes me think that someone\nmay be peeking at my diary?
+...Интересно, что заставляет меня\nдумать, что кто-то читает мой дневник?
++++
+Oh my gosh! How horrifying!
+О боже мой! Как ужасно!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 2: That Silly [CS:N]Loudred[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 2: Этот Глупый [CS:N]Лаудред[CR]!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! That silly [CS:N]Loudred[CR]! Ooooh! He can\nbe so absentminded!
+О боже мой! Этот глупый [CS:N]Лаудред[CR]! Оооо!\nНевозможно быть таким рассеяным!
++++
+Everyone knows that if you get totally wiped\nout in a dungeon...you lose some items...and\nhalf your money!
+Всем известно, что если упасть без чувств\nв подземелье...то потеряешь некоторые\nпредметы...и половину своих денег!
++++
+But of course that silly [CS:N]Loudred[CR] forgets all\nthat and goes storming off into the dungeon...
+Но конечно же, этот глупый [CS:N]Лаудред[CR] обо\nвсём забыл и полез напролом...
++++
+And that wound up making us both wipe out!\nSo I got sent back to the guild too!
+И всё это кончилось тем, что мы оба\nпотеряли сознание! И очутились в гильдии!
++++
+Eek! So frustrating! Oh my gosh, I never, ever\nwant to go to a dungeon with [CS:N]Loudred[CR] again!
+Иии! Как раздражает! О боже мой, я\nбольше никогда, никогда не пойду с\n[CS:N]Лаудредом[CR] на вылазку в подземелье!
++++
+P.S. Two new kids joined the guild!
+П.С. В гильдию присоединились двое\nдетей-новичков!
++++
+I think they were called [partner] and\n[hero]...
+Кажется, их звали [partner] и\n[hero]...
++++
+Oh my gosh. They\'re both adorable. Yippee!
+О боже мой. Какие они очаровательные.\nУрааа!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 1: What a Scream!\n[CN]OO Month XX Day, Sunny
+[CN]\"О Боже Мой\" Дневник [CS:N]Санфлоры[CR]\n[CN]Запись 1: Вот Это Крик!\n[CN]День ХХ, Месяц ОО, Солнечная Погода
++++
+Oh my gosh! So glad to meet you! I\'m [CS:N]Sunflora[CR],\nan apprentice at the guild!
+О боже мой! Рада познакомиться!\nЯ - [CS:N]Санфлора[CR], ученица из гильдии!
++++
+Eek! But does this mean someone else is\nreading my diary besides me?!
+Иии! Но вдруг кто нибудь помимо меня\nчитает мой дневник?!
++++
+Double-eek! Is someone sneaking a peek?
+Дважды-иии! Кто сейчас читает это?
++++
+Oh my gosh! How horrifying! Eeek!
+О боже мой! Как ужасно! Ииии!
++++
+--- ---
+P01P01A/enter27.ssb
+--- ---
+[CN]- Assembly Post -\n[CN]For service, please ring bell!\n[CN]            -[CS:N]Chimecho[CR]
+[CN]- Сборный Столб -\n[CN]Для услуги, позвоните в колокольчик!\n[CN]            -[CS:N]Чаймеко[CR]
++++
+[CN]Ring the bell and\n[CN]summon [CS:N]Chimecho[CR]?
+[CN]Позвонить в колокольчик и вызвать\n[CN][CS:N]Чаймеко[CR]?
++++
+--- ---
+P01P01A/m00p1001.ssb
+--- ---
+ Did you call me, [hero]\nand [partner]?
+ Вы меня звали, [hero]\nи [partner]?
++++
+--- ---
+P01P01A/enter24.ssb
+--- ---
+[CN]↑ [CS:N]Wigglytuff[CR]\'s Guild\n[CN]← Treasure Town                Exploration →\n[CN]↓ Beach
+[CN]↑ Гильдия [CS:N]Виглитаффа[CR]\n[CN]← Город Сокровищ                Исследование →\n[CN]↓ Пляж
++++
+--- ---
+P01P01A/enter41.ssb 
+--- ---
+[CN]- [CS:K]Spinda[CR]\'s Café -\n[CN]-Shop of Hopes & Dreams-\n[CN]Opening Soon! Win Big!
+[CN]- Кафе [CS:K]Спинды[CR] -\n[CN]-Где Сбываются Надежды и Мечты-\n[CN]Скоро Открытие! Выиграйте по Крупному!
++++
+[CN]- [CS:K]Spinda[CR]\'s Café -\n[CN]-Shop of Hopes & Dreams-\n[CN]Win Big!
+[CN]- Кафе [CS:K]Спинды[CR] -\n[CN]-Где Сбываются Надежды и Мечты-\n[CN]Выиграйте по Крупному!
++++
+--- ---
+T01P01A/enter20.ssb
+--- ---
+[CN]\n[CN]Crossroads →
+[CN]\n[CN]Перекрёсток →
++++
+--- ---
+T01P01A/enter19.ssb 
+--- ---
+[CN]All Your Item Needs Fulfilled!\n[CN]← [CS:K]Kangaskhan[CR] Storage    [CS:K]Kecleon[CR] Market
+[CN]У нас есть всё, что вам нужно!\n[CN]                 ← Лавка [CS:K]Кеклеонов[CR]\n← [CS:K]Кангасхан[CR]-Хранилище
++++
+--- ---
+T01P02A/enter17.ssb
+--- ---
+[CN]Move Linking and\n[CN]Banking Services This Way →\n[CN][CS:K]Electivire[CR] Link Shop    [CS:K]Duskull[CR] Bank
+[CN]Связывание Приёмов\n[CN]и Банковские Услуги →\n[CN]Связь-Лавка [CS:K]Элективайра[CR]  Банк [CS:K]Даскалла[CR]
++++
+--- ---
+T01P02A/enter16.ssb
+--- ---
+[CN]\n[CN]← Sharpedo Bluff
+[CN]\n[CN]← Мыс Шарпедо
++++
+--- ---
+H01P99A/enter12.ssb
+--- ---
+[CN]\n[CN]Treasure Town →
+[CN]\n[CN]Город Сокровищ →
++++
+--- ---
+T01P01A/m00p0601.ssb
+--- ---
+ What was that? That tremor...
+ Что это было? Эта тряска...
++++
+ It sounded like...[K]it came from\ninside the dojo?
+ Звучало словно...[K]она\nначалась внутри додзё?
++++
+ It sounded as if...[K]it came from\ninside the dojo.
+ Звучало будто бы...[K]она\nначалась внутри додзё.
++++
+ Did it...[K]sound like it came from\ninside the dojo?
+ Она...[K] Началась в этом додзё?
++++
+ Let\'s go in and check it out,\n[hero]!
+ Идём, посмотрим, что там\nпроисходит, [hero]!
+ Let\'s go in, [hero]!
+ Зайдём туда, [hero]!
+--- ---
+T01P03A/m00p0602.ssb
+--- ---
+ Whoa! Check out that giant hole!
+ Ого! Ты только глянь на эту\nгигантскую дыру!
++++
+ Whoa! Look at that huge hole!
+ Ого! Взгляни на эту огромную\nдыру!
++++
+ Wow! A giant hole opened up!
+ Ого! Здесь гигантская дыра!
++++
+ What\'s going on here?
+ Что здесь происходит?
++++
+ What just happened here?
+ Что здесь случилось?
++++
+ What happened?
+ Что случилось?
++++
+ The wall just gave way!
+ And that big hole appeared\nwhere it was.
+ Come to think of it...[K] My grandpa\nmentioned this a long time ago…
+ Your grandpa?
+ Your grandpa?
+ Your grandfather?
+ Yeah.[K] You see, my grandpa built\nthis dojo originally.
+ And that same grandpa told me\nthere was a very dangerous cave here.
+ It was so dangerous...[K]he had\nthe hole sealed up so no one could get in.\nI remember that now.
+ Back then, my grandpa used to\ntell me about that hole. And he\'d never once\nfail to scare me silly…
+ ...![K] Y-you two... You\'re not...
+ You\'re not seriously considering\ngoing into that hole, are you?
+ Don\'t do it.[K] Don\'t even think\nabout it.
+ I... I can\'t guarantee that you\'ll\never come out of there…
+
+ Стена обрушилась!
+ И на её месте появилась эта\nдыра.
+ Если так подумать...[K] Мой\nдедуля о ней кое-что говорил...
+ Твой дедуля?
+ Твой дедуля?
+ Твой дедушка?
+ Да.[K] Видишь ли, тем, кто построил\nэто додзё, был мой дед.
+ И он же мне говорил, что тут\nесть одна очень опасная пещера.
+ Она настолько опасна...[K] Что\nему пришлось замуровать вход, чтобы в\nнеё никто не попал. Я помню это.
+ В давние времена дедуля часто\nрассказывал мне об этой дыре. И часто\nменя ей пугал...
+ !..[K] В-вы двое... Ведь не...
+ Вы ведь не собираетесь туда\nлезть, да?
+ Не делайте этого.[K] Даже не\nдумайте об этом.
+ Я... Я не могу гарантировать,\nчто вы выберетесь оттуда...
++++
+--- ---
+T01P03A/enter07.ssb
+--- ---
+ Welcome to [CS:K]Marowak[CR] Dojo.[K]\nTrain yourselves to become better explorers!
+Info
+ The entrance to the training\nmazes is up to the right.
+ I have to tell you one thing...[K]\nTraining mazes aren\'t like ordinary dungeons…
+ There\'s this icky part, you see.\nWhen you go in, you hand over everything\nthat\'s in your Treasure Bag.
+ To avoid losing the items in your\nTreasure Bag, put them in [CS:K]Kangaskhan[CR] Storage\nbefore you go in.
+ There\'s more![K] If you get KO\'d,\nyou don\'t lose the new money and items that\nyou found in the maze. You get to keep them!
+ There\'s no risk to you, so you\ncan go all out while you train.
+ Train all you want here to\ntoughen yourselves up, you two!
+ So welcome to [CS:K]Marowak[CR] Dojo![K]\nShow me how tough you are!
+Info
+Cancel
+Cancel
+ You\'ve done the impossible, you\ntwo! Defeating [CS:N]Darkrai[CR]...!
+ I didn\'t expect any less of you!\nAfter all, you\'re students of [CS:K]Marowak[CR] Dojo!
+ Oh?[K] You don\'t ever recall\nbecoming a student of this dojo?
+ ...[K]That\'s not important in the\ngrand scheme of things, is it? Ha!
+ I heard what\'s going on from\nthe others!
+ It\'s you two! There\'s no failure\nin either of you!
+ Go into battle with confidence!
+ Roooaaar!
+ I heard from the others about\nwhat you\'re up against.
+ Let me throw in what little\nsupport I can give!
+ Never give up, you two![K]\nDon\'t you dare lose!
+ Roooaaar!
+
+ Добро пожаловать в Додзё\n[CS:K]Маровака[CR].[K] Тренируйтесь, чтобы стать\nлучшими исследователями!
+Информация
+ Вход в тренировочные лабиринты\nнаходится справа.
+ Надо бы сказать одну вещь...[K]\nТренировочные лабиринты не совсем обычные\nподземелья...
+ Видите ли, есть подвох. Если\nвы туда пойдёте, вам придётся отдать всё,\nчто у вас есть в Сумке с Ценностями.
+ Чтобы избежать потери вещей,\nсперва уберите их в [CS:K]Кангасхан[CR]-Хранилище.
+ Однако![K] Если вы потеряете\nсознание, вы не потеряете полученные в\nлабиринте деньги и вещи. Они останутся!
+ Риска нет, поэтому во время\nтренировки можно выложиться по полной.
+ Тренируйтесь сколько угодно,\nчтобы стать сильнее!
+ И добро пожаловать в Додзё\n[CS:K]Маровака[CR]! Покажите, на что вы способны!
+Информация
+Отмена
+Отмена
+ Вы совершили невозможное!\nВы одолели [CS:N]Даркрая[CR]!..
+ Меньшего я от вас и не ждал!\nВ конце концов, вы ученики из Додзё\n[CS:K]Маровака[CR]!
+ А?[K] Вы не помните, чтобы\nзаписывались мне в ученики?
+ ...[K]Всё же в большем масштабе\nэто не так уж и важно, верно? Ха!
+ Я услышал от других недавние\nвести!
+ Вы, двое! Ни в одном из вас\nнет и следа отчания!
+ Идите в бой с уверенностью!
+ Ррррааааа!
+ Я услышал от других, с чем\nвам предстоит столкнуться.
+ Позвольте мне вас немножечко\nподдержать!
+ Никогда не сдавайтесь! Не\nсмейте проиграть!
+ Ррррааааа!
++++
+--- ---
+T01P03A/m00p0501.ssb
+--- ---
+ ...[K]V-[K]visitors...?
+ F-finally...[K] M-my...[K]\nfirst visitors!
+ Welcome to [CS:K]Marowak[CR] Dojo.[K]\nThis is my place! It\'s dedicated to the training\nof exploration teams!
+ The dojo went to rack and ruin,\nthen to a pile of rubble, but...[K]it has now\nrisen from the dust to its former glory!
+ But...[K]I haven\'t had any visitors…
+ There hasn\'t been even one.[K]\nIt saddened me to my very marrow...[K] But then!
+ Along came you two!
+ You are my first customers![K]\nFrom my very marrow, I\'m feeling overjoyed!
+ I don\'t even want money![K]\nKeep it! Just train here, that\'s all I ask!
+ There\'s the entrance to the\ntraining mazes.
+ I have to tell you one thing...[K]\nTraining mazes aren\'t like ordinary dungeons...
+ There\'s this icky part, you see.\nWhen you go in, you hand over everything\nthat\'s in your Treasure Bag.
+ To avoid losing the items in your\nTreasure Bag, put them in [CS:K]Kangaskhan[CR] Storage\nbefore you go in.
+ There\'s more![K] If you get KO\'d,\nyou don\'t lose the new money and items that\nyou found in the maze. You get to keep them!
+ There\'s no risk to you, so you\ncan go all out while you train.
+ So, yes, make me happy. Train\nyour team here.[K] How about it?
+
+ ...[K]П-[K]посетители?..
+ Н-наконец-то...[K] м-мои...[K]\nПервые посетители!
+ Добро пожаловать в Додзё\n[CS:K]Маровака[CR].[K] Я управляю этим местом! Оно\nсоздано для тренировок исследователей!
+ В додзё была разруха и\nбеспорядок, кругом щебень и доски, но...\nТеперь додзё работает как и прежде!
+ Но...[K] У меня не было ни одного\nпосетителя...
+ Никого не было.[K] Это печалило\nменя до глубины моего собственного\nчерепа...[K] Но наконец!
+ Вы пришли сюда!
+ Вы - мои первые посетители![K]\nОт всего сердца, я вне себя от радости!
+ Я даже денег с вас не возьму![K]\nОставьте их при себе! Просто тренируйтесь\nздесь, это всё, что мне нужно!
+ Вход в тренировочные лабиринты\nнаходится справа.
+ Надо бы сказать одну вещь...[K]\nТренировочные лабиринты не совсем обычные\nподземелья...
+ Видите ли, есть подвох. Если\nвы туда пойдёте, вам придётся отдать всё,\nчто у вас есть в Сумке с Ценностями.
+ Чтобы избежать потери вещей,\nсперва уберите их в [CS:K]Кангасхан[CR]-Хранилище.
+ Однако![K] Если вы потеряете\nсознание, вы не потеряете полученные в\nлабиринте деньги и вещи. Они останутся!
+ Риска нет, поэтому во время\nтренировки можно выложиться по полной.
+ Поэтому, да, осчастливьте\nменя. Тренируйтесь здесь.[K] Как вам такое\nпредложение?
+ +++
+--- ---
+T01P03A/m00p0901.ssb
+--- ---
+ Oh my![K] It\'s you again!
+ You\'ve made it through that\nterrible place again!
+ Frankly, what you\'ve managed to\ndo defies belief.[K] You\'re something else.
+ You\'re so exceptional that I...[K]\nI am inspired to be braver in all things![K]\nIt\'s all thanks to you!
+ I\'ll try harder![K] I expect you to\ndo the same.[K] We\'ll all try harder!
+ Oh my![K] It\'s you!
+ Finally...[K] Finally...[K] You finally\nconquered that awful place!
+ It\'s incredible![K] It\'s incredibly\nincredible!
+ Sniffle...[K] I\'m getting all\nemotional over this…
+ You\'ve managed to inspire\nsomeone like me...[K] Thank you so very much…
+ And this is my thanks...[K] It\'s my\nshow of gratitude!
+ It\'s my grandpa\'s treasure![K]\nTreat it with care!
+[CN] Fantastic! [hero] obtained a\n[CN][CS:I]Brown Bow[CR]!
+ If he were around to hear that\nan exploration team conquered that\nawful place…
+ Grandpa would have been\noverjoyed, that\'s for certain!
+ Oh![K] You\'ve completed it!
+ That\'s good work, you two!
+ But don\'t get too comfortable!\nTrain more! Become more powerful!
+ I\'ll try harder![K] I expect you to\ndo the same.[K] We\'ll all try harder!
+ Oh![K] You\'ve completed it, then!
+ Not just that...
+ You\'ve cleared all the training\nmazes![K] I\'m blazed and amazed!
+ Wow...[K] You\'ve stomped all over\nmy dojo!
+ For such a thorough stomping,\nyou deserve a trophy of sorts...[K] Take the\ndojo\'s sign...[K] No, that wouldn\'t do.
+ To begin with, the dojo doesn\'t\nhave a sign. Instead, I\'ll give you this!
+[CN] Excellent! [hero] obtained a\n[CN][CS:I]Joy Seed[CR]!
+ That\'s my personal treasure![K]\nYou\'re more than welcome to it!
+ But don\'t let this be the end!\nYou\'ll keep training here, won\'t you?
+ Ack![K] Couldn\'t get through…
+ Well, didn\'t I say?[K] You can only\nblame yourself for going to a place that awful.
+ You should learn from that and\nnever go back there!
+ Ack![K] You couldn\'t get through...
+ But one must try and try again\nin the face of failure…
+ That\'s how everyone grows up!
+ I\'ll try harder![K] I expect you to\ndo the same.[K] We\'ll all try harder!
+
+
+ Ого![K] Это снова вы!
+ Вы снова прошли это ужасное\nместо!
+ Честно, то что вам удалось\nсделать, не поддаётся осознанию.[K] Вы\nневероятны.
+ Вы настолько невероятны, что\nя...[K] Я хочу стать ещё храбрее![K] Всё\nблагодаря вам!
+ Буду стараться изо всех сил![K]\nОт вас я ожидаю того-же самого.[K] Мы все\nвыложимся на полную!
+ Ого! Это вы!
+ Наконец-то...[K] Наконец-то...[K]\nВы наконец-то одолели это ужасное место!
+ Это невероятно![K] Это невероятно\nневероятно!
+ Шмыг...[K] Что-то меня понесло...
+ Вы смогли воодушевить кого-то\nвроде меня...[K] Спасибо вам огромное...
+ И в знак благодарности...[K]\nЯ дам вам это!
+ Дедушкино сокровище![K] Берегите\nего!
+[CN]Фантастика! [hero] получает\n[CN][CS:I]Коричневый Бант[CR]!
+ Если бы дедушка слышал, что\nкоманде исследователей удалось пройти\nэто ужасное место...
+ Он бы плакал от радости, это\nточно!
+ О![K] Вы прошли лабиринт!
+ Вы хорошо справились!
+ Но не расслабляйтесь!\nТренируйтесь больше! Становитесь только\nсильнее!
+ Буду стараться изо всех сил![K]\nОт вас я ожидаю того-же самого.[K] Мы все\nвыложимся на полную!
+ О![K] Вы прошли лабиринт!
+ Но не только это...
+ Вы прошли все тренировочные\nлабиринты![K] Я потрясён и удивлён!
+ Вау...[K] Вы пронеслись по моему\nдодзё словно ураганом!
+ За такое ураганное прохождение\nвы заслуживаете какую-нибудь награду...[K]\nТабличку додзё...[K] Нет, так не пойдёт.
+ У додзё даже нет никаких\nтабличек. Вместо этого, я дам вам это!
+[CN]Чудесно! [hero] получает\n[CN][CS:I]Зерно Радости[CR]!
+ Это моё личное сокровище![K]\nВы его более чем достойны!
+ Но это ещё не конец! Вы ведь\nпродолжите здесь тренироваться, да?
+ Ай![K] У вас не вышло...
+ Ну, что я говорил?[K] То, что вы\nпошли в такое место, это только ваша\nответственность.
+ Больше никогда туда не\nходите!
+ Ай![K] У вас не вышло...
+ Но вам нужно пытаться снова\nи снова, даже если вас преследуют\nнеудачи... 
+ Так вы станете сильнее!
+ Буду стараться изо всех сил![K]\nОт вас я ожидаю того-же самого.[K] Мы все\nвыложимся на полную!
++++
+--- ---
+T01P03A/enter02.ssb
+--- ---
+[CN]There\'s a notice posted here.[K]\n[CN]Something\'s written on it…
+\"[CS:K]Marowak[CR] Dojo has collapsed.[K] But it will rise\nfrom the rubble again!\"
+\"Yes! The Dojo will be resurrected to its\nformer glory![K]\n          - [CS:K]Marowak[CR] Dojo\'s Sensei -\"
+\n[CN]Caution!
+[CN]If you enter here, all the items in\n[CN]your Treasure Bag will be lost.
+[CN]Will you enter, even though\n[CN]all your items will be lost?
+Yes
+No
+[CN]You should leave important items with\n[CN][CS:K]Kangaskhan[CR] Storage before coming here.
+
+[CN]Здесь повешена записка.[K]\n[CN]На ней что-то написано...
+\"Додзё [CS:K]Маровака[CR] разрушилось. Но скоро\nоно снова заработает!\"
+Да! Додзё засияет вновь![K]\n                 - Учитель [CS:K]Маровак[CR] -
+\n[CN]Внимание!
+[CN]Если вы сюда войдёте, вы потеряете все\n[CN]вещи, что у вас есть в Сумке с Ценностями.
+[CN]Войдете ли вы, даже если все ваши вещи\n[CN]будут потеряны?
+Да
+Нет
+[CN]Прежде чем сюда заходить, оставьте все\n[CN]важные вещи в [CS:K]Кангасхан[CR]-Хранилище.
++++
+ I\'d like to do some training at\n[CS:K]Marowak[CR] Dojo...
+ Я хочу потренироваться в\nДодзё [CS:K]Маровака[CR]...
++++
+ But if I do that, [CS:N]Haunter[CR] will\nget away!
+ Но если я это сделаю, [CS:N]Хонтер[CR]\nулизнёт от меня!
++++
+ I should hold off for now and go\ncatch [CS:N]Haunter[CR]!
+ Мне нужно сперва поймать\n[CS:N]Хонтера[CR]!
++++
+--- ---
+P01P04A/enter00.ssb
+--- ---
+ We made a wonderful discovery!
+ If we make a new discovery,\nwe\'ll make sure to let everyone know.
+ Please look forward to it!
+ Right here, right?
+ That\'s right!
+
+ Мы совершили удивительное\nоткрытие!
+ Если мы совершим ещё одно\nоткрытие, мы дадим всем знать.
+ Пожалуйста, следите за этим!
+ Здесь, да?
+ Верно!
+--- ---
+P01P04A/enter06.ssb
+--- ---
+ Added the [s_item:0]...
+ That\'s right!
+ Shake it this way...
+ Shake it that way...
+ And stir it all around...
+ And it\'s done!
+[CN]You can now go to\n[CN][CS:P]Serenity River[CR]!
+[CN]You can now go to\n[CN]the [CS:P]Lush Prairie[CR]!
+[CN]You can now go to\n[CN][CS:P]Happy Outlook[CR]!
+[CN]You can now go to\n[CN][CS:P]Mt. Mistral[CR]!
+[CN]You can now go to\n[CN][CS:P]Lost Wilderness[CR]!
+[CN]You can now go to\n[CN][CS:P]Destiny Tower[CR]!
+
+ Добавляю [s_item:0]...
+ Вот так!
+ Потрясти так...
+ Потрясти сяк...
+ Покружиться и...
+ Готово!
+[CN]Теперь вы можете отправиться к\n[CN][CS:P]Реке Безмятежности[CR]!
+[CN]Теперь вы можете отправиться в\n[CN][CS:P]Пышную Прерию[CR]!
+[CN]Теперь вы можете отправиться на\n[CN][CS:P]Мыс Счастья[CR]!
+[CN]Теперь вы можете отправиться на\n[CN][CS:P]Г. Мистраль[CR]!
+[CN]Теперь вы можете отправиться в\n[CN][CS:P]Затерянную Пустыню[CR]!
+[CN]Теперь вы можете отправиться в\n[CN][CS:P]Башню Судьбы[CR]!
++++
+--- ---

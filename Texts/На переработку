@@ -49266,7 +49266,7 @@ Suspend
 Delete
 ID:
 Ðïìôœéóû
-Âèÿóû Èàäàîéå
+Âèÿóûòÿ
 Ïóìïçéóû
 Ôäàìéóû
 ID:
@@ -49276,4 +49276,5531 @@ ID:
 +++
 To do a job, take it off [CS:C]Suspended[CR] status.
 Òîàœàìà ðñéíéóå [CS:C]Ïóìïçåîîïå[CR] Èàäàîéå.  
++++
+A-OK Mail
+SOS Mail
+Thank-You Mail
+Sort Jobs
+Job Bulletin Board
+Outlaw Notice Board
+ÏÓÂ-Ðéòûíï
+SOS-Ðéòûíï
+Áìàãïäàñîïòóû
+Òïñó. Èàäàîéÿ
+Äïòëà Ïáùÿâìåîéê
+Äïòëà Ñàèúòëéâàåíúö
++++
+Accepted Jobs
+Ðñéîÿóúå Èàäàîéÿ
++++
+Wonder Mail S
+Œôäï-Ðïœóà S
++++
+"[CN]You can't handle
+[CN]this job yet!"
+[CN]Âú ðïëà îå íïçåóå
+[CN]âèÿóû üóï èàäàîéå!
++++
+"[CN]You have previously
+[CN]accepted this job.
+[CN]It is not available."
+[CN]Âú ôçå ðñéîÿìé
+[CN]üóï èàäàîéå. Ïîï
+[CN]áïìûšå îåäïòóôðîï.
++++
+"[CN]You can't handle
+[CN]this job now!"
+[CN]Âú åþæ îå íïçåóå
+[CN]òðñàâéóûòÿ ò èàäàîéåí!
++++
+"[CN]That's odd! This job's location is
+[CN][dungeon:0].
+[CN]This appears to be outdated."
+[CN]Òóñàîîï! Íåòóï üóïãï èàäàîéÿ:
+[CN][dungeon:0].
+[CN]Áïìåå îåàëóôàìûîï.
++++
+"[CN]You have done this job
+[CN]already. You can't
+[CN]take the job again."
+[CN]Âú ôçå âúðïìîéìé üóï
+[CN]èàäàîéå. Åãï áïìûšå
+[CN]îåâïèíïçîï âèÿóû.
++++
+Normal Rank
+Bronze Rank
+Silver Rank
+Gold Rank
+Diamond Rank
+Super Rank
+Ultra Rank
+Hyper Rank
+Master Rank
+Master [M:S3] Rank
+Master [M:S3][M:S3] Rank
+Master [M:S3][M:S3][M:S3] Rank
+Guildmaster Rank
+Ïáúœîúê Ñàîã
+Áñïîèïâúê Ñàîã
+Òåñåáñÿîîúê Ñàîã
+Èïìïóïê Ñàîã
+Àìíàèîúê Ñàîã
+Òôðåñ Ñàîã
+Ôìûóñà Ñàîã
+Ãéðåñ Ñàîã
+Ñàîã Íàòóåñà
+Ñàîã Íàòóåñà [M:S3]
+Ñàîã Íàòóåñà [M:S3][M:S3]
+Ñàîã Íàòóåñà [M:S3][M:S3][M:S3]
+Ñàîã Ãéìûäíàòóåñà
+---
+PokÃ©mon that can learn this move
+Can Learn
+Can't Learn
+Òðéòïë Ðïëåíïîïâ, éèôœàýþéö ðñéæí:
+Éèôœàåó
+Îå éèôœàåó
++++
+To next Rank: [digits_c:0]
+Äï òìåäôýþåãï Ñàîãà: [digits_c:0]
+---
+Game Hints
+Òðñàâëà
+---
+Adventure Log
+Òóàóéòóéëà Ðñéëìýœåîéÿ
++++
+Check your career as an adventurer.
+Ðñïòíïóñåóû òóàóéòóéëô ðñéëìýœåîéÿ.
+---
+Go Rescue
+Îà Òðàòåîéå
++++
+"Resume your rescue mission from your
+last session."
+Âïèïáîïâéóû èàäàîéå ðï òðàòåîéý ò
+òïöñàîæîîïãï íåòóà.
++++
+Delete Save Data
+Ôäàìéóû Òïöñàîåîéå
++++
+"This will delete your saved game data.
+Caution: This will delete it permanently!"
+Ôäàìéóû âàšé äàîîúå òïöñàîåîéÿ.
+Âîéíàîéå: Üóï äåêòóâéå îåïáñàóéíï!
++++
+Rename Team
+Ðåñåéíåîïâàóû Ëïíàîäô
++++
+Rename your exploration team.
+Ðåñåéíåîïâàóû âàšô ëïíàîäô.
++++
+Change Windows
+Âéä Ïëïî
++++
+Change Window Settings
+Òíåîéóû ïóïáñàçåîéå ïëïî.
++++
+Revive Team
+Âåñîôóû Ëïíàîäô
++++
+"Resume your adventure from where your team
+was last defeated."
+Âïèïáîïâéóå òâïæ ðñéëìýœåîéå ò íåòóà
+ðïñàçåîéÿ âàšåê ãñôððú.
++++
+Awaiting Rescue
+Ïçéäàîéå Òðàòåîéÿ
++++
+"You are waiting for rescue by a friend.
+You may also choose to give up waiting."
+Âú ïçéäàåóå òðàòåîéÿ ïó äñôãà.
+Óàëçå âú íïçåóå ðñåëñàóéóû çäàóû.
++++
+Go Rescue
+Îà Òðàòåîéå
++++
+Rescue a waiting friend.
+Òðàòóé ïçéäàýþåãï äñôãà.
++++
+Standby Adventure
+Ðñéëìýœåîéå-Ïçéäàîéå
++++
+"While waiting for rescue, you can explore a
+different dungeon."
+Ðïëà âú çäæóå òðàòåîéÿ, âú íïçåóå
+éòòìåäïâàóû äñôãïå ðïäèåíåìûå.
++++
+"Using wireless communication, Nintendo WFC,
+or passwords, friends may rescue each other."
+Äñôèûÿ íïãôó òðàòàóû äñôã äñôãà œåñåè
+áåòðñïâïäîïå òïåäéîåîéå éìé ðï ðàñïìý.
++++
+Friend Rescue
+Òðàòóé Äñôãà
++++
+Trade Items
+Ïáíåî Ðñåäíåóàíé
++++
+"Using wireless communication, you can
+trade stored items with a friend."
+Âú íïçåóå ïáíåîéâàóûòÿ ðñåäíåóàíé éè
+öñàîéìéþà ò äñôãïí.
++++
+Wonder Mail S
+Œôäï-Ðïœóà S
++++
+"Using wireless communication, Nintendo WFC,
+or passwords, exchange Wonder Mail S."
+Ïáíåî Œôäï-Ðïœóú S ðï áåòðñïâïäîïíô
+òïåäéîåîéý éìé ðàñïìý.
++++
+Trade Team
+Ïáíåî Ëïíàîäàíé
++++
+"Using wireless communication or Nintendo
+WFC, you can exchange team data with others."
+Âú íïçåóå ïáíåîéâàóûòÿ ò äñôãïí òâïéíé
+ëïíàîäàíé.
++++
+Sky Jukebox
+Ðñïéãñúâàóåìû
++++
+Listen to music from "Explorers of Sky."
+Ðïòìôšàóû íôèúëô éè "Explorers of Sky."
++++
+Select which story you'd like to play.
+Âúáåñéóå, â ëàëôý éòóïñéý âú öïóéóå
+òúãñàóû.
++++
+Main Story
+Ãìàâîàÿ Éòóïñéÿ
++++
+Special Episodes
+Ïòïáúå Üðéèïäú
++++
+Episode List
+Òðéòïë Üðéèïäïâ
++++
+Episode List[M:R7]
+Òðéòïë Üðéèïäïâ[M:R7]
++++
+Play the Special Episode from the beginning.
+Òúãñàóû â Ïòïáúê Üðéèïä ò òàíïãï îàœàìà.
++++
+"Once a Special Episode has been started, you
+cannot begin another Special Episode."
+Åòìé âú îàœîæóå ðñïöïäéóû Ïòïáúê Üðéèïä,
+âú îå òíïçåóå îàœàóû äñôãïê Üðéèïä.
++++
+Return
+Îàèàä
++++
+Special Episode
+Ïòïáúê Üðéèïä
++++
+Select which story you'd like to play.
+Âúáåñéóå ëàëôý éòóïñéý âú öïóéóå ðñïêóé.
++++
+"This is the story in progress.
+Select ""Continue"" to play."
+Âú ðñïöïäéóå üóô éòóïñéý.
+Âúáåñéóå "Ðñïäïìçéóû", œóïáú éãñàóû.
++++
+Return
+Îàèàä
++++
+"The quicksave data
+[S:76]is corrupted."
+Äàîîúå á. òïöñàîåîéÿ
+[S:76]ðïâñåçäåîú.
++++
+"The team was defeated
+[S:76]during an adventure."
+Âàšà ëïíàîäà ðïóåñðåìà
+[S:76]ðïñàçåîéå â âúìàèëå.
++++
+"OK to resume the saved
+adventure?"
+Ðñïäïìçéóû ðñéëìýœåîéå?
++++
+"Stop resting and continue playing
+using the quicksave data?"
+Ðñåëñàóéóû ïóäúö é ðñïäïìçéóû
+éãñàóû äàìûšå?
++++
+"OK to revive your team where it
+was defeated?"
+Ðñéâåòóé ëïíàîäô â œôâòóâï
+îà íåòóå ðïñàçåîéÿ?
++++
+"OK to stop awaiting rescue and
+give up on the mission?"
+Ðñåëñàóéóû çäàóû òðàòåîéÿ é
+ïóòóôðéóû éè âúìàèëé?
++++
+"Do you really want to stop
+waiting for rescue?"
+Óïœîï ðñåëñàóéóû çäàóû
+òðàòåîéÿ?
++++
+"Your saved game data will be
+deleted. Is that OK?"
+Äàîîúå òïöñàîåîéÿ áôäôó
+ôäàìåîú. Âòæ ôòóñàéâàåó?
++++
+"All of your save data will be
+erased. Is that OK?"
+Âòå äàîîúå òïöñàîåîéÿ
+áôäôó ôäàìåîú. Ðñïäïìçéóû?
++++
+"Do you want to overwrite the
+Special Episode save data?"
+Öïóéóå ðåñåèàðéòàóû äàîîúå
+òïöñàîåîéÿ Ïòïáïãï Üðéèïäà?
++++
+"You've already cleared this
+Special Episode. Play it again?"
+Âú ôçå èàâåñšéìé üóïó Ïòïáúê
+Üðéèïä. Òúãñàóû åþæ ñàè?
++++
+Adventure Record
+Òïöñàîæîîïå Ðñéëìýœåîéå
++++
+Name:
+Éíÿ:
++++
+Episode:
+Üðéèïä:
++++
+Location:
+Íåòóï:
++++
+Play time:
+Âñåíÿ éãñú:
++++
+Adventures:
+Ðñéëìýœåîéê:
++++
+Helper:
+Ðïíïþîéë:
++++
+Gift:
+Ðïäàñïë:
++++
+Rescue:
+Òðàòåîéå:
++++
+Items
+Âåþé
++++
+Team
+Ãñôððà
++++
+Team
+Ãñôððà
++++
+Job List
+Èàäàîéÿ
++++
+Others
+Ðñïœåå
++++
+Exit
+Îàèàä
++++
+This team is the best it can be!
+Üóà ëïíàîäà â ìôœšåê õïñíå!
+---
+Money
+Äåîûãé
++++
+Others
+Ðñïœåå
++++
+Options
+Îàòóñïêëé
++++
+Window
+Âéä Ïëïî
++++
+Destination
+Îàðñàâìåîéå
++++
+"[CN][dungeon:0] is the destination.
+[CN]Should the team go there?"
+[CN]Îàðñàâìåîéå: [dungeon:0].
+[CN]Ïóðñàâéóûòÿ óôäà?
++++
+Game Hints
+Controls 1
+Controls 2
+Touch Screen
+Recording Your Adventures
+Performing Missions
+Recruiting Team Members
+Organizing Your Team
+About Gummis
+Òðñàâëà
+Ôðñàâìåîéå 1
+Ôðñàâìåîéå 2
+Òåîòïñîúê Üëñàî
+Òïöñàîåîéå Ðñéëìýœåîéê
+Âúðïìîåîéå Èàäàîéê
+Îàáïñ Œìåîïâ Ãñôððú
+Òáïñ Òâïåê Ëïíàîäú
+Áïìûšå ï Çåìå
++++
+"Controls in Treasure Town
+  Walk:[CLUM_SET:103][CLUM_SET:110][M:B8]
+  Run:[CLUM_SET:103][CLUM_SET:110][M:B3]+[M:B8]
+  Talk/check:[CLUM_SET:103][CLUM_SET:110][M:B2]
+  Talk with partner:[CLUM_SET:103][CLUM_SET:110][M:B7]
+  Open menu:[CLUM_SET:103][CLUM_SET:110][M:B4]"
+
+Ôðñàâìåîéå â Ãïñïäå Òïëñïâéþ
+  Öïäûáà:[CLUM_SET:143][CLUM_SET:150][M:B8]
+  Áåã:[CLUM_SET:143][CLUM_SET:150][M:B3]+[M:B8]
+  Éèôœéóû/ãïâïñéóû:[CLUM_SET:143][CLUM_SET:150][M:B2]
+  Ãïâïñéóû òï òðôóîéëïí:[CLUM_SET:143][CLUM_SET:150][M:B7]
+  Ïóëñúóû íåîý:[CLUM_SET:143][CLUM_SET:150][M:B4]
++++
+"Menu and Shopping Controls
+  Confirm:[CLUM_SET:123][CLUM_SET:130][M:B2]
+  Cancel:[CLUM_SET:123][CLUM_SET:130][M:B3]
+  Choose multiple items:[CLUM_SET:123][CLUM_SET:130][M:B6]
+  Open Search Menu:[CLUM_SET:123][CLUM_SET:130][M:B4]
+  Open Sort Menu:[CLUM_SET:123][CLUM_SET:130][M:B5]
+  Sort:[CLUM_SET:123][CLUM_SET:130][M:B1]
+  Descriptions:[CLUM_SET:123][CLUM_SET:130][M:B0]"
+
+Ôðñàâìåîéå â Íåîý
+  Ðïäóâåñäéóû:[CLUM_SET:153][CLUM_SET:160][M:B2]
+  Ïóíåîéóû:[CLUM_SET:153][CLUM_SET:160][M:B3]
+  Âúáïñ îåòëïìûëéö ðñåäíåóïâ: [CLUM_SET:153][CLUM_SET:160][M:B6]
+  Ïóëñúóû Íåîý Ðïéòëà:[CLUM_SET:153][CLUM_SET:160][M:B4]
+  Ïóëñúóû Íåîý Òïñóéñïâëé:[CLUM_SET:153][CLUM_SET:160][M:B5]
+  Òïñóéñïâàóû:[CLUM_SET:153][CLUM_SET:160][M:B1]
+  Ïðéòàîéå:[CLUM_SET:153][CLUM_SET:160][M:B0]
++++
+"Touch the Map
+  Walk:[CLUM_SET:96][CLUM_SET:103]Tap and hold
+  Run:[CLUM_SET:96][CLUM_SET:103]Tap twice and hold
+Touch a PokÃ©mon Ally
+  Talk:[CLUM_SET:96][CLUM_SET:103]Tap
+Touch Partner
+  Talk:[CLUM_SET:96][CLUM_SET:103]Tap twice
+Touch Player Character
+  Open menu:[CLUM_SET:96][CLUM_SET:103]Tap"
+
+Ëàòàîéÿ ðï Ëàñóå
+  Öïäûáà:[CLUM_SET:86][CLUM_SET:93]Ëàòàîéå + ôäåñçéâàîéå
+  Áåã:[CLUM_SET:86][CLUM_SET:93]Äâïêîïå ëàòàîéå + ôäåñç.
+Ëàòàîéå ðï Òïýèîïíô Ðïëåíïîô
+  Ðïãïâïñéóû:[CLUM_SET:86][CLUM_SET:93]Ëàòàîéå
+Ëàòàîéå ðï Òðôóîéëô
+  Ðïãïâïñéóû:[CLUM_SET:86][CLUM_SET:93]Äâïêîïå ëàòàîéå
+Ëàòàîéå ðï Ðåñòïîàçô-Éãñïëô
+  Ïóëñúóû íåîý:[CLUM_SET:86][CLUM_SET:93]Ëàòàîéå
++++
+"Save your progress regularly as you go through
+your adventure. It's simple: just walk onto
+your room's bed to save, so you can easily do
+it right after you return from a dungeon!
+
+You can also save your progress at any
+Kangaskhan Rock. So when you're away from
+Treasure Town and can't return to the Guild,
+keep an eye open for a Kangaskhan Rock."
+
+Ñåãôìÿñîï òïöñàîÿêóå òâïæ ðñéëìýœåîéå.
+Üóï ðñïòóï òäåìàóû: ðïäïêäéóå ë òâïåê
+ìåçàîëå â ëïíîàóå é òïöñàîéóå éãñô,
+ðïòìå œåãï âú òíïçåóå âåñîôóûòÿ ë éãñå
+ðïèçå!
+
+Óàëçå âú íïçåóå òïöñàîÿóû ðñïãñåòò ô
+ìýáïê Òóàóôé Ëàîãàòöàîà. Åòìé âú îå
+íïçåóå âåñîôóûòÿ â ãéìûäéý, ðïìûèôêóåòû
+Òóàóôåê Ëàîãàòöàîà.
++++
+"Any job you accept from the Job Bulletin Board
+or Outlaw Notice Board will appear on your Job
+List. To activate a job mission, you must then
+select its [CS:E]Take Job[CR] option. If you don't do that
+before you go to the dungeon, you will not be
+able to do the mission, even if you go to the
+specified floor! Jobs that have been [CS:E]taken[CR] but
+not completed will have the [M:R4] mark on your
+Job List. You can also [CS:E]Suspend[CR] an active job if
+you decide to do it later."
+
+Ìýáïå èàäàîéå ò Äïòëé Ïáùÿâìåîéê éìé ò
+Äïòëé Ñàèúòëéâàåíúö, ðñéîÿóïå âàíé,
+ðïÿâéóòÿ â Òðéòëå Èàäàîéê. Œóïáú îàœàóû
+âúðïìîÿóû èàäàîéå, âúáåñéóå âàñéàîó
+[CS:E]Âèÿóûòÿ[CR]. Åòìé üóïãï îå òäåìàóû ðåñåä
+ðïöïäïí â ðïäèåíåìûå, âú îå òíïçåóå
+âúðïìîéóû èàäàîéå, äàçå åòìé âú äïêäæóå
+äï îôçîïãï üóàçà! [CS:E]Ðñéîÿóúå[CR], îï îå 
+èàâåñšæîîúå èàäàîéÿ áôäôó ïóíåœåîú
+ðïíåóëïê [M:R4] â âàšåí Òðéòëå Èàäàîéê.
++++
+"[team]'s explorations will send them all
+over this world...and beyond. The team may
+enter dungeons that are too challenging for just
+[c_name:NPC_HERO_REAL] and [c_name:NPC_PARTNER_REAL]! Fortunately,
+you may be able to recruit more PokÃ©mon to
+the team by defeating enemies in dungeons and
+completing jobs. All PokÃ©mon have a variety of
+[CS:E]moves[CR] and [CS:E]abilities[CR], so get to know what each
+offers to the team by checking out Summary in
+the Team section of the menu."
+
+Ëïíàîäà [team] ðïáúâàåó âï íîïãéö
+íåòóàö üóïãï íéñà...é èà åãï ðñåäåìàíé.
+Ëïíàîäà íïçåó îàóëîôóûòÿ îà œåñåèœôñ
+òìïçîúå äìÿ ðñïöïçäåîéÿ ðïäèåíåìûÿ!
+Ë òœàòóûý, âú íïçåóå âåñáïâàóû îåëïóïñúö
+ðïáåçäæîîúö Ðïëåíïîïâ ë òåáå â ãñôððô.
+Âòå Ðïëåíïîú ïáìàäàýó òâïéíé [CS:E]ðñéæíàíé[CR] é
+[CS:E]òðïòïáîïòóÿíé[CR], ðïüóïíô ôèîàâàêóå ï îéö
+áïìûšå â íåîý Ãñôððú.
++++
+"Before you go to a dungeon, stop by [CS:K]Chimecho[CR]
+Assembly and assemble the perfect team for
+the mission ahead. You can put up to four
+members in the team. The team must also be
+no larger than the team's combined body size
+of 6 [M:S3] marks.
+
+Note: Some dungeons have stricter limits on
+the number of team members and total team
+body size."
+
+Ðñåçäå œåí ïóðñàâéóûòÿ â ðïäèåíåìûå,
+èàãìÿîéóå ë [CS:K]Œàêíåëï[CR] é òïáåñéóå éäåàìûîï
+ðïäöïäÿþôý äìÿ èàäàîéÿ ãñôððô. Â ãñôððå
+íïçåó áúóû äï 4 Ðïëåíïîïâ. Óàëçå ïáþéê
+ñàèíåñ Ðïëåíïîïâ â ãñôððå îå íïçåó áúóû
+áïìûšå 6 [M:S3].
+
+Âîéíàîéå: Â îåëïóïñúö ðïäèåíåìûÿö íïãôó
+áúóû òâïé ïãñàîéœåîéÿ îà ëïìéœåòóâï
+œìåîïâ ãñôððú é ñàèíåñ Ðïëåíïîïâ.
++++
+"You will find Gummi treats in dungeons. No
+PokÃ©mon can resist these colorful treats!
+
+They raise a PokÃ©mon's [CS:E]IQ[CR], which
+helps them develop many smart new skills that
+are important for exploration. Gummis come in
+colors that are tied to PokÃ©mon types, so give
+a team member a matching Gummi to raise its
+[CS:E]IQ[CR] the most. Eating a Gummi in a dungeon might
+also affect stats other than [CS:E]IQ[CR]!"
+
+Â ðïäèåíåìûÿö íïçîï îàêóé âëôòîïå Çåìå.
+Îé ïäéî Ðïëåíïî îå ôòóïéó ðåñåä óàëéí
+øâåóàòóúí ôãïþåîéåí! Ïîï ôâåìéœéâàåó [CS:E]IQ[CR]
+Ðïëåíïîà, ðïíïãàÿ éí éèôœéóû íîïçåòóâï
+âàçîúö â üëòðåäéøéÿö îàâúëïâ. Çåìå
+ïëñàšåîú â øâåóà, òâÿèàîîúå ò óéðàíé
+Ðïëåíïîïâ, ðïüóïíô òëàñíìéâàêóå òâïéí
+œìåîàí ãñôððú ðïäöïäÿþåå äìÿ îéö Çåìå.
+Åòìé òùåòóû Çåìå â ðïäèåíåìûå, óï ïîï
+òíïçåó ðïâìéÿóû îå óïìûëï îà [CS:E]IQ[CR]!
++++
+"[CN]Controls
+
+  Walk:[CLUM_SET:123][CLUM_SET:130][M:B8]
+  Run:[CLUM_SET:123][CLUM_SET:130][M:B3]+[M:B8]
+  Cancel:[CLUM_SET:123][CLUM_SET:130][M:B3]
+  Talk/check:[CLUM_SET:123][CLUM_SET:130][M:B2]
+  Talk with partner:[CLUM_SET:123][CLUM_SET:130][M:B7]
+  Open menu:[CLUM_SET:123][CLUM_SET:130][M:B4]
+  Open Search Menu:[CLUM_SET:123][CLUM_SET:130][M:B4]
+  Open Sort Menu:[CLUM_SET:123][CLUM_SET:130][M:B5]
+  Sort:[CLUM_SET:123][CLUM_SET:130][M:B1]
+  Description:[CLUM_SET:123][CLUM_SET:130][M:B0]"
+
+[CN]Ôðñàâìåîéå
+
+  Öïäûáà:[CLUM_SET:143][CLUM_SET:150][M:B8]
+  Áåã:[CLUM_SET:143][CLUM_SET:150][M:B3]+[M:B8]
+  Ïóíåîà:[CLUM_SET:143][CLUM_SET:150][M:B3]
+  Éèôœéóû/ãïâïñéóû:[CLUM_SET:143][CLUM_SET:150][M:B2]
+  Ðïãïâïñéóû òï òðôóîéëïí:[CLUM_SET:143][CLUM_SET:150][M:B7]
+  Ïóëñúóû íåîý:[CLUM_SET:143][CLUM_SET:150][M:B4]
+  Ïóëñúóû Íåîý Ðïéòëà:[CLUM_SET:143][CLUM_SET:150][M:B4]
+  Ïóëñúóû Íåîý Òïñóéñïâëé:[CLUM_SET:143][CLUM_SET:150][M:B5]
+  Òïñóéñïâàóû:[CLUM_SET:143][CLUM_SET:150][M:B1]
+  Ïðéòàîéå:[CLUM_SET:143][CLUM_SET:150][M:B0]
+---
+[CN]Would you like to save your adventure?
+Save and Continue
+Save and Return to Top Menu
+Don\'t Save
+[CN]Çåìàåóå òïöñàîéóû òâïæ ðñéëìýœåîéå?
+Òïöñàîéóû é Ðñïäïìçéóû
+Òïöñàîéóû é âúêóé â Ãìàâîïå Íåîý
+Îå òïöñàîÿóû
+Äà
+Îåó
+---
+[CN]Where would you like to go?
+[CN]Ëôäà âú öïóéóå ïóðñàâéóûòÿ?
+---
+" Hello! Welcome back![C]
+ Your rescue mission...[K]was a
+great success, of course![C]
+ That's no surprise from
+Team [team:]![C]
+ Here's the reward for your
+successful rescue mission."
+ Ðñéâåóòóâôý! Ò âïèâñàþåîéåí![C]
+ Óâïÿ òðàòàóåìûîàÿ ïðåñàøéÿ...[K]
+ñàèôíååóòÿ, ôâåîœàìàòû ôòðåöïí![C]
+ Äñôãïãï ïó Ëïíàîäú [team:]
+é îå ïçéäàìïòû![C]
+ Âïó óâïÿ îàãñàäà èà ôòðåšîïå
+òðàòåîéå.
++++
+" I hope you will continue rescuing
+friends in trouble![C]
+ And now I must save your
+adventure."
+ Îàäåýòû, œóï óú ðñïäïìçéšû
+âúèâïìÿóû äñôèåê éè áåäú![C]
+ À óåðåñû, íîå îôçîï
+òïöñàîéóû óâïæ ðñéëìýœåîéå.
++++
+ Thank you!
+ Òðàòéáï!
++++
+ Thank you for rescuing me!
+ Òðàòéáï, œóï òðàòìé íåîÿ!
++++
+" Thank you for rescuing
+[name:1]!"
+ Òðàòéáï, œóï òðàòìé
+[name:1]!
++++
+" Thank you for escorting me to
+[name:1]!"
+ Òðàòéáï, œóï òïðñïâïäéìé
+íåîÿ ë [name:1]!
++++
+" Thanks for taking me on an
+adventure!"
+ Òðàòéáï, œóï âèÿìé íåîÿ
+ò òïáïê â ðñéëìýœåîéå!
++++
+ Thanks for searching with me!
+ Òðàòéáï, œóï éòëàìé òï
+íîïê!
++++
+ Thanks for guiding me!
+ Òðàòéáï, œóï òïðñïâïäéìé
+íåîÿ!
++++
+" Thank you for getting me the
+[item:0]!"
+ Òðàòéáï, œóï îàšìé äìÿ íåîÿ
+[item:0]!
++++
+" Thank you for delivering the
+[item:0]!"
+ Òðàòéáï, œóï äïòóàâéìé
+[item:0]!
++++
+ Thanks for finding [name:1]!
+ Òðàòéáï, œóï îàšìé
+[name:1]!
++++
+" Thank you for getting back my
+[item:0]!"
+ Òðàòéáï, œóï âåñîôìé íîå
+[item:0]!
++++
+" ZZZT! You brought [name:1]
+in for arrest! ZZZT!"
+ ÁÈÈÈ! Âú âèÿìé îåãïäÿÿ
+[name:1] ðïä òóñàçô! ÁÈÈÈ!
++++
+" That was a great fight!
+You've completely beaten me. Congrats!"
+ Üóï áúìà ïóìéœîàÿ áéóâà!
+Âú íåîÿ ïäïìåìé. Ðïèäñàâìÿý!
++++
+"[CN][hero]'s team
+[CN]received [CS:G][gold_left:0][CR][M:S0]."
+[CN]Ëïíàîäà [hero]
+[CN]ðïìôœàåó [CS:G][gold_left:0][CR][M:S0].
++++
+"[CN][hero]'s team received
+[CN]the team's share of [CS:G][gold_left:0][CR][M:S0]."
+[CN]Ëïíàîäà [hero] ðïìôœàåó
+[CN]äïìý â [CS:G][gold_left:0][CR][M:S0].
++++
+"[CN][hero]'s team
+[CN]received an Egg![C]
+[CN]The Egg will be cared for
+[CN]by [CS:K]Chansey[CR] Day Care.
+[CN]Check on it every so often."
+[CN]Ëïíàîäà [hero]
+[CN]ðïìôœàåó Ÿêøï![C]
+[CN]Ï Ÿêøå ðïèàáïóéóòÿ
+[CN][CS:K]Œåîòé[CR] éè Äîåâîïãï Ôöïäà.
+[CN]Ðñïâåñÿêóå åãï âñåíÿ ïó âñåíåîé.
++++
+"[CN][hero]'s team received
+[CN]the item [string0].[C]
+[CN]The [string0] was put in storage."
+[CN]Ëïíàîäà [hero] ðïìôœàåó
+[CN]ðñåäíåó [string0].[C]
+[CN][string0] ôáñàî â öñàîéìéþå.
++++
+[CN]The [string0] was obtained.
+[CN]Âú ðïìôœàåóå [string0].
++++
+"[CN]The [string:2] was thrown away.
+[CN]The [string0] was put in storage."
+[CN]Ðñåäíåó [string:2] âúáñïšåî.
+[CN][string0] ôáñàî â öñàîéìéþå.
++++
+"[CN]The [string0] was thrown away.
+[CN]The [string:2] went in the Treasure Bag."
+[CN]Ðñåäíåó [string0] âúáñïšåî.
+[CN][string:2] ôáñàî â Òôíëô.
++++
+"[CN]Storage was sorted.
+[CN]Sent the [string0] to storage."
+[CN]Öñàîéìéþå ïóòïñóéñïâàîï.
+[CN][string0] ôáñàî â öñàîéìéþå.
++++
+"[name:0][M:T0] Thank you![C]
+[name:0][M:T0] I'll do my best!
+I won't disappoint you!"
+[name:0][M:T0] Òðàòéáï![C]
+[name:0][M:T0] Ÿ òäåìàý âòæ âïèíïçîïå!
+Ÿ âàò îå ñàèïœàñôý!
++++
+"[name:0][M:T0] I owe you...[C]
+[name:0][M:T0] From now on...[K]
+I want to be part of your team!"
+[name:0][M:T0] Ÿ âàš äïìçîéë...[C]
+[name:0][M:T0] Ïóîúîå, ÿ...[K]
+Ÿ öïœô áúóû œàòóûý âàšåê ëïíàîäú!
++++
+"[name:0][M:T0] Hey, thanks![C]
+[name:0][M:T0] From now on, my strength...[K]
+My strength is yours!"
+[name:0][M:T0] Ïãï, òðàòéáï![C]
+[name:0][M:T0] Ïóîúîå, íïÿ òéìà...[K]
+Íïÿ òéìà ðñéîàäìåçéó âàí!
++++
+"[name:0][M:T0] It's the natural choice...[C]
+[name:0][M:T0] From now on, I...[K]
+I'm joining your team!"
+[name:0][M:T0] Üóï íïê âúáïñ...[C]
+[name:0][M:T0] Ïóîúîå, ÿ...[K]
+Ÿ âòóôðàý â âàšô ëïíàîäô!
++++
+"[name:0][M:T0] Thank you so very much.[C]
+[name:0][M:T0] My strength...[K]
+My strength will now assist you!"
+[name:0][M:T0] Òðàòéáï âàí ïãñïíîïå.[C]
+[name:0][M:T0] Íïÿ òéìà...[K]
+Íïÿ òéìà òóàîåó âàšéí òïýèîéëïí!
++++
+"[name:0][M:T0] Thank you. â™Є[C]
+[name:0][M:T0] Yay! â™Є Yay! â™Є[K]
+I won't disappoint you!"
+[name:0][M:T0] Òðàòéáï. ♪[C]
+[name:0][M:T0] Ôñà! ♪ Ôñà! ♪[K]
+Ÿ âàò îå ñàèïœàñôý!
++++
+"[CN][CS:F][string0][CR] joined
+[CN][hero]'s team!"
+[CN][CS:F][string0][CR] ðñéòïåäéîÿåóòÿ
+[CN]ë ëïíàîäå [hero]!
++++
+[CN][CS:F][string0][CR] joined the team.
+[CN][CS:F][string0][CR] âòóôðàåó â ëïíàîäô.
++++
+"[CN][hero]'s team had to give
+[CN]up on having [CS:N][string0][CR]
+[CN]join the team."
+[CN]Ëïíàîäà [hero] ïóëàèúâàåóòÿ ïó
+[CN]ðïíïþé Ðïëåíïîà [CS:N][string0][CR].
++++
+"[CN][hero]'s team
+[CN]received [CS:G][gold_left:0][CR][M:S0] instead!"
+[CN]Âíåòóï üóïãï, ëïíàîäà [hero]
+[CN]ðïìôœàåó [CS:G][gold_left:0][CR][M:S0]!
++++
+[CN]Gave up on the [string0].
+[CN]Ïóëàèàìéòû ïó [string0].
++++
+"[name:0][M:T0] Here's your reward of
+[CS:G][gold_left:1][CR][M:S0]!"
+[name:0][M:T0] Âïó âàšà îàãñàäà â
+[CS:G][gold_left:1][CR][M:S0]!
++++
+[name:0][M:T0] Please accept this [CS:G][gold_left:1][CR][M:S0]!
+[name:0][M:T0] Ðñïšô, ðñéíéóå üóé [CS:G][gold_left:1][CR][M:S0]!
++++
+"[CS:N]Magnezone[CR]: ZZZT! This is the bounty
+on this outlaw's head! ZZZT!"
+[CS:N]Íàãîåèïî[CR]: ÁÈÈÈ! Âïó âàšà
+îàãñàäà èà ðïéíëô îåãïäÿÿ! ÁÈÈÈ!
++++
+"[name:0][M:T0] I lost, so I'll give you
+[CS:G][gold_left:0][CR][M:S0]!"
+[name:0][M:T0] Âú ðïáåäéìé íåîÿ, âïó âàšé
+[CS:G][gold_left:0][CR][M:S0]!
++++
+"[name:0][M:T0] That was an incredible battle![C]
+[name:0][M:T0] I'll give you this reward
+for beating me."
+[name:0][M:T0] Üóï áúìà ðñåëñàòîàÿ áéóâà![C]
+[name:0][M:T0] Âïó, äåñçéóå îàãñàäô.
++++
+"[name:0][M:T0] You really knocked me out![C]
+[name:0][M:T0] I'll give you this reward
+for defeating me."
+[name:0][M:T0] Âïó üóï âú íåîÿ ïäïìåìé![C]
+[name:0][M:T0] Âïó, äåñçéóå îàãñàäô èà
+òìàâîôý áéóâô.
++++
+"[name:0][M:T0] That was a great battle![C]
+[name:0][M:T0] I'll give you this reward
+for winning!"
+[name:0][M:T0] Üóï áúìà ïóìéœîàÿ áéóâà![C]
+[name:0][M:T0] Äåñçéóå îàãñàäô èà ðïáåäô!
++++
+"[name:0][M:T0] You're so strong![C]
+[name:0][M:T0] In recognition of your win,
+I would like to present you with this reward."
+[name:0][M:T0] Âú ïœåîû òéìûîú![C]
+[name:0][M:T0] Â èîàë ôâàçåîéÿ ë âàí,
+ÿ öïœô äàóû âàí üóïó ðïäàñïœåë.
++++
+"[name:0][M:T0] Such a wonderful battle![C]
+[name:0][M:T0] This is for you! â™Є"
+[name:0][M:T0] Ëàëàÿ œôäåòîàÿ áéóâà![C]
+[name:0][M:T0] Üóï äìÿ âàò! ♪
++++
+"[name:0][M:T0] Please take this Egg
+as a token of my appreciation!"
+[name:0][M:T0] Ðñïšô, âïèûíéóå üóï Ÿêøï
+â èîàë íïåê ðñéèîàóåìûîïòóé!
++++
+"[name:0][M:T0] As your reward,
+please take this Egg!"
+[name:0][M:T0] Â ëàœåòóâå îàãñàäú,
+ðñïšô, âïèûíéóå üóï Ÿêøï!
++++
+"[CS:N]Magnezone[CR]: ZZZT! Take this Egg as your
+reward! ZZZT!"
+[CS:N]Íàãîåèïî[CR]: ÁÈÈÈ! Â ëàœåòóâå îàãñàäú,
+âú ðïìôœéóå üóï Ÿêøï! ÁÈÈÈ!
++++
+"[name:0][M:T0] I lost...
+So I'll give you this Egg!"
+[name:0][M:T0] Ðïáåäà îå èà íîïê...
+Âïó, äåñçéóå üóï Ÿêøï!
++++
+"[name:0][M:T0] Please have this
+[string0] as your reward!"
+[name:0][M:T0] Ðñïšô, âïèûíéóå
+[string0] â îàãñàäô!
++++
+"[name:0][M:T0] To show my thanks, I want
+you to have my [string0]!"
+[name:0][M:T0] Â èîàë íïåê áìàãïäàñîïòóé,
+ÿ äàí âàí [string0]!
++++
+"[CS:N]Magnezone[CR]: ZZZT! Take this item as your
+reward! ZZZT!"
+[CS:N]Íàãîåèïî[CR]: ÁÈÈÈ! Âïèûíéóå üóïó ðñåäíåó
+â îàãñàäô! ÁÈÈÈ!
++++
+"[name:0][M:T0] Since I lost, I'll give you
+this [string0]!"
+[name:0][M:T0] Âú ðïáåäéìé é ÿ äàí âàí
+üóïó [string0]!
++++
+"[name:0][M:T0] To demonstrate my gratitude,
+I will join your team![C]
+[name:0][M:T0] I'll try not to disappoint you!"
+[name:0][M:T0] Œóïáú âúñàèéóû âàí òâïý
+ðñéèîàóåìûîïòóû, ÿ âòóôðìý â ëïíàîäô![C]
+[name:0][M:T0] Ðïòóàñàýòû îå ðïäâåòóé âàò!
++++
+"[name:0][M:T0] The adventurous exploits of
+Team [team:] are an inspiration to me![C]
+[name:0][M:T0] Please, let me become
+a member of your team!"
+[name:0][M:T0] Ðñéëìýœåîéÿ Ëïíàîäú
+[team:] íåîÿ âäïöîïâìÿýó![C]
+[name:0][M:T0] Ðñïšô, äàêóå íîå òóàóû
+œìåîïí âàšåê ëïíàîäú!
++++
+"[name:0][M:T0] You've really shown me your
+strength, Team [team:]![C]
+[name:0][M:T0] I'd like to join your team!"
+[name:0][M:T0] Âú ðïëàèàìé âàšô òéìô,
+Ëïíàîäà [team:]![C]
+[name:0][M:T0] Ÿ öïœô âòóôðéóû â âàšô
+ëïíàîäô!
++++
+"[name:0][M:T0] Wow, that was a great battle![C]
+[name:0][M:T0] Team [team:], eh? [K]You're a
+great team...[K] Can I join you?"
+[name:0][M:T0] Ïãï, üóï áúìà ðñåëñàòîàÿ
+áéóâà![C]
+[name:0][M:T0] Ëïíàîäà [team:], óàë?[K]
+Âú öïñïšàÿ ëïíàîäà...[K] Íïãô ìé ÿ
+âòóôðéóû ë âàí?
++++
+"[name:0][M:T0] Great job defeating me![C]
+[name:0][M:T0] You've sure caught my attention![K]
+I'd like to join Team [team:]!"
+[name:0][M:T0] Âú òï íîïê òðñàâéìéòû![C]
+[name:0][M:T0] Óåðåñû ÿ âàíé èàéîóåñåòïâàî![K]
+Ÿ öïœô âòóôðéóû â Ëïíàîäô [team:]!
++++
+"[name:0][M:T0] What an incredible battle![C]
+[name:0][M:T0] That was great! [K]From today on,
+I'm joining Team [team:]! [K]Is that OK?"
+[name:0][M:T0] Üóï áúì èàíåœàóåìûîúê áïê![C]
+[name:0][M:T0] Âåìéëïìåðîï![K] Ïóîúîå, ÿ
+ðñéòïåäéîÿýòû ë Ëïíàîäå [team:]![K] 
+Âïèûíæóå íåîÿ?
++++
+"[name:0][M:T0] That was a good matchup.[C]
+[name:0][M:T0] If it's OK with you, can I
+join Team [team:]?"
+[name:0][M:T0] Ðñåëñàòîúê áúì áïê.[C]
+[name:0][M:T0] Åòìé âú îå ðñïóéâ, íïãô
+ìé ÿ âòóôðéóû â Ëïíàîäô [team:]?
++++
+"[name:0][M:T0] Pretty good work![C]
+[name:0][M:T0] Just as I expected,
+Team [team:]! â™Є So, can I join you?"
+[name:0][M:T0] Îåðìïöàÿ ñàáïóà![C]
+[name:0][M:T0] Âòæ ëàë é ïçéäàìïòû,
+Ëïíàîäà [team:]! ♪ Íïãô ìé ÿ
+ðñéòïåäéîéóûòÿ ë âàí?
++++
+"[CN]Team [team:0] earned
+[CN][digits_c:0] Explorer Rank Points!"
+[CN]Ëïíàîäà [team:0] ðïìôœàåó
+[CN][digits_c:0] Ïœëïâ Ñàîãà Éòòìåäïâàóåìåê!
++++
+"[CN]Congratulations![C]
+[CN]Team [team:0] went up in rank
+[CN]from the [rank:2]
+[CN]to the [rank:3]!"
+[CN]Ðïèäñàâìÿåí![C]
+[CN]Ëïíàîäà [team:0] ðïâúšåîà ò ñàîãà
+[CN][rank:2] äï ñàîãà
+[CN][rank:3]!
++++
+"[CN]The number of items that can
+[CN]be kept in storage has been
+[CN]increased from [digits_c:0] to [digits_c:1]."
+[CN]Ëïìéœåòóâï âïèíïçîúö ðñåäíåóïâ
+[CN]îà öñàîåîéé ôâåìéœåîï ò
+[CN][digits_c:0] äï [digits_c:1].
++++
+"[CN]For advancing in rank, the team
+[CN]was awarded one [item:0]![C]
+[CN]The [item:0] was put in storage."
+[CN]Èà ðñïäâéçåîéå ðï ñàîãô, ëïíàîäà
+[CN]ðïìôœàåó [item:0]![C]
+[CN][item:0] ôáñàî â öñàîéìéþå.
+---
+Abandon: [string0]
+Give up on the [string0]?
+[CN]The [string0] was abandoned.
+[CN]The [item:0] was thrown away.
+[CN]The [item:0] was sent to storage.
+Âúëéîôóû: [string0]
+Âúëéîôóû [string0]?
+[CN][string0] âúáñïšåî.
+[CN][item:0] âúáñïšåî.
+[CN][item:0] ôáñàî â öñàîéìéþå.
++++
+"[CN]The storage space is full.
+[CN]Throw away an item in storage?"
+[CN]Ô âàò îåó íåòóà â öñàîéìéþå.
+[CN]Âúáñïòéóû ïóóôäà ðñåäíåó?
++++
+Throw away stored item
+Âúáñïòéóû ðñåäíåó
+Abandon [item:0]
+Îå áñàóû [item:0]
++++
+[CN]Choose an item in storage to be thrown away.
+[CN]Âúáåñéóå ðñåäíåó éè öñàîéìéþà, œóïáú
+[CN]åãï âúáñïòéóû.
++++
+[CN]Throw away this [string0]?
+[CN]Âúáñïòéóû [string0]?
++++
+Trash
+Info
+Exit
+Íôòïñ
+Éîõï
+Âúöïä
++++
+[CN]Throw away an item in storage?
+[CN]Âúáñïòéóû ðñåäíåó éè öñàîéìéþà?
++++
+[CN]Give up on the [string:2]?
+[CN]Îå áñàóû [string:2]?
++++
+"[CN]The Treasure Bag is full. Would you like to
+[CN]throw away an item in the Treasure Bag?"
+[CN]Âàšà Òôíëà ò Øåîîïòóÿíé ðïìîàÿ. Öïóéóå
+[CN]âúáñïòéóû éè îåæ ðñåäíåó?
++++
+Throw away an item
+Âúáñïòéóû ðñåäíåó
++++
+Abandon [item:0]
+Îå áñàóû [item:0]
++++
+[CN]Âúáåñéóå ðñåäíåó, œóïáú åãï
+[CN]âúáñïòéóû.
++++
+Íôòïñ
+Âúöïä
++++
+"[CN]Throw away this item
+[CN]from the Treasure Bag?"
+[CN]Âúáñïòéóû üóïó ðñåäíåó
+[CN]éè Òôíëé ò Øåîîïòóÿíé?
++++
+[CN]You abandoned the [string:2].
+[CN]Âú ïóëàèàìéòû ïó [string:2].
++++
+"[CN]You threw out the [string0]
+[CN]and put the [string:1] in the
+[CN]Treasure Bag."
+[CN]Âú âúáñàòúâàåóå [string0]
+[CN]é ëìàäæóå [string:1] â
+[CN]Òôíëô ò Øåîîïòóÿíé.
++++
+"Your team is full. Would you like to release a
+member?"
+Âàšà ãñôððà èàðïìîåîà. Öïóéóå ôáñàóû
+ïäîïãï éè œìåîïâ ãñôððú?
++++
+Ôáñàóû œìåîà ãñôððú
+Îå áñàóû â ãñôððô
+Âúáåñéóå Ðïëåíïîà, œóïáú åãï ôáñàóû.
+[name:0] ôáñàî éè ãñôððú.
+Ðïðñïþàóûòÿ
+Òâïäëà
+Òâåñëà IQ
+Âúöïä
+Ôáñàóû œìåîà ãñôððú?
+"If you release it, you can never add this
+specific member to your active team roster
+ever again. [K]Is that really OK?"
+Åòìé âú åãï ôáåñæóå, âú áïìûšå îå
+òíïçåóå äïáàâéóû üóïãï œìåîà ãñôððú
+â âàšô àëóéâîôý ãñôððô. [K]Âòæ ôòóñàéâàåó?
++++
+Summary
+Moves
+Check IQ
+Exit
+Rename
+To Whom?
+Storage
+Ammo
+Food
+Eqpt.
+TM
+Orbs
+Swap
+Boxes
+Other
+Exit
+All
+
+Òâïäëà
+Ðñéæíú
+Òâåñëà IQ
+Âúöïä
+Ðåñåéí.
+Ëïíô?
+Öñàîéìéþå
+Òîàñÿäú
+Åäà
+Òîàñÿç.
+ÓÍ
+Ïñáú
+Òíåîéóû
+Šëàóôì.
+Ðñïœåå
+Âúöïä
+Âòå
++++
+Didn't find anything.
+Items to Send
+[value:0:4]
+[now_team]
+[now_team]
+No.
+Level
+PokÃ©mon name
+Nickname
+Type
+Exit
+
+Îéœåãï îå îàêäåîï.
+Âåþé îà Ïóðñàâëô
+[value:0:4]
+[now_team]
+[now_team]
+Îïíåñ
+Ôñïâåîû
+Îàèâ. Ðïëåíïîà
+Ðñïèâéþå
+Óéð
+Âúöïä
+---
+"[name:0] took the Gummi and ate it.
+This Gummi looks like a big favorite!
+[name:0]'s IQ went up!"
+
+[name:0] òùåäàåó Çåìå.
+Ðïëåíïîô ïœåîû ðïîñàâéìòÿ âëôò Çåìå!
+IQ [name:0] ôâåìéœéâàåóòÿ!
++++
+"[name:0] took the Gummi and ate it.
+It doesn't seem to dislike this Gummi.
+[name:0]'s IQ went up!"
+
+[name:0] òùåäàåó Çåìå.
+Ðïëåíïîô îå óàë ôç é îå îñàâéóòÿ Çåìå.
+IQ [name:0] ôâåìéœéâàåóòÿ!
++++
+"[name:0] took the Gummi and ate it.
+It appears to be just a little satisfied.
+[name:0]'s IQ went up!"
+
+[name:0] òùåäàåó Çåìå.
+Ðïëåíïî òìåãëà ôäïâïìåóâïñæî.
+IQ [name:0] ôâåìéœéâàåóòÿ!
++++
+"[name:0] took the Gummi and ate it.
+However, [name:0]'s IQ does not appear
+to go any higher."
+
+[name:0] òùåäàåó Çåìå.
+Îï, ðïöïçå, IQ [name:0] îéëàë
+îå ôâåìéœéìïòû.
++++
+It doesn't appear to be hungry.
+Ðïöïçå, Ðïëåíïî îå ãïìïäåî.
++++
+"[name:0]'s IQ helped it learn how to use
+[wiseness:0]!"
+IQ [name:0] ðïíïãàåó éèôœéóû
+"[wiseness:0]"!
++++
+"Yes! [name:0] grew explosively! Attack,
+Defense, and other stats rose by 1!"
+Äà! [name:0] òóàîïâéóòÿ òéìûîåå!
+Àóàëà, Èàþéóà é ðñïœéå öàñàëóåñéòóéëé
+ôâåìéœéìéòû îà 1!
++++
+Yes! [name:0]'s Attack rose by 1!
+Äà! Àóàëà [name:0]
+ôâåìéœéâàåóòÿ îà 1!
++++
+Yes! [name:0]'s Special Attack rose by 1!
+Äà! Òðåøéàìûîàÿ Àóàëà [name:0]
+ôâåìéœéâàåóòÿ îà 1!
++++
+Yes! [name:0]'s Defense rose by 1!
+Äà! Èàþéóà [name:0]
+ôâåìéœéâàåóòÿ îà 1!
++++
+Yes! [name:0]'s Special Defense rose by 1!
+Äà! Òðåøéàìûîàÿ Èàþéóà [name:0]
+ôâåìéœéâàåóòÿ îà 1!
++++
+Store
+Take
+Info
+Cancel
+Exit
+Item: [string0]
+In Bag:
+[value:0:2]/[value:1:2]
+
+Öñàîéóû
+Èàáñàóû
+Éîõï
+Ïóíåîà
+Âúöïä
+Ðñåäíåó: [string0]
+Â Òôíëå:
+[value:0:2]/[value:1:2]
++++
+" Hello, there!
+Welcome to [kind:] Storage."
+ Ðñéâåóéë!
+Äïáñï ðïçàìïâàóû â [kind:]-Öñàîéìéþå.
++++
+ Anything else, dear?
+ Œóï-îéáôäû åþæ, äïñïãôšà?
++++
+ Thanks, sweetie! Come again!
+ Òðàòéáï, òïìîúšëï!
+Ðñéöïäé åþæ!
++++
+ Œóï óú çåìàåšû öñàîéóû?
+
+
+(Âú íïçåóå îàçàóû [M:B6], œóïáú âúáñàóû
+áïìåå ïäîïê âåþé éìé [M:B7]+[M:B6], œóïáú
+âúáñàóû âòæ òñàèô.)
++++
+ Care to store anything else?
+ Öïœåšû ðïìïçéóû îà öñàîåîéå
+œóï-îéáôäû åþæ?
++++
+" I'll put your [string0] in
+storage, OK?"
+ Ÿ ðïíåþô [string0]
+îà öñàîåîéå, öïñïšï?
++++
+" I'll put the items you chose
+in storage, OK?"
+ Ÿ ðïíåþô âúáñàîîúå óïáïê
+ðñåäíåóú â öñàîéìéþå, öïñïšï?
++++
+" OK, stored away! You can count
+on me, honey."
+ Öïñïšï, âòæ îà öñàîåîéé!
+Íïçåšû îà íåîÿ ðïìïçéóûòÿ, äïñïãôšà.
++++
+" What will you take out? (You
+can use [M:B6] to choose more than one item.)"
+ Œóï óú öïœåšû èàáñàóû?
+(Âú íïçåóå îàçàóû [M:B6], œóïáú âúáñàóû
+áïìåå ïäîïê âåþé.)
++++
+ Care to take out anything else?
+ Îôçîï èàáñàóû œóï-îéáôäû åþæ?
++++
+" I'll take your [string0] out
+of storage, OK?"
+ Ÿ èàáåñô [string0]
+éè öñàîéìéþà, öïñïšï?
++++
+" I'll take the items you chose out
+of storage, OK?"
+ Ÿ èàáåñô éè öñàîéìéþà
+âúáñàîîúå óïáïê ðñåäíåóú, öïñïšï?
++++
+ There you go, sweetie!
+ Äåñçé, äïñïãôšà!
++++
+" Oh? You don't seem to have
+anything."
+ Œóï? Îï ô óåáÿ îéœåãï îåó.
++++
+" Oh? You don't have the room to
+carry any more items, dear."
+ Œóï? Îï ô óåáÿ îåó íåòóà,
+œóïáú îåòóé œóï-ìéáï åþæ, äïñïãôšà.
++++
+" Oh? You don't have anything
+stored, dear."
+ Œóï? Îï ô óåáÿ îåó îéœåãï
+îà öñàîåîéé, äïñïãôšà.
++++
+" Sorry, dear. You can't put that
+[string0] in storage."
+ Éèâéîé, äïñïãôšà. Îï óú îå
+íïçåšû ðïìïçéóû [string0]
+â öñàîéìéþå.
++++
+" Sorry, dear. I can't take any
+more of that item."
+ Ðñïòóé, äïñïãôšà. Ÿ îå íïãô
+âèÿóû åþæ óàëéö ðñåäíåóïâ.
++++
+" Sorry, dear. I've run out of
+storage space."
+ Ðñïòóé, äïñïãôšà. Ô íåîÿ
+èàëïîœéìïòû íåòóï â öñàîéìéþå.
++++
+" I can store items that you found
+in dungeons or that you bought from shops.[C]
+ If you faint in a dungeon, some
+of your items will be lost...[C]
+ But anything that you have put in
+storage will be safe.[C]
+ I keep watch over the storage
+space, so anything you leave here won't ever
+disappear![C]
+ If you have any items that
+you can't bear to lose, be sure to leave
+them with me!"
+
+ Ÿ íïãô öñàîéóû îàêäåîîúå éìé
+ëôðìåîîúå óïáïê ðñåäíåóú.[C]
+ Åòìé óú ðïóåñÿåšû òïèîàîéå â
+ðïäèåíåìûå, óï îåëïóïñúå éè óâïéö
+ðñåäíåóïâ áôäôó ôóñàœåîú...[C]
+ Îï âòæ, œóï óú äàšû íîå îà
+öñàîåîéå, áôäåó â ðïìîïê áåèïðàòîïòóé.[C]
+ Ÿ ðñéãìÿäúâàý èà öñàîéìéþåí,
+ðïüóïíô ô íåîÿ îéœåãï îå ðñïðàäæó![C]
+ Åòìé ô óåáÿ åòóû ëàëéå-ìéáï
+ðñåäíåóú, ëïóïñúå óú îå íïçåšû ðïèâïìéóû
+ðïóåñÿóû, ïòóàâû éö íîå îà öñàîåîéå!
++++
+" Oh? I'm afraid you don't have
+any items to be stored, dear."
+ Œóï? Áïýòû, œóï ô óåáÿ îåó
+ëàëéö-ìéáï ðñåäíåóïâ, äïñïãôšà.
+---
+Goods
+Óïâàñú
++++
+In Bag:
+Â Òôíëå:
++++
+Money
+Äåîûãé
++++
+Sell
+Ðñïäàóû
++++
+Buy
+Ëôðéóû
++++
+Sell All
+Ðñïäàóû Âòæ
++++
+Info
+Éîõï
++++
+Cancel
+Ïóíåîà
++++
+Exit
+Âúöïä
++++
+Item: [string0]
+Ðñåäíåó: [string0]
++++
+" Welcome to the [kind:0]
+Shop! â™Є"
+ Äïáñï ðïçàìïâàóû â Ìàâëô
+[CS:K]Ëåëìåïîïâ[CR]! ♪
++++
+" May I help you with anything
+else?"
+ Íïãô ÿ ðïíïœû óåáå åþå ò
+œåí-îéáôäû?
++++
+ Thanks! Please come again! â™Є
+ Òðàòéáï! Ðñéöïäéóå åþæ! ♪
++++
+" Very well! Feel free to examine
+my merchandise! â™Є (You can use [M:B6] to choose
+more than one item.)"
+ Ïœåîû öïñïšï! Âèãìÿîé îà íïé
+óïâàñú! ♪ (Âú íïçåóå îàçàóû îà [M:B6],
+œóïáú âúáéñàóû áïìåå ïäîïãï ðñåäíåóà.)
++++
+" Do you wish to buy anything else
+today?"
+ Çåìàåšû ëôðéóû œóï-îéáôäû åþæ?
++++
+" That [string0]? That will
+be [CS:G][gold_left:0][CR][M:S0]. Is that to your liking?"
+ [string0]?
+Üóï ïáïêäæóòÿ óåáå â [CS:G][gold_left:0][CR][M:S0].
+Çåìàåšû üóï ëôðéóû?
++++
+" Altogether, that comes to
+[CS:G][gold_left:0][CR][M:S0]. Is that OK?"
+ Ïáþàÿ òóïéíïòóû üóéö âåþåê
+òïòóàâéó [CS:G][gold_left:0][CR][M:S0]. Âòæ ôòóñàéâàåó?
++++
+ Thank you! All yours! â™Є
+ Òðàòéáï! Âòæ óâïæ! ♪
++++
+" Very well! What will you sell?
+(You can use [M:B6] to choose multiple items.)"
+ Ïœåîû öïñïšï! Œóï óú öïœåšû
+ðñïäàóû? (Âú íïçåóå îàçàóû îà [M:B6],
+œóïáú âúáéñàóû áïìåå ïäîïãï ðñåäíåóà.)
++++
+" Do you wish to sell anything 
+else? (You can use [M:B6] to choose
+multiple items.)"
+ Öïœåšû ðñïäàóû œóï-îéáôäû åþå?
+(Âú íïçåóå îàçéíàóû îà [M:B6], œóïáú
+âúáéñàóû áïìåå ïäîïãï ðñåäíåóà.)
++++
+" Your [string0]? I can
+pay you [CS:G][gold_left:0][CR][M:S0] for that. Will you sell
+it for that price?"
+
+[string0]?
+Èà üóï ÿ íïãô èàðìàóéóû [CS:G][gold_left:0][CR][M:S0].
+Ôòóñïéó óàëàÿ øåîà?
++++
+" I can pay [CS:G][gold_left:0][CR][M:S0] for
+everything. Is that acceptable?"
+ Èà âòå üóé âåþé ÿ íïãô èàðìàóéóû
+[CS:G][gold_left:0][CR][M:S0]. Âòæ ôòóñàéâàåó?
++++
+ Done deal! Thank you! â™Є
+ Ïóìéœîàÿ òäåìëà! Òðàòéáï! ♪
++++
+" You know...[K]I'm sold out. Please
+forgive me.[C]
+ I will have new merchandise
+for you tomorrow, I swear!"
+
+ Œåòóîï ãïâïñÿ...[K] Ô íåîÿ îåó
+óïâàñïâ. Ðñïšô, éèâéîé íåîÿ.[C]
+ Ëìÿîôòû, èàâóñà ô íåîÿ ðïÿâÿóòÿ
+îïâúå âåþé îà ðñïäàçô!
++++
+" What? [K]You don't seem to have
+the money."
+ Œóï? [K]Ðïöïçå, ô óåáÿ îå öâàóàåó
+äåîåã.
++++
+" Goodness! You're overflowing
+with money![C]
+ You couldn't possibly carry any
+more money!"
+
+ Áïçå! Ô óåáÿ òìéšëïí íîïãï
+äåîåã![C]
+ Óú òïâåñšåîîï îéëàë îå òíïçåšû
+ôîåòóé åþæ áïìûšå äåîåã!
++++
+ Oh? [K]Nothing to sell?
+ Œóï? [K]Îåœåãï ðñïäàâàóû?
++++
+" Oh?[K] You don't seem to have
+anything!"
+ Œóï?[K] Îï ô óåáÿ îéœåãï îåó!
++++
+" Oh! [K]You have no more space for
+items!"
+ Ïê! [K]Ô óåáÿ îåó íåòóà ðïä âåþé!
++++
+" Uh-oh![K] No more merchandise![C]
+ I'm completely sold out!"
+ Ïê-æê! Óïâàñ èàëïîœéìòÿ![C]
+ Âòæ ðñïäàîï!
++++
+" Oh![K] Sorry, you don't seem to
+have enough money!"
+ Ïê![K] Ðñïòóé, îï, ðïöïçå, ô óåáÿ
+îå öâàóàåó äåîåã!
++++
+" Oh my![K] I couldn't possibly take
+that from you!"
+ Ïö![K] Ÿ òïâòåí îå íïãô âèÿóû
+üóï ô óåáÿ!
++++
+" Oh my![K] You can't carry any
+more money! Sorry, I can't complete the deal."
+ Ïê-æê![K] Óú îå íïçåšû îåòóé
+áïìûšå äåîåã! Ðñïòóé, îï òäåìëà îå
+òïòóïéóòÿ.
++++
+" We, the [kind:] Brothers,
+have a passion for selling items! â™Є[C]
+ Items are useful for your
+dungeon adventures! [C]
+ Use items with imagination! And
+invent new uses for them![C]
+ Ah, yes! If the shop sells out...[C]
+ We'll always have new things
+to sell on the next day![C]
+ So spend time in dungeons until
+we restock! Visit us when you return! â™Є[C]
+ Ah, yes! You can find our
+[kind:] Markets far and wide...[C]
+ Even in dungeons! Visit us
+everywhere!"
+
+ Íú, Áñàóûÿ [CS:K]Ëåëìåïîú[CR], ïœåîû
+ìýáéí óïñãïâàóû ðñåäíåóàíé! ♪[C]
+ Ðñåäíåóú ïœåîû ðïìåèîú îà
+âúìàèëàö â ðïäèåíåìûÿ![C]
+ Éòðïìûèôê ðñåäíåóú ò ôíïí! É
+îàöïäé äìÿ îéö äñôãéå ðñéíåîåîéÿ![C]
+ Àö, äà! Åòìé â îàšåê ìàâëå îå
+ïòóàîåóòÿ ðñåäíåóïâ... [C]
+ Íú äïáôäåí œóï-îéáôäû îïâïå
+îà ðñïäàçô â òìåäôýþéê äåîû![C]
+ Ðïüóïíô, ðñïêäéòû ðï ðïäèåíåìûý,
+œóïáú ô îàò ðïÿâéìòÿ îïâúê óïâàñ! É îå
+èàáôäû îàâåòóéóû îàò ðïòìå üóïãï! ♪[C]
+ É åþæ! Óú íïçåšû âòýäô îàêóé
+Ìàâëé äñôãéö [CS:K]Ëåëìåïîïâ[CR]...[C]
+ Ïîé åòóû äàçå â ðïäèåíåìûÿö!
+Èàöïäé é ë îéí óïçå!
++++
+" Welcome to [kind:0] Wares,
+where you can find Orbs and TMs! â™Є"
+ Äïáñï ðïçàìïâàóû â Ìàâëô
+Òîàñÿçåîéÿ [CS:K]Ëåëìåïîïâ[CR]! Èäåòû óú òíïçåšû
+ëôðéóû Ïñáú é ÓÍ! ♪
++++
+" May I assist you in any
+other way?"
+ Ÿ íïãô ðïíïœû œåí-îéáôäû åþæ?
++++
+ Thanks! Please come again! â™Є
+ Òðàòéáï! Ðñéöïäé åþæ! ♪
++++
+" Ah, very well! Take a look at my
+merchandise. All chosen with pride! â™Є
+(You can use [M:B6] to choose multiple items.)"
+ À, ïœåîû öïñïšï! Âèãìÿîé îà
+íïê óïâàñ. Èäåòû âòæ óïìûëï òàíïå
+ìôœšåå! ♪
+(Âú íïçåóå îàçàóû îà [M:B6], œóïáú
+âúáéñàóû áïìåå ïäîïãï ðñåäíåóà.)
++++
+" Do you wish to purchase anything
+else?"
+ Öïœåšû ëôðéóû œóï-îéáôäû åþæ?
++++
+" That [string0]? That will
+be [CS:G][gold_left:0][CR][M:S0]. Is that acceptable?"
+ [string0]?
+Üóï ïáïêäæóòÿ â [CS:G][gold_left:0][CR][M:S0].
+Âòæ ôòóñàéâàåó?
++++
+" Altogether, that comes to
+[CS:G][gold_left:0][CR][M:S0]. Is that OK?"
+  Ïáþàÿ òóïéíïòóû üóéö âåþåê
+òïòóàâéó [CS:G][gold_left:0][CR][M:S0]. Âòæ ôòóñàéâàåó?
++++
+ Thank you! Well chosen! â™Є
+ Òðàòéáï! Ðñåëñàòîúê âúáïñ! ♪
++++
+ We have a deal! Thank you! â™Є
+ Äïãïâïñéìéòû! Òðàòéáï! ♪
++++
+" You know...[K]I'm sold out. So
+sorry, my friend.[C]
+ Tomorrow! Tomorrow I shall
+have more wares!"
+ Âéäéšû ìé...[K]Ô íåîÿ îåó óïâàñà.
+Íîå ïœåîû çàìû.[C]
+ Îï èàâóñà! Èàâóñà ô íåîÿ áôäåó
+áïìûšå óïâàñïâ!
++++
+" Oh?[K] You seem short on money,
+my friend."
+ À?[K] Ô óåáÿ íàìïâàóï äåîåã,
+äñôçéþå.
++++
+" Oh! You're carrying too much
+money, my friend![C]
+ You can't hold any more!"
+ Ïê! Äñôçéþå, ô óåáÿ ò òïáïê
+òìéšëïí íîïãï äåîåã![C]
+ Áïìûšå óåáå îå ôîåòóé!
++++
+" Oh? [K]You don't seem to have
+anything that you can sell."
+ Œóï? [K]Îï ô óåáÿ îåó îéœåãï,
+œóï óú íïçåšû ðñïäàóû.
++++
+" Oh? [K]You seem to have nothing,
+my friend."
+ Œóï? [K]Äñôçéþå, ðïöïçå, ô óåáÿ
+îåãï îåó.
++++
+" Oh![K] You've run out of space for
+any more of my wares, my friend!"
+ Ïê![K] Äñôçéþå, ô óåáÿ èàëïîœéìïòû
+íåòóï ðïä íïé óïâàñú!
++++
+" Oh?[K] My shelves are bare of
+wares![C]
+ I am completely sold out, friend!"
+ Œóï? Íïé ðïìëé òïâåñšåîîï 
+ðôòóú![C]
+ Ô íåîÿ âòæ ðñïäàîï!
++++
+" Oh! [K]You're short on money, my
+friend!"
+ Ïê![K] Äñôçéþå, ô óåáÿ îå öâàóàåó
+äåîåã!
++++
+" Whoa![K] I... I can't accept
+anything like that!"
+ Ïãï![K] Ÿ... Ÿ óàëïå îå íïãô
+ðñéîÿóû!
++++
+" Oh no![K] My friend, you cannot
+add to your money! I cannot do this."
+ Ï, îåó![K] Äñôçéþå, óú îå íïçåšû
+îåòóé áïìûšå äåîåã! Ÿ îå íïãô üóï
+òäåìàóû.
++++
+" PokÃ©mon moves...[K]are the path to
+ultimate power![C]
+ Smash walls![K] Fly![K] So many
+moves. All dynamic, each elegant in its way![C]
+ And some moves, obscure and
+rare, are...[K]simply beautiful![C]
+ We sell many moves daily![K]
+They can be learned using our Technical
+Machines, or TMs for short![C]
+ You see? Isn't it exciting? It's
+the stuff of dreams![C]
+ Why, it gets me so excited that
+I've taken on a rosy hue![C]
+ I do hope you will shop at our
+market. Visit my elder brother and me!"
+
+ Ðñéæíú Ðïëåíïîïâ...[K] ëñàóœàêšéê
+ðôóû ë îåâåñïÿóîïíô íïãôþåòóâô![C]
+ Ëñôšé òóåîú![K] Ìåóàê![K] Ðñéæíïâ
+ïœåîû íîïãï. Âòå ïîé äéîàíéœîú,
+é ðï òâïåíô üìåãàîóîú![C]
+ É îåëïóïñúå ðñéæíú, îåðïîÿóîúå
+é ñåäëéå, ïîé...[K] ðñïòóï âåìéëïìåðîú![C]
+ Ëàçäúê äåîû, ÿ ðñïäàý òàíúå
+ñàèîúå ðñéæíú![K] Éö íïçîï éèôœéóû,
+ðñéíåîéâ Óåöîéœåòëéê Íåöàîéèí, éìé ÓÍ![C]
+ Âéäéšû? Ñàèâå üóï îå èäïñïâï?
+Ïá üóïí íïçîï óïìûëï íåœóàóû![C]
+ Ïö, ÿ óàë âèáôäïñàçéìòÿ, œóï
+ô íåîÿ ðïÿâéìòÿ ñïèïâàóúê ïóóåîïë![C]
+ Îàäåýòû, óú áôäåšû èàöïäéóû
+â îàšô Ìàâëô. Ðñéöïäé ë íïåíô òóñàšåíô
+áñàóô é ëï íîå!
++++
+Store
+Take
+Info
+Cancel
+Money: [CS:G][bank:0][CR]
+Savings: [CS:G][bank:0][CR]
+ Welcome to [kind:] Bank!
+ How may I help? Hee-hee...
+ 
+Öñàîéóû
+Èàáñàóû
+Éîõï
+Ïóíåîà
+Äåîûãé: [CS:G][bank:0][CR]
+Â Áàîëå: [CS:G][bank:0][CR]
+ Äïáñï ðïçàìïâàóû â Áàîë
+[CS:K]Äàòëàììà[CR]!
+ Œåí ÿ íïãô òìôçéóû? Öå-öå...
++++
+" Your bank balance is
+[CS:G][bank_left:0][CR][M:S0]. Now, how may I serve you?
+Hee-hee..."
+ Òåêœàò îà öñàîåîéé [CS:G][bank_left:0][CR][M:S0].
+Óàë, œåí ÿ íïãô òìôçéóû? Öå-öå...
++++
+" Did you know that if you fall in
+a dungeon, half of your money will be spirited
+away, never to be found again? Hee-hee...[C]
+ Avoid that fate...[K]hee-hee...[K]
+by leaving your money in [kind:] Bank.[C]
+ Then, if you are defeated in a
+dungeon, you'll find your money safe and sound
+with me.[C]
+ I admit that I may appear
+rather sinister...[K]hee-hee...[C]
+ But don't judge me by my looks!
+I'm hauntingly honest...[K]hee-hee![C]
+ So leave your money with me.
+It will rest in peace...[K]hee-hee!"
+
+ Óåáå éèâåòóîï, œóï åòìé óú
+òâàìéšûòÿ áåè œôâòóâ â ðïäèåíåìûå, óï
+ðïìïâéîà óâïéö äåîåã éòóïîœéóòÿ é áïìåå
+îéëïãäà îå ôâéäéó òâåó? Öå-öå...[C]
+ Éèáåãàê üóïê òôäûáú...[K]Öå-öå...[K]
+ïòóàâìÿÿ òâïé äåîûãé â Áàîëå [CS:K]Äàòëàììà[CR].[C]
+ Åòìé óåáÿ ïäïìåýó â ðïäèåíåìûå,
+óï óâïé äåîûãé áôäôó â øåìïòóé é
+òïöñàîîïòóé, òï íîïê.[C]
+ Ðñéèîàý, ÿ âúãìÿçô âåòûíà
+èìïâåþå...[K]öå-öå...[C]
+ Îï îå òôäé íåîÿ ðï âîåšîåíô
+âéäô! Ÿ ðôãàýþå œåòóåî...[K] Öå-öå![C]
+ Öñàîé ô íåîÿ äåîûãé.
+Ïîé áôäôó ðïëïéóûòÿ èäåòû ò íéñïí...[K]
+Öå-öå!
++++
+" I look forward to your next
+visit! Hee-hee!"
+ Ÿ áôäô çäàóû óâïåãï òìåäôýþåãï
+âéèéóà! Öå-öå!
++++
+ You wish to cancel. All right.
+ Çåìàåšû âúêóé. Ëàë ôãïäîï.
++++
+" What?[K] Oh, deepest sorrow! You
+have no money!"
+ Œóï?[K] Ï, ãïñå! Ô óåáÿ îåó äåîåã!
++++
+" Whoooa! What a vast stash of
+money you have here![K] Our safe is about to
+burst! Hee-hee![C]
+ Unfortunately, we can't take any
+more."
+ Ïïãïï! Âïó üóï èàðàòú äåîåã
+ô óåáÿ![K] Íïæ öñàîéìéþå òëïñï ìïðîåó!
+Öå-öå![C]
+ Ë òïçàìåîéý, ÿ îå íïãô âèÿóû
+áïìûšå äåîåã.
++++
+" How much do you want to
+deposit?"
+ Òëïìûëï äåîåã óú öïœåšû
+ðïìïçéóû îà öñàîåîéå?
++++
+" [CS:G][gold_left:0][CR][M:S0]! It will rest here
+in peace. Forever, if you wish. Hee-hee!"
+ [CS:G][gold_left:0][CR][M:S0]! Ïîé áôäôó ðïëïéóûòÿ
+èäåòû ò íéñïí. Âåœîï, åòìé ðïçåìàåšû.
+Öå-öå!
++++
+" What?[K] I'm sorry, but you can't
+carry any more money! [K]There's not even a
+ghost of a chance! Hee-hee!"
+ Œóï?[K] Éèâéîÿýòû, îï óú îå
+íïçåšû ôîåòóé áïìûšå äåîåã![K] Îà üóï
+äàçå ðñéèñàœîïãï šàîòà îåó! Öå-öå!
++++
+" What?[K] I'm sorry to say that you
+have no money here. Your vault is barren!"
+ Œóï?[K] Íîå çàìû üóï ãïâïñéóû, îï
+äåîåã îà öñàîåîéé îåó. Óâïæ öñàîéìéþå
+íåñóâåøëé ðôòóï!
++++
+ How much will you withdraw?
+ Òëïìûëï äåîåã óú öïœåšû
+èàáñàóû?
++++
+ [CS:G][gold_left:0][CR][M:S0]? OK, here it is!
+ [CS:G][gold_left:0][CR][M:S0]? Öïñïšï, ðñïšô!
++++
+Deposit?
+Ðïìïçéóû äåîûãé?
++++
+Withdraw?
+Èàáñàóû äåîûãé?
++++
+Yes
+Äà
+No
+Îåó
++++
+Appraise
+Ïøåîéóû
+Info
+Éîõï
+---
+Appraise
+Ïøåîëà
++++
+Get appraisal
+Ïøåîéóû
++++
+Item info
+Éîõï ï ðñåäíåóå
++++
+Info
+Éîõï
++++
+Cancel
+Ïóíåîà
++++
+" This is [kind:] Appraisal.
+My service costs [CS:G][gold_left:0][CR][M:S0]. What do you
+wish?"
+ Üóï Ðôîëó Ïøåîëé [kind:].
+Íïé ôòìôãé ïáïêäôóòÿ â [CS:G][gold_left:0][CR][M:S0].
+Œóï óåáå ôãïäîï?
++++
+ You have no items to appraise.
+ Ô óåáÿ îåó âåþåê äìÿ ïøåîëé.
++++
+" You...[K]you have no items in need
+of appraisal, it seems."
+ Óú...[K]óú, òôäÿ ðï âòåíô, îå
+éíååšû ðñåäíåóïâ, ëïóïñúí óñåáôåóòÿ
+íïÿ ïøåîëà.
++++
+Appraise
+Ïøåîëà
++++
+Cancel
+Ïóíåîà
++++
+" Your [item:1]? And you
+will pay [CS:G][gold_left:0][CR][M:S0]?"
+ [item:1]?
+É ðìàóïê óâïåê áôäåó [CS:G][gold_left:0][CR][M:S0]?
++++
+ What more do you wish?
+ Œåãï óú åþæ çåìàåšû?
++++
+Item info
+Éîõï ðñåäíåóà
++++
+ You...[K]you won't, eh...?
+ Óú...[K]îå öïœåšû, à...?
++++
+ You...[K]you are short on money.
+ Óåáå...[K]óåáå îå öâàóàåó äåîåã.
++++
+" Let the appraisal begin![K]
+Kwee...![K] Kwee...![K] KWAH![C]"
+ Äà îàœîæóòÿ ïøåîëà![K]
+Ëâåå...![K] Ëâåå...![K] ËÂÏÖ![C]
++++
+ Kwah... HAH!
+ Ëâïö... ÖÀÀ!
++++
+" And so...[K]it is revealed...[C]
+ Within the box...[K]
+was this [me_play:1][string0]!"
+ Éóàë...[K]âòæ ïóëñúóï...[C]
+ Â šëàóôìëå ìåçéó...[K]
+[me_play:1][string0]!
++++
+" You may find yourself unable
+to open a treasure box...[K]
+to know what item is within![C]
+ What a mystery! And in such a
+time of need! Kwah... Hah![C]
+ Bring the impenetrable box
+for me to appraise...[K]
+for me to pry open![C]
+ I shall give you the item and
+reveal what it truly is![C]
+ But...[K]such knowledge comes at
+a cost..."
+
+ Ïóëñúóû šëàóôìëô ò òïëñïâéþåí
+òàíïíô îå óàë-óï ðñïòóï...[K]
+é ôèîàóû, œóï âîôóñé![C]
+ Âïó óàë èàãàäëà! É â óàëïå âñåíÿ
+îôçäú! Ëâïö... Öàà![C]
+ Ðñéîåòé îåñôšéíôý šëàóôìëô
+íîå äìÿ ïøåîëé...[K]
+íîå äìÿ âòëñúóéÿ![C]
+ Ÿ äàí óåáå ðñåäíåó é ïóëñïý,
+œåí îà òàíïí äåìå ïî ÿâìÿåóòÿ![C]
+ Îï...[K]óàëéå èîàîéÿ éíåýó òâïý
+øåîô...
++++
+" When you get another box, I'll
+have the eyes to probe its mysteries."
+ Åòìé óú îàêäæšû åþæ ïäîô
+šëàóôìëô, ÿ òíïãô ôèîàóû åæ òåëñåóú.
++++
+Exit
+Âúöïä
++++
+Yes
+Äà
+No
+Îåó
++++
+" [kind:] Day Care welcomes
+you! â™Є[K] I love taking care of Eggs! â™Є[C]
+ If you ever get an Egg, I'll
+watch it for you! â™Є[K] I'll care for it as if it
+were my very own! â™Є[C]
+ I've heard that you can get Eggs
+as rewards for missions sometimes. â™Є[C]
+ So, if you want an Egg, go on
+lots of missions! â™Є"
+
+ Äïáñï Ðïçàìïâàóû â Äîåâîïê Ôöïä
+[kind:]! ♪ Ÿ ôöàçéâàý èà Ÿêøàíé! ♪[C]
+ Åòìé óåáå ðïðàäæóòÿ Ÿêøï, ÿ
+ðñéòíïóñý èà îéí! ♪[K] Ÿ áôäô ðñéãìÿäúâàóû
+èà îéí, òìïâîï èà òïáòóâåîîúí! ♪[C]
+ Ÿ òìúšàìà, œóï Ÿêøà éîïãäà íïçîï
+ðïìôœéóû ëàë îàãñàäô èà èàäàîéÿ. ♪[C]
+ Ðïüóïíô, åòìé óú öïœåšû îàêóé
+Ÿêøï, âúðïìîÿê èàäàîéÿ! ♪
++++
+" This is [kind:] Day Care!
+I'll take care of any more Eggs that you get![C]
+ I've heard that you can get Eggs
+as rewards for doing missions sometimes! â™Є[C]
+ So, if you want an Egg, go on
+lots of missions! â™Є"
+
+ Üóï Äîåâîïê Ôöïä [kind:]!
+Èäåòû, ÿ ôöàçéâàý èà âòåíé îàêäåîîúíé
+óïáïê Ÿêøàíé![C]
+ Ÿ òìúšàìà, œóï Ÿêøà éîïãäà íïçîï
+ðïìôœéóû ëàë îàãñàäô èà èàäàîéÿ. ♪[C]
+ Ðïüóïíô, åòìé óú öïœåšû îàêóé
+Ÿêøï, âúðïìîÿê èàäàîéÿ! ♪
++++
+Ðñïâåñéóû Ÿêøï
+Éîõï
+Ïóíåîà
++++
+" I'm looking after your Egg! â™Є
+It's doing fabulously well! â™Є"
+ Ÿ ðñéãìÿäúâàý èà óâïéí Ÿêøïí! ♪
+Ïîï ðñåëñàòîï òåáÿ œôâòóâôåó! ♪
++++
+" Please come back another time
+to check on it! â™Є"
+ Âïèâñàþàêòÿ â äñôãïê ñàè é
+ðñïâåñû åãï òïòóïÿîéå! ♪
++++
+" [kind:] Day Care takes
+Eggs and looks after them for PokÃ©mon! â™Є[C]
+ I'm responsible for caring for
+Eggs, raising them as if they were my own! â™Є[C]
+ I hope you're as excited as I am
+to know what's growing inside your Egg! â™Є[C]
+ I've heard that you can get Eggs
+as rewards for missions sometimes. â™Є[C]
+ So, if you want an Egg, go on
+lots of missions! â™Є"
+
+ Äîåâîïê Ôöïä [kind:] ðñéîéíàåó
+Ÿêøà Ðïëåíïîïâ é ôöàçéâàåó èà îéíé! ♪[C]
+ Ÿ îåòô ïóâåóòóâåîîïòóû èà Ÿêøà,
+ôöàçéâàÿ èà îéíé, ëàë èà òïáòóâåîîúíé! ♪[C]
+ Ÿ îàäåýòû, œóï óåáå áôäåó â
+ñàäïòóû ôèîàóû ëóï ñàòóæó â Ÿêøå! ♪[C]
+ Ÿ òìúšàìà, œóï Ÿêøà éîïãäà íïçîï
+ðïìôœéóû ëàë îàãñàäô èà èàäàîéÿ. ♪[C]
+ Ðïüóïíô, åòìé óú öïœåšû îàêóé
+Ÿêøï, âúðïìîÿê èàäàîéÿ! ♪
++++
+" [se_play:0]Huh...?[K] The Egg...[C]
+ Is it...?[K] Could it be...?[K]
+Is it close to hatching?[C]
+ Could it...?![C]
+ Will it...?!"
+
+ [se_play:0]À...?[K] Ÿêøï...[C]
+ Ïîï...?[K] Íïçåó, ïîï...?[K]
+Òëïñï âúìôðéóòÿ?[C]
+ Òëïñï ìé...?![C]
+ Âúìôðéóòÿ ìé...?!
++++
+" Huh...?[K] What?[se_play:0][C]
+ The Egg...[K][me_play:1]hatched![C]
+ A healthy [CS:N][string0][CR]![K]
+Look! See it smile? It's adorable! â™Є[C]
+ Oh? The [CS:N][string0][CR] wants
+to join your team! â™Є[K] What will you do?"
+
+ À...?[K] Œóï?[se_play:0][C]
+ Ÿêøï...[K][me_play:1]âúìôðéìïòû![C]
+ Üóï èäïñïâúê Ðïëåíïî [CS:N][string0][CR]![K]
+Ãìÿäé! Âéäéšû åãï ôìúáëô?
+Ëàë üóï ïœàñïâàóåìûîï! ♪[C]
+ Œóï? [string0] öïœåó áúóû â óâïåê
+ëïíàîäå! ♪[K] Ëàë ðïòóôðéšû?
++++
+Accept [string0] into the team?
+Ðñéîÿóû Ðïëåíïîà [string0] â ëïíàîäô?
++++
+"You didn't accept the baby PokÃ©mon for your
+exploration team.[C]
+So [CS:N][string0][CR] went off, happy and
+carefree!"
+Âú îå ðñéîÿìé íàìúšà-Ðïëåíïîà â âàšô
+ëïíàîäô éòòìåäïâàóåìåê.[C]
+[CS:N][string0][CR] òœàòóìéâï é áåèèàáïóîï
+ôöïäéó âïòâïÿòé!
++++
+" Hmmm...[K] Well...[K] Not quite yet...[C]
+ Give it a little more time, then
+come by for another look! â™Є"
+ Öííí...[K] Œóï-ç...[K] Åþæ îå âñåíÿ...[C]
+ Ðñïòóï äàê åíô åþæ îåíîïçåœëï
+âñåíåîé é îàâåòóé åãï â äñôãïê ñàè! ♪
++++
+"[CS:F][string0][CR] joined the team![C]
+[CS:F][string0][CR] is happy to be a member![C]
+[CS:F][string0][CR] went off to be a part of your
+[CS:K]Chimecho[CR] Assembly roster."
+
+[CS:F][string0][CR] âòóôðàåó â ëïíàîäô![C]
+[CS:F][string0][CR] ñàäôåóòÿ óïíô, œóï îàöïäéóòÿ
+â âàšåê ãñôððå![C]
+[CS:F][string0][CR] ôöïäéó é òóàîïâéóòÿ îà
+ïçéäàîéå â Òáïñîïí Ðôîëóå [CS:K]Œàêíåëï[CR].
++++
+" Huh? Well, this is unusual![K]
+The baby is holding a special item![C]
+ You should think about keeping
+that item with you! â™Є"
+
+ Œóï? Ïãï, ëàë îåïáúœîï![K]
+Íàìúš äåñçéó ðñé òåáå ïòïáúê ðñåäíåó![C]
+ Âïèíïçîï, òóïéó ïòóàâéóû üóïó
+ðñåäíåó òåáå! ♪
++++
+" Or that's what I would suggest,
+if you had the room for it.[C]
+ You don't, so I'll take it over to
+storage for you later! â™Є"
+
+ Îô, éìé üóï óï, œóï ÿ áú
+ðñåäìïçéìà, áôäû ô óåáÿ äìÿ îåãï íåòóï.[C]
+ Îï, åãï ô óåáÿ îåó, ðïüóïíô ÿ
+ôáåñô åãï â óâïæ öñàîéìéþå! ♪
++++
+"A new member joined the team!
+Give [string:0] a nickname?"
+Ë âàí ðñéòïåäéîÿåóòÿ îïâúê œìåî ãñôððú!
+Äàóû Ðïëåíïîô [string:0] ðñïèâéþå?
++++
+You do NOT want to throw that out!
+Âú ÎÅ èàöïóéóå üóï âúáñàòúâàóû!
++++
+Refused to take [CS:N][string0][CR] as a member.
+Âú ïóëàèàìéòû âèÿóû Ðïëåíïîà [CS:N][string0][CR]
+â ãñôððô.
++++
+Received
+Ðïìôœåîï
+---
+Item: [kind:0]
+Ðñåäíåó: [kind:0]
++++
+Select with [M:B6]
+Âúáïñ: [M:B6]
++++
+Cancel
+Ïóíåîà
++++
+Swap
+Ïáíåî
++++
+View List
+Ðñïòíïóñ Òðéòëà
++++
+Info
+Éîõïñíàøéÿ
++++
+Exit
+Âúöïä
++++
+" Meh-heh-heh. Welcome to the
+[kind:] Swap Shop. Want to swap? It'll
+cost ya [CS:G][gold_left:0][CR][M:S0]."
+ Öå-öå-öå. Äïáñï ðïçàìïâàóû â
+Ïáíåîîôý Ìàâëô [CS:K]Ëñïãàîëà[CR]. Öïœåšû œóï-óï
+ïáíåîÿóû? Üóï ïáïêäæóòÿ óåáå â [CS:G][gold_left:0][CR][M:S0].
++++
+" Meh-heh-heh. Anything else you
+wanna swap?"
+ Öå-öå-öå. Öïœåšû ïáíåîÿóû
+œåãï-îéáôäû åþå?
++++
+" Meh-heh-heh...[K] Hey, hold it!
+No money, no swap. Got that?"
+ Öå-öå-öå...[K] Üê, ðïòóïê-ëà!
+Îåó äåîåã - îåó ïáíåîà. Âòæ ÿòîï?
++++
+" Didn't I tell ya? It's [CS:G][gold_left:0][CR][M:S0]
+for every swap. Meh-heh-heh![C]
+ That means you don't have the
+money to do it right now!"
+
+ Œóï ÿ óåáå ãïâïñéì? Èà ëàçäúê
+ïáíåî, ðìàóà [CS:G][gold_left:0][CR][M:S0]. Öå-öå-öå![C]
+ Üóï èîàœéó, œóï ô óåáÿ îåó äåîåã
+îà ïáíåî!
++++
+" Let me take a look... Nope, you
+don't have a set of swappable items. Meh-heh."
+ Äàê-ëà âèãìÿîôóû... Îå-à, ô
+óåáÿ îåó ðñåäíåóïâ îà ïáíåî. Öå-öå.
++++
+" Meh-heh-heh. Sorry...[C]
+ It looks like there's nobody to trade with now."
+ Öå-öå-öå. Òïçàìåý...[C]
+ Ðïöïçå, ò óïáïê ðïëà îåëïíô
+ïáíåîéâàóûòÿ.
++++
+" So which Exclusive Item do you
+want?"
+
+ Óàë ëàëïê Üëòëìýèéâîúê Ðñåäíåó
+óåáå îôçåî?
++++
+ You don't wanna? Meh-heh-heh!
+ Îéœåãï îå îàäï? Öå-öå-öå!
++++
+ What...? [K]Whoa![C]
+ Œóï...? [K]Ïãï![C]
++++
+" So you wanna swap your
+[item:1] and [item:2] for that?[C]
+ It'll cost [CS:G][gold_left:0][CR][M:S0]. OK?"
+
+ Öïœåšû ïáíåîÿóû îà üóï òâïé
+[item:1] é [item:2]?[C]
+ Üóï ïáïêäæóòÿ óåáå â [CS:G][gold_left:0][CR][M:S0]. Ðïêäæó?
++++
+" So you wanna swap your
+[item:1], [item:2], and
+[item:3] for that?[C]
+ It'll cost [CS:G][gold_left:0][CR][M:S0]. OK?"
+
+ Öïœåšû ïáíåîÿóû îà üóï òâïé
+[item:1], [item:2] é
+[item:3]?[C]
+ Üóï ïáïêäæóòÿ óåáå â [CS:G][gold_left:0][CR][M:S0]. Ðïêäæó?
++++
+" So you wanna swap your
+[digits:1] Exclusive Items, then?[C]
+ It'll cost [CS:G][gold_left:0][CR][M:S0]. OK?"
+
+ Öïœåšû ïáíåîÿóû îà üóï òâïé
+[digits:1] Üëòëìýèéâîúö Âåþåê?[C]
+ Üóï ïáïêäæóòÿ óåáå â [CS:G][gold_left:0][CR][M:S0]. Ðïêäæó?
++++
+" Let's do this swap then!
+Meh-heh-heh![C]"
+
+ Óïãäà, îàœîæí ïáíåî!
+Öå-öå-öå![C]
++++
+"[CN][name:0] put the [se_play:0]Exclusive Items
+[CN]in the Swap Cauldron.[C]"
+
+[CN][name:0] ëìàäæó [se_play:0]Üëòëìýèéâîúå Ðñåäíåóú
+[CN]â Ïáíåîîúê Ëïóæì.[C]
++++
+" Meh-heh-heh![K]
+Seems to me your swap went off
+without a hitch![C]
+ Those Exclusive Items you
+swapped got you this [item:1].[C]
+ I'd say it's pretty rare.
+Treat it with care.
+Meh-heh-heh!!"
+
+ Öå-öå-öå![K]
+Ëàë ðï íîå, óâïê ïáíåî ðñïšæì áåè
+òôœëà é èàäïñéîëé![C]
+ Üóé Üëòëìýèéâîúå Ðñåäíåóú áúìé
+ïáíåîåîú îà [item:1].[C]
+ Ÿ áú òëàèàì, œóï âåþéøà ñåäëàÿ.
+Áåñåãé åæ é ðïìûèà áôäåó âåœîàÿ.
+Öå-öå-öå!!
++++
+"[CN][hero] accepted
+[CN]the [me_play:1][item:1]."
+
+[CN][hero] ðïìôœàåó
+[CN][me_play:1][item:1].
++++
+" Meh-heh-heh![K] Seems that we
+brewed up a successful swap there![C]
+ What? [K]What's that?!
+[item:1]?! I must be hallucinating![C]
+ That's unbelievably valuable![K]
+So incredibly special![C]
+ I rarely see something so
+valuable! Treat it with respect! Meh-heh-heh!"
+
+ Öå-öå-öå![K] Ðïöïçå, ðñéãïóïâéìòÿ
+ôòðåšîúê ïáíåî![C]
+ Œóï?[K] Œóï üóï óàëïå?!
+[item:1]?! Äïìçîï áúóû, íîå
+íåñåþéóòÿ![C]
+ Üóï îåâåñïÿóîï øåîîàÿ âåþû![K]
+Îåâåñïÿóîï ïòïáåîîàÿ âåþû![C]
+ Ñåäëï ôäàæóòÿ ôâéäåóû œóï-óï
+òóïìû øåîîïå! Áåñåãé üóô âåþû!
+Öå-öå-öå!
++++
+"[CN][hero] accepted the extremely
+[CN]rare and precious [me_play:1][item:1]!"
+
+[CN][hero] èàáéñàåó îåâåñïÿóîï
+[CN]ñåäëéê é øåîîúê [me_play:1][item:1]!
++++
+" ...But you can't take it. Not when
+you don't have room for it! Meh-heh-heh.[C]
+ So I'll send it to your storage
+later. You be sure to check on it."
+
+ ...Îï óú îå òíïçåšû üóï âèÿóû.
+Îå óïãäà, ëïãäà ô óåáÿ îåó íåòóà
+â Òôíëå! Öå-öå-öå.[C]
+ Ðïüóïíô, ÿ ïóðñàâìý üóï â óâïæ
+öñàîéìéþå. Ïáÿèàóåìûîï èàãìÿîé óôäà.
++++
+" See the Swap Cauldron behind
+me? When ya throw in some Exclusive Items...[C]
+ They're swapped for one
+Exclusive Item offered up by another PokÃ©mon.[C]
+ But you have to put in a set of
+swappable items![C]
+ Don't worry. It's worth it. You
+can get back rare items in swaps.[C]
+ Count on it! Meh-heh-heh!"
+
+ Âéäéšû ðïèàäé íåîÿ Ïáíåîîúê
+Ëïóæì? Åòìé áñïòéóû óôäà îåíîïãï
+Üëòëìýèéâîúö Ðñåäíåóïâ...[C]
+ Ïîé áôäôó ïáíåîåîú îà üëèåíðìÿñ
+Üëòëìýèéâîïãï Ðñåäíåóà äìÿ äñôãïãï
+Ðïëåíïîà.[C]
+ Îï óåáå îôçîï áñïòéóû óôäà
+îàáïñ éè ðñåäíåóïâ, ëïóïñúå ðïääàýóòÿ
+ïáíåîô![C]
+ Îå ðåñåçéâàê. Üóï óïãï òóïéó.
+Ñåäëéå ðñåäíåóú íïçîï áôäåó âåñîôóû.[C]
+ Ðïìïçéòû îà íåîÿ! Öå-öå-öå!
++++
+" If you look up the [CS:E]Info[CS::D] on
+items, the ones that are Exclusive Items will 
+have this [M:S3] mark on them.[C]
+ You'll need a set of items with
+the [M:S3] mark to do the swap.[C]
+ Let me give you an example.[K]
+Let's say you have a [CS:Z]Shinx Claw[CR] and
+a [CS:Z]Shinx Fang[CR]...[C]
+ You could swap them for
+a [CS:Z]Flash Tag[CR]. Get it?[C]
+ Also,[K] you don't have to be
+limited to just your Treasure Bag...[C]
+ You can trade the Exclusive
+Items in your storage as well.[C]
+ So you don't have to worry
+about dragging things out of your storage
+and lugging them all the way here.[C]
+ Keep at your exploration thing
+so you can do better swaps, OK?
+Meh-heh-heh!"
+
+ Åòìé óú áôäåšû òíïóñåóû [CS:E]Éîõï[CS::D] ô
+ðñåäíåóïâ, óï èàíåóéšû, œóï Üëòëìýèéâîúå
+Ðñåäíåóú éíåýó ðïíåóëô [M:S3][C]
+ Œóïáú ðñïâåòóé ïáíåî, óåáå
+ðïóñåáôåóòÿ îàáïñ ðñåäíåóïâ, œóï
+ïóíåœåîú [M:S3].[C]
+ Âïó óåáå ðñéíåñ äìÿ ÿòîïòóé.[K]
+Äïðôòóéí, ô óåáÿ åòóû [CS:Z]Ëïãïóû Šéîëòà[CR] é
+[CS:Z]Ëìúë Šéîëòà[CR]...[C]
+ Óú òíïçåšû ðïíåîÿóû éö îà
+[CS:Z]Ÿñìúë Âòðúšëé[CR]. Ðïîéíàåšû?[C]
+ Ëñïíå óïãï,[K] îå ïáÿèàóåìûîï
+äåñçàóû Üëòëìýèéâîúå Ðñåäíåóú äìÿ ïáíåîà
+â òâïåê òôíëå...[C]
+ Íïçîï ïáíåîéâàóû Üëòëìýèéâîúå
+Ðñåäíåóú, œóï îàöïäÿóòÿ â öñàîéìéþå.[C]
+ Ðïüóïíô, îå òóïéó ðåñåçéâàóû èà
+óï, œóï ðñéäæóòÿ óàòëàóû òýäà âåþé éè 
+öñàîéìéþà.[C]
+ Òïâåñšàê âúìàèëé é òíïçåšû
+ïáíåîéâàóû ðñåäíåóú îà áïìåå öïñïšéå
+é ðïìåèîúå âåþé, öïñïšï? Öå-öå-öå!
++++
+" Which Exclusive Items will have
+an effect on you or your team...?[K]
+You can view them in a list.[C]
+ If you see an Exclusive Item you
+want on the list...[K]then of course you can
+trade for it!"
+
+ Ëàëéå Üëòëìýèéâîúå Ðñåäíåóú
+âìéÿýó îà óåáÿ éìé óâïý ãñôððô...?[K]
+Üóï íïçîï ôèîàóû â òðéòëå.[C]
+ Åòìé â òðéòëå åòóû ðñåäíåó,
+ëïóïñúê îôçåî óåáå...[K] Óïãäà, ëïîåœîï çå,
+óú òíïçåšû åãï ðïìôœéóû â ïáíåîå!
++++
+ Come again! Meh-heh-heh!
+ Ðñéöïäé åþæ! Öå-öå-öå!
++++
+" OK, so which Exclusive
+Items are you offering in return?"
+ Öïñïšï, ëàëéå Üëòëìýèéâîúå
+Ðñåäíåóú óú ðñåäìàãàåšû âèàíåî?
++++
+" Whose list of Exclusive Items
+do you want to see?"
+ Œåê òðéòïë Üëòëìýèéâîúö
+Ðñåäíåóïâ óú öïœåšû ôâéäåóû?
++++
+" Here's a list of Exclusive Items
+that [name:0] can use."
+ Âïó òðéòïë Üëòëìýèéâîúö
+Ðñåäíåóïâ, ëïóïñúå ðïäïêäôó äìÿ
+[name:0].
++++
+" Would you like to see anyone
+else's Exclusive Items list?"
+ Öïœåšû ðñïòíïóñåóû òðéòïë
+œûéö-ìéáï Üëòëìýèéâîúö Ðñåäíåóïâ?
++++
+Trade Info
+Éîõï ï Ïáíåîàö
++++
+List Info
+Éîõï ï Òðéòëàö
++++
+Exit
+Âúöïä
++++
+" What information would you like
+to get?"
+ Ï œæí óú öïœåšû ôèîàóû?
++++
+Requirement
+Óñåáïâàîéÿ
++++
+|[CLUM_SET:132]Number Held
+|[CLUM_SET:122]Â îàìéœéé
++++
+"Any
+[CLUM_SET:24]Exclusive Items[CLUM_SET:91][value:0:3]"
+Ìýáúå
+[CLUM_SET:24]Üëòëìýèéâîúå Ðñåäíåóú[CLUM_SET:122][value:0:3]
++++
+[item:0][CLUM_SET:103]1[S:4]|[CLUM_SET:170][value:0:3]
+[item:0][CLUM_SET:123]1[S:4]|[CLUM_SET:170][value:0:3]
++++
+Exclusive Items in Bag: [CLUM_SET:170][value:0:3]
+Üëòëìýèéâ. Ðñåäíåóú â Òôíëå:[CLUM_SET:170][value:0:3]
++++
+Excl. Items in Storage: [CLUM_SET:170][value:0:3]
+Üëòëì. Ðñåäíåóú â Öñàîéìéþå:[CLUM_SET:170][value:0:3]
++++
+Members
+Œìåîú Ãñôððú
++++
+Info
+Éîõï
++++
+Cancel
+Ïóíåîà
++++
+Make Leader
+Äàóû Ìéäåñà
++++
+Join Team
+Â Ãñôððô
++++
+Standby
+Â Ñåèåñâ
++++
+Say Farewell
+Ðïðñïþàóûòÿ
++++
+Summary
+Òâïäëà
++++
+Moves
+Ðñéæíú
++++
+Check IQ
+Òâåñëà IQ
++++
+Exit
+Âúöïä
++++
+" Hello, there! Welcome to
+[kind:] Assembly!"
+ Ðñéâåó! Äïáñï ðïçàìïâàóû îà
+Òáïñîúê Ðôîëó [kind:]!
++++
+" Did you need me for anything
+else?"
+ Îôçîï œóï-îéáôäû åþæ?
++++
+" Sure thing![K] I'll reassemble your
+team to make [name:] the leader.[C]
+ From now on, [name:] will
+serve as the leader in a dungeon.[C]
+ [name:], good luck as you
+do good!"
+
+ Ëïîåœîï! Ÿ ðåñåòïáåñô óâïý
+ãñôððô, œóïáú ìéäåñïí ðñéèîàâàìé
+[name:].[C]
+ Ïóîúîå, [name:] áôäåó
+âåòóé ãñôððô â ðïäèåíåìûÿö.[C]
+ Ôäàœé óåáå, [name:]!
++++
+" Sure thing! [K][name:] will be
+taken off the active-team roster for rest."
+ Öïñïšï! [K][name:] ðïëéîåó
+óåëôþôý ãñôððô é ïóðñàâéóòÿ â ñåèåñâ.
++++
+" You want to add [name:] to
+the active-team roster, right?[K] Let's do it![C]
+[se_play:0] Dingly-ding... Ding![K]
+Calling [name:] to active duty!"
+ Öïœåšû äïáàâéóû [name:] â
+óåëôþôý ãñôððô, âåñîï?[K] Óàë é òäåìàåí![C]
+[se_play:0] Äéìéîû-äéîû... Äéîû![K]
+[name:] âúèúâàåóòÿ îà òìôçáô!
++++
+" Let me confirm that! Do you
+really want to release [name:] from your
+list of recruited PokÃ©mon forever?[C]
+ If you release it, you can never
+add this specific member to your active
+team roster ever again. [K]Is that really OK?"
+
+ Îôçîï ðïäóâåñçäåîéå! Óú
+äåêòóâéóåìûîï öïœåšû îàâòåãäà ôáñàóû
+Ðïëåíïîà [name:] éè òðéòëà ñåëñôóïâ?[C]
+ Åòìé óú åãï âúðôòóéšû, óï ïî
+áïìûšå îéëïãäà îå òíïçåó ðñéòïåäéîéóûòÿ
+â óåëôþôý ãñôððô.[K] Óïœîï âòæ ôòóñàéâàåó?
++++
+" OK! Confirmed.[C]
+ I'll let [name:] know that
+it has been released from Team [team:]."
+
+ Öïñïšï! Ðïóäâåñçäåîï.[C]
+ [name:] áôäåó ïðïâåþæî, œóï
+ïî áïìûšå îå ÿâìÿåóòÿ œàòóûý Ëïíàîäú
+[team:].
++++
+" Using my Assembly, you can
+choose which of your team members you'd like
+to assemble for an exploration outing.[C]
+ The members that you choose
+will wait down the stairs just outside
+of the guild...[C]
+ They'll wait for you near the
+well at the intersection. You can check on them
+there after you put them on the active roster.[C]
+ Also, when you're in a dungeon,[K]
+if a PokÃ©mon asks to join your team, and you
+already have the same PokÃ©mon on your team...[C]"
+
+ Â íïæí Òáïñîïí Ðôîëóå, óú
+íïçåšû âúáñàóû, ëàëéå éè œìåîïâ óâïåê
+ëïíàîäú áôäôó òïáñàîú â üëòðåäéøéý.[C]
+ Âúáñàîîúå œìåîú ëïíàîäú áôäôó
+çäàóû îàœàìà üëòðåäéøéé òîàñôçé
+ãéìûäéé...[C]
+ Ïîé áôäôó çäàóû îà ðåñåëñæòóëå
+âïèìå ëïìïäøà. Ðïòìå óïãï, ëàë ïîé
+òóàîôó œàòóûý óåëôþåê ãñôððú, óú òíïçåšû
+ðïãïâïñéóû ò îéíé.[C]
+ Ëñïíå óïãï, åòìé óú îàöïäéšûòÿ
+â ðïäèåíåìûå é Ðïëåíïî èàöïœåó òóàóû
+œàòóûý óâïåê ëïíàîäú é ô óåáÿ ôçå áôäåó
+óàëïê Ðïëåíïî...[C]
++++
+" That PokÃ©mon won't be displayed
+in [CS:N]this color[CR] but will appear in [CS:j]this color[CR]
+instead.[C]
+ For example, say you've got a
+Starly on your team...[C]
+ In the dungeon, if another Starly
+asks to join your team...[C]
+ That [CS:j]Starly[CR] will appear in [CS:j]this
+color[CR] instead, so keep an eye out! â™Є[C]
+ Finally, [K]you will not be able to
+take any other team members to some
+dungeons.[C]
+ And there are still other
+dungeons that limit the total number of
+members you can take with you...[C]
+ You'll discover all these things
+and more as you explore!"
+
+ Óï, üóïó Ðïëåíïî îå áôäåó
+ïóïáñàçæî [CS:N]üóéí øâåóïí[CR], à áôäåó éíåóû
+[CS:j]üóïó øâåó[CR].[C]
+ Ë ðñéíåñô, åòìé ô óåáÿ â
+ëïíàîäå åòóû Òóàñìé...[C]
+ É â ðïäèåíåìûå äñôãïê Òóàñìé
+ðïðñïòéóòÿ â óâïý ëïíàîäô...[C]
+ Îàèâàîéå üóïãï [CS:j]Òóàñìé[CR] áôäåó
+ïëñàšåîï â [CS:j]üóïó øâåó[CR], óàë œóï, áôäû
+âîéíàóåìûîåå! ♪[C]
+ É îàëïîåø, [K]â îåëïóïñúå éè
+ðïäèåíåìéê óú îå òíïçåšû âèÿóû ò òïáïê
+äïðïìîéóåìûîúö œìåîïâ ãñôððú.[C]
+ Ëñïíå óïãï, åòóû óàëéå
+ðïäèåíåìûÿ, ëïóïñúå ïãñàîéœéâàýó œéòìï
+âïèíïçîúö œìåîïâ ãñôððú...[C]
+ Œåí áïìûšå óú áôäåšû
+éòòìåäïâàóû, óåí áïìûšå îïâïãï óú
+áôäåšû ôèîàâàóû!
++++
+" Using my Assembly, you can
+choose which of your team members you'd like
+to assemble for an exploration outing.[C]"
+ Îà íïæí Òáïñîïí Ðôîëóå, óú
+íïçåšû âúáéñàóû, ëàëéå œìåîú ëïíàîäú
+áôäôó òïáñàîú â üëòðåäéøéý![C]
++++
+" The members you choose don't
+show up here, though![C]
+ They'll wait for you near where
+you head out of town to a dungeon![C]"
+ Îï âúáñàîîúå óïáïê œìåîú
+ëïíàîäú îå áôäôó çäàóû èäåòû![C]
+ Ïî áôäôó çäàóû óåáÿ âïèìå
+âúöïäà éè ãïñïäà![C]
++++
+ May your exploration go well!
+ Ðôòóû óâïé üëòðåäéøéé ðñïêäôó
+ãìàäëï!
++++
+" The exploration team already has
+the same kind of PokÃ©mon as [name:].[C]
+ So I'm sorry.[K] You can't add
+[name:] to the active team."
+ Â éòòìåäïâàóåìûòëïê ãñôððå ôçå
+åòóû óàëïê Ðïëåíïî ëàë [name:].[C]
+ Íîå çàìû. [K][name:] îå íïçåó
+áúóû â óåëôþåê ãñôððå.
++++
+Òïñó.: [string0]
+Îéœåãï
++++
+Exit
+Âúöïä
++++
+Proceed
+Òâÿèàóû
++++
+Info
+Éîõï
++++
+Cancel
+Ïóíåîà
++++
+Set move
+Èàäàóû
++++
+Link
+Òâÿèàóû
++++
+Delink
+Ñàèäåìéóû
++++
+Forget
+Èàáúóû
++++
+Deselect
+Ôáñàóû
++++
+Switch
+Òíåîéóû
++++
+Remember
+Âòðïíîéóû
++++
+Moves
+Ðñéæíú
++++
+Summary
+Òâïäëà
++++
+Check IQ
+Òâåñëà IQ
++++
+Info
+Éîõï
++++
+Cancel
+Ïóíåîà
++++
+" Howdy! Welcome to the
+[kind:] Link Shop![C]
+ I'll link all the moves you want
+for just [CS:G][gold_left:0][CR][M:S0] a session!"
+
+ Ðñéâåó! Äïáñï ðïçàìïâàóû â
+Òâÿèû-Ìàâëô [CS:K]Üìåëóéâàêñà[CR]![C]
+ Ÿ òâÿçô ìýáúå óâïé ðñéæíú,
+âòåãï ìéšû [CS:G][gold_left:0][CR][M:S0] èà òåàîò!
++++
+ Good! Who wants to link moves?
+ Ïóìéœîï! Ëïíô îôçîï òâÿèàóû
+ðñéæíú?
++++
+ So do we keep going?
+ Óàë œóï, ðñïäïìçéí?
++++
+" Huh? [K]You seem to be a special
+PokÃ©mon![C]
+ I don't think that I can help you
+remember any forgotten moves. Sorry!"
+
+ Œóï? [K]Ðïöïçå, óú îå òïâòåí
+ïáúœîúê Ðïëåíïî![C]
+ Îå äôíàý, œóï ÿ òíïãô ðïíïœû
+óåáå âòðïíîéóû èàáúóúå ðñéæíú. Éèâéîé!
++++
+" Huh? [K]You don't seem to have
+forgotten any moves...so I can't help you
+remember any!"
+ Œóï? [K]Ô óåáÿ îåó îéëàëéö
+èàáúóúö ðñéæíïâ... Ðïüóïíô ÿ îå òíïãô
+ðïíïœû óåáå âòðïíîéóû œóï-ìéáï! 
++++
+" So which forgotten move do you
+want to remember?"
+ Ëàëïê èàáúóúê ðñéæí îôçîï
+âòðïíîéóû?
++++
+" So you want to remember the
+[move:] move?[K] OK, here goes![C]
+ Crank it up! Bzzzzt...[K] Zzzzat![K]
+Electivire![C]
+ Success![K][se_play:0] You remembered the
+[move:] move!"
+
+ Èîàœéó, îôçîï âòðïíîéóû ðñéæí
+[move:]?[K] Öïñïšï, îàœéîàåí![C]
+ Èàâïçôòû! Áèèèóû...[K] Èèèèóû![K]
+Üìåëóéâàêñ![C]
+ Ôòðåö![K][se_play:0] Óú âòðïíéîàåšû
+ðñéæí [move:]!
++++
+"This PokÃ©mon can't learn another move until it
+forgets one first. Choose a move to forget."
+
+Üóïó Ðïëåíïî îå òíïçåó âúôœéóû äñôãïê
+ðñéæí, ðïëà ïî îå èàáôäåó éèâåòóîúê åíô
+ðñéæí. Âúáåñéóå ðñéæí, œóïáú åãï èàáúóû.
++++
+" So forget the [move:]
+move and any moves linked to it, then
+remember the [move:1] move?"
+
+ Èàáúóû ðñéæí [move:]
+é âòå òâÿèàîîúå ò üóéí ðñéæíú, é
+âòðïíîéóû ðñéæí [move:1]?
++++
+" OK, here goes![C]
+ Crank it up! Bzzzzt...[K] Zzzzat![K]
+Electivire![C]
+ Success![C]
+ You've forgotten the move
+[move:] and any moves linked to it...
+And remembered[se_play:0] [move:1]!"
+
+ Èîàœéó, îôçîï âòðïíîéóû ðñéæí
+[move:]?[K] Öïñïšï, îàœéîàåí![C]
+ Èàâïçôòû! Áèèèóû...[K] Èèèèóû![K]
+Üìåëóéâàêñ![C]
+ Ôòðåö![C]
+ Óú èàáúâàåšû ðñéæí
+[move:] é âòå òâÿèàîîúå ò üóéí
+ðñéæíú...[C]
+ É âòðïíéîàåšû[se_play:0] [move:1]!
++++
+" So forget the [move:]
+move, then remember [move:1]?"
+ Èàáúóû ðñéæí [move:]
+é âòðïíîéóû ðñéæí [move:1]?
++++
+" OK, here goes![C]
+ Crank it up! Bzzzzt...[K] Zzzzat![K]
+Electivire![C]
+ Success![C]
+[se_play:0] [name:] forgot the move
+[move:] and remembered
+[move:1]!"
+
+ Öïñïšï, îàœéîàåí![C]
+ Èàâïçôòû! Áèèèóû...[K] Èèèèóû![K]
+Üìåëóéâàêñ![C]
+ Ôòðåö![C]
+[se_play:0] [name:] èàáúâàåó ðñéæí
+[move:] é âòðïíéîàåó ðñéæí
+[move:1]!
++++
+" Huh?[K] You don't have enough
+money."
+ Œóï?[K] Ô óåáÿ îåäïòóàóïœîï
+äåîåã.
++++
+" You won't have any moves at all
+if you forget that move."
+
+ Åòìé óú èàáôäåšû üóïó ðñéæí,
+ô óåáÿ éö âïâòå îå ïòóàîåóòÿ.
++++
+" So forget the [move:]
+move and any moves linked to it?"
+ Óàë œóï, èàáúóû ðñéæí
+[move:] é âòå òâÿèàîîúå ò üóéí
+ðñéæíú?
++++
+" OK, here goes![C]
+ Crank it up! Bzzzzt...[K] Zzzzat![K]
+Electivire![C]
+ Success![C]
+ You've forgotten the move
+[move:] and any moves linked to it!"
+
+ Öïñïšï, îàœéîàåí![C]
+ Èàâïçôòû! Áèèèóû...[K] Èèèèóû![K]
+Üìåëóéâàêñ![C]
+ Ôòðåö![C]
+ Óú èàáúâàåšû ðñéæí
+[move:] é âòå òâÿèàîîúå ò üóéí
+ðñéæíú!
++++
+" So forget the move
+[move:]?"
+ Èàáúóû ðñéæí [move:]?
++++
+" OK, here goes![C]
+ Crank it up! Bzzzzt...[K] Zzzzat![K]
+Electivire![C]
+ Success![C]
+ [name:] forgot the move
+[move:]!"
+
+ Öïñïšï, îàœéîàåí![C]
+ Èàâïçôòû! Áèèèóû...[K] Èèèèóû![K]
+Üìåëóéâàêñ![C]
+ Ôòðåö![C]
+ [name:] èàáúâàåó ðñéæí
+[move:]!
++++
+" Sure thing! What do you want to
+know?"
+ Öïñïšï! Œóï óú öïœåšû èîàóû?
++++
+" When you use moves in a
+dungeon...[K]it takes time to use the move
+menu each and every time![C]
+ But you can take a shortcut by
+using the Set option for instant use![C]
+ After you set a move, you can
+press [M:B6] and [M:B2] to use it instantly![K]
+You see? It's easy![C]
+ Just set the move while in a
+dungeon...[K]then press [M:B6] and [M:B2] to use it![K]
+It's so convenient![C]
+ You can also switch your set
+move at any time in a dungeon. Check it out!"
+
+ Ëïãäà óú ðñéíåîÿåšû ðñéæíú â
+ðïäèåíåìûå...[K] Ìåèóû ëàçäúê ñàè â íåîý é
+éòðïìûèïâàóû ðñéæí ïóóôäà òìéšëïí äïìãï![C]
+ Îï íïçîï òïëñàóéóû âñåíÿ,
+åòìé Èàäàóû ðñéæí îà áúòóñïå ðñéíåîåîéå![C]
+ Ðïòìå óïãï, ëàë óú èàäàšû
+ðñéæí, îàçíé [M:B6] é [M:B2], œóïáú áúòóñï
+ðñéíåîéóû åãï![K] Âéäéšû, âòæ ðñïòóï![C]
+ Ðñïòóï èàäàê ðñéæí âï âñåíÿ
+âúìàèëé...èàóåí îàçíé [M:B6] é [M:B2], œóïáú
+ðñéíåîéóû åãï! Ëàë ôäïáîï![C]
+ Óàëçå óú íïçåšû â ìýáïå
+âñåíÿ éèíåîéóû òâïê èàäàîîúê ðñéæí.
+Ïáÿèàóåìûîï ðïðñïáôê óàë òäåìàóû!
++++
+" When two or three moves are
+linked...[K]you can unleash them as part of a
+single, chained move! All in one turn![C]
+ For example, if the moves
+[CS:M]Scratch[CR] and [CS:M]Growl[CR] are linked...[C]
+ Both [CS:M]Scratch[CR] and [CS:M]Growl[CR] are
+used in one turn![K] Amazing, huh?[C]
+ If you use links...[K]well, depending
+on which moves you link...[K]you can unleash
+some powerful chained results![C]
+ There is a slight drawback. Your
+Belly goes down faster if you use linked
+moves...[C]
+ And the more moves you have
+linked together, the faster you'll get hungry![C]
+ Here's a major detail. [K]Linked
+moves are delivered from top to bottom!"
+
+ Åòìé òâÿèàîú äâà éìé óñé
+ðñéæíà...óú òíïçåšû ðñéíåîéóû éö â
+ïäéî öïä ëàë òåñéý ðñéæíïâ![C]
+ Ë ðñéíåñô, åòìé òâÿèàóû
+ðñéæíú [CS:M]Øàñàðàîéå[CR] é [CS:M]Ñúœàîéå[CR]...[C]
+ Óï, é [CS:M]Øàñàðàîéå[CR] é [CS:M]Ñúœàîéå[CR]
+áôäôó ðñéíåîåîú â ïäéî öïä![K] Èäïñïâï,
+ðñàâäà?[C]
+ Åòìé ðïìûèïâàóûòÿ óàëéí...[K]
+Óï üóé òâÿèàîîúå ðñéæíú...[K] Íïãôó
+ïëàèàóûòÿ íïþîïê ëïíáéîàøåê![C]
+ Îï åòóû îåáïìûšïê ðïäâïö.
+Ðñé ðñéíåîåîéé òâÿèàîîúö ðñéæíïâ, áôäåó
+ñàòöïäïâàóûòÿ óâïÿ Òúóïòóû...[C]
+ É œåí áïìûšå ðñéæíïâ áôäåó
+îàöïäéóûòÿ â òåñéé ðñéæíïâ, óåí áúòóñåå
+óú ðñïãïìïäàåšûòÿ![C]
+ É âïó åþå ëïå-œóï.[K] Òâÿèàîîúå
+ðñéæíú ðñéíåîÿýóòÿ â ðïñÿäëå òâåñöô
+âîéè!
++++
+" You can split up linked moves by
+selecting the Delink command.[C]
+ You can also switch around the
+order in which linked moves are delivered.[C]
+ Switch them by pressing [M:B7]
+while pressing up or down on [M:B8].[C]
+ Think about how you can combine
+moves to create powerful chain effects! Play
+around with links to unleash your potential!"
+
+ Íïçîï ñàèäåìéóû òâÿèàîîúå
+ðñéæíú, åòìé âúáñàóû ëïíàîäô
+"Ñàèäåìéóû".[C]
+ Óú óàëçå íïçåšû òíåîéóû ðïñÿäïë
+ðñéíåîåîéÿ òâÿèàîîúö ðñéæíïâ.[C]
+ Òíåîé éö, èàçàâ [M:B7] é
+îàçéíàÿ ââåñö éìé âîéè îà [M:B8].[C]
+ Ðïäôíàê, ëàëéå ðñéæíú íïçîï
+òâÿèàóû, œóïáú äïòóéœû íïþîïê òåñéé
+ðñéæíïâ![C]
+ Üëòðåñéíåîóéñôê é ñàòëñïê
+òâïê éòóéîîúê ðïóåîøéàì!
++++
+" What if you had to forget a
+move, then later wanted it back?[K]
+It happens a lot, right?[C]
+ That's when you need to come
+see me for my help.[C]
+ My shocking talents can jolt you
+into remembering forgotten moves![C]
+ You know, things slip our minds,
+and we forget important stuff.[C]
+ All it takes is a tiny jolt![K]
+Just a bracing zap! [K]The spark of an idea![C]
+ A flash of inspiration![K] And that's
+how you remember a move. Ha![C]"
+
+ Œóï, åòìé óåáå ðñéšìïòû
+èàáúóû ðñéæí, îï ðïîàäïáéìïòû åãï
+âòðïíîéóû?[C]
+ Óàëïå œàòóï òìôœàåóòÿ, îå
+óàë ìé?[C]
+ Ÿ íïãô ðïíïœû óåáå ñàèñåšéóû
+üóô ðñïáìåíô.[C]
+ Íïé šïëéñôýþéå óàìàîóú íïãôó
+ðïíïœû óåáå èàçåœû éòëñô óåö ðñéæíïâ,
+œóï ôçå ëïãäà-óï áúìé éèâåòóîú![C]
+ Âòÿëïå íïçåó ôòëïìûèîôóû éè
+îàšåãï ñàèôíà é éè-èà üóïãï, íú èàáúâàåí
+âàçîúå âåþé.[C]
+ Âòæ œóï îôçîï - îåáïìûšïê
+ñàèñÿä![K] Ëñïšåœîàÿ éòëïñëà![K] Ðñïáìåòë
+íúòìé![K] Âòðúšëà âäïöîïâåîéÿ![C]
+ Óàë é âòðïíéîàýóòÿ ðñéæíú.
+Öà![C]
++++
+" Come see me whenever you have
+some linking to do!"
+
+ Åòìé óåáå ðïîàäïáéóòÿ òâÿèàóû
+ðñéæíú, îàâåòóé íåîÿ!
++++
+Diary
+Page
+Bidoof's Journal
+Sunflora's Diary
+Exploration Team Federation Q&A
+Bidoof's Journal
+1. I'll Try Hard!
+2. Happy Time!
+3. Bulletin Board Goof-Up
+4. Exploring with [CS:N]Sunflora[CR]
+5. Moves Are Awesome!
+6. Gas Attack!
+7. Expedition!
+8. Camaraderie
+9. Awesome Expedition
+10. No Sleep!
+11. The Guild at Night
+12. Shocking News!
+13. Very Sad...
+14. Welcome Back!
+15. Don't Give Up!
+16. Graduation Exam?
+17. Congratulations!
+18. Aiming for Graduation
+19. Recent Events
+20. [CS:N]Manaphy[CR]?
+21. Cheer Up!
+22. Awesome Team [CS:X]Charm[CR]
+23. Peace Is Best
+24. [CS:N]Azurill[CR]...
+25. Sure to Win!
+26. Keeping It Going
+1. What a Scream!
+2. That Silly [CS:N]Loudred[CR]!
+3. Lovely Food!
+4. Exploration Basics
+5. Types and Matchups
+6. Mystery!
+7. A Rare Expedition
+8. Inspiration!
+9. Back Home!
+10. Oh My Gosh! [CS:N]Dusknoir[CR]!
+11. Where's [CS:N]Grovyle[CR]?
+12. Total Shocker!
+13. Those Kids...
+14. Welcome Back!
+15. They're Saving Us!
+16. Graduation Exam
+17. Yay! Graduation!
+18. The [CS:P]Surrounded Sea[CR]!
+19. Beaten to the Punch
+20. Worries...
+21. Bidding Farewell
+22. Yippee! Team [CS:X]Charm[CR]!
+23. Thunderstorm! Eek!
+24. Nightmare! Eek!
+25. [CS:N]Darkrai[CR]
+26. Thank You!
+Q1: What's the Exploration Team Federation?
+Q2: What's written here?
+Q3: How do I know what to do?
+Q4: How do I start a job?
+Q5: What's the Explorer Rank?
+Q6: Is eating Gummis a good thing to do?
+Q7: How do I talk to my partner?
+Q8: What are types?
+1. I'll Try Hard!
+2. Happy Time!
+3. Bulletin Board Goof-Up
+4. Exploring with [CS:N]Sunflora[CR]
+5. Moves Are Awesome!
+6. Gas Attack!
+7. Expedition!
+8. Camaraderie
+9. Awesome Expedition
+10. No Sleep!
+11. The Guild at Night
+12. Shocking News!
+13. Very Sad...
+14. Welcome Back!
+15. Don't Give Up!
+16. Graduation Exam?
+17. Congratulations!
+18. Aiming for Graduation
+19. Recent Events
+20. [CS:N]Manaphy[CR]?
+21. Cheer Up!
+22. Awesome Team [CS:X]Charm[CR]
+23. Peace Is Best
+24. [CS:N]Azurill[CR]...
+25. Sure to Win!
+26. Keeping It Going
+
+Äîåâîéë
+Òóñ.
+Äîåâîéë Áéäôõà
+Äîåâîéë Òàîõìïñú
+Õåäåñàøéÿ Ëïíàîä Éòòìåäïâàóåìåê Â&Ï
+Äîåâîéë Áéäôõà
+1. Ÿ Áôäô Òóàñàóûòÿ!
+2. Óàë Òœàòóìéâ!
+3. Ðñïíàšëà ò Äïòëàíé
+4. Âúìàèëà ò [CS:N]Òàîõìïñïê[CR]
+5. Ðñéæíú Ëìàòòîúå!
+6. Ãàèïâàÿ Àóàëà!
+7. Üëòðåäéøéÿ!
+8. Óïâàñéþåòóâï
+9. Œôäåòîàÿ Üëòðåäéøéÿ
+10. Áåè Òîà!
+11. Îïœîàÿ Ãéìûäéÿ
+12. Šïëéñôýþéå Îïâïòóé!
+13. Ëàë Ãñôòóîï...
+14. Ò Âïèâñàþåîéåí!
+15. Îå Òäàâàêóåòû!
+16. Âúðôòëîïê Üëèàíåî?
+17. Ðïèäñàâìÿý!
+18. Øåìû îà Âúðôòëîïê
+19. Îåäàâîéå Òïáúóéÿ
+20. [CS:N]Íàîàõé[CR]?
+21. Âúšå Îïò!
+22. Œôäåòîàÿ Ëïíàîäà [CS:X]Šàñí[CR]!
+23. Íéñ Ìôœšå Âòåãï
+24. [CS:N]Àèôñéìì[CR]...
+25. Ðïáåäà èà Îéíé!
+26. Çéèîû Ðñïäïìçàåóòÿ
+1. Âïó Üóï Ëñéë!
+2. Üóïó Ãìôðúê [CS:N]Ìàôäñåä[CR]!
+3. Œôäåòîàÿ Åäà!
+4. Ïòîïâú Âúìàèïë
+5. Óéðú é Òñàçåîéÿ
+6. Èàãàäëà!
+7. Ïòïáàÿ Üëòðåäéøéÿ
+8. Âäïöîïâìåîéå!
+9. Òîïâà Äïíà!
+10. Ï Áïã Íïê! [CS:N]Äàòëîôàñ[CR]!
+11. Ãäå çå [CS:N]Ãñïâàêì[CR]?
+12. Ëàëïê Ëïšíàñ!
+13. Üóé Äåóé...
+14. Ò Âïèâñàþåîéåí!
+15. Ïîé Òðàòàýó Îàò!
+16. Âúðôòëîïê Üëèàíåî
+17. Ôñà! Âúðôòëîïê!
+18. [CS:P]Èàëñúóïå Íïñå[CR]!
+19. Íåîÿ Ïðåñåäéìé!
+20. Ðåñåçéâàîéÿ...
+21. Ðñïþàîéå
+22. Ôñà! Ëïíàîäà [CS:X]Šàñí[CR]!
+23. Ãñïèà! Ééé!
+24. Ëïšíàñ! Ééé!
+25. [CS:N]Äàñëñàê[CR]
+26. Òðàòéáï!
+Â1: Õåäåñàøéÿ Ëïíàîä Éòòìåäïâàóåìåê?
+Â2: Œóï èäåòû îàðéòàîï?
+Â3: Ëàë ÿ ôèîàý, œóï íîå äåìàóû?
+Â4: Ëàë îàœàóû èàäàîéå?
+Â5: Œóï óàëïå Ñàîã Éòòìåäïâàóåìÿ?
+Â6: Ðïìåèîï ìé åòóû Çåìå?
+Â7: Ëàë ãïâïñéóû òï òðôóîéëïí?
+Â8: Œóï óàëïå óéðú?
+1. Ÿ Áôäô Òóàñàóûòÿ!
+2. Óàë Òœàòóìéâ!
+3. Ðñïíàšëà ò Äïòëàíé
+4. Âúìàèëà ò [CS:N]Òàîõìïñïê[CR]
+5. Ðñéæíú Ëìàòòîúå!
+6. Ãàèïâàÿ Àóàëà!
+7. Üëòðåäéøéÿ!
+8. Óïâàñéþåòóâï
+9. Œôäåòîàÿ Üëòðåäéøéÿ
+10. Áåè Òîà!
+11. Îïœîàÿ Ãéìûäéÿ
+12. Šïëéñôýþéå Îïâïòóé!
+13. Ëàë Ãñôòóîï...
+14. Ò Âïèâñàþåîéåí!
+15. Îå Òäàâàêóåòû!
+16. Âúðôòëîïê Üëèàíåî?
+17. Ðïèäñàâìÿý!
+18. Øåìû îà Âúðôòëîïê
+19. Îåäàâîéå Òïáúóéÿ
+20. [CS:N]Íàîàõé[CR]?
+21. Âúšå Îïò!
+22. Œôäåòîàÿ Ëïíàîäà [CS:X]Šàñí[CR]!
+23. Íéñ Ìôœšå Âòåãï
+24. [CS:N]Àèôñéìì[CR]...
+25. Ðïáåäà èà Îéíé!
+26. Çéèîû Ðñïäïìçàåóòÿ
++++
+\n[CN]All sorts of information is written here...
+\n[CN]Èäåòû îàðéòàîà ñàèìéœîàÿ éîõïñíàøéÿ...
++++
+Q1: What\'s the Exploration Team Federation?
+Â1: Õåäåñàøéÿ Ëïíàîä Éòòìåäïâàóåìåê?
++++
+A1: The Pokémon Exploration Team Federation\nis a mysterious organization to which all\nexcellent explorers belong.
+Ï1: Õåäåñàøéÿ Ëïíàîä Éòòìåäïâàóåìåê\nÐïëåíïîïâ - üóï èàãàäïœîàÿ ïñãàîéèàøéÿ,\nâ ëïóïñïê ñàáïóàýó âòå éòòìåäïâàóåìé.
++++
+The Federation collects dues from guilds\nnationwide for producing items and badges\nused by exploration teams.
+Õåäåñàøéÿ òïáéñàåó îàìïãé ò ãéìûäéê ðï\nâòåíô íéñô èà ðñïéèâïäòóâï òîàñÿçåîéÿ\né èîàœëïâ äìÿ ëïíàîä éòòìåäïâàóåìåê.
++++
+The Federation also operates a number of\nservices for explorers. It\'s an indispensable\norganization for explorers!
+Õåäåñàøéÿ óàëçå ïëàèúâàåó ôòìôãé äìÿ\néòòìåäïâàóåìåê. Üóà ïñãàîéèàøéÿ\nâúðïìîÿåó ïœåîû âàçîôý ñàáïóô!
++++
+To put it simply, it\'s an incredibly great\norganization!
+Ðñïþå ãïâïñÿ, üóï îåâåñïÿóîï ïóìéœîàÿ\nïñãàîéèàøéÿ!
++++
+...That is all.
+...Îà üóïí âòæ.
++++
+Q2: What\'s written here?
+Â2: Œóï èäåòû îàðéòàîï?
++++
+A2: This spot is reserved for useful notices,\nhints, tips, advice, and so on.
+Ï2: Â üóïí íåòóå îàðéòàîú ðïìåèîúå\nèàíåóëé, ðïäòëàèëé, òïâåóú é óàë äàìåå.
++++
+Q3: How do I know what to do?
+Â3: Ëàë ÿ ôèîàý, œóï íîå äåìàóû?
++++
+A3: If you\'re not sure what to do, try looking\nup some hints!
+Ï3: Åòìé âú îå èîàåóå, œóï äåìàóû,\n
+ðïðñïáôêóå ðïòíïóñåóû òðñàâëô!
++++
+To get some hints, press [M:B4] to access the\nmenu, then find them under Others.
+Œóïáú îàêóé òðñàâëô, îàçíéóå [M:B4], œóïáú\nïóëñúóû íåîý é èàóåí, îàçíéóå "Ðñïœåå".
++++
+The hints will give you all sorts of useful\ninformation for your explorations.
+Òðñàâëà ðïëàçåó âàí òàíôý ñàèîôý\nðïìåèîôý éîõïñíàøéý.
++++
+So if you\'re stuck, look up some hints!
+Ðïüóïíô, åòìé âú œóï-óï îå ðïîéíàåóå,\nèàãìÿîéóå â òðñàâëô!
++++
+Q4: How do I start a job?
+Â4: Ëàë îàœàóû èàäàîéå?
++++
+A4: If you\'ve already put the job on your Job\nList, you must then use the Take Job option.
+Ï4: Åòìé âú ôçå ðïìôœéìé èàäàîéå â òâïê\nÒðéòïë Èàäàîéê, âàí îôçîï Âèÿóûòÿ èà\nðïìôœåîîïå èàäàîéå.
++++
+If you see a job on the Job Bulletin Board or\nthe Outlaw Notice Board that you want to do,\nyou have to do two things...
+Åòìé îà Äïòëå Ïáùÿâìåîéê éìé Äïòëå\nÑàèúòëéâàåíúö åòóû èàäàîéå, ëïóïñïå âú\nöïóéóå âúðïìîéóû, òäåìàêóå äâå âåþé...
++++
+First, choose the job from a board to add it to\nyour Job List. Second, select it from your Job\nList, then use the Take Job option.
+Òîàœàìà, âúáåñéóå èàäàîéå, œóïáú\näïáàâéóû åãï â Òðéòïë Èàäàîéê.[C]Ðïòìå üóïãï, âúáåñéóå åãï â Òðéòëå\nÈàäàîéê é îàçíéóå "Âèÿóûòÿ".
++++
+Exploration teams should take care of jobs\nthey\'ve added to their list as soon as possible!
+Ìýáàÿ ëïíàîäà éòòìåäïâàóåìåê ïáÿèàîà\nâúðïìîÿóû èàäàîéÿ â òàíúå ëñàóœàêšéå\nòñïëé!
++++
+Now, go! Quit reading this and explore!
+Óåðåñû, âðåñåä! Öâàóéó üóï œéóàóû é\nïóðñàâìÿêóåòû îà âúìàèëô!
++++
+Q5: What\'s the Explorer Rank?
+Â5: Œóï óàëïå Ñàîã Éòòìåäïâàóåìÿ?
++++
+A5: The Explorer Rank indicates your\nstanding within the Pokémon Exploration Team\nFederation.
+Ï5: Ñàîã Éòòìåäïâàóåìÿ ïóñàçàåó âàšô\nñåðôóàøéý â Õåäåñàøéé Ëïíàîä\nÉòòìåäïâàóåìåê.
++++
+An exploration team gains Rank Points for\ncompleting jobs. Upon earning set amounts\nof points, the team goes up in rank.
+Èà âúðïìîåîéå èàäàîéê, ëïíàîäà\néòòìåäïâàóåìåê ðïìôœàåó Ïœëé Ñàîãà.[C]Ðïòìå äïòóéçåîéÿ ïðñåäåìæîîïãï èîàœåîéÿ\nïœëïâ, ëïíàîäà ðïìôœàåó îïâúê ñàîã.
++++
+A team gets a new Explorer Badge when it\ngoes up in rank. But that\'s not all. You\'ll\ndiscover more benefits as you rank up!
+Åòìé ëïíàîäà ðïìôœàåó îïâúê ñàîã, ïîà\nóàëçå ðïìôœàåó é îïâúê Èîàœïë. Îï üóï\nåþæ îå âòæ.[C]Ëïíàîäà óàëçå ðïìôœéó îàãñàäô èà\nðñïäâéçåîéå ðï ñàîãô!
++++
+Finally, you\'ll notice that there is a footprint\nimprinted on the back of the badge.
+É îàëïîåø, íïçîï èàíåóéóû, œóï îà èàäîåê\nœàòóé Èîàœëà åòóû ïóðåœàóïë ìàðú.
++++
+That doubles as a security pass for the guild.\nIt lets you enter and exit the guild whenever\nyou want. Did you know that?
+Ïóðåœàóïë òìôçéó ðñïðôòëïí â ãéìûäéý.[C]Ïî ðïèâïìÿåó âàí áåòðñåðÿóòóâåîîï\nâöïäéóû é âúöïäéóû éè ãéìûäéé. Èîàìé\nìé âú ïá üóïí?
++++
+That doubles as a security pass for the guild.\nIt lets you enter and exit the guild whenever\nyou want. Did you know that?
+Ïóðåœàóïë òìôçéó ðñïðôòëïí â ãéìûäéý.[C]Ïî ðïèâïìÿåó âàí áåòðñåðÿóòóâåîîï\nðåñåíåþàóûòÿ ðï ãéìûäéé. Èîàìé ìé âú ïá\nüóïí?
++++
+Those who are first starting out should work\ntoward the Bronze Rank!
+Îàœéîàýþéí òóïéó òóñåíéóûòÿ ë ðïìôœåîéý\nÁñïîèïâïãï Ñàîãà!
++++
+Q6: Is eating Gummis a good thing to do?
+Â6: Ðïìåèîï ìé åòóû Çåìå?
++++
+A6: Yes! Of course you should eat Gummis!\nIt boosts your IQ!
+Ï6: Äà! Ëïîåœîï çå, âàí òóïéó òùåäàóû\nÇåìå! Ïîï ôâåìéœéâàåó âàš IQ!
++++
+When your IQ goes up, you\'ll gain IQ Skills\nthat help you while exploring.
+Ðïâúšàÿ âàš IQ, âú ðñéïáñåóàåóå îïâúå\nÎàâúëé IQ, ëïóïñúå ðïíïãôó âàí âï âñåíÿ\nâúìàèïë.
++++
+That\'s why you shouldn\'t hesitate to eat\nGummis. Eat as much as you want!
+Ðïüóïíô, îå òóåòîÿêóåòû òùåäàóû Çåìå.\nÅšûóå òóïìûëï, òëïìûëï âìåèåó! 
++++
+Specific types of Pokémon have a different\nfavorite Gummi. If a Pokémon eats its\nfavorite, its IQ goes up much faster!
+Ïðñåäåìæîîúå óéðú Ðïëåíïîïâ éíåýó òâïé\nðñåäðïœóåîéÿ â Çåìå. Åòìé Ðïëåíïî òùåòó\nìýáéíïå Çåìå, åãï IQ òéìûîï ôâåìéœéóòÿ!
++++
+It\'s great to eat lots of Gummis! And it\'s best\nto eat lots of your favorite kind of Gummis!
+Åòóû íîïãï Çåìå - ïœåîû ðïìåèîï! À åþæ\nðïìåèîåå - åòóû íîïãï òâïåãï ìýáéíïãï\nÇåìå!
++++
+Q7: How do I talk to my partner?
+Â7: Ëàë ãïâïñéóû òï òðôóîéëïí?
++++
+A7: What?[K] Your partner is right next to you,\nbut you can\'t chat?
+Ï7: Œóï? Âàš òðôóîéë ðñÿíï ñÿäïí ò âàíé\n
+îï âú îå íïçåóå ò îéí/îåê ðïãïâïñéóû?
++++
+Just be brave and talk to your partner. Your\nfriend will understand what\'s on your mind.
+Ðñïòóï áôäûóå òíåìåå é ðïãïâïñéóå òï\nòâïéí òðôóîéëïí. Âàš óïâàñéþ òñàèô\nðïêíæó, œóï ô âàò îà ôíå.
++++
+Press [M:B7] to talk to your partner. Your partner\nwill never ignore you!
+Îàçíéóå [M:B7], œóïáú ðïãïâïñéóû òï òâïéí\n
+òðôóîéëïí. Âàš óïâàñéþ îå ïóëàçåó âàí\n
+â ïóâåóå!
++++
+Talk to your partner especially if you\'re not\nsure what to do next. Press [M:B7] and strike up\na conversation!
+Ïòïáåîîï ðïìåèîï ãïâïñéóû òï òðôóîéëïí,\nåòìé âú îå ôâåñåîú, œóï îôçîï äåìàóû\näàìûšå.[C]Îàçíéóå [M:B7] é èàâÿçéóå áåòåäô!
++++
+Your partner is sure to have useful advice\nfor you!
+Âàš òðôóîéë îàâåñîÿëà äàòó âàí\nëàëïê-îéáôäû ðïìåèîúê òïâåó!
++++
+Q8: What are types?
+Â8: Œóï óàëïå óéðú?
++++
+A8: Pokémon are categorized by types such as\nFire, Water, and Grass. Many Pokémon even\nhave two types.
+Ï8: Ðïëåíïîú ðïäñàèäåìÿýóòÿ ðï óéðàí,\n
+óàëéí ëàë Ïãïîû, Âïäà é Óñàâà. Íîïãéå\n
+Ðïëåíïîú íïãôó éíåóû òñàèô äâà óéðà. 
++++
+The amount of damage that an attacking\nPokémon does with its move is related to the\nmove\'s type and the defending Pokémon\'s type.
+Âåìéœéîà ôñïîà, ëïóïñïãï àóàëôýþéê\nÐïëåíïî îàîïòéó òâïéí ðñéæíïí, èàâéòéó\nïó óéðà ðñéæíà é èàþéþàýþåãïòÿ Ðïëåíïîà.
++++
+For example, a Fire-type Pokémon is weak\nagainst Water-type moves.
+Ë ðñéíåñô, Ðïëåíïî Ïãîåîîïãï óéðà áôäåó\nðïìôœàóû áïìûšå ôñïîà ïó ðñéæíïâ Âïäîïãï\nóéðà.
++++
+And a Water-type Pokémon will be weak to\nElectric-type moves.
+À Ðïëåíïî Âïäîïãï óéðà áôäåó ðïìôœàóû\nôâåìéœåîîúê ôñïî ïó ðñéæíïâ\nÜìåëóñéœåòëïãï óéðà.
++++
+Learn how all types of Pokémon and moves\nmatch up, so you can battle effectively.[K]\nThat\'s you, the exploration team reading this!
+Ôèîàêóå áïìûšå ï óéðàö Ðïëåíïîïâ é\nüõõåëóéâîïòóé ðñéæíïâ, œóïáú âú íïãìé\nòñàçàóûòÿ â ðïìîôý òéìô.[C]Äà, üóï ïáñàþåîéå ë âàí, ëïíàîäà, œóï\nœéóàåó üóï òïïáþåîéå!
++++
+[CN][CS:N]Wigglytuff[CR]\'s Guild\n[CN]Ten Rules for Exploration Teams
+[CN]Äåòÿóû Ðñàâéì äìÿ Éòòìåäïâàóåìåê\n[CN]Â Ãéìûäéé [CS:N]Âéãìéóàõõà[CR]
++++
+[CN]One![K]\n[CN]Don\'t shirk work!
+[CN]Îïíåñ Ïäéî![K]\n[CN]Îå ôâéìéâàêóå ïó ñàáïóú!
++++
+[CN]Two![K]\n[CN]Run away and pay!
+[CN]Îïíåñ Äâà![K]\n[CN]Ðñé ðïáåãå - ðïðìàóéòû!
++++
+[CN]Three![K]\n[CN]Smiles go for miles!
+[CN]Îïíåñ Óñé![K]\n[CN]Ôìúáàêòÿ äï ôšåê!
++++
+[CN]Four![K]\n[CN]Once you put a job on your team\'s list,\n[CN]then use Take Job! That step can\'t be missed!
+[CN]Îïíåñ Œåóúñå![K]\n[CN]Èàîåòé èàäàîéå â òðéòïë é Âïèûíéòû èà\n[CN]îåãï! Üóïó šàã óñôäîï ðñïðôòóéóû!
++++
+[CN]Five![K]\n[CN]Restock your supplies and rations\n[CN]before heading out on explorations!
+[CN]Îïíåñ Ðÿóû![K]\n[CN]Œóïáú âúìàèëà îå ïáåñîôìàòû áåäïê,\n[CN]èàðàòàêòÿ ðñéðàòàíé é åäïê!
++++
+[CN]Six![K]\n[CN]Before you explore, try to think\n[CN]about the moves you should link!
+[CN]Îïíåñ Šåòóû![K]\n[CN]Ðñåçäå œåí îà âúìàèëô ôáåãàóû,\n[CN]ðïäôíàê, ëàëéå ðñéæíú òóïéó òâÿèàóû!
++++
+[CN]Seven![K]\n[CN]While exploring, don\'t you panic!\n[CN]Stay cool and calm, never manic!
+[CN]Îïíåñ Òåíû![K]\n[CN]Îà âúìàèëå ðàîéëïâàóû îå òóïéó!\n[CN]Òðïëïêîúö ìéšû îàãñàäà ôäïòóïéó!
++++
+[CN]Eight![K]\n[CN]Helping all Pokémon in need\n[CN]is an explorer\'s duty, indeed!
+[CN]Îïíåñ Âïòåíû![K]\n[CN]Éòòìåäïâàóåìý ñàäú âåèäå\n[CN]åòìé ïî ðïíïãàåó Ðïëåíïîàí â áåäå!
++++
+[CN]Nine![K]\n[CN]Do lots of jobs! That\'s truly the key!\n[CN]You\'ll reach Gold Rank. Just wait and see!
+[CN]Îïíåñ Äåâÿóû![K]\n[CN]Âúðïìîÿê èàäàîéÿ! Â üóïí òåëñåó!\n[CN]Èïìïóïê Ñàîã ðïìôœé. Òìàâïê áôäåšû òïãñåó!
++++
+[CN]Ten![K]\n[CN]The money you earn is shared with the guild![K]\n[CN]That\'s the way our friendship will build!
+[CN]Îïíåñ Äåòÿóû![K]\n[CN]Äåîûãàíé ò ãéìûäéåê îôçîï äåìéóûòÿ!\n[CN]Óïìûëï óàë îàšà äñôçáà íïçåó òìïçéóûòÿ!
++++
+[CN]Welcome!\n[CN][CS:N]Wigglytuff[CR]\'s Guild!
+[CN]Ãéìûäéÿ [CS:N]Âéãìéóàõõà[CR]!\n[CN]Äïáñï ðïçàìïâàóû!
++++
+[CN]No salespeople!\n[CN]No agents!\n[CN]No survey takers!
+[CN]Ðñïäàâøàí âöïäà îåó!\n[CN]Ëïíéòòéïîåñàí âöïäà îåó!\n[CN]Ïðñàšéâàýþéí âöïäà îåó!
++++
+[CN]\n[CN]Crew Rooms →
+[CN]\n[CN]Ëïíîàóú Ëïíàîä →
++++
+[CN]\n[CN]← Mess Hall
+[CN]\n[CN]← Ïáåäåîîúê Èàì
++++
+[CN]Please wash up before eating!\n[CN]                             -[CS:N]Chimecho[CR]
+[CN]Ðïçàìôêòóà, ôíúâàêóå ìàðú ðåñåä åäïê!\n[CN]                             -[CS:N]Œàêíåëï[CR]
++++
+[CN]GET UP ALREADY!\n[CN]         -[CS:N]Loudred[CR]
+[CN]ÐÑÏÒÚÐÀÊÓÅÒÛ ÔÇÅ ÎÀËÏÎÅØ!\n[CN]         -[CS:N]Ìàôäñåä[CR]
++++
+[CN]Something is written here...
+[CN]Èäåòû œóï-óï îàðéòàîï...
++++
+[CN]This is [CS:N]Bidoof[CR]\'s diary.\n[CN]Should we sneak a peek?
+[CN]Üóï äîåâîéë [CS:N]Áéäôõà[CR].\n[CN]Èàãìÿîôóû â îåãï?
++++
+Read
+Œéóàóû
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 4: Exploring with [CS:Y]Sunflora[CR]\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 4: Âúìàèëà ò [CS:Y]Òàîõìïñïê[CR]\n[CN] Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+[CS:Y]Sunflora[CR] is some kind of awesome!
+[CS:Y]Òàîõìïñà[CR] äïâïìûîï óàëé ëìàòòîàÿ!
++++
+Yup yup! I went exploring with [CS:Y]Sunflora[CR] the\nother day.
+Äà-äà! Îåäàâîï ÿ öïäéì âíåòóå ò\n[CS:Y]Òàîõìïñïê[CR] îà âúìàèëô.
++++
+It turns out [CS:Y]Sunflora[CR]\'s a real expert at\nfighting in dungeons.
+Ïëàèúâàåóòÿ, œóï [CS:Y]Òàîõìïñà[CR] ïœåîû öïñïšï\nôíååó òñàçàóûòÿ â ðïäèåíåìûÿö.
++++
+When an enemy is just out of reach, she\ndoesn\'t move toward it! Instead she uses [M:B2] to\nlaunch her regular attack, striking at nothing!
+Åòìé äï âñàãà îåíîïãï îå äïòóàóû, ïîà\nîå éäæó ë îåíô îàâòóñåœô![C]Âíåòóï üóïãï, ïîà äåêòóâôåó îà [M:B2]\né áûæó ðôòóïóô òâïéí ïáúœîúí ôäàñïí!
++++
+Then the enemy usually spends that turn closing\nthe distance on her. And then, on her next turn,\nshe\'s the first one close enough to hit!
+Ðïòìå üóïãï, âñàã ïáúœîï óñàóéó öïä îà\nóï, œóïáú ë îåê ðñéáìéèéóûòÿ. É èàóåí,\nïîà îàîïòéó òâïê ôäàñ ðåñâïê!
++++
+Yup yup! She sure knows what she\'s doing,\nby golly!
+Äà-äà! Ïîà ïðñåäåìæîîï èîàåó, œóï\näåìàåó, óïœîï ãïâïñý!
++++
+Why, I wanted to whoop and holler when I saw\nher use that trick. So thrilling![K] Sigh...
+Âïó, ÿ äàçå öïóåì âòëñéœàóû, ëïãäà\nôâéäåì, œóï ïîà äåìàåó. Üóï óàë\nèàöâàóúâàýþå![K] Üö...
++++
+As for me, I always rush into a fight...[K]\nThat\'s why I end up being first to get hit!
+À âïó ÿ âòåãäà ñâôòû â äñàëô...[K]\nÐïüóïíô ÿ âòåãäà ðïìôœàý ðåñâúê ôäàñ!
++++
+But it\'s all right, I reckon. I know the way to\ndo it now and can explore better now. Yup yup!
+Îï, äôíàý, âòæ â ðïñÿäëå. Óåðåñû ÿ èîàý\nëàë ðïòóôðàóû é òíïãô ìôœšå éòòìåäïâàóû\nðïäèåíåìûÿ. Äà-äà!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 3: Bulletin Board Goof-Up\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 3: Ðñïíàšëà ò Äïòëàíé\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+I... I didn\'t realize it!
+Ÿ... Ÿ îå ðïîÿì üóïãï!
++++
+After you take jobs on the Job Bulletin Board\nand Outlaw Notice Board...to actually do \'em,\nyou need to use \"Take Job\" on your Job List!
+Åòìé âèÿóû èàäàîéÿ ò Äïòëé Ïáùÿâìåîéê é\nÄïòëé Ñàèúòëéâàåíúö, óï...œóïáú éö\nâúðïìîéóû, èà îéö îôçîï Âèÿóûòÿ[C]â Òðéòëå Èàäàîéê!
++++
+I didn\'t know that... So I went to dungeons\nwithout first activating the jobs with that\n\"Take Job\" command, by golly...
+Ÿ îå èîàì üóïãï... É öïäéì â ðïäèåíåìûÿ\nîå Âèÿâšéòû ðåñåä üóéí èà èàäàîéå,\nåê-áïãô...
++++
+Oof! It\'s no wonder why I could never do my\njobs once I got to a dungeon...
+Ôö! Îåôäéâéóåìûîï, ðïœåíô ÿ îéëàë îå\níïãô âúðïìîÿóû èàäàîéÿ, ïóðñàâìÿÿòû îà\nâúìàèëé â ðïäèåíåìûÿ...
++++
+I finally understand why [CS:N]Chatot[CR]\'s always so\nupset with me, by golly...
+Óåðåñû ÿ ðïîéíàý, ðïœåíô [CS:N]Œàóïó[CR] âòåãäà\nóàë íîïê îåäïâïìåî, åê-áïãô...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 2: Happy Time!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 2: Óàë Òœàòóìéâ!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Yup yup! I\'m happy, by golly!
+Äà-äà! Ÿ òœàòóìéâ, åê-áïãô!
++++
+Oh?[K] Why am I so downright happy?
+Ï?[K] Ðïœåíô ÿ óàë òœàòóìéâ?
++++
+Well...[K] Finally...
+Œóï-ç...[K] Îàëïîåø-óï...
++++
+Finally, I\'ve got junior members under me!
+Îàëïîåø-óï, ÿ îå òàíúê íìàäšéê œìåî\nãéìûäéé!
++++
+Oof! This is some kind of wonderful![K] And the\ntwo are both so friendly and kind.[K] I feel so\nlucky. Yup yup!
+Ôö! Üóï ïœåîû œôäåòîï! Ëñïíå óïãï, üóé\näâïå óàëéå äñôçîúå é äïáñúå. Íîå óàë\nðïâåèìï. Äà-äà!
++++
+I\'ve got to set a good example for my\nnew pals! I have to be better. Yup yup!
+Îôçîï ðïëàèàóû òåáÿ ðåñåä îéíé â öïñïšåí\nòâåóå! Íîå îôçîï áúóû ìôœšå. Äà-äà!
++++
+Yeaaah! I\'ll do better starting tomorrow!
+Äààà! Áôäô îàœéîàóû ò èàâóñàšîåãï äîÿ!
++++
+Ï8: Ðïëåíïîú ðïäñàèäåìÿýóòÿ îà óéðú,\nóàëéå ëàë Ïãïîû, Âïäà é Óñàâà. Íîïãéå\nÐïëåíïîú íïãôó éíåóû òñàèô äâà óéðà. 
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 1: I\'ll Try Hard!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 1: Ÿ Áôäô Òóàñàóûòÿ!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oof...![K] Seems that it\'s been a mighty long time\nsince I apprenticed at this here guild.
+Ôõ!.. Ðïöïçå, ðñïšìï ôçå ïœåîû íîïãï\nâñåíåîé ò óåö ðïñ, ëàë ÿ òóàì îïâéœëïí\nâ üóïê ãéìûäéé.
++++
+I get so frustrated being so klutzy and slow...\nYup yup! Don\'t I know it!
+Ÿ óàë ñàòòóñàéâàýòû ïó óïãï, œóï ÿ óàëïê\nîåôëìýçéê é íåäìéóåìûîúê... Äà-äà!\nÁôäóï áú ÿ ïá üóïí îå èîàý!
++++
+I\'m a slow worker. And it takes me longer to\nlearn than others.
+Ÿ íåäìåîîï ñàáïóàý. É íîå îôçîï áïìûšå\nâñåíåîé, œóïáú îàôœéóûòÿ œåíô-ìéáï, œåí\nðñïœéí.
++++
+Oof... I sure miss my home and folks. Yup yup!
+Ôõ... Ÿ òëôœàý ðï äïíô é ñïäîå. Äà-äà!
++++
+But![K] I can\'t be what I want to be if I admit\ndefeat now! No sirree, by golly!
+Îï![K] Ÿ îå òíïãô áúóû óåí, ëåí öïœô òóàóû,\nåòìé ÿ òäàíòÿ! Îåó, òüññññ, åê-áïãô!
++++
+Yup yup! I have my big dream![K] I\'m surely going\nto become a first-class explorer, yup!
+Äà-äà! Ÿ ïòôþåòóâìý òâïý íåœóô![K] Ÿ òóàîô\nðåñâïëìàòòîúí éòòìåäïâàóåìåí, äà!
++++
+And that\'s why I\'ve started this here diary!\nIt\'s a way for me to keep track of what I\'m\nmade of. Yup yup!
+É ðïüóïíô ÿ îàœàì âåòóé äîåâîéë! Üóï\níïê òðïòïá ïóòìåçéâàóû âòå éèíåîåîéÿ,\nðñïéòöïäÿþéå òï íîïê. Äà-äà!
++++
+Yup yup! Tomorrow, I\'ll hold my head up high!\nI\'ll get things done!
+Äà-äà! Ò èàâóñàšîåãï äîÿ, ÿ áôäô\nñàáïóàóû îàä òïáïê! Ÿ áôäô äïâïäéóû\näåìà äï ëïîøà!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 26: Keeping It Going\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 26: Çéèîû Ðñïäïìçàåóòÿ\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+So [hero] and [partner] are back!\nBack in Treasure Town, by golly!
+[hero] é [partner] âåñîôìéòû!\nÅê-áïãô, âåñîôìéòû â Ãïñïä Òïëñïâéþ!
++++
+Oof... I\'m so glad for this... By golly, I\'m\noverjoyed...
+Ôõ... Ÿ óàë üóïíô ñàä... Åê-áïãô, íåîÿ\nðåñåðïìîÿåó ñàäïòóû...
++++
+They had me so worried... Sniffle...
+Ÿ óàë èà îéö ðåñåçéâàì... Öîúë...
++++
+Yup yup, [hero] and [partner] aren\'t\njust rookies to me anymore.
+Äà-äà, [hero] é [partner] äìÿ íåîÿ\nôçå äàâîï îå îïâéœëé.
++++
+They\'re my friends... My trusted fellow guild\nmembers...
+Ïîé íïé äñôèûÿ... Íïé òïãéìûäåêøú...
++++
+And they\'re my heroes.
+É ïîé - íïé ãåñïé.
++++
+I swear I\'ll become a first-rate explorer one\nday! For that...I\'ll try, try, try, by golly!
+Ëìÿîôòû, ëïãäà-îéáôäû ÿ òóàîô\nðåñâïëìàòòîúí éòòìåäïâàóåìåí![C]Ñàäé üóïãï...\nŸ áôäô ïœåîû, ïœåîû, ïœåîû òóàñàóûòÿ!
++++
+I gotta catch up to [hero] and\n[partner]!
+[hero], ÿ äïãïîý óåáÿ!\n[partner], óåáÿ ÿ äïãïîý óïçå!
++++
+That\'s why I\'m gonna keep going, and I hope\nthey will too!
+Ðïüóïíô ÿ áôäô äåìàóû âòæ, œóï íïãô.\nÉ îàäåýòû, œóï ïîé òäåìàýó óàë çå!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 25: Sure to Win!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 25: Ðïáåäà èà Îéíé!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Team [team:] has gone off to a place\ncalled the [CS:P]Dark Crater[CR].
+Ëïíàîäà [team:] ïóðñàâéìàòû â\n
+íåòóï, ðïä îàèâàîéåí [CS:P]Óæíîúê Ëñàóåñ[CR].
++++
+Oh, [hero] and [partner]! You have\nto be tough, by golly!
+Ï, [hero] é [partner]!\nÂàí îôçîï áúóû òéìûîúíé!
++++
+I\'ve never been much at understanding\nanything complicated, but...
+Ÿ îéëïãäà îå ðïîéíàì œåãï-ìéáï, œóï\nóñôäîï ïòïèîàóû, îï...
++++
+But I know that [hero] and [partner]\ncan beat that [CS:N]Darkrai[CR]...
+Îï ÿ èîàý, œóï [hero] é [partner]\nòíïãôó ðïáåäéóû [CS:N]Äàñëñàÿ[CR]...
++++
+And, by golly, I know they\'ll come back like\nthey\'ve always done!
+É åê-áïãô, ÿ èîàý, œóï ëàë é ðñåçäå,\nïîé âåñîôóòÿ äïíïê ò ðïáåäïê!
++++
+My thoughts go with them, by gosh!
+Âòå íïé íúòìé óïìûëï ï îéö, åê-áïãô!
++++
+They will... They\'re coming back, sure as the\nsun\'s coming up!
+Ïîé... Ïîé ïáÿèàóåìûîï âåñîôóòÿ, üóï\nóïœîï, ëàë âïòöïäÿþåå òïìîøå!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 24: [CS:N]Azurill[CR]...\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 24: [CS:N]Àèôñéìì[CR]...\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oof... Little [CS:N]Azurill[CR] is stuck in a nightmare that\nhe can\'t wake from...
+Ôõ... Íàìýóëà [CS:N]Àèôñéìì[CR] ðïãñÿè â ëïšíàñå,\néè ëïóïñïãï îå íïçåó ðñïòîôóûòÿ...
++++
+I\'ve been getting plenty of sleep of late... But,\nmaybe because of all that sleep, I\'ve been\nwanting to sleep even more...
+Ÿ â ðïòìåäîåå âñåíÿ íîïãï òðìý...\nÎï, âïèíïçîï, éè-èà üóïãï òîà, ÿ öïœô\nòðàóû óïìûëï áïìûšå...
++++
+Why, if I set my mind to it, I reckon I can\nsleep all the day and all the night, yup yup.
+Åòìé ÿ áôäô ïá üóïí äôíàóû, óï ÿ,\nâïèíïçîï, òíïãô ðñïòðàóû øåìúê äåîû é\nøåìôý îïœû, äà-äà.
++++
+But that doesn\'t seem to be the problem with\nthat little guy...
+Îï üóï, ðïöïçå, âïâòå îå òâÿèàîï ò óåí\náåäîÿãïê...
++++
+It\'s a little worrying, by golly...
+Åê-áïãô, üóï îåíîïãï íåîÿ áåòðïëïéó...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 23: Peace Is Best\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 23: Íéñ Ìôœšå Âòåãï\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Yawwwn... Shucks, I am sleepy...
+Ôààààö... Âïó çå, œóï-óï ÿ òïîîúê...
++++
+I write these entries at night... But, by golly,\nit\'s been hard to keep my eyelids peeled...
+Ÿ ðéšô üóé òóñïëé îïœûý... Îï, åê-áïãô,\nëàë çå íîå óñôäîï îå èàëñúâàóû ãìàèà...
++++
+I reckon that goes to show how peaceful it\'s\nbeen of late. Yup yup.
+Ðïìàãàý, œóï üóï ðïëàèúâàåó, îàòëïìûëï\nâ ðïòìåäîåå âñåíÿ âòæ òðïëïêîï. Äà-äà.
++++
+Why, it seems like it\'s been ages\nsince [hero]\'s team put a stop to the\nplanet\'s paralysis.
+Ëàçåóòÿ, œóï ðñïšìï ôçå ëôœà âñåíåîé ò\nóåö ðïñ, ëàë [hero] é ëïíàîäà\nïòóàîïâéìé ðàñàìéœ ðìàîåóú.
++++
+It\'d be perfect, I reckon, if...[K] Everyone can be\ndecent to each other...[K] For a long, long time...
+Äôíàý, áúìï áú éäåàìûîï, åòìé...[K]âòå\nïóîïòéìéòû áú ë äñôã-äñôãô öïñïšï...[K]\nÏœåîû é ïœåîû äïìãï...
++++
+That\'s what I think...[K] Yup yup...[K] Zzzz...[K] Zzzzz...
+Âïó œóï ÿ äôíàý...[K] Äà-äà...[K] Öñññ...[K]\nÖñññ...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 22: Awesome Team [CS:X]Charm[CR]\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 22: Œôäåòîàÿ Ëïíàîäà [CS:X]Šàñí[CR]!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+What...?[K] I\'m amazed![K] I am downright amazed!\nYup yup yuppers!
+Œóï?..[K] Ÿ â âïòöéþåîéé![K] Ÿ ðñïòóï\nðïñàçæî! Äà-äà-äàšåœëé!
++++
+Those superfamous and superattractive\nmembers of Team [CS:X]Charm[CR]...
+Òôðåñèîàíåîéóúå é òôðåñðñéâìåëàóåìûîúå\nœìåîú Ëïíàîäú [CS:X]Šàñí[CR]...
++++
+They\'re at the guild! Yup yup yuppers!
+Ïîé â îàšåê ãéìûäéé! Äà-äà-äàšåœëé!
++++
+But by golly, there\'s more! Talk of going\nexploring together came up!
+Îï, åê-áïãô, üóï åþæ îå âòæ! Èàšæì\nñàèãïâïñ ï óïí, œóï íú âòå âíåòóå\nïóðñàâéíòÿ îà âúìàèëô!
++++
+I am...[K]over the moon with happiness!
+Ÿ...[K]îà òåäûíïí îåáå ïó òœàòóûÿ!
++++
+Since I have been getting better, if I may say\nso myself...[K] Why, it wouldn\'t be out of the\nquestion for me to shine, by golly!
+Ò óåö ðïñ, ëàë ÿ îàœàì òóàîïâéóûòÿ\nïðúóîåå, óàë òëàèàóû...[K] Äìÿ íåîÿ ôçå îå\nòóïéó âïðñïò, òíïãô ìé ÿ òåáÿ ðïëàèàóû!
++++
+If I did, maybe Miss [CS:N]Lopunny[CR] would be kind\nenough to give me a cheer... Oof...
+Åòìé ÿ ðïòóàñàýòû, óï, âïèíïçîï, Íéòò\n[CS:N]Ìïðàîîé[CR] òëàçåó íîå îåòëïìûëï äïáñúö\nòìïâ... Ôõ...
++++
+Waaaah![K] I\'m an embarrassment to myself!
+Ôààààà![K] Ÿ ðïèïñý òàí òåáÿ!
++++
+I\'m beside myself with embarrassment! Yipes!
+Ÿ âîå òåáÿ ïó òíôþåîéÿ! Ôçàò!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 21: Cheer Up!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 21: Âúšå Îïò!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Sniffle... Baby [CS:N]Manaphy[CR] had to go back to the\nsea today...
+Öîúë... Íàìúšô [CS:N]Íàîàõé[CR] îôçîï áúìï\nâåñîôóûòÿ â íïñå...
++++
+Like [CS:N]Corphish[CR] said... I reckon that [CS:N]Manaphy[CR] is\na Pokémon that rightly has to grow in the sea.
+Ëàë é ãïâïñéì [CS:N]Ëïñõéš[CR]... Ðïìàãàý, œóï\n[CS:N]Íàîàõé[CR] üóï Ðïëåíïî, ëïóïñúê ðï ðñàâô\näïìçåî âúñàòóé â íïñå.
++++
+Oh, [hero] and [partner]! I hope that\nyou cheer up!
+Ï, [hero] é [partner]! Âúšå îïò!
++++
+That baby [CS:N]Manaphy[CR] won\'t forget the two of\nyou, not even after a long time, I reckon.
+Üóïó íàìúš [CS:N]Íàîàõé[CR] îå èàáôäåó âàò äâïéö\nåþæ äïìãï, óàë ÿ òœéóàý.
++++
+One of these days, you will be able to see\neach other again, yup yup.
+Ïäîàçäú, âú ïáÿèàóåìûîï âòóñåóéóåòû\nâîïâû, äà-äà.
++++
+I\'ll keep it in mind that I should stay cheerful\nand upbeat around [hero] and\n[partner], yup yup!
+Ÿ áôäô äåñçàóû â ôíå, œóï íîå îôçîï\nïòóàâàóûòÿ îàâåòåìå ñÿäïí ò îéíé, äà-äà!
++++
+I just wish that they\'d get back to being their\nusual cheery selves soon, yup yup.
+Ÿ çåìàý éí âåñîôóû òâïæ ðñéâúœîïå\nöïñïšåå é âåòæìïå ñàòðïìïçåîéå äôöà,\näà-äà.
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 20: [CS:N]Manaphy[CR]?\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 20: [CS:N]Íàîàõé[CR]?\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+So I was thinking that [CS:N]Chatot[CR] has been mighty\ntesty of late. What\'s been eating him?
+[CS:N]Œàóïó[CR] â ðïòìåäîåå âñåíÿ ëàëïê-óï ïœåîû\nñàèäñàçéóåìûîúê. Œóï åãï ãìïçåó?
++++
+Turns out that baby [CS:N]Manaphy[CR] had taken sick.\nI didn\'t know that...
+Äôíàì ÿ ïá üóïí, îï ïëàèúâàåóòÿ, œóï\níàìúš [CS:N]Íàîàõé[CR] èàáïìåì. Ïá üóïí ÿ îå\nèîàì...
++++
+Oof... I hope that baby\'ll be all right... This is\nworrisome, by golly...
+Ôõ... Îàäåýòû, œóï ò íàìúšïí áôäåó âòæ\nâ ðïñÿäëå... Åê-áïãô, üóï óàë íåîÿ\nóñåâïçéó...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 19: Recent Events\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 19: Îåäàâîéå Òïáúóéÿ\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+I put in another fine day of training today,\nyup yup.
+Òåãïäîÿ ÿ öïñïšï ðïóñåîéñïâàìòÿ, äà-äà.
++++
+I reckon it\'s because I\'ve got the goal of\ngraduating. It\'s surely making every day\nmeaningful, yup yup.
+Ÿ äåìàý üóï, ðïóïíô œóï ô íåîÿ åòóû øåìû\nâúðôòóéóûòÿ éè ãéìûäéé. Üóï ïðñåäåìæîîï\nðñéäàæó òíúòì ëàçäïíô íïåíô äîý.
++++
+Why, I can tell I\'m getting better and better at\nexploring, by golly!
+É âïó, íïãô òëàèàóû, œóï ÿ òóàîïâìýòû\nâòæ ìôœšå é ìôœšå â ñàáïóå éòòìåäïâàóåìÿ!
++++
+The way I\'ve been working lately, like a\nPokémon on a mission... I\'m proud of myself,\nby golly!
+Óï, ëàë ÿ ñàáïóàý, ëàë Ðïëåíïî îà\nèàäàîéé... Åê-áïãô, ÿ ãïñä òïáïê!
++++
+I think I'm smitten with myself...[K] I\'m blushing!
+Äôíàý, ÿ ïœàñïâàî òïáïê...[K] Ÿ ëñàòîåý!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 18: Aiming for Graduation\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 18: Øåìû îà Âúðôòëîïê\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+I\'m doing the best I can so I can graduate.\nYup yup!
+Ÿ äåìàý âòæ âïèíïçîïå, œóïáú âúðôòóéóûòÿ\néè ãéìûäéé. Äà-äà!
++++
+I got to thinking about how the others were\nconsidering their prospects for graduating.
+Ÿ îàœàì äôíàóû ï óïí, œóï äñôãéå íïãôó\nòëàèàóû ï âúðôòëå éè ãéìûäéé.
++++
+So I went around asking others their thoughts\nabout graduation... Well, their answers were\nall over the place, yup yup.
+Ðïüóïíô ÿ ðïšæì ñòòðñàšéâàóû äñôãéö ïá\nüóïí... Îô, éö ïóâåóú áúìé òàíúíé\nñàèîúíé, äà-äà.
++++
+Take, for instance, [CS:N]Croagunk[CR]. They say he\'s\ngood enough to graduate anytime he wants.
+Âèÿóû âïó, ë ðñéíåñô, [CS:N]Ëñïãàîëà[CR]. Ïî\nãïâïñéó, œóï ïî ëïãäà ôãïäîï íïçåó\nâúðôòóéóûòÿ éè ãéìûäéé.
++++
+Now, I don\'t rightly know if that is true,\nno sirree...
+Îô, îà òàíïí äåìå, îå èîàý, óàë ìé üóï,\nîåó òüññññ...
++++
+That said, [CS:N]Croagunk[CR] seems to have no interest\nin being on an exploration team in the first\nplace...
+Ëòóàóé, Ëñïãàîë àáòïìýóîï îå âúëàèúâàåó\nîéëàëïãï éîóåñåòà ë ñàáïóå â ëïíàîäå\néòòìåäïâàóåìåê...
++++
+They tell me he just joined the guild because\nhe had his heart set on getting that Swap\nCauldron.
+Ïî òëàèàì íîå, œóï ïî âòóôðéì â ãéìûäéý\nóïìûëï äìÿ óïãï, œóïáú ðïñàáïóàóû ò\nüóéí Ïáíåîîúí Ëïóìïí.
++++
+You see, he was of a mind to graduate and\ntake the Swap Cauldron with him.
+Âéäéóå ìé, ô îåãï áúìï îà ôíå âúðôòóéóûòÿ\né èàáñàóû Ïáíåîîúê Ëïóæì ò òïáïê.
++++
+But then he found out that the Swap Cauldron\nwas permanently stuck to the guild\'s floor.
+Îï èàóåí, ïî ðïîÿì, œóï Ïáíåîîúê Ëïóæì\náúì îàíåñóâï ðñéãâïçäæî ë ðïìô ãéìûäéé.
++++
+That settled things for him. He wasn\'t about to\nleave that Swap Cauldron, so he\'s been here\never since. Golly!
+Îà üóïí ïî ôòðïëïéìòÿ. Ïî îå òïáéñàìòÿ\nðïëéäàóû üóïó Ïáíåîîúê Ëïóæì é ò óåö\nðïñ, ïî ïòóàìòÿ èäåòû. Âïó óàë!
++++
+Yup yup! It seems to me everyone\'s got their\nown good reason. I\'m learning from it, yup yup.
+Äà-äà! Ðïöïçå, œóï ô ëàçäïãï òâïÿ øåìû.\nŸ ðïîÿì üóï, äà-äà.
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 17: Congratulations!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 17: Ðïèäñàâìÿý!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Sniffle... Team [team:] passed its\ngraduation exam!
+Öîúë... Ëïíàîäå [team:] ôäàìïòû\nðñïêóé òâïê âúðôòëîïê üëèàíåî!
++++
+Well...[hero] and [partner]...\nCongratulations! Sniffle...
+Œóï-ç... [hero] é [partner]...\nÐïèäñàâìÿý! Öîúë...
++++
+I\'m so happy for you all, yet so sad that you\'re\nout. My head is spinning... Sniffle...
+Ÿ óàë ñàä èà âàò, îï íîå óàë ãñôòóîï,\nœóï âú áïìûšå èäåòû îå ôœéóåòû.\nÃïìïâà ëñôçéóòÿ... Šíúã...
++++
+But I reckon that the other apprentices are\ngoing to graduate one day too...
+Îï, ÿ ðïìàãàý, œóï é äñôãéå ôœåîéëé\nóïçå ïäîàçäú âúðôòóÿóòÿ...
++++
+And that\'ll mean me too...
+É ÿ óïçå...
++++
+...[K]That does it!
+...[K]Óàë óïíô é áúóû!
++++
+I\'m going to do my level best to graduate too!\nYup yup yuppers!
+Ÿ òäåìàý âòæ âïèíïçîïå, œóïáú óïçå\nâúðôòóéóûòÿ éè ãéìûäéé! Äà-äà-äàšåœëé!
++++
+It\'ll be my turn to shine!
+Ÿ óïçå ïäîàçäú áôäô òéÿóû!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 16: Graduation Exam?\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 16: Âúðôòëîïê Üëèàíåî?\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Team [team:] has been picked to take the\nguild\'s graduation exam.
+Ëïíàîäà [team:] áôäåó ðñïöïäéóû\nâúðôòëîïê üëèàíåî ãéìûäéé.
++++
+They arrived after me. But they get to take\nthe exam before I can? That sorta rubs me\nthe wrong way...
+Ïîé ðñéáúìé äï íåîÿ. Îï ïîé áôäôó\nâúðïìîÿóû üëèàíåî ñàîûšå íåîÿ? Üóï\nëàë-óï íåîÿ òíôþàåó...
++++
+But it\'s tough to argue against the sort of\nsuccess that Team [team:] has had.
+Îï óñôäîï òðïñéóû ò óåí, œåñåè œóï\nðñïšìà Ëïíàîäà [team:], œóïáú\nèàòìôçéóû óàëôý œåòóû.
++++
+Besides, the others asked me (yup, me!) to\nhelp behind the scenes on the graduation exam!
+Ëñïíå óïãï, äñôãéå ðïðñïòéìé íåîÿ\n(äà, íåîÿ!) ðïíïœû ðïäãïóïâéóû âòæ äìÿ\nâúðôòëîïãï üëèàíåîà!
++++
+Who knows what they have in mind for me to\ndo, though. I\'m always the last to know...
+Âðñïœåí, ÿ îå èîàý, œóï ïîé ïó íåîÿ\nöïóÿó. Âåœîï ÿ âòæ ôèîàý ðïòìåäîéí...
++++
+This will be the first graduation exam I\'ll help\nout on. I wonder what I\'m supposed to do?
+Üóï áôäåó ðåñâúê âúðôòëîïê üëèàíåî, â\nëïóïñïí íîå îôçîï áôäåó ðïíïãàóû.\nÉîóåñåòîï, œóï ÿ äïìçåî òäåìàóû?
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 15: Don\'t Give Up!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 15: Îå Òäàâàêóåòû!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Team [team:]! You all have to shine!
+Ëïíàîäà [team:]! Âàí âòåí îôçîï\nðñïÿâéóû íôçåòóâï!
++++
+I surely can\'t begin to imagine a place called\nthe [CS:P]Hidden Land[CR], but...
+Ÿ àáòïìýóîï îå íïãô ðñåäòóàâéóû òåáå\níåòóï ðïä îàèâàîéåí [CS:P]Òïëñúóúå Èåíìé[CR],\nîï...
++++
+The two of them together... I\'m mighty sure\nthey can stop the planet\'s paralysis. Yup yup!
+Üóé äâïå... Ÿ òïâåñšåîîï óïœîï ôâåñåî,\nœóï éí ðï òéìàí ïòóàîïâéóû ðàñàìéœ\nðìàîåóú. Äà-äà!
++++
+I\'ll lend my support from Treasure Town!
+Ÿ áôäô áïìåóû èà îéö éè Ãïñïäà\nÒïëñïâéþ!
++++
+Go do it, [hero], [partner], [CS:N]Grovyle[CR],\nand [CS:N]Lapras[CR]!
+[hero], [partner], [CS:N]Ãñïâàêì[CR] é\n[CS:N]Ìàðñàò[CR]! Âú òðñàâéóåòû!
++++
+You all do what you can to win!
+Òäåìàêóå âòæ âïèíïçîïå, œóïáú ðïáåäéóû!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 14: Welcome Back!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 14: Ò Âïèâñàþåîéåí!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Something happened that was half shocking\nand wholly happy! Yup yup!
+Ðñïéèïšìï ëïå-œóï ïäîïâñåíåîîï šïëéñôýþåå\né òïâåñšåîîï öïñïšåå! Äà-äà!
++++
+It\'s all sorts of amazing, that\'s for sure![K]\nTeam [team:] came back!
+Îï üóï òïâåñšåîîï óïœîï ðïñàèéóåìûîï![K]\nÂåñîôìàòû Ëïíàîäà [team:]!
++++
+Even more amazing is that they say they\nreturned...from the future!
+Îï, œóï åþæ áïìåå ðïñàèéóåìûîï, ïîé\nòëàèàìé, œóï ïîé âåñîôìéòû...\nÉè áôäôþåãï!
++++
+The story [partner] told was about as\namazing too... But more than anything...
+Óï, œóï ñàòòëàèúâàåó [partner]...\nÜóï ôäéâéóåìûîï... Îï áïìûšå âòåãï...
++++
+I was overjoyed seeing the two of them back\nsafe where they belong, right here. Yup yup.
+Ÿ óàë ñàä, œóï üóé äâïå òýäà âåñîôìéòû\nâ øåìïòóé é òïöñàîîïòóé. Äà-äà.
++++
+Yup yup! I was some kind of happy... Sniffle...
+Äà-äà! Ÿ ïœåîû òœàòóìéâ... Šíúã...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 13: Very Sad...\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 13: Ëàë Ãñôòóîï...\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+An awful long time has gone by since that\nTeam [team:] disappeared...
+Ò íïíåîóà éòœåèîïâåîéÿ Ëïíàîäú\n[team:] ðñïšìï ôçàòîï íîïãï âñåíåîé...
++++
+I hope that [partner] and [hero] are\ndoing fine...
+Îàäåýòû, [partner] é [hero] â\nðïñÿäëå...
++++
+After we became buddies in the guild and all...
+Â ëïîøå-ëïîøïâ, íú âåäû òóàìé öïñïšéíé\näñôèûÿíé...
++++
+I was counting on going exploring with them\nmore down the road...
+Ÿ ñàòòœéóúâàì öïäéóû ò îéíé â òïâíåòóîúå\nüëòðåäéøéé...
++++
+Oof... I miss them...
+Ôõ... Ÿ òëôœàý ðï îéí...
++++
+Oof... I surely do miss them...
+Ôõ... Ÿ ïœåîû ðï îéí òëôœàý...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 12: Shocking News!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 12: Šïëéñôýþéå Îïâïòóé!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+It\'s shocking, by golly!
+Ëàë šïëéñôýþå, åê-áïãô!
++++
+I don\'t rightly understand it...not totally...
+Ÿ àáòïìýóîï îå ðïîéíàý üóïãï...òïâòåí...
++++
+But Pokémon can come from the future?!\nIs that even possible? I don\'t rightly know.
+Ðïëåíïîú íïãôó ðïðàäàóû òýäà éè\náôäôþåãï?! Ëàë üóï âïïáþå âïèíïçîï?\nŸ àáòïìýóîï îå ðïîéíàý.
++++
+But it\'s what the great [CS:N]Dusknoir[CR] claimed, so\nyou gotta reckon there\'s a grain of truth in it.
+Îï, åòìé óàë èàÿâéì âåìéëéê [CS:N]Äàòëîôàñ[CR],\n
+âïèíïçîï, â üóïí åòóû ëàëàÿ-óï ðñàâäà.
++++
+This is all so confusing that it makes my head\nhurt. But I reckon I\'d best focus, yup yup...
+Üóï âòæ óàë èàðôóúâàåó, œóï ïó üóïãï ô\níåîÿ ñàèáïìåìàòû ãïìïâà. Îï òåêœàò, íîå\nîôçîï òïòñåäïóïœéóûòÿ, äà-äà...
++++
+Because now\'s the time we need to help get out\nthe word about [CS:N]Azelf[CR] and his buddies. Yup yup!
+Ðïóïíô œóï òåêœàò îôçîï ðïíïœû\nñàòðñïòóñàîéóû òìôö ï [CS:N]Àèåìûõå[CR] é åãï\nðñéÿóåìÿö. Äà-äà!
++++
+[CS:N]Grovyle[CR]\'s scheme can\'t continue!
+Ëïèîÿí [CS:N]Ãñïâàêìà[CR] ðñéäæó ëïîåø!
++++
+Yup yup! I have to spread that rumor on thick!
+Äà-äà! Íîå îôçîï ñàòðñïòóñàîéóû òìôö!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 11: The Guild at Night\n[CN]OO Month XX Day, Sunny"
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 11: Îïœîàÿ Ãéìûäéÿ\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Thanks to [CS:N]Croagunk[CR], I haven\'t been able to\nget a good night\'s sleep lately.
+Â ðïòìåäîåå âñåíÿ ÿ îå íïãô èàòîôóû.\nÉ âòæ áìàãïäàñÿ [CS:N]Ëñïãàîëô[CR].
++++
+There\'s nothing to do if you\'re awake at night,\nso I took a stroll through the guild. Yup yup!
+Åòìé îïœûý îå òðéóòÿ, óï äåìàóû\nàáòïìýóîï îåœåãï, ðïüóïíô ÿ ñåšéì\nðñïãôìÿóûòÿ ðï ãéìûäéé. Äà-äà!
++++
+I glanced in [partner] and [hero]\'s\nroom, but they were deep in sleep, by golly.
+Ÿ èàãìÿîôì â òïòåäîýý ëïíîàóô, îï\n[partner] é [hero] ëñåðëï òðàìé.
++++
+I reckon they must be exhausted from their\ndaily training, yup yup.
+Äïìçîï áúóû, ïîé ïœåîû ôòóàìé ïó òâïåê\nåçåäîåâîïê óñåîéñïâëé, äà-äà.
++++
+I didn\'t peek into [CS:N]Chimecho[CR] and [CS:N]Sunflora[CR]\'s\nroom. That\'d be downright rude. Yup yup.
+Â ëïíîàóô [CS:N]Œàêíåëï[CR] é [CS:N]Òàîõìïñú[CR] ÿ îå\nãìÿäåì. Üóï áúìï áú ðñïòóï ãñôáï.\nÄà-äà.
++++
+Huh, diary? You wanted me to peek?
+Œóï, äîåâîéë? Öïóåì, œóïáú ÿ âòæ çå\nðïòíïóñåì?
++++
+I surely can\'t do that. It\'s just not done.[K]\nWho could live that down?
+Ÿ ïðñåäåìæîîï îå íïã üóïãï òäåìàóû.\nÜóï ðñïòóï îåðñàâéìûîï. Ëóï áú âïïáþå\níïã üóï âúîåòóé?
++++
+And sneaking into the Guildmaster\'s room was\ntoo scary. So I gave that a pass and kept\nnosing around elsewhere. Yup yup.
+Â ëïíîàóô Ãéìûäíàòóåñà ÿ ðïáïÿìòÿ\nèàöïäéóû. Ðïüóïíô ÿ ðïšæì â äñôãéå\níåòóà. Äà-äà.
++++
+Now, that [CS:N]Chatot[CR]! By golly, that one gave me\nquite the start!
+Âïó [CS:N]Œàóïó[CR]! Åê-áïãô, ëàë ÿ ôäéâéìòÿ!
++++
+So, diary, where\'d you reckon that [CS:N]Chatot[CR]\nsleeps at night?
+Îô, äîåâîéœïë, ëàë óú òœéóàåšû, ãäå\n[CS:N]Œàóïó[CR] òðéó ðï îïœàí?
++++
+Well, surprise, surprise![K] He sleeps on the top\nrung of the guild\'s entry ladder!
+Œóï-ç, òýñðñéè, òýñðñéè![K] Ïî òðéó îà\nòàíïê âåñöîåê ðåñåëìàäéîå ãéìûäåêòëïê\nâöïäîïê ìåòóîéøú!
++++
+When I crept nearby, he thought I was trying\nto run away, by golly...
+Ëïãäà ÿ ëñàìòÿ ñÿäïí ò îéí, ïî ðïäôíàì,\nœóï ÿ ðúóàýòû òáåçàóû, äà...
++++
+So he wildly attacked me![K] I\'m still sore all\nover from that, by gosh!
+É ïî îàœàì àóàëïâàóû íåîÿ![K] Ÿ âòæ åþå\nîéëàë îå íïãô ïó üóïãï ïóïêóé, åê-áïãô!
++++
+P.S. [CS:P]Crystal Cave[CR] sure lived up to its name,\nbeing full of crystals and all.
+Ð.Ò. Âéä [CS:P]Ëñéòóàìûîïê Ðåþåñú[CR] óïœîï\nòïïóâåóòóâôåó òâïåíô éíåîé, âåäû â îåê\näïâïìûîï íîïãï ëñéòóàììïâ, é ðïäïáîïãï.
++++
+It surely was a pretty place! Yup yup.
+Üóï äïâïìûîï ëñàòéâïå íåòóï! Äà-äà.
++++
+It was so pretty, I couldn\'t help...[K]helping\nmyself to a crystal!
+Óàí áúìï óàë ëñàòéâï é ÿ îå ôäåñçàìòÿ...[K]\nŸ âèÿì ïóóôäà ëñéòóàììéë!
++++
+It\'s my own precious treasure! Yup yup!
+Üóï íïæ òïáòóâåîîïå òïëñïâéþå! Äà-äà!
++++
+But when everyone found out about it... All I\ngot was a bunch of grief... Sigh...
+Îï ëïãäà âòå ïá üóïí ôèîàìé... Âòæ, œåí\níîå ôäàìïòû ðïçéâéóûòÿ, üóï ãïñûëéíé\nòìåèàíé... Üö...
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 10: No Sleep!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 10: Áåè Òîà!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oof... I\'m feeling foggy from not getting my\nfair share of sleep.
+Ôõ... Ÿ œôâòóâôý òåáÿ óôíàîîï éè-èà\nîåäïòúðà.
++++
+I share my room with [CS:N]Loudred[CR] and [CS:N]Corphish[CR],\nbut...
+Ÿ òðìý â ëïíîàóå âíåòóå ò [CS:N]Ìàôäñåäïí[CR]\né [CS:N]Ëïñõéšåí[CR], îï...
++++
+Lately, [CS:N]Croagunk[CR]\'s taken to slipping into our\nroom for some shut-eye every so often.
+Ò îåäàâîéö ðïñ, â îàšô ëïíîàóô òóàì\nðñïšíúãéâàóû [CS:N]Ëñïãàîë[CR].
++++
+Well, that [CS:N]Croagunk[CR], he usually beds down by\nthat Swap Cauldron of his...[K] But lately he\'s\ntaken to sleeping here...
+Îô, óïó [CS:N]Ëñïãàîë[CR], œóï ïáúœîï òðéó â\nïáîéíëô òï òâïéí Ïáíåîîúí Ëïóìïí...[K]\nÎï óåðåñû ïî ðïçàìïâàì òðàóû èäåòû...
++++
+Just the other day, I was surprised to find\n[CS:N]Croagunk[CR] sleeping nearby, by golly...
+Âœåñà ÿ ïœåîû ôäéâéìòÿ, ëïãäà ôâéäåì\nòðÿþåãï ðïáìéèïòóé [CS:N]Ëñïãàîëà[CR], åê-áïãô...
++++
+And then he murmured, \"Meh-heh-heh! Morning\nthere, [CS:N]Bidoof[CR]!\" I mean, I don\'t want my day to\nstart that way!
+Ïî îàœàì šåðóàóû: \"Öå-öå-öå! Ôóñåœëà,\n[CS:N]Áéäôõ[CR]!\" Îå óàë ÿ öïóåì îàœéîàóû òâïê\näåîû!
++++
+That surely put a scare in me. Yup yup! Now I\ncan\'t sleep because that [CS:N]Croagunk[CR] might\nwant to hang out again... Oof...
+Üóï íåîÿ ïœåîû îàðôãàìï. Äà-äà! Óåðåñû\nÿ îå íïãô ôòîôóû éè-èà óïãï, œóï òýäà\nòîïâà íïçåó ðñïîéëîôóû [CS:N]Ëñïãàîë[CR]... Ôõ...
++++
+P.S. The great [CS:N]Dusknoir[CR] is sure mighty wise.
+Ð.Ò. Âåìéëéê [CS:N]Äàòëîôàñ[CR] ïœåîû íôäñ.
++++
+Not only that, he shows respect to everyone.\nEven me! By golly, you have to respect\nsomeone like that back!
+Ëñïíå óïãï, ïî òï âòåíé ïáþàåóòÿ ôœóéâï.\nÄàçå òï íîïê! Åê-áïãô, ëàë óàëïå íïçîï\nîå ôâàçàóû!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 9: Awesome Expedition\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 9: Œôäåòîàÿ Üëòðåäéøéÿ\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+We\'re back home! Back from our expedition at\nlast! Yup yup!
+Íú îàëïîåø-óï âåñîôìéòû äïíïê éè îàšåê\nüëòðåäéøéé! Äà-äà!
++++
+It was my first expedition. So, yup yup, I was\nscared something awful. But here I am, back\nhome at the guild, yup yup.
+Üóï áúìà íïÿ ðåñâàÿ üëòðåäéøéÿ. Äà-äà,\nÿ áúì ôçàòîï îàðôãàî. Îï óåðåñû, ÿ òîïâà\näïíà, â ãéìûäéé, äà-äà.
++++
+The expedition sure was inspiring. We got to\nsee pretty [CS:P]Fogbound Lake[CR] and other stuff!
+Üóà üëòðåäéøéÿ áúìà ïœåîû âäïöîïâìÿýþåê.\nÍú îàëïîåø ôâéäåìé [CS:P]Èàóôíàîåîîïå Ïèåñï[CR] é\níîïãï âòåãï ðñïœåãï!
++++
+But what sticks most in my mind, by golly...
+Îï óï, œóï íîå ïòïáåîîï èàðïíîéìïòû...
++++
+was reaching base camp with [hero]\'s\nteam. Yup yup.
+Üóï óï, ëàë ÿ äïšæì äï ìàãåñÿ âíåòóå ò\nëïíàîäïê [hero]. Äà-äà.
+It was the first expedition for all three of\nus. So it wasn\'t easy, no sirree.
+Üóï áúìà ðåñâàÿ üëòðåäéøéÿ äìÿ âòåö\nîàò, óñïéö. Ïîà áúìà îåðñïòóïê.
++++
+I ended up causing a lot of trouble for\nTeam [team:], but...
+Ÿ äïòóàâéì Ëïíàîäå [team:]\níîïçåòóâï öìïðïó, îï...
++++
+We helped each other the best we could,\nby golly.
+Íú ðïíïãìé äñôã-äñôãô âòåí, œåí óïìûëï\nòíïãìé.
++++
+And we finally made it to base camp. I swear,\nthat had to be one of the happiest times in my\nlife, by golly.
+É âïó, íú îàëïîåø-óï äïáñàìéòû äï ìàãåñÿ.\nÅê-áïçå, ëìÿîôòû, üóï áúì òàíúê ìôœšéê\níïíåîó â íïåê çéèîé.
++++
+Oof... If it wasn\'t for Team [team:], this\nexpedition wouldn\'t have been quite so fun...
+Ôõ... Åòìé áú îå Ëïíàîäà [team:],\nüóà üëòðåäéøéÿ áú îå ðñïšìà óàë âåòåìï...
++++
+I surely have to thank that [hero] and\n[partner]!
+[hero] é [partner] óïœîï ðïìôœàó ïó\níåîÿ íïé áìàãïäàñîïòóé!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 8: Camaraderie\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 8: Óïâàñéþåòóâï\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+There was sort of a scene today!
+Œóï òåãïäîÿ ðñïéèïšìï!
++++
+Those Team [team:] members were\ndenied dinner tonight. They went to bed hungry.
+Œìåîàí Ëïíàîäú [team:] ïóëàèàìé\nâ ôçéîå. Ïîé ôšìé òðàóû ãïìïäîúíé.
++++
+I reckon they goofed up something bad to be\npunished that way. Yup yup!
+Ðïìàãàý, ïîé îàóâïñéìé œóï-óï ðìïöïå,\nèà œóï éö óàë îàëàèàìé. Äà-äà!
++++
+Still...going without dinner\'s a rotten thing.
+Îï âòæ çå...éäóé òðàóû áåè ôçéîà üóï\nïœåîû îåðñéÿóîï.
++++
+I know that I surely can\'t last a night without\na full belly. Yup yup!
+Ÿ èîàý, ðïòëïìûëô ÿ óïœîï îå òíïãô é\nîïœé ðñïäåñçàóûòÿ ò ðôòóúí çåìôäëïí.\nÄà-äà!
++++
+So I decided that I\'d save a bit of my dinner so\nI could share it with them.
+Ðïüóïíô, ÿ ñåšéì ïòóàâéóû îåíîïãï òâïåãï\nôçéîà, œóïáú ÿ òíïã ò îéíé ðïäåìéóûòÿ.
++++
+Turns out that everyone had the same idea!
+Ëàë ïëàèàìïòû, âòå äôíàìé ï óïí çå, ï\nœæí é ÿ!
++++
+We all saved a bit of our dinners, it seems.
+Íú âòå îå äïåìé îàš ôçéî.
++++
+So we all met up that night, and we\ntalked it over. Yup yup.
+Óïê îïœûý íú âòå òïáñàìéòû é ïáãïâïñéìé\nüóï. Äà-äà.
++++
+And we decided we\'ll share our food with\nTeam [team:].
+É ðï éóïãô ñåšéìé ðïäåìéóûòÿ îàšåê åäïê\nò Ëïíàîäïê [team:].
++++
+We reckon we\'ll sneak them the food tomorrow\nmorning after the morning briefing. Yup yup!
+Äôíàý, íú ðïäìïçéí éí åäô èàâóñà ðïòìå\nôóñåîîåãï ðïòóñïåîéÿ. Äà-äà!
++++
+The older apprentices are usually really strict,\nbut it turns out they\'re awfully nice at heart...
+Ôœåîéëé ðïòóàñšå ïáúœîï äïâïìûîï òóñïãé,\nîï ïëàèúâàåóòÿ, œóï ïîé ïœåîû äïáñú...
++++
+Oof... This is making me all emotional, by golly.
+Ôõ... Åê-áïãô, íåîÿ ðåñåðïìîÿýó üíïøéé.
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 7: Expedition!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 7: Üëòðåäéøéÿ!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+The guild\'s going on an expedition soon!
+Ãéìûäéÿ âòëïñå ïóðñàâéóòÿ îà üëòðåäéøéý!
++++
+It\'ll be my first expedition...[K] That\'s sure got\nmy heart racing, by golly.
+Üóï áôäåó íïÿ ðåñâàÿ üëòðåäéøéÿ...[K]\nÅê-áïãô, ô íåîÿ ïó üóïãï òåñäøå\nëïìïóéóòÿ.
++++
+But will they think about choosing me?
+Îï âïèûíôó ìé íåîÿ óôäà?
++++
+Compared to everyone else, I\'m slow and\nklutzy...
+Ðï òñàâîåîéý ò äñôãéíé, ÿ íåäìéóåìûîúê\né îåôëìýçéê...
++++
+Even Team [team:]\'s rookies are getting\nbetter and better...
+Äàçå îïâéœëé éè Ëïíàîäú [team:]\nòóàîïâÿóòÿ âòæ ìôœšå é ìôœšå...
++++
+But I\'m surely not giving up, by golly!
+Îï, åê-áïãô, ÿ îå òäàíòÿ!
++++
+I\'ll do the best I can to get picked for the\nexpedition, yup yup!
+Ÿ òäåìàý âòæ âïèíïçîïå, œóïáú íåîÿ\nâèÿìé â üëòðåäéøéý, äà-äà!
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 6: Gas Attack!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 6: Ãàèïâàÿ Àóàëà!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Something was sure a surprise the other day!
+Îà äîÿö ëïå-œóï äìÿ íåîÿ òóàìï\nîåïçéäàîîïòóûý!
++++
+I was checking out the Outlaw Notice Board,\nwhen it suddenly stank like rotten sulfur!
+Ÿ ðñïòíàóñéâàì Äïòëô Ñàèúòëéâàåíúö, é\né âîåèàðîï ôœôÿì âïîû, òìïâîï ñÿäïí\nœóï-óï òãîéìï!
++++
+But then everyone turned and looked at me like\nI had something to do with it, by golly!
+Ðïòìå œåãï âòå ðïâåñîôìéòû é ðïòíïóñåìé\nîà íåîÿ óàë, òìïâîï ÿ â œæí-óï âéîïâàó,\nåê-áïãô!
++++
+I swear! I really had nothing to do with that\nawful stink, by golly!
+Ÿ ëìÿîôòû! Ÿ òïâåñšåîîï îéëàë îå òâÿèàî\nò üóïê âïîûý, åê-áïãô!
++++
+I know I\'ve been guilty in the past, like that\ntime in my room once...
+Èîàý, áúâàìé òï íîïê ëôñûæèú, ëàë óïãäà,\nâ íïåê ëïíîàóå...
++++
+then twice in the Mess Hall, and once in\nthe Guildmaster\'s quarters, but...
+é äâàçäú â Ïáåäåîîïí Èàìå, é ïäéî ñàè\nâ ëïíîàóå Ãéìûäíàòóåñà, îï...
++++
+By golly, I surely am not guilty of anything\nthis time, I swear!
+Åê-áïãô, ëìÿîôòû, îà üóïó ñàè, üóï\nòïâåñšåîîï îå íïÿ âéîà! 
++++
+[CN][CS:N]Bidoof[CR]\'s Yup Yup Journal\n[CN]Entry 5: Moves Are Awesome!\n[CN]OO Month XX Day, Sunny
+[CN]Äà-Äà Äîåâîéë [CS:N]Áéäôõà[CR]\n[CN]Èàðéòû 5: Ðñéæíú Ëìàòòîúå!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Well, seems there\'s another thing I was\nclueless about!
+Œóï-ç, åòóû åþæ œóï-óï, ï œæí ÿ äàçå îå\nðïäïèñåâàì!
++++
+When you use moves instead of regular attacks\nto defeat an enemy, you get more Exp. Points.\nDid everyone know that but me?
+Åòìé ðñéíåîÿóû ðñéæíú âíåòóï ïáúœîúö\nôäàñïâ, óï ðñé ðïáåäå îàä âñàãïí, íïçîï\nðïìôœéóû áïìûšå Ïðúóà. Ëóï èîàì ïá üóïí?
++++
+I didn\'t know that! But there\'s more!
+Âïó ÿ îå èîàì! Îï üóï åþæ îå âòæ!
++++
+You need to hit the foe only once with a move.
+Ðïðàòóû ðï âñàãô ðñéæíïí îôçîï óïìûëï\nïäéî ñàè.
++++
+Other than that one move, you can strike it\nwith regular attacks. And you still get the\nboosted Exp. Points. How about that, by golly?
+Ðïðàâ ðñéæíïí, íïçîï äïáéâàóû ïáúœîúíé\nôäàñàíé. Ðïòìå ðïáåäú, óú âòæ ñàâîï\nðïìôœéšû áïìûšå Ïœëïâ Ïðúóà.[C]Åê-áïãô, ëàë óåáå óàëïå?
++++
+Moves also have higher critical-hit rates than\nthe regular attack. So you\'re cheating yourself\nif you\'re not using moves!
+Ô ðñéæíïâ óàëçå áïìûšå šàîò îàîåòåîéÿ\nëñéóéœåòëïãï ôäàñà, œåí ô ïáúœîïê\nàóàëé. Ãñåö óàëéí îå âïòðïìûèïâàóûòÿ!
++++
+I\'ll be using more moves! Starting tomorrow!\nYup yup!
+Ò èàâóñàšîåãï äîÿ, ÿ áôäô éòðïìûèïâàóû\náïìûšå ðñéæíïâ! Äà-äà!
++++
+P.S. So... I did exactly what I promised I\nwould! I used lots of moves while exploring!
+Ð.Ò. É... Ÿ òäåìàì â óïœîïòóé, ëàë é\nïáåþàì! Ÿ ðñéíåîéì íîïçåòóâï ðñéæíïâ âï\nâñåíÿ âúìàèëé!
++++
+But I used my moves so often that I ran out\nof PP for my moves almost right away...
+Îï ÿ óàë œàòóï éö éòðïìûèïâàì, œóï ô\níåîÿ áúòóñï èàëïîœéìéòû ÏÒ...
++++
+Oof...[K] Exploring is never as easy as it looks,\nI reckon.
+Ôõ...[K] Ðïìàãàý, éòòìåäïâàóû òìïçîåå œåí\nëàçåóòÿ.
++++
+Ignore it
+Éãîïñéñïâàóû
++++
+[CN]Something is written here...
+[CN]Èäåòû œóï-óï îàðéòàîï...
++++
+[CN]This is [CS:N]Sunflora[CR]\'s diary.\n[CN]Should we sneak a peek?
+[CN]Üóï äîåâîéë [CS:N]Òàîõìïñú[CR].\n[CN]Èàãìÿîôóû â îåãï?
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Episode 26: Thank You!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Üðéèïä 26: Òðàòéáï!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! Yippee-yay-yay!\nOur [hero] and [partner] are back!\nBack in Treasure Town!
+Ï áïçå íïê! Ôñà-ôñà-ôñà!\n[hero] é [partner] âåñîôìéòû!\nÂåñîôìéòû â Ãïñïä Òïëñïâéþ!
++++
+They defeated [CS:N]Darkrai[CR]![K] And they\'re back safe!
+Ïîé ïäïìåìé [CS:N]Äàñëñàÿ[CR]![K] É âåñîôìéòû\nâ øåìïòóé é òïöñàîîïòóé!
++++
+Thank you, [hero] and [partner]!\nVery, very sincerely!
+[hero] é [partner]! Ïœåîû é ïœåîû\néòëñåîîï ãïâïñý âàí! Òðàòéáï!
++++
+From the bottom of my heart, I\'m filled with a\ndeep sense of gratitude.
+Ÿ ðåñåðïìîÿýòû œôâòóâïí ãìôáïœàêšåê\náìàãïäàñîïòóé.
++++
+You two so bravely saved the world, not once,\nbut twice!
+Âú äâïå óàë öñàáñï òðàòìé íéñ, é îå ïäéî\nñàè, à äâàçäú!
++++
+When I think back to when you first joined the\nguild...[K]you two were just the cutest!
+Óï âñåíÿ, ëïãäà âú âðåñâúå âòóôðéìé â\nãéìûäéý...[K]âú äâïå, áúìé óàëéíé\nïœàñïâàóåìûîúíé!
++++
+But now you\'ve grown to be so capable and\nconfident.
+Îï òåêœàò, âú òóàìé óàëéíé òðïòïáîúíé\né ôâåñåîîúíé.
++++
+...[K]Oh my gosh! This must be what a mother\nfeels like watching her children grow!
+...[K]Ï áïçå íïê! Äïìçîï áúóû, óàë òåáÿ\nœôâòóâôåó íàóû, ëïãäà âéäéó, ëàë ñàòóôó\nåæ äåóé!
++++
+Oh my gosh! I feel horrified about writing\nthat![K] Anyway...
+Ï áïçå íïê! Ÿ œôâòóâôý ôçàò ïó óïãï,\nœóï ðéšô üóï![K] Â ïáþåí...
++++
+Oh, [hero] and [partner]! Don\'t ever\nchange, my good friends!
+Ï, [hero] é [partner]!\nÎå íåîÿêóåòû îéëïãäà, íïé öïñïšéå äñôèûÿ!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 25: [CS:N]Darkrai[CR]\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 25: [CS:N]Äàñëñàê[CR]\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Yippee! Oh my gosh! Little [CS:N]Azurill[CR]...[K]\nLittle [CS:N]Azurill[CR] has awoken from his nightmare!
+Ôñààà! Ï áïçå íïê! Íàìýóëà [CS:N]Àèôñéìì[CR]...[K]\nÍàìýóëà [CS:N]Àèôñéìì[CR] ðñïáôäéìòÿ ïó ëïšíàñà!
++++
+Ooh, this is so wonderful! Yippee![K] [CS:N]Cresselia[CR]\nmust be thanked properly for this!
+Ïïï, üóï óàë œôäåòîï! Ôñàà![K] Îôçîï\nöïñïšåîûëï ïóáìàãïäàñéóû [CS:N]Ëñåòòåìéý[CR] èà\nðïíïþû!
++++
+We also owe [CS:N]Cresselia[CR] for telling us how\neverything bad that happened came to be...\nEven the destruction of time.
+Íú óàëçå ïáÿèàîú [CS:N]Ëñåòòåìéé[CR] èà óï, œóï\níú ôèîàìé ëàë âòæ ðìïöïå ðñïéòöïäéìï...\nÄàçå ôîéœóïçåîéå âñåíåîé.
++++
+We were shocked to learn that it was all the\ndoing of one Pokémon... The one called [CS:N]Darkrai[CR].
+Íú áúìé â šïëå ïó óïãï, œóï ôèîàìé, œóï\nâòæ üóï ðñïéòöïäéìï éè-èà ïäîïãï\nÐïëåíïîà... [CS:N]Äàñëñàÿ[CR].
++++
+Now [hero] and [partner] are on\ntheir way to confront [CS:N]Darkrai[CR].
+Òåêœàò, [hero] é [partner] éäôó\nòñàçàóûòÿ ò [CS:N]Äàñëñàåí[CR].
++++
+Good luck, [hero] and [partner]!
+Ôäàœé, [hero] é [partner]!
++++
+Please win! And please come back safe!
+Ðñïšô, ïäïìåêóå åãï! É ðñïšô, âåñîéóåòû\näïíïê çéâúíé!
++++
+Go for it, Team [team:]!
+Âðåñæä, Ëïíàîäà [team:]!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 24: Nightmare! Eek!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 24: Ëïšíàñ! Ééé!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+It was so peaceful for a while...[K] But now\nthere has been a sinister incident.
+Âòæ áúìï óàë òðïëïêîï...[K] Îï îåäàâîï\nðñïéèïšæì çôóëéê òìôœàê.
++++
+Little [CS:N]Azurill[CR] seems to be stuck in a nightmare\nthat he can\'t wake from.
+Ðïöïçå, íàìýóëà [CS:N]Àèôñéìì[CR] èàòóñÿì â\nëïšíàñå, éè ëïóïñïãï ïî îå íïçåó\nðñïòîôóûòÿ
++++
+Oh my gosh! How is that possible?!
+Ï áïçå íïê! Ëàë üóï âïèíïçîï?!
++++
+For the time being, Team [team:] has\ngone off in search of a Pokémon named\n[CS:N]Drowzee[CR].
+Ëïíàîäà [team:] ïóðñàâéìàòû îà\nðïéòëé Ðïëåíïîà [CS:N]Äñïôèé[CR].
++++
+Apparently, [CS:N]Drowzee[CR] can go into the dreams of\nothers...[K] It would be wonderful if little [CS:N]Azurill[CR]\ncan be awoken that way.
+Òôäÿ ðï âòåíô, [CS:N]Äñïôèé[CR] òðïòïáåî ðñïîéëàóû\nâ œôçéå òîïâéäåîéÿ...[K] Áúìï áú œôäåòîï,\nåòìé [CS:N]Àèôñéììà[CR] íïçîï óàë ñàèáôäéóû.
++++
+P.S. Oh my gosh, I don\'t really want to even\nwrite anything like this, but...
+Ð.Ò. Ï áïçå íïê, ÿ îå öïœô äàçå ðéòàóû\nóàëïå, îï...
++++
+Maybe... Well, lately... Maybe only because it\'s\nbeen so peaceful for so long... But...
+Âïèíïçîï... Îô, ò îåäàâîéö ðïñ... Íïçåó,\nüóï óïìûëï ðïóïíô, œóï âòæ áúìï íéñîï\nòóïìû äïìãïå âñåíÿ... Îï...
++++
+I can\'t get over this creepy feeling that\nsomething dreadful is going to happen...
+Ÿ âòæ îéëàë îå íïãô ïóäåìàóûòÿ ïó üóïãï\nòóñàîîïãï œôâòóâà, œóï òëïñï ðñïéèïêäæó\nœóï-óï ôçàòîïå...
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 23: Thunderstorm! Eek!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 23: Ãñïèà! Ééé!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+...It\'s always sunny.
+...Ïáúœîï òâåóéó òïìîøå.
++++
+The weather has been nice for a long\ntime now.
+Ðïãïäà ôçå äàâîï òóïéó öïñïšàÿ.
++++
+It sure keeps me feeling perky![K] I wish the\nweather would stay sunny like this.
+Üóï ïðñåäåìåîîï ðïäîéíàåó íîå îàòóñïåîéå![K]\nÖïóåìà áú ÿ, œóïáú ðïãïäà âòåãäà áúìà\nóàëïê òïìîåœîïê.
++++
+But, oh my gosh, everyone is saying there\'s a\nstorm coming...
+Îï, ï áïçå íïê, âòå óïìûëï é óâåñäÿó ï\nðñéáìéçàýþåêòÿ ãñïèå...
++++
+I guess that a Pokémon named [CS:N]Swampert[CR]\nsensed a storm coming and told everyone...
+Ðïìàãàý, œóï Ðïëåíïî [CS:N]Òâàíðåñó[CR] ðïœôÿì\nîàäâéãàýþôýòÿ ãñïèô é ñàòòëàèàì âòåí ïá\nüóïí...
++++
+That\'s all fine and well, but...[K]I...[K]get spooked by\nthunder...
+Âòæ áú îéœåãï, îï...[K] Ÿ...[K] Áïýòû ãñïèô...
++++
+The instant it thunders...[K] Eeeeek!
+Â íïíåîó ãñïèú...[K] Ééééé!
++++
+Oooh, just as I wrote that! Eeeeek![K] Thunder!
+Ïïö, ðñÿíï âï âñåíÿ ðéòûíà! Éééé![K] Ãñïèà!
++++
+...Oh! Actually, it was only [CS:N]Chimecho[CR] ringing\nher bell beside me...
+...Ïê! Îåó, üóï âòåãï ìéšû [CS:N]Œàêíåëï[CR],\nðïèâïîéìà òâïéí ëïìïëïìûœéëïí ðïèàäé\níåîÿ...
++++
+Oh my gosh! She startled me!
+Ï áïçå íïê! Ëàë ïîà íåîÿ îàðôãàìà!
++++
+That [CS:N]Chimecho[CR] is more mischievous than she\nlooks! Oh my gosh!
+Üóà [CS:N]Œàêíåëï[CR] ëôäà áïìåå ïèïñîàÿ, œåí\níïçîï ðïäôíàóû! Ï áïçå íïê!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 22: Yippee! Team [CS:X]Charm[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 22: Ôñà! Ëïíàîäà [CS:X]Šàñí[CR]!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! What an exciting day it was!
+Ï áïçå íïê! Ëàëïê çå òåãïäîÿ áúì\nèàöâàóúâàýþéê äåîû!
++++
+Everyone\'s favorite celebrities, the women of\nTeam [CS:X]Charm[CR], came to our guild! Oh my gosh!
+Âòåíé ìýáéíúå èîàíåîéóïòóé, äåâôšëé éè\nËïíàîäú [CS:X]Šàñí[CR], ðñéáúìé â îàšô ãéìûäéý!\nÏ áïçå íïê!
++++
+Yippee![K]\nYippee![K]\nYip-yip-yippeeeeee...
+Ôñààà![K]\nÔñàààà![K]\nÔñà-ôñà-ôñààààààà...
++++
+...[K]Oh![K] Where?[K] Oh my gosh! Where am I?!
+...[K]Ïê![K] Ãäå?[K] Ï áïçå íïê! Ãäå ÿ?!
++++
+...[K]Oh, I see now...
+...[K]Ïö, óåðåñû ÿòîï...
++++
+Oh my gosh! I just fainted from being so\nexcited!
+Ï áïçå íïê! Ÿ ðïóåñÿìà òïèîàîéå ïó\nâïòöéþåîéÿ!
++++
+Oh...! [CS:N]Chimecho[CR] is looking at me all puzzled![K]\nOh my gosh! This just won\'t do!
+Ïê!.. [CS:N]Œàêíåëï[CR] òíïóñéó îà íåîÿ ò\nîåäïôíåîéåí![K] Ï áïçå íïê! Óàë îå ðïêäåó!
++++
+Um, anyway, the women of Team [CS:X]Charm[CR] came\ncalling on our guild for an oh-my-gosh kind of\nreason.
+Üí, â ïáþåí, äåâôšëé éè Ëïíàîäú [CS:X]Šàñí[CR]\nðñéšìé â îàšô ãéìûäéý ðï ï-áïçå-íïê\nëàëïê ðñéœéîå.
++++
+Turns out they\'re old friends of our\nGuildmaster. Wow![K] Oh my gosh, our\nGuildmaster is special!
+Ïëàèúâàåóòÿ, ïîé äàâîéå äñôèûÿ îàšåãï\nÃéìûäíàòóåñà. Ïãï![K] Ï áïçå íïê, îàš\nÃéìûäíàòóåñ îå óàë óï ðñïòó!
++++
+I feel lucky that I\'ve stayed with the guild to\nfurther my training.
+Íîå ðïâåèìï, œóï ÿ ïòóàìàòû â ãéìûäéé,\nœóïáú óñåîéñïâàóûòÿ äàìûšå.
++++
+Oh...! [CS:N]Chimecho[CR] is eyeing me curiously. I can\'t\nwrite like this, oh my gosh!
+Ïê!.. Îà íåîÿ ãìàèååó ìýáïðúóîàÿ [CS:N]Œàêíåëï[CR].\nÏ áïçå íïê, ÿ îå íïãô óàë ðéòàóû!
++++
+So that\'s all for tonight! Good night!
+Óïãäà, îà òåãïäîÿ âòæ! Äïáñïê îïœé!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 21: Bidding Farewell\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 21: Ðñïþàîéå!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Baby [CS:N]Manaphy[CR] went back to the sea...
+Íàìúš [CS:N]Íàîàõé[CR] ïóðñàâéìòÿ â íïñå...
++++
+Poor [hero] and [partner] must be\ncrushed by this...
+[hero] é [partner] äïìçîï áúóû,\nñàèäàâìåîú üóéí...
++++
+I feel terrible for them...
+Íîå ôçàòîï çàìû éö...
++++
+But... This is exactly the time we must be\ncheerful around them to uplift their spirits!
+Îï... Òåêœàò òàíïå âñåíÿ áúóû îàâåòåìå,\nœóïáú éö ðïäáïäñéóû!
++++
+When I see [hero] and [partner]\ntomorrow, I\'ll have to greet them with a big\nsmile!
+Åòìé [hero] é [partner] íîå èàâóñà\nâòóñåóÿóòÿ, îôçîï áôäåó éí šéñïëï\nôìúáîôóûòÿ!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 20: Worries...\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 20: Ðåñåçéâàîéÿ...\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+I heard that baby [CS:N]Manaphy[CR] has fallen sick...[K]\nThis worries me so much!
+Ÿ ôèîàìà, œóï íàìúš [CS:N]Íàîàõé[CR] èàáïìåì...[K]\nÜóï íåîÿ ïœåîû áåòðïëïéó!
++++
+[CS:N]Corphish[CR] blurted out, \"Hey, hey! That baby\n[CS:N]Manaphy[CR] is probably a Pokémon that can only\ngrow up in the sea, hey, hey!\"
+[CS:N]Ëïñõéš[CR] âúðàìéì: \"Üê, üê! Üóïó íàìúš\n[CS:N]Íàîàõé[CR], âïèíïçîï, Ðïëåíïî, ëïóïñúê íïçåó\nñàòóé óïìûëï â íïñå, üê, üê!\"
++++
+I wanted to ask [CS:N]Corphish[CR], \"Then, why aren\'t\nyou in the water all the time?\"
+Ÿ öïóåìà òðñïòéóû [CS:N]Ëïñõéšà[CR]: \"Îï, â óàëïí\nòìôœàå, ðïœåíô óú âòå âñåíÿ îå ðìàâàåšû\nâ âïäå?\"
++++
+But, oh my gosh, it wasn\'t the sort of thing to\nbring up just then!
+Îï, ï áïçå íïê, óïãäà üóï áúìà áú îå\nòàíàÿ ôäàœîàÿ õñàèà!
++++
+Please get better soon, [CS:N]Manaphy[CR]!
+Ðïðñàâìÿêòÿ, [CS:N]Íàîàõé[CR]!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 19: Beaten to the Punch\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 19: Íåîÿ Ïðåñåäéìé!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! Team [team:] has already\nexplored the [CS:P]Surrounded Sea[CR] through and\nthrough!
+Ï áïçå íïê! Ëïíàîäà  [team:] ôçå\nðïìîïòóûý éòòìåäïâàìà [CS:P]Èàëñúóïå Íïñå[CR]!
++++
+Eeeek! They\'ve beaten me to the punch!
+Éééé! Ïîé íåîÿ ïðåñåäéìé!
++++
+Being free associates of the guild gives those\nkids an advantage, though. They\'re free to\ngo wherever and whenever they want.
+Óï, œóï ïîé ÿâìÿýóòÿ òâïáïäîúíé\nðñåäòóàâéóåìÿíé ãéìûäéé, îåòïíîåîîï\náïìûšïå ðñåéíôþåòóâï. Ïîé íïãôó éäóé[C]ëôäà éí âèäôíàåóòÿ.
++++
+As opposed to me with my guild work. I can\'t\nfind time like they can...
+Òï âòåê üóïê ãéìûäåêòëïê ñàáïóïê, ÿ óàë\nðïòóôðéóû îå íïãô. Ô íåîÿ îåó òóïìûëï\nòâïáïäîïãï âñåíåîé...
++++
+Eek! I don\'t like writing this![K] It\'s all so whiny\nand self-pitying. Oh my gosh!
+Ééé! Íîå îå îñàâéóòÿ óàë ðéòàóû![K] Âòæ\nèâôœéó ðìàëòéâï é çàìïòóìéâï. Ï áïçå íïê!
++++
+I don\'t remember turning into this loathsome\ncharacter![K] Oh my gosh! What am I to do?\nWhat am I to do?!
+Ëïãäà üóï ÿ ðñåâñàóéìàòû â óàëïãï\nïóâñàóéóåìûîïãï ðåñòïîàçà?![K] Ï áïçå íïê!\nŒóï íîå äåìàóû? Œóï çå íîå äåìàóû?!
++++
+P.S. That [hero]\'s team brought back a\ntiny baby from the [CS:P]Surrounded Sea[CR].
+Ð.Ò. Âíåòóå ò [hero] éè [CS:P]Èàëñúóïãï\nÍïñÿ[CR] óàëçå ðñéáúì é ëñïöïóîúê íàìúš.
++++
+Oh my gosh! He\'s so mysterious! And so\nadorable! Yippee!
+Ï áïçå íïê! Ïî óàëïê èàãàäïœîúê! É óàëïê\níéìåîûëéê! Ôééé!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 18: The [CS:P]Surrounded Sea[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 18: [CS:P]Èàëñúóïå Íïñå[CR]!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! I heard a fantastic rumor!
+Ï áïçå íïê! Ÿ ôòìúšàìà õàîóàòóéœåòëéê\nòìôö!
++++
+A rumor about a place called the [CS:P]Surrounded\nSea[CR]! Eek!
+Òìôö ï íåòóå ðïä îàèâàîéåí [CS:P]Èàëñúóïå\nÍïñå[CR]! Ééé!
++++
+What treasures would one find at a place like\nthat...?
+Œóï èà òïëñïâéþà íïçîï îàêóé â óàëïí\níåòóå?..
++++
+Oh my gosh! Yippee! I want to go there!
+Ï áïçå íïê! Ôñàààà! Ÿ öïœô ðïêóé óôäà!
++++
+I want to go so much, I feel like I\'m going to\nfaint just from writing about it!
+Ÿ óàë öïœô óôäà ðïêóé, ëàçåóòÿ, ÿ òåêœàò\nôðàäô áåè œôâòóâ, ðïëà ðéšô üóé òóñïëé!
++++
+I think I will find time between my guild jobs\nand go! Oh my gosh! Yes, I will!
+Ÿ äôíàý, œóï îàêäô âñåíÿ íåçäô íïéíé\nãéìûäåêòëéíé èàäàîéÿíé é ðïêäô óôäà!\nÏ áïçå íïê! Äà, óàë é òäåìàý!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 17: Yay! Graduation!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 17: Ôñà! Âúðôòëîïê!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+They did it!
+Ïîé üóï òäåìàìé!
++++
+Those kids made it through the graduation\nexam!
+Üóé äåóé òíïãìé ðñïêóé âúðôòëîïê üëèàíåî!
++++
+Oh my gosh! The members of Team\n[team:] were so adorable when they\njoined the guild...[K] Now they\'re authorities!
+Ï áïçå íïê! Œìåîú Ëïíàîäú [team:]\náúìé óàëéí ïœàñïâàóåìûîúíé, ëïãäà ïîé\nóïìûëï ðñéòïåäéîéìéòû ë ãéìûäéé...[C]Óåðåñû, ïîé ôâàçàåíú!
++++
+It\'s sad that they\'re leaving the guild...[K]\nBut Sharpedo Bluff is very close by. I can\nvisit them anytime.
+Çàìû, œóï ïîé ðïëéäàýó ãéìûäéý...[K]\nÂðñïœåí, Íúò Šàñðåäï îå óàë ôç é äàìåëï.\nŸ íïãô îàâåþàóû éö â ìýáïå âñåíÿ.
++++
+So [hero] and [partner]...\nCongratulations!
+[hero] é [partner]...\nÍïé ðïèäñàâìåîéÿ!
++++
+Do visit us at the guild even after you\ngraduate!
+Îàâåþàêóå îàò â ãéìûäéé, äàçå ðïòìå\nâàšåãï âúðôòëà!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 16: Graduation Exam\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 16: Âúðôòëîïê Üëèàíåî\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Team [team:] has been chosen to take the\ngraduation exam.
+Ëïíàîäà [team:] áôäåó ðñïöïäéóû\nâúðôòëîïê üëèàíåî.
++++
+But graduation...[K] Oh my gosh! I remember\nwhen they asked me if I wanted to take it...
+Îï âúðôòëîïê...[K] Ï áïçå íïê! Ÿ ðïíîý,\nëïãäà íåîÿ òðñïòéìé, öïœô ìé ÿ ðñïêóé\nüëèàíåî...
++++
+At the time, I refused because I wanted to\ntrain some more at the guild.
+Â óï âñåíÿ, ÿ ïóëàèàìàòû ïó üóïãï,\nðïóïíô œóï ÿ öïóåìà ðïóñåîéñïâàóûòÿ\nâ ãéìûäéé ðïáïìûšå.
++++
+Last year, [CS:N]Loudred[CR] took the exam... Of course,\nhe failed in spectacular fashion...
+Â ðñïšìïí ãïäô, [CS:N]Ìàôäñåä[CR] ðïðúóàìòÿ ðñïêóé\nüëèàíåî... Ëïîåœîï çå, ïî ò óñåòëïí\nðñïâàìéì åãï...
++++
+But those kids can make it! I\'m sure of it! Eek!
+Îï üóé äåóé òðñàâÿóòÿ! Ÿ ôâåñåîà â üóïí!\nÉéé!
++++
+I\'ll be cheering for them!
+Ÿ áôäô èà îéö áïìåóû!
++++
+P.S. It\'s that time of year again! The season\nof the grand master of all things bad![K] Yippee!
+Ð.Ò. Òîïâà ðñéšìï üóï âñåíÿ! Íïíåîó,\nëïãäà ðïÿâìÿåóòÿ âåìéëéê âìàäúëà âòåãï\nòàíïãï ðìïöïãï![K] Ôñààà!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 15: They\'re Saving Us!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 15: Ïîé Òðàòàýó Îàò!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Our future is in the hands of those two kids.
+Îàšå áôäôþåå â ìàðàö üóéö äâôö äåóåê.
++++
+But I\'m convinced that those kids will not fail\nto stop the planet\'s paralysis.
+Îï ÿ ôâåñåîà, œóï üóé äåóé òíïãôó\nïòóàîïâéóû ðàñàìéœ ðìàîåóú.
++++
+That [hero] and [partner]! Oh, but\ndon\'t forget [CS:N]Lapras[CR] and [CS:N]Grovyle[CR] too!
+[hero] é [partner]! Ï, é îå òóïéó\nèàáúâàóû ï [CS:N]Ìàðñàòå[CR] é [CS:N]Ãñïâàêìå[CR]!
++++
+You can\'t fail us!
+Âú îàò îå ðïäâåäæóå!
++++
+I hope you all come back safe and sound to\nTreasure Town. Soon!
+Ÿ îàäåýòû, œóï âú âòå âåñîæóåòû â Ãïñïä\nÒïëñïâéþ â øåìïòóé é òïöñàîîïòóé!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 14: Welcome Back!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 14: Ò Âïèâñàþåîéåí!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! Yippee! What a shock!
+Ï áïçå íïê! Ôñààà! Ëàëïå ðïóñÿòåîéå!
++++
+It\'s totally amazing! Team [team:] came\nback![K] From the future! Oh my gosh!
+Üóï ðñïòóï ðïóñÿòàýþå! Ëïíàîäà\n[team:] âåñîôìàòû![K] Éè áôäôþåãï!\nÏ áïçå íïê!
++++
+It was such an amazing thing! Yippee!
+Üóï óàë ðïñàèéóåìûîï! Ôñààà!
++++
+We were even more amazed by [partner]\'s\naccount of it all. Oh my gosh!
+Îï óï, œóï ñàòòëàèúâàåó [partner]\nðñï âòæ üóï, ðïñàèéìï îàò åþæ áïìûšå!\nÏ áïçå íïê!
++++
+But if those kids said it, then it must be true.
+Îï, åòìé óàë òëàèàìé üóé äåóé, óï,\nòëïñåå âòåãï, üóï ðñàâäà.
++++
+I choose to believe the kids.
+Ÿ âåñý äåóÿí.
++++
+Oh![K] Then does that mean...
+Ï![K] Îï óïãäà üóï èîàœéó...
++++
+That the great [CS:N]Dusknoir[CR], who I revere...[K]is\nactually a bad Pokémon?!
+Œóï âåìéëéê [CS:N]Äàòëîôàñ[CR], ëïóïñïãï ÿ óàë\nôâàçàìà...[K]îà òàíïí äåìå ðìïöïê Ðïëåíïî?!
++++
+Oh my gosh...[K] A bad Pokémon?!
+Ï áïçå íïê...[K] Ðìïöïê Ðïëåíïî?!
++++
+What should I do?! What should I do?!
+Œóï íîå äåìàóû?! Œóï çå íîå äåìàóû?!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 13: Those Kids...\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 13: Üóé Äåóé...\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Everyone, including myself, is down in the\ndumps at the guild.
+Âòå â ãéìûäéé é ÿ â óïí œéòìå, çôóëï\nðïäàâìåîú.
++++
+I thought about why the guild is lacking energy\nlately... The answer is easy.
+Ÿ äôíàìà ï óïí, ðïœåíô ãéìûäéé îå\nöâàóàåó üîåñãéœîïòóé... Ïóâåó ðñïòó.
++++
+It\'s because...[K]Team [team:] is missing.
+Âòæ ðïóïíô...[K] Œóï Ëïíàîäà [team:]\néòœåèìà.
++++
+I didn\'t realize how lonely it would be without\nTeam [team:]...
+Ÿ âïâòå îå ïòïèîàâàìà, ëàë îàí áôäåó\nïäéîïëï áåè Ëïíàîäú [team:]...
++++
+[CS:N]Chatot[CR] has been very ill tempered lately and\nprone to annoying outbursts...[K] But that\'s also\nbecause he misses those kids.
+Ò îåäàâîéö ðïñ, [CS:N]Œàóïó[CR] òóàì ïœåîû\nñàèäñàçéóåìûîúí é œàòóï îå òäåñçéâàåó\nòåáÿ...[C]Üóï ïóóïãï, œóï ïî óïçå òëôœàåó ðï üóéí\näåóÿí.
++++
+Oh, I hope they\'re safe... Those kids...
+Ïö, ÿ îàäåýòû, œóï ïîé â ðïñÿäëå...\nÜóé äåóé...
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 12: Total Shocker!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 12: Ëàëïê Ëïšíàñ!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! It\'s been one shocking thing after\nanother lately!
+Ï áïçå íïê! Â ðïòìåäîåå âñåíÿ, äñôã èà\näñôãïí, ðñïéòöïäÿó šïëéñôýþéå âåþé!
++++
+It turns out that [CS:N]Grovyle[CR] is a wanted outlaw\non the run from (oh my gosh!) the future.
+Ïëàèúâàåóòÿ, œóï [CS:N]Ãñïâàêì[CR] - ñàèúòëéâàåíúê\nîåãïäÿê, òáåçàâšéê éè (ï áïçå íïê!)\náôäôþåãï.
++++
+And [CS:N]Dusknoir[CR] also came from the future\nto catch that [CS:N]Grovyle[CR]! Eek!
+É [CS:N]Äàòëîôàñ[CR] óïçå ðñéáúì éè áôäôþåãï,\nœóïáú ðïêíàóû [CS:N]Ãñïâàêìà[CR]! Ééé!
++++
+There have been so many unbelievable events!\nIt\'s like I\'m in a perpetual state of shock!\nOh...my...gosh!
+Ðñïéèïšìï òóïìûëï îåâåñïÿóîúö òïáúóéê!\nŸ òìïâîï â òïòóïÿîéé ðïòóïÿîîïãï\nðïóñÿòåîéÿ! Ï...áïçå...íïê!
++++
+Anyway, [CS:N]Dusknoir[CR] vowed to catch [CS:N]Grovyle[CR]\non his own.
+Â ïáþåí, [CS:N]Äàòëîôàñ[CR] ðïëìÿìòÿ ðïêíàóû\n[CS:N]Ãñïâàêìà[CR] òâïéíé òïáòóâåîîúíé ñôëàíé.
++++
+I\'m sure the great [CS:N]Dusknoir[CR] will honor his\npledge, so [CS:N]Grovyle[CR] will be caught.
+Ÿ ôâåñåîà, œóï âåìéëéê [CS:N]Äàòëîôàñ[CR] éòðïìîéó\nòâïý ëìÿóâô é ðïêíàåó [CS:N]Ãñïâàêìà[CR].
++++
+We have to leave everything up to [CS:N]Dusknoir[CR].
+Îàí îôçîï äïâåñéóûòÿ [CS:N]Äàòëîôàñô[CR].
++++
+Good luck, [CS:N]Dusknoir[CR]!
+Ôäàœé, [CS:N]Äàòëîôàñ[CR]!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 11: Where\'s [CS:N]Grovyle[CR]?\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 11: Ãäå çå [CS:N]Ãñïâàêì[CR]?\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+The whole guild is now searching for that\nthieving [CS:N]Grovyle[CR].
+Âòÿ ãéìûäéÿ óåðåñû éþåó üóïãï âïñà\n[CS:N]Ãñïâàêìà[CR].
++++
+[CS:N]Bidoof[CR], [CS:N]Dugtrio[CR], and I searched [CS:P]Crystal Cave[CR].
+[CS:N]Áéäôõ[CR], [CS:N]Äàãóñéï[CR] é ÿ ïáúòëàìé [CS:P]Ëñéòóàìûîôý\nÐåþåñô[CR].
++++
+But our search turned up nothing.
+Îï îàšé ðïéòëé îé ë œåíô îå ðñéâåìé.
++++
+"Where could that [CS:N]Grovyle[CR] be...?
+Ãäå çå [CS:N]Ãñïâàêì[CR]?..
++++
+But he must be caught, no matter what!
+Îï, îåòíïóñÿ îé îà œóï, åãï îôçîï\nðïêíàóû!
++++
+For [CS:N]Uxie[CR]\'s sake too, we\'ll catch that criminal!
+Íú ðïêíàåí üóïãï îåãïäÿÿ, â óïí œéòìå\né ñàäé [CS:N]Ýëòé[CR]!
++++
+P.S. That silly [CS:N]Bidoof[CR]...[K] Oh my gosh, he was\nno help looking for [CS:N]Grovyle[CR]...
+Ð.Ò. Üóïó ãìôðúê [CS:N]Áéäôõ[CR]... Ï áïçå íïê,\nïî òïâåñšåîîï îå ðïíïãàì éòëàóû\n[CS:N]Ãñïâàêìà[CR]...
++++
+Not only that, he even brought home a crystal\nas a souvenir! Eeek!
+Íàìï óïãï, ïî åþæ é ðñéóàþéì äïíïê\nëñéòóàìì â ëàœåòóâå óñïõåÿ! Ééé!
++++
+That reminds me...[K] When we were leaving\n[CS:P]Crystal Cave[CR], I caught [CS:N]Bidoof[CR] grinning to\nhimself...
+Ÿ âòðïíîéìà... Ëïãäà íú ðïëéäàìé\n[CS:P]Ëñéòóàìûîôý Ðåþåñô[CR], ÿ ôâéäåìà, ëàë [CS:N]Áéäôõ[CR]\nôöíúìÿåóòÿ ðñï òåáÿ...
++++
+Now that I think about it... Oh my gosh, that\nwas him grinning about that crystal!
+Óåðåñû, ðïäôíàâ åþæ ñàè... Ï áïçå íïê,\nïî óïãäà ôöíúìÿìòÿ óïíô, œóï åíô ôäàìïòû\nòóàþéóû üóïó ëñéòóàìì!
++++
+Oh my gosh, I never suspected [CS:N]Bidoof[CR] could\nleer in such an icky way! Eek!
+Ï áïçå íïê, ÿ é îå ðïäïèñåâàìà, œóï\n[CS:N]Áéäôõ[CR] íïçåó ôöíúìÿóûòÿ óàëéí íåñèëéí\nïáñàèïí! Ééé!
++++
+It\'s another new discovery! Eek!
+Âïó óàë ïóëñúóéå! Ééé!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 10: Oh My Gosh! [CS:N]Dusknoir[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 10: Ï Áïçå Íïê! [CS:N]Äàòëîôàñ[CR]!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh oh my gosh oh my gosh!\nThe famous [CS:N]Dusknoir[CR] came to our guild!\nYippee!
+Ï áïçå íïê ï áïçå íïê ï áïçå íïê!\nÈîàíåîéóúê [CS:N]Äàòëîôàñ[CR] ðñéáúì â îàšô\nãéìûäéý! Ôñàààà!
++++
+And...and...and...! He plans to stay in Treasure\nTown for a while! Yippee!
+É...é...é!.. Ïî öïœåó îåîàäïìãï ðïáúóû\nâ Ãïñïäå Òïëñïâéþ! Ôñààà!
++++
+I got to talk to him! He\'s wise! And courteous!\nAnd handsome! And oh my gosh...[K]yippee!
+Íîå îôçîï ò îéí ðïãïâïñéóû! Ïî íôäñúê!\nÉ ôœóéâúê! É ëñàòéâúê! É ï áïçå íïê...[K]\nÔñààà!
++++
+Yip-yip-yippee! That\'s what it feels like!
+Ô-ô-ôñàààà! Âïó œóï ÿ œôâòóâôý!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 9: Back Home!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 9: Òîïâà Äïíà!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+We just got back from our expedition now!\nOh my gosh! Am I exhausted!
+Íú óïìûëï œóï âåñîôìéòû éè üëòðåäéøéé!\nÏ áïçå íïê! Ëàë çå ÿ ôòóàìà!
++++
+Ooh! This expedition left a big impression\non me in every way!
+Ïïö! Üóà üëòðåäéøéÿ ðïñàèéìà íåîÿ äï\nòàíïãï ïòîïâàîéÿ!
++++
+Especially the sight of [CS:P]Fogbound Lake[CR]...[K] Oh my\ngosh, it moved me in ways I can\'t express!
+Ïòïáåîîï ðïñàèéì íåîÿ âéä [CS:P]Èàóôíàîåîîïãï\nÏèåñà[CR]...[K] Ï áïçå íïê, üóï óñïîôìï íåîÿ\nóàë, œóï é òìïâàíé îå ïðéòàóû!
++++
+Oh! But if I write any more details, [CS:N]Uxie[CR] would\nbe so upset. And that wouldn\'t be good! Eek!
+Ïê! Îï, åòìé ÿ îàðéšô ïá üóïí íåòóå\nðïäñïáîåå, [CS:N]Ýëòé[CR] ïœåîû ñàòòóñïéóòÿ. Üóï\náúìï áú îå ïœåîû öïñïšï! Ééé!
++++
+This was the best of all the expeditions I\'ve\nattended!
+Üóï áúìà òàíàÿ ìôœšàÿ üëòðåäéøéÿ, â\nëïóïñïê ÿ ëïãäà-ìéáï ôœàâòóâïâàìà!
++++
+Ooh, I hope I can go with everyone again\nsometime!
+Ïïö, îàäåýòû, ëïãäà-îéáôäû ÿ òîïâà ðïêäô\nóôäà âíåòóå òï âòåíé!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 8: Inspiration!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 8: Âïïäôšåâìåîéå!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! Something happened that was\ntotally uplifting!
+Ï áïçå íïê! Ðñïéèïšìï ëïå-œóï ïœåîû\nâïïäôšåâìÿýþåå!
++++
+Tonight, Team [team:] had to go without\ndinner for some silly reason...
+Òåãïäîÿ, Ëïíàîäà [team:] ôšìà òðàóû\náåè ôçéîà ðï ëàëïê-óï òïâåñšåîîï ãìôðïê\nðñéœéîå...
++++
+While we were eating (oh my gosh!), [CS:N]Bidoof[CR]\nwas leaving a part of his dinner untouched!
+Ðïëà íú âòå åìé (ï áïçå íïê!), [CS:N]Áéäôõ[CR]\nïòóàâéì œàòóû òâïåãï ôçéîà îåóñïîôóïê!
++++
+And this is [CS:N]Bidoof[CR], right? The one we call the\n\"bottomless barrel\" because of his big appetite!
+Óïó òàíúê [CS:N]Áéäôõ[CR], äà? Óïó, ëïãï íú\nîàèúâàåí \"áåèäïîîïê áïœëïê\", ðïóïíô\nœóï ïî åòó ëàë îå â òåáÿ!
++++
+Whatever could have caused that?! Maybe he\'s\nheartbroken!
+Œóï íïãìï èàòóàâéóû åãï óàë ðïòóôðéóû?!\nÂïèíïçîï, ïî ïœåîû ïãïñœæî!
++++
+Well, I guessed that at first. But then I\nfigured out what he was really doing.
+Îô, óàë ÿ ðïîàœàìô äôíàìà. Îï èàóåí,\nÿ ðïîÿìà, œóï ïî îà òàíïí äåìå èàäôíàì.
++++
+He was leaving some of his dinner for\n[hero]\'s team.
+Ïî ïòóàâìÿì œàòóû òâïåãï ôçéîà äìÿ\nüóéö äâïéö.
++++
+Then (oh my gosh!) the others noticed too.
+Ðïòìå œåãï, (ï áïçå íïê!) äñôãéå óïçå\nðïäíåóéìé üóï.
++++
+So we all did what [CS:N]Bidoof[CR] was doing. We left\nbits and pieces of our dinner.[K] (Though [CS:N]Loudred[CR]\nagonized over the decision to the end.)
+Ðïüóïíô, íú òäåìàìé âòæ óï-çå, œóï é\n[CS:N]Áéäôõ[CR]. Íú îå äïåìé œàòóû îàšåãï ôçéîà.[K]\n(Öïóÿ [CS:N]Ìàôäñåä[CR] áúì ðñïóéâ üóïãï.)
++++
+Yippee! Everyone pitched in to help! How sweet\nof them! Oh my gosh, I am getting emotional!
+Ôñààà! Âòå èàöïóåìé éí ðïíïœû! Ëàë üóï\níéìï! Ï áïçå íïê, ÿ âòÿ îà üíïøéÿö!
++++
+In the end, we decided to share the smaller\nthings ourselves and leave them with one\nwhole [CS:I]Apple[CR] each!
+Â ëïîøå-ëïîøïâ, íú ñåšéìé ðïäåìéóûòÿ\nóåí îåíîïãéí, œóï áúìï ô îàò, é äàóû\néí ëàçäïíô øåìïå [CS:I]Ÿáìïëï[CR]!
++++
+[CS:N]Chimecho[CR], [CS:N]Bidoof[CR], and I will keep those two\n[CS:I]Apples[CR] for the night.
+[CS:N]Œàêíåëï[CR], [CS:N]Áéäôõ[CR] é ÿ ðñéáåñåçæí üóé äâà\n[CS:I]Ÿáìïëà[CR].
++++
+Tomorrow morning, we\'ll give them to\nTeam [team:].
+Èàâóñà ôóñïí íú äàäéí éö Ëïíàîäå\n[team:].
++++
+They must be hungry now, but they have to\nendure it just a little longer...
+Òåêœàò ïîé, äïìçîï áúóû, ãïìïäîúå, îï\néí îôçîï ðñïäåñçàóûòÿ åþæ îåíîïçåœëï...
++++
+We all have to stick together and try to make\nit into the expedition party!
+Îàí âòåí îôçîï äåñçàóûòÿ âíåòóå é\nðïðàòóû â üëòðåäéøéý!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 7: A Rare Expedition\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 7: Ïòïáàÿ Üëòðåäéøéÿ\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+In the morning briefing, [CS:N]Chatot[CR] told us\nsomething that\'s worth a good scream. Eek!
+Îà ôóñåîîåí ðïòóñïåîéé [CS:N]Œàóïó[CR] òëàèàì\nîàí ëïå-œóï, éè-èà œåãï íïçîï èàëñéœàóû.\nÉéé!
++++
+There\'s an expedition coming up! Yippee!
+Òëïñï íú ïóðñàâéíòÿ â üëòðåäéøéý! Ôñààà!
++++
+Oh my gosh! It\'s been simply ages since our\nlast one!
+Ï áïçå íïê! Ðñïšìï ôçå òóïìûëï âñåíåîé\nò óåö ðïñ, ëàë ðñïšìà îàšà ðïòìåäîÿÿ\nüëòðåäéøéÿ!
++++
+On our last expedition, we brought home simply\nmassive amounts of treasures!
+Ò ðïòìåäîåê üëòðåäéøéé íú ðñéîåòìé\näïíïê ðñïòóï ãéãàîóòëïå ëïìéœåòóâï\nòïëñïâéþ!
++++
+We shared everything with everyone in\nTreasure Town. It was a happy, happy time!
+Íú ñàèäåìéìé âòæ ò çéóåìÿíé Ãïñïäà\nÒïëñïâéþ. Ëàëïå üóï áúìï òœàòóìéâïå,\nòœàòóìéâïå âñåíÿ!
++++
+Oooh, the upcoming expedition should be fun!\nI wonder where we\'ll explore this time?
+Ïïï, îïâàÿ üëòðåäéøéÿ áôäåó âåòæìïê!\nÉîóåñåòîï, ëôäà íú ïóðñàâéíòÿ îà üóïó\nñàè?
++++
+My roommate [CS:N]Chimecho[CR] and I got all excited\nguessing about the destination!
+Ÿ é íïÿ òïòåäëà ðï ëïíîàóå, [CS:N]Œàêíåëï[CR],\nâòæ ðúóàåíòÿ ôãàäàóû, ëôäà íú ïóðñàâéíòÿ!
++++
+Of course, I\'m going to do everything I can to\nbe picked for the expedition!
+Ëïîåœîï çå, ÿ òäåìàý âòæ âïèíïçîïå,\nœóïáú íåîÿ âèÿìé â üëòðåäéøéý!
++++
+Oooh, I\'m feeling motivated! Yippee!
+Ïïïö, ÿ œôâòóâôý íïóéâàøéý! Ôñààà!
++++
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 6: Èàãàäëà!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Something very mysterious happened at our\nguild the other day!
+Îåäàâîï â îàšåê ãéìûäéé òìôœéìïòû îåœóï\nïœåîû èàãàäïœîïå!
++++
+We were in the guild when (oh my gosh!) the\nplace was stunk up by an atrocious stench!
+Íú îàöïäéìéòû â ãéìûäéé, ëïãäà (ï áïçå\níïê!) â ïëñôãå îàœàìï äôñîï ðàöîôóû!
++++
+Oh my gosh! I\'d never experienced such a foul\ncloud of fumes. It was an eek-worthy moment!
+Ï áïçå íïê! Îéëïãäà îå ïþôþàìà óàëïê\nôçàòàýþéê èàðàö. Ïó üóïãï íïçîï áúìï\nèàëñ-ééé-œàóû!
++++
+But...everyone denied responsibility for it!
+Îï... Îéëóï îé â œæí îå ðñéèîàìòÿ!
++++
+But there\'s no fooling me! Oh my gosh, I know\nwhat I smelled, and there was no mistaking it!
+Îï íåîÿ óï îå ïáíàîåšû! Ï áïçå íïê,\nÿ èîàý, œóï ÿ ïþôþàìà é ïšéáëé â íïæí\nîýöå áúóû îå íïçåó!
++++
+Eek, how mysteriously it crept upon us!
+Ééé, ëàë èàãàäïœîï üóï îàòóéãìï îàò!
++++
+Who is the culprit?! Eek!
+Ëóï çå âéîïâàó?! Ééé!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 5: Types and Matchups\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 5: Óéðú é Òñàçåîéÿ\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! I had a nasty scare the other day!
+Ï áïçå íïê! Îåäàâîï ÿ ïœåîû òéìûîï\nîàðôãàìàòû!
++++
+While exploring a dungeon, I was careless and\ntook a hit from a Fire-type move! Silly me!
+Éòòìåäôÿ ðïäèåíåìûå, ÿ ðïóåñÿìà\nïòóïñïçîïòóû é ðï íîå ðïðàìé Ïãîåîîúí\nðñéæíïí! Ëàëàÿ ÿ ãìôðàÿ!
++++
+Ÿ Óñàâÿîïãï óéðà! É ðïìôœéìà íîïãï\nôñïîà! Ééé!
+I should really explain what all this is about.
+Îàâåñîïå, îôçîï ïáùÿòîéóû ï œæí üóï ÿ.
++++
+As you know, Pokémon come in many types,\nlike Fire and Water.
+Ëàë ôçå éèâåòóîï, ô Ðïëåíïîïâ åòóû\níîïçåòóâï óéðïâ, âñïäå Ïãîåîîïãï é\nÂïäîïãï.
++++
+All moves have types too! The matchup\nbetween the attacking move\'s type and the\ndefending Pokémon\'s type affects damage!
+Ô âòåö ðñéæíïâ óïçå åòóû óéðú! Óéð\nðñéæíà àóàëôýþåãï é óéð èàþéþàýþåãïòÿ\nÐïëåíïîà âàçåî é âìéÿåó îà ôñïî!
++++
+As a Grass type, I should really watch out for\nFire-type moves! Knowing how types match up\nis so important.
+Ðïòëïìûëô ÿ Óñàâÿîïãï óéðà, íîå îôçîï\nïòóåñåãàóûòÿ ðñéæíïâ Ïãîåîîïãï óéðà!\nÈîàîéå üõõåëóéâîïòóé óéðïâ ïœåîû âàçîï.
++++
+P.S. When I got into trouble because of all\nthis...[K] It was [CS:N]Loudred[CR] who saved me.
+Ð.Ò. Ëïãäà ÿ ðïðàìà â üóô îåðñéÿóîôý\nòéóôàøéý...[K] Íåîÿ òðàò [CS:N]Ìàôäñåä[CR].
++++
+Thank you, [CS:N]Loudred[CR].
+Òðàòéáï, [CS:N]Ìàôäñåä[CR].
++++
+That other time I yelled at him! I said, \"Oh my\ngosh, [CS:N]Loudred[CR]! I never want to go exploring\nwith you ever again!\"
+Â äñôãïê ñàè ÿ îà îåãï îàëñéœàìà: \"Ï áïçå
+íïê, [CS:N]Ìàôäñåä[CR]! Ÿ áïìûšå îéëïãäà îå òóàîô
+éäóé ò óïáïê îà âúìàèëé!\"
++++
+That other time I yelled at him! I said, \"Oh my\ngosh, [CS:N]Loudred[CR]! I never want to go exploring\nwith you ever again!\"
+Â äñôãïê ñàè ÿ îà îåãï îàëñéœàìà: \"Ï áïçå\níïê, [CS:N]Ìàôäñåä[CR]! Ÿ áïìûšå îéëïãäà îå òóàîô\nöïäéóû ò óïáïê îà âúìàèëé!\"
++++
+But...eek! Am I ever sorry for saying that!\nI take back everything nasty I said!
+Îï...ééé! Ÿ ïœåîû òïçàìåý ï óïí, œóï ÿ\nóàë òëàèàìà! Ÿ èàáéñàý âòå òâïé ãñôáúå\nòìïâà îàèàä!
++++
+I wonder if he would go to a dungeon with me\never again?
+Éîóåñåòîï, áôäåó ìé ïî âïïáþå öïäéóû\nòï íîïê â ðïäèåíåìûÿ?
++++
+I think I will go apologize to him sincerely\ntomorrow. Yes, that\'s what I will do.
+Äôíàý, îôçîï áôäåó ðåñåä îéí éòëñåîîå\néèâéîéóûòÿ. Äà, óàë é òäåìàý.
++++
+I\'m sorry, [CS:N]Loudred[CR]. I hope we can keep on\nbeing teammates.
+Ðñïòóé íåîÿ, [CS:N]Ìàôäñåä[CR]. Îàäåýòû, íú åþæ\náôäåí éòòìåäïâàóû âíåòóå.
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 4: Exploration Basics\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 4: Ïòîïâú Âúìàèïë\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+I promised, and now I\'ll deliver! Here\'s my\nreport on exploring with [CS:N]Bidoof[CR]!
+Ÿ ïáåþàìà é âïó, ñàòòëàèúâàý! Âïó óï,\nëàë ðñïšìà íïÿ âúìàèëà ò [CS:N]Áéäôõïí[CR]!
++++
+Oh my gosh! I was amazed at how little [CS:N]Bidoof[CR]\nknew about exploring.
+Ï áïçå íïê! Ÿ óàë ôäéâéìàòû óïíô, œóï\n[CS:N]Áéäôõ[CR] èîàåó óàë íàìï ï âúìàèëàö.
++++
+An example! If an enemy stands beside you,\npushing [M:B5] will make you face it. Easy, right?
+Âïó, ë ðñéíåñô! Åòìé ðïèàäé òóïéó âñàã,\nóï åòìé îàçàóû îà [M:B5], ë îåíô íïçîï\nñàèâåñîôóûòÿ. Ðñïòóï, îå óàë ìé?
++++
+He didn\'t even know that!
+Ïî ïá üóïí äàçå îå èîàåó!
++++
+But all he needed was a little coaching.[K] When I\ntaught him, [CS:N]Bidoof[CR] picked things up quickly.\nHe\'s not so bad after all! Oh my gosh!
+Îï åãï îôçîï áúìï ìéšû îåíîïãï ðïôœéóû.[K]\nŸ îàôœéìà åãï é [CS:N]Áéäôõ[CR] áúòóñï âòæ ðïîÿì.\nÎå óàë ôç ïî é ðìïö! Ï áïçå íïê!
++++
+But all he needed was a little coaching.[K] When I\ntaught him, [CS:N]Bidoof[CR] picked things up quickly.\nHe\'s not so bad after all! Oh my gosh!
+Îï åãï îôçîï áúìï ìéšû îåíîïãï ðïôœéóû.[K]\nŸ îàôœéìà åãï é [CS:N]Áéäôõ[CR] áúòóñï âòæ ðïîÿì.\nÎå óàë ôç ïî é ðìïö! Ï áïçå íïê!
++++
+We got the job done too! ♪[K] Another fun day!
+Íú âúðïìîéìé îàþå èàäàîéå! ♪[K]\nÂåòæìúê áúì äåîû!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 3: Lovely Food!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 3: Œôäåòîàÿ Åäà!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Tomorrow, I\'ll be off exploring with [CS:N]Bidoof[CR].
+Èàâóñà ÿ éäô îà âúìàèëô ò [CS:N]Áéäôõïí[CR].
++++
+That [CS:N]Bidoof[CR] is sure to wander needlessly, so\nI should stock up on lots of food.
+Üóïó [CS:N]Áéäôõ[CR] ïðñåäåìæîîï áôäåó áñïäéóû\náåè äåìà, ðïüóïíô íîå òóïéó èàðàòóéòû\nåäïê.
++++
+Oh? Why do we need lots of food?
+Ï? Ðïœåíô îàí îôçîï íîïãï åäú?
++++
+Well, as you move around in a dungeon, you\'ll\nget hungry as your Belly empties of food.
+Îô, ðåñåíåþàÿòû ðï ðïäèåíåìûý, íïçîï\náúòóñï ðñïãïìïäàóûòÿ, ðïòëïìûëô Òúóïòóû\náôäåó òîéçàóûòÿ.
++++
+If your Belly gets empty, you\'ll get weaker and\nweaker...until you faint! Oh my gosh! Terrible!
+Åòìé îå áúóû Òúóúí, óï óú òóàîåšû\nòìàáåå é òìàáåå...ðïëà îå ðïóåñÿåšû\nòïèîàîéå! Ï áïçå íïê! Ôçàòîï!
++++
+[CS:N]Bidoof[CR] is a little short on experience, so I\'ll\nback him up.
+[CS:N]Áéäôõô[CR] îå öâàóàåó ïðúóà, îï ÿ ðñéëñïý\nåãï.
++++
+P.S. I plan to write about how my exploration\nwent with [CS:N]Bidoof[CR]...
+Ð.Ò. Ÿ ðìàîéñôý îàðéòàóû ï óïí, ëàë\nðñïêäæó íïÿ âúìàèëà ò [CS:N]Áéäôõïí[CR]...
++++
+Now that should really be something to look\nforward to! Eek!
+Âïó üóïãï äåêòóâéóåìûîï òóïéó çäàóû ò\nîåóåñðåîéåí! Ééé!
++++
+...Which again makes me think that someone\nmay be peeking at my diary?
+...Éîóåñåòîï, œóï èàòóàâìÿåó íåîÿ\näôíàóû, œóï ëóï-óï œéóàåó íïê äîåâîéë?
++++
+Oh my gosh! How horrifying!
+Ï áïçå íïê! Ëàë ôçàòîï!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 2: That Silly [CS:N]Loudred[CR]!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 2: Üóïó Ãìôðúê [CS:N]Ìàôäñåä[CR]!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! That silly [CS:N]Loudred[CR]! Ooooh! He can\nbe so absentminded!
+Ï áïçå íïê! Üóïó ãìôðúê [CS:N]Ìàôäñåä[CR]! Ïïïï!\nÎåâïèíïçîï áúóû óàëéí ñàòòåÿîúí!
++++
+Everyone knows that if you get totally wiped\nout in a dungeon...you lose some items...and\nhalf your money!
+Âòåí éèâåòóîï, œóï åòìé ôðàòóû áåè œôâòóâ\nâ ðïäèåíåìûå...óï ðïóåñÿåšû îåëïóïñúå\nðñåäíåóú...é ðïìïâéîô òâïéö äåîåã!
++++
+But of course that silly [CS:N]Loudred[CR] forgets all\nthat and goes storming off into the dungeon...
+Îï ëïîåœîï çå, üóïó ãìôðúê [CS:N]Ìàôäñåä[CR] ïáï\nâòæí èàáúì é ðïìåè îàðñïìïí...
++++
+And that wound up making us both wipe out!\nSo I got sent back to the guild too!
+É âòæ üóï ëïîœéìïòû óåí, œóï íú ïáà\nðïóåñÿìé òïèîàîéå! É ïœôóéìéòû â ãéìûäéé!
++++
+Eek! So frustrating! Oh my gosh, I never, ever\nwant to go to a dungeon with [CS:N]Loudred[CR] again!
+Ééé! Ëàë ñàèäñàçàåó! Ï áïçå íïê, ÿ\náïìûšå îéëïãäà, îéëïãäà îå ðïêäô ò\n[CS:N]Ìàôäñåäïí[CR] îà âúìàèëô â ðïäèåíåìûå!
++++
+P.S. Two new kids joined the guild!
+Ð.Ò. Â ãéìûäéý ðñéòïåäéîéìéòû äâïå\näåóåê-îïâéœëïâ!
++++
+I think they were called [partner] and\n[hero]...
+Ëàçåóòÿ, éö èâàìé [partner] é\n[hero]...
++++
+Oh my gosh. They\'re both adorable. Yippee!
+Ï áïçå íïê. Ëàëéå ïîé ïœàñïâàóåìûîúå.\nÔñààà!
++++
+[CN][CS:N]Sunflora[CR]\'s Oh My Gosh Diary\n[CN]Entry 1: What a Scream!\n[CN]OO Month XX Day, Sunny
+[CN]\"Ï Áïçå Íïê\" Äîåâîéë [CS:N]Òàîõìïñú[CR]\n[CN]Èàðéòû 1: Âïó Üóï Ëñéë!\n[CN]Äåîû ÖÖ, Íåòÿø ÏÏ, Òïìîåœîàÿ Ðïãïäà
++++
+Oh my gosh! So glad to meet you! I\'m [CS:N]Sunflora[CR],\nan apprentice at the guild!
+Ï áïçå íïê! Ñàäà ðïèîàëïíéóûòÿ!\nŸ - [CS:N]Òàîõìïñà[CR], ôœåîéøà éè ãéìûäéé!
++++
+Eek! But does this mean someone else is\nreading my diary besides me?!
+Ééé! Îï âäñôã ëóï îéáôäû ðïíéíï íåîÿ\nœéóàåó íïê äîåâîéë?!
++++
+Double-eek! Is someone sneaking a peek?
+Äâàçäú-ééé! Ëóï òåêœàò œéóàåó üóï?
++++
+Oh my gosh! How horrifying! Eeek!
+Ï áïçå íïê! Ëàë ôçàòîï! Éééé!
++++
+Íú âúðïìîéìé îàšå èàäàîéå! ♪[K]\nÂåòæìúê áúì äåîû!
+[CN]- Assembly Post -\n[CN]For service, please ring bell!\n[CN]            -[CS:N]Chimecho[CR]
+[CN]- Òáïñîúê Òóïìá -\n[CN]Äìÿ ôòìôãé, ðïèâïîéóå â ëïìïëïìûœéë!\n[CN]            -[CS:N]Œàêíåëï[CR]
++++
+[CN]Ring the bell and\n[CN]summon [CS:N]Chimecho[CR]?
+[CN]Ðïèâïîéóû â ëïìïëïìûœéë é âúèâàóû\n[CN][CS:N]Œàêíåëï[CR]?
++++
+Äà
+Îåó
+ Did you call me, [hero]\nand [partner]?
+ Âú íåîÿ èâàìé, [hero]\né [partner]?
++++
+[CN]↑ [CS:N]Wigglytuff[CR]\'s Guild\n[CN]← Treasure Town                Exploration →\n[CN]↓ Beach
+[CN]↑ Ãéìûäéÿ [CS:N]Âéãìéóàõõà[CR]\n[CN]← Ãïñïä Òïëñïâéþ                Éòòìåäïâàîéå →\n[CN]↓ Ðìÿç
++++
+[CN]- [CS:K]Spinda[CR]\'s Café -\n[CN]-Shop of Hopes & Dreams-\n[CN]Opening Soon! Win Big!
+[CN]- Ëàõå [CS:K]Òðéîäú[CR] -\n[CN]-Ãäå Òáúâàýóòÿ Îàäåçäú é Íåœóú-\n[CN]Òëïñï Ïóëñúóéå! Âúéãñàêóå ðï Ëñôðîïíô!
++++
+[CN]- [CS:K]Spinda[CR]\'s Café -\n[CN]-Shop of Hopes & Dreams-\n[CN]Win Big!
+[CN]- Ëàõå [CS:K]Òðéîäú[CR] -\n[CN]-Ãäå Òáúâàýóòÿ Îàäåçäú é Íåœóú-\n[CN]Âúéãñàêóå ðï Ëñôðîïíô!
++++
+[CN]\n[CN]Crossroads →
+[CN]\n[CN]Ðåñåëñæòóïë →
++++
+[CN]All Your Item Needs Fulfilled!\n[CN]← [CS:K]Kangaskhan[CR] Storage    [CS:K]Kecleon[CR] Market
+[CN]Ô îàò åòóû âòæ, œóï âàí îôçîï!\n[CN]                 ← Ìàâëà [CS:K]Ëåëìåïîïâ[CR]\n← [CS:K]Ëàîãàòöàî[CR]-Öñàîéìéþå
++++
+[CN]Move Linking and\n[CN]Banking Services This Way →\n[CN][CS:K]Electivire[CR] Link Shop    [CS:K]Duskull[CR] Bank
+[CN]Òâÿèúâàîéå Ðñéæíïâ\n[CN]é Áàîëïâòëéå Ôòìôãé →\n[CN]Òâÿèû-Ìàâëà [CS:K]Üìåëóéâàêñà[CR]  Áàîë [CS:K]Äàòëàììà[CR]
++++
+[CN]\n[CN]← Sharpedo Bluff
+[CN]\n[CN]← Íúò Šàñðåäï
++++
+[CN]\n[CN]Treasure Town →
+[CN]\n[CN]Ãïñïä Òïëñïâéþ →
++++
+ What was that? That tremor...
+ Œóï üóï áúìï? Üóà óñÿòëà...
++++
+ It sounded like...[K]it came from\ninside the dojo?
+ Èâôœàìï òìïâîï...[K]ïîà\nîàœàìàòû âîôóñé äïäèæ?
++++
+ It sounded as if...[K]it came from\ninside the dojo.
+ Èâôœàìï áôäóï áú...[K]ïîà\nîàœàìàòû âîôóñé äïäèæ.
++++
+ Did it...[K]sound like it came from\ninside the dojo?
+ Ïîà...[K] Îàœàìàòû â üóïí äïäèæ?
++++
+ Éäæí, ðïòíïóñéí, œóï óàí\nðñïéòöïäéó, [hero]!
+ Èàêäæí óôäà, [hero]!
+ Èàêäæí óôäà, [hero]!
++++
+ Ïãï! Óú óïìûëï ãìÿîû îà üóô\nãéãàîóòëôý äúñô!
+ Ïãï! Âèãìÿîé îà üóô ïãñïíîôý\näúñô!
+ Ïãï! Èäåòû ãéãàîóòëàÿ äúñà!
++++
+ Œóï èäåòû ðñïéòöïäéó?
+ Œóï èäåòû òìôœéìïòû?
+ Œóï òìôœéìïòû?
++++
+ Òóåîà ïáñôšéìàòû!
+ É îà åæ íåòóå ðïÿâéìàòû üóà\näúñà.
+ Åòìé óàë ðïäôíàóû...[K] Íïê\näåäôìÿ ï îåê ëïå-œóï ãïâïñéì...
+ Óâïê äåäôìÿ?
+ Óâïê äåäôìÿ?
+ Óâïê äåäôšëà?
+ Äà.[K] Âéäéšû ìé, óåí, ëóï ðïòóñïéì\nüóï äïäèæ, áúì íïê äåä.
+ É ïî çå íîå ãïâïñéì, œóï óôó\nåòóû ïäîà ïœåîû ïðàòîàÿ ðåþåñà.
+ Ïîà îàòóïìûëï ïðàòîà...[K] Œóï\nåíô ðñéšìïòû èàíôñïâàóû âöïä, œóïáú â\nîåæ îéëóï îå ðïðàì. Ÿ ðïíîý üóï.
+ Â äàâîéå âñåíåîà äåäôìÿ œàòóï\nñàòòëàèúâàì íîå ïá üóïê äúñå. É œàòóï\níåîÿ åê ðôãàì.
+ !..[K] Â-âú äâïå... Âåäû îå...
+ Âú âåäû îå òïáéñàåóåòû óôäà\nìåèóû, äà?
+ Îå äåìàêóå üóïãï.[K] Äàçå îå\näôíàêóå ïá üóïí.
+ Ÿ... Ÿ îå íïãô ãàñàîóéñïâàóû,\nœóï âú âúáåñåóåòû ïóóôäà...
++++
+ Äïáñï ðïçàìïâàóû â Äïäèæ\n[CS:K]Íàñïâàëà[CR].[K] Óñåîéñôêóåòû, œóïáú òóàóû\nìôœšéíé éòòìåäïâàóåìÿíé!
+Éîõïñíàøéÿ
+ Âöïä â óñåîéñïâïœîúå ìàáéñéîóú\nîàöïäéóòÿ òðñàâà.
+ Îàäï áú òëàèàóû ïäîô âåþû...[K]\nÓñåîéñïâïœîúå ìàáéñéîóú îå òïâòåí ïáúœîúå\nðïäèåíåìûÿ...
+ Âéäéóå ìé, åòóû ðïäâïö. Åòìé\nâú óôäà ðïêäæóå, âàí ðñéäæóòÿ ïóäàóû âòæ,\nœóï ô âàò åòóû â Òôíëå ò Øåîîïòóÿíé.
+ Œóïáú éèáåçàóû ðïóåñé âåþåê,\nòðåñâà ôáåñéóå éö â [CS:K]Ëàîãàòöàî[CR]-Öñàîéìéþå.
+ Ïäîàëï![K] Åòìé âú ðïóåñÿåóå\nòïèîàîéå, âú îå ðïóåñÿåóå ðïìôœåîîúå â\nìàáéñéîóå äåîûãé é âåþé. Ïîé ïòóàîôóòÿ!
+ Ñéòëà îåó, ðïüóïíô âï âñåíÿ\nóñåîéñïâëé íïçîï âúìïçéóûòÿ ðï ðïìîïê.
+ Óñåîéñôêóåòû òëïìûëï ôãïäîï,\nœóïáú òóàóû òéìûîåå!
+ É äïáñï ðïçàìïâàóû â Äïäèæ\n[CS:K]Íàñïâàëà[CR]! Ðïëàçéóå, îà œóï âú òðïòïáîú!
+Éîõïñíàøéÿ
+Ïóíåîà
+Ïóíåîà
+ Âú òïâåñšéìé îåâïèíïçîïå!\nÂú ïäïìåìé [CS:N]Äàñëñàÿ[CR]!..
+ Íåîûšåãï ÿ ïó âàò é îå çäàì!\nÂ ëïîøå ëïîøïâ, âú ôœåîéëé éè Äïäèæ\n[CS:K]Íàñïâàëà[CR]!
+ À?[K] Âú îå ðïíîéóå, œóïáú\nèàðéòúâàìéòû íîå â ôœåîéëé?
+ ...[K]Âòæ çå â áïìûšåí íàòšóàáå\nüóï îå óàë ôç é âàçîï, âåñîï? Öà!
+ Ÿ ôòìúšàì ïó äñôãéö îåäàâîéå\nâåòóé!
+ Âú, äâïå! Îé â ïäîïí éè âàò\nîåó é òìåäà ïóœàîéÿ!
+ Éäéóå â áïê ò ôâåñåîîïòóûý!
+ Ññññààààà!
+ Ÿ ôòìúšàì ïó äñôãéö, ò œåí\nâàí ðñåäòóïéó òóïìëîôóûòÿ.
+ Ðïèâïìûóå íîå âàò îåíîïçåœëï\nðïääåñçàóû!
+ Îéëïãäà îå òäàâàêóåòû! Îå\nòíåêóå ðñïéãñàóû!
+ Ññññààààà!
++++
+ ...[K]Ð-[K]ðïòåóéóåìé?..
+ Î-îàëïîåø-óï...[K] í-íïé...[K]\nÐåñâúå ðïòåóéóåìé!
+ Äïáñï ðïçàìïâàóû â Äïäèæ\n[CS:K]Íàñïâàëà[CR].[K] Ÿ ôðñàâìÿý üóéí íåòóïí! Ïîï\nòïèäàîï äìÿ óñåîéñïâïë éòòìåäïâàóåìåê!
+ Â äïäèæ áúìà ñàèñôöà é\náåòðïñÿäïë, ëñôãïí þåáåîû é äïòëé, îï...\nÓåðåñû äïäèæ ñàáïóàåó ëàë é ðñåçäå!
+ Îï...[K] Ô íåîÿ îå áúìï îé ïäîïãï\nðïòåóéóåìÿ...
+ Îéëïãï îå áúìï.[K] Üóï ðåœàìéìï\níåîÿ äï ãìôáéîú íïåãï òïáòóâåîîïãï\nœåñåðà...[K] Îï îàëïîåø!
+ Âú ðñéšìé òýäà!
+ Âú - íïé ðåñâúå ðïòåóéóåìé![K]\nÏó âòåãï òåñäøà, ÿ âîå òåáÿ ïó ñàäïòóé!
+ Ÿ äàçå äåîåã ò âàò îå âïèûíô![K]\nÏòóàâûóå éö ðñé òåáå! Ðñïòóï óñåîéñôêóåòû\nèäåòû, üóï âòæ, œóï íîå îôçîï!
+ Âöïä â óñåîéñïâïœîúå ìàáéñéîóú\nîàöïäéóòÿ òðñàâà.
+ Îàäï áú òëàèàóû ïäîô âåþû...[K]\nÓñåîéñïâïœîúå ìàáéñéîóú îå òïâòåí ïáúœîúå\nðïäèåíåìûÿ...
+ Âéäéóå ìé, åòóû ðïäâïö. Åòìé\nâú óôäà ðïêäæóå, âàí ðñéäæóòÿ ïóäàóû âòæ,\nœóï ô âàò åòóû â Òôíëå ò Øåîîïòóÿíé.
+ Œóïáú éèáåçàóû ðïóåñé âåþåê,\nòðåñâà ôáåñéóå éö â [CS:K]Ëàîãàòöàî[CR]-Öñàîéìéþå.
+ Ïäîàëï![K] Åòìé âú ðïóåñÿåóå\nòïèîàîéå, âú îå ðïóåñÿåóå ðïìôœåîîúå â\nìàáéñéîóå äåîûãé é âåþé. Ïîé ïòóàîôóòÿ!
+ Ñéòëà îåó, ðïüóïíô âï âñåíÿ\nóñåîéñïâëé íïçîï âúìïçéóûòÿ ðï ðïìîïê.
+ Ðïüóïíô, äà, ïòœàòóìéâûóå\níåîÿ. Óñåîéñôêóåòû èäåòû.[K] Ëàë âàí óàëïå\nðñåäìïçåîéå?
++++
+ Ïãï![K] Üóï òîïâà âú!
+ Âú òîïâà ðñïšìé üóï ôçàòîïå\níåòóï!
+ Œåòóîï, óï œóï âàí ôäàìïòû\nòäåìàóû, îå ðïääàæóòÿ ïòïèîàîéý.[K] Âú\nîåâåñïÿóîú.
+ Âú îàòóïìûëï îåâåñïÿóîú, œóï\nÿ...[K] Ÿ öïœô òóàóû åþæ öñàáñåå![K] Âòæ\náìàãïäàñÿ âàí!
+ Áôäô òóàñàóûòÿ éèï âòåö òéì![K]\nÏó âàò ÿ ïçéäàý óïãï-çå òàíïãï.[K] Íú âòå\nâúìïçéíòÿ îà ðïìîôý!
+ Ïãï! Üóï âú!
+ Îàëïîåø-óï...[K] Îàëïîåø-óï...[K]\nÂú îàëïîåø-óï ïäïìåìé üóï ôçàòîïå íåòóï!
+ Üóï îåâåñïÿóîï![K] Üóï îåâåñïÿóîï\nîåâåñïÿóîï!
+ Šíúã...[K] Œóï-óï íåîÿ ðïîåòìï...
+ Âú òíïãìé âïïäôšåâéóû ëïãï-óï\nâñïäå íåîÿ...[K] Òðàòéáï âàí ïãñïíîïå...
+ É â èîàë áìàãïäàñîïòóé...[K]\nŸ äàí âàí üóï!
+ Äåäôšëéîï òïëñïâéþå![K] Áåñåãéóå\nåãï!
+[CN]Õàîóàòóéëà! [hero] ðïìôœàåó\n[CN][CS:I]Ëïñéœîåâúê Áàîó[CR]!
+ Åòìé áú äåäôšëà òìúšàì, œóï\nëïíàîäå éòòìåäïâàóåìåê ôäàìïòû ðñïêóé\nüóï ôçàòîïå íåòóï...
+ Ïî áú ðìàëàì ïó ñàäïòóé, üóï\nóïœîï!
+ Ï![K] Âú ðñïšìé ìàáéñéîó!
+ Âú öïñïšï òðñàâéìéòû!
+ Îï îå ñàòòìàáìÿêóåòû!\nÓñåîéñôêóåòû áïìûšå! Òóàîïâéóåòû óïìûëï\nòéìûîåå!
+ Áôäô òóàñàóûòÿ éèï âòåö òéì![K]\nÏó âàò ÿ ïçéäàý óïãï-çå òàíïãï.[K] Íú âòå\nâúìïçéíòÿ îà ðïìîôý!
+ Ï![K] Âú ðñïšìé ìàáéñéîó!
+ Îï îå óïìûëï üóï...
+ Âú ðñïšìé âòå óñåîéñïâïœîúå\nìàáéñéîóú![K] Ÿ ðïóñÿòæî é ôäéâìæî!
+ Âàô...[K] Âú ðñïîåòìéòû ðï íïåíô\näïäèæ òìïâîï ôñàãàîïí!
+ Èà óàëïå ôñàãàîîïå ðñïöïçäåîéå\nâú èàòìôçéâàåóå ëàëôý-îéáôäû îàãñàäô...[K]\nÓàáìéœëô äïäèæ...[K] Îåó, óàë îå ðïêäæó.
+ Ô äïäèæ äàçå îåó îéëàëéö\nóàáìéœåë. Âíåòóï üóïãï, ÿ äàí âàí üóï!
+[CN]Œôäåòîï! [hero] ðïìôœàåó\n[CN][CS:I]Èåñîï Ñàäïòóé[CR]!
+ Üóï íïæ ìéœîïå òïëñïâéþå![K]\nÂú åãï áïìåå œåí äïòóïêîú!
+ Îï üóï åþæ îå ëïîåø! Âú âåäû\nðñïäïìçéóå èäåòû óñåîéñïâàóûòÿ, äà?
+ Àê![K] Ô âàò îå âúšìï...
+ Îô, œóï ÿ ãïâïñéì?[K] Óï, œóï âú\nðïšìé â óàëïå íåòóï, üóï óïìûëï âàšà\nïóâåóòóâåîîïòóû.
+ Áïìûšå îéëïãäà óôäà îå\nöïäéóå!
+ Àê![K] Ô âàò îå âúšìï...
+ Îï âàí îôçîï ðúóàóûòÿ òîïâà\né òîïâà, äàçå åòìé âàò ðñåòìåäôýó\nîåôäàœé... 
+ Óàë âú òóàîåóå òéìûîåå!
+ Áôäô òóàñàóûòÿ éèï âòåö òéì![K]\nÏó âàò ÿ ïçéäàý óïãï-çå òàíïãï.[K] Íú âòå\nâúìïçéíòÿ îà ðïìîôý!
++++
+[CN]Èäåòû ðïâåšåîà èàðéòëà.[K]\n[CN]Îà îåê œóï-óï îàðéòàîï...
+\"Äïäèæ [CS:K]Íàñïâàëà[CR] ñàèñôšéìïòû. Îï òëïñï\nïîï òîïâà èàñàáïóàåó!\"
+Äà! Äïäèæ èàòéÿåó âîïâû![K]\n                 - Ôœéóåìû [CS:K]Íàñïâàë[CR] -
+\n[CN]Âîéíàîéå!
+[CN]Åòìé âú òýäà âïêäæóå, âú ðïóåñÿåóå âòå\n[CN]âåþé, œóï ô âàò åòóû â Òôíëå ò Øåîîïòóÿíé.
+[CN]Âïêäåóå ìé âú, äàçå åòìé âòå âàšé âåþé\n[CN]áôäôó ðïóåñÿîú?
+Äà
+Îåó
+[CN]Ðñåçäå œåí òýäà èàöïäéóû, ïòóàâûóå âòå\n[CN]âàçîúå âåþé â [CS:K]Ëàîãàòöàî[CR]-Öñàîéìéþå.
++++
+ I\'d like to do some training at\n[CS:K]Marowak[CR] Dojo...
+ Ÿ öïœô ðïóñåîéñïâàóûòÿ â\nÄïäèæ [CS:K]Íàñïâàëà[CR]...
++++
+ But if I do that, [CS:N]Haunter[CR] will\nget away!
+ Îï åòìé ÿ üóï òäåìàý, [CS:N]Öïîóåñ[CR]\nôìéèîæó ïó íåîÿ!
++++
+ I should hold off for now and go\ncatch [CS:N]Haunter[CR]!
+ Íîå îôçîï òðåñâà ðïêíàóû\n[CS:N]Öïîóåñà[CR]!
++++
+ We made a wonderful discovery!
+ If we make a new discovery,\nwe\'ll make sure to let everyone know.
+ Please look forward to it!
+ Right here, right?
+ That\'s right!
+
+ Íú òïâåñšéìé ôäéâéóåìûîïå\nïóëñúóéå!
+ Åòìé íú òïâåñšéí åþæ ïäîï\nïóëñúóéå, íú äàäéí âòåí èîàóû.
+ Ðïçàìôêòóà, òìåäéóå èà üóéí!
+ Èäåòû, äà?
+ Âåñîï!
++++
+ Äïáàâìÿý [s_item:0]...
+ Âïó óàë!
+ Ðïóñÿòóé óàë...
+ Ðïóñÿòóé òÿë...
+ Ðïëñôçéóûòÿ é...
+ Ãïóïâï!
+[CN]Óåðåñû âú íïçåóå ïóðñàâéóûòÿ ë\n[CN][CS:P]Ñåëå Áåèíÿóåçîïòóé[CR]!
+[CN]Óåðåñû âú íïçåóå ïóðñàâéóûòÿ â\n[CN][CS:P]Ðúšîôý Ðñåñéý[CR]!
+[CN]Óåðåñû âú íïçåóå ïóðñàâéóûòÿ îà\n[CN][CS:P]Íúò Òœàòóûÿ[CR]!
+[CN]Óåðåñû âú íïçåóå ïóðñàâéóûòÿ îà\n[CN][CS:P]Ã. Íéòóñàìû[CR]!
+[CN]Óåðåñû âú íïçåóå ïóðñàâéóûòÿ â\n[CN][CS:P]Èàóåñÿîîôý Ðôòóúîý[CR]!
+[CN]Óåðåñû âú íïçåóå ïóðñàâéóûòÿ â\n[CN][CS:P]Áàšîý Òôäûáú[CR]!
++++
+Info
+Éîõï
++++
+Cancel
+Ïóíåîà
++++
+ Welcome to the fresh and
+friendly [CS:K]Spinda[CR]'s Juice Bar!
+ Äïáñï ðïçàìïâàóû â òâåçàêšéê
+é äñôçåìýáîåêšéê Áàñ Îàðéóëïâ [CS:K]Òðéîäú[CR]!
++++
+ Can I get you anything else?
+ Îôçîï œóï-îéáôäû åþå?
++++
+ Give me an ingredient, and I will
+use it to make a wonderful, delicious drink for
+you.[C]
+ Not just for you, either. Any of
+your team members relaxing in the café can
+enjoy one of my nutritious drinks.[C]
+ Please refresh yourself with a
+delicious drink and allow the flower of
+conversation to bloom.
+
+ Äàê íîå éîãñåäéåîó é ÿ òäåìàý
+éè îåãï äìÿ óåáÿ œôäåòîúê é âëôòîúê
+îàðéóïë.[C]
+ Âðñïœåí, îå ïáÿèàóåìûîï óïìûëï
+äìÿ óåáÿ. Ìýáïê éè œìåîïâ óâïåê ãñôððú,
+ëóï ïóäúöàåó â ëàõå, òíïçåó îàòìàäéóûòÿ
+ðéóàóåìûîúí îàðéóëïí.[C]
+ Ïòâåçéòû âëôòîúí îàðéóëïí é
+ðïèâïìû ñàòøâåòóé øâåóëô ñàèãïâïñà.
++++
+ Have a great day.
+ Öïñïšåãï äîÿ.
++++
+ I'm sorry to say this, but in this
+café you must provide your own ingredients.[C]
+ You don't appear to have any
+food items.
+
+ Íîå çàìû üóï ãïâïñéóû, îï â
+üóïí ëàõå âòå ðñéîïòÿó óïìûëï òâïé
+éîãñåäéåîóú.[C]
+ Ðïöïçå, ô óåáÿ îåó îéëàëéö
+ðñåäíåóïâ åäú.
++++
+ Which ingredient shall I use?
+ Ëàëïê éîãñåäéåîó íîå îôçîï
+éòðïìûèïâàóû?
++++
+Give
+Info
+Exit
+ Who will drink this?
+Drink
+Summary
+Moves
+Check IQ
+Exit
+
+Äàóû
+Éîõï
+Âúöïä
+ Ëóï áôäåó üóï ðéóû?
+Âúðéóû
+Òâïäëà
+Ðñéæíú
+Òâåñëà IQ
+Âúöïä
++++
+ Use [item:0] to make a
+drink for [name:0]?
+ Éòðïìûèïâàóû [item:0],
+œóïáú ÿ òäåìàì îàðéóïë? Åãï áôäåó ðéóû
+[name:0].
++++
+No
+Îåó
++++
+ Please select another ingredient.
+ Ðïçàìôêòóà, âúáåñé äñôãïê
+éîãñåäéåîó.
++++
+ [name:0] of [team]![C]
+ [name:0] of [team]![C]
+ [hero] is looking for you.
+ 
+ [name:0] éè [team]![C]
+ [name:0] éè [team]![C]
+ Âàò ïçéäàåó [hero].
++++
+[item:0] Mix
+[item:0] Juice
+[item:0] Dew
+[item:0] Soda
+Juicy [item:0]
+[item:0] Green Tea
+[item:0] Shake
+[item:0] au Lait
+Drinkable [item:0]
+[item:0] Milk
+[item:0] Tea
+[item:0] Broth
+Hot [item:0] Drink
+Pulpy [item:0]
+[item:0] Water
+[item:0] Beverage
+[item:0] Smoothie
+[item:0] Puree
+
+[item:0]-Íéëò
+[item:0]-Òïë
+[item:0]-Ñïòà
+[item:0]-Òïäïâàÿ
+[item:0]-Òïë
+[item:0]-Èåìæîúê Œàê
+[item:0]-Šåêë
+[item:0] ò íïìïëïí
+[item:0]-Çéäëïòóû
+[item:0]-Íïìïëï
+[item:0]-Œàê
+[item:0]-Ðïöìæáëà
+[item:0]-Ãïñÿœéê Îàðéóïë
+[item:0] ò íÿëïóûý
+[item:0]-Âïäà
+[item:0]-Îàðéóïë
+[item:0]-Òíôèé
+[item:0]-Ðýñå
++++
+ I've got a good feeling about this
+drink!
+ Ô íåîÿ öïñïšåå ðñåäœôâòóâéå
+îàòœæó üóïãï îàðéóëà!
++++
+[CN][name:0]
+[CN]drank the [string0]![se_play:0]
+[CN][name:0] âúðéâàåó
+[CN][string0]![se_play:0]
++++
+[CN]A light, rich flavor
+[CN]that just melts in your mouth.
+[CN]Ìæãëéê, îàòúþåîîúê âëôò îàðéóëà
+[CN]ðñïòóï óàåó âï ñóô.
++++
+[CN]Moderately sweet, the
+[CN]natural flavor comes
+[CN]bursting forth...
+[CN]Îå òìéšëïí òìàäëéê, åòóåòóâåîîúê
+[CN]âëôò îàðéóëà ïóœæóìéâï œôâòóâôåóòÿ
+[CN]âï ñóô...
++++
+[CN]A savory fragrance and
+[CN]unique bitterness come together
+[CN]for a mature flavor...
+[CN]Ðéëàîóîúê àñïíàó â òïœåóàîéé
+[CN]ò îåïáúœîïê ãïñåœûý ðñéäàýó
+[CN]îàðéóëô èñåìúê âëôò...
++++
+[CN]The delicious flavor overwhelms
+[CN]your senses and delights
+[CN]your digestive system.
+[CN]Ðïóñÿòàýþéê âëôò èàöìæòóúâàåó
+[CN]œôâòóâà é ñàäôåó ðéþåâàñéóåìûîôý
+[CN]òéòóåíô.
++++
+[CN]An indescribably wonderful flavor...
+[CN]A special blend for the
+[CN]discerning Pokémon.
+[CN]Îåïðéòôåíï œôäåòîúê âëôò...
+[CN]Ïòïáúê ëôðàç äìÿ ïòïáï
+[CN]ðñéâåñåäìéâúö Ðïëåíïîïâ.
++++
+[CN]The various flavors don't clash...
+[CN]Instead, they blend together in
+[CN]beautiful harmony in this fine drink!
+[CN]Ñàèîïïáñàèîúå âëôòú îå ëïîõìéëóôýó...
+[CN]Îàðñïóéâ, ïîé ðïìîïòóûý òïåäéîÿýóòÿ
+[CN]â ïäîô âåìéëïìåðîôý ãàñíïîéý âëôòà!
++++
+[CN][STS]!!!!!!!!!![STE]
+[CN]An intense shock runs
+[CN]through your entire body![C]
+[CN]Bleah! This tastes terrible!!
+[CN][STS]!!!!!!!!!![STE]
+[CN]Âòæ óåìï ðåñåäæñãéâàåó!
+[CN]Áåå! Îà âëôò ðñïòóï ôçàòîï!!
++++
+[CN]A light, rich flavor
+[CN]that just melts in your mouth...[C]
+[CN]And then you're hit with this...
+[CN]fishy aftertaste... Ugh... Disgusting...
+[CN]Ìæãëéê, îàòúþåîîúê âëôò îàðéóëà
+[CN]ðñïòóï óàåó âï ñóô.[C]
+[CN]Èàóåí îàòóôðàåó... Ñúáîïå ðïòìåâëôòéå...
+[CN]Õô... Ïóâñàóéóåìûîï...
++++
+[CN]This...this is a flavor for a true
+[CN]connoisseur...[C]
+[CN]This flavor...this strong flavor...[K]
+[CN]Only the overwhelming flavor remains...
+[CN]It tastes so terrible I want to cry...
+[CN]Üóï...âëôò äìÿ îàòóïÿþåãï
+[CN]øåîéóåìÿ...[C]
+[CN]Üóïó âëôò...óàëïê îàòúþåîîúê âëôò...[K]
+[CN]Ïòóàâìÿåó ïšåìïíìÿýþåå ðïòìåâëôòéå...[K]
+[CN]Òóïìû ôçàòîïå, œóï ðìàëàóû öïœåóòÿ...
++++
+ WHOAAAAAAA!
+This is...[K] THIS IS...!![C]
+ ÂÀÀÀÀÀÀÀÔ!
+Üóï...[K] ÜÓÏ!!.[C]
++++
+ This drink is so wonderful, so
+amazing, that I couldn't have made it if I tried.
+It is so incredible that it is a miracle!
+ Üóïó îàðéóïë óàë œôäåòåî, óàë
+âåìéëïìåðåî, œóï ìôœšå ÿ òäåìàóû îå íïã!
+Îàòóïÿþåå œôäï, à îå îàðéóïë!
++++
+[CN][name:0] drank the amazing
+[CN]miracle drink![se_play:0]
+[CN][name:0] âúðéâàåó ðïóñÿòàýþéê
+[CN]œôäï-îàðéóïë![se_play:0]
++++
+[CN]!!!!!!!![W:20]
+[CN][STS]Unbelieeeevable!![STE]
+[CN]!!!!!!!![W:20]
+[CN][STS]Îåâåñïÿÿÿÿÿóîï!![STE]
++++
+[CN]Never before has a heavenly, super-special,
+[CN]incredible, miracle-combination flavor
+[CN]like this been experienced![C]
+[CN]Right now, right here, [name:0] is
+[CN]enjoying a flavor that is out of this world!
+
+[CN]Îéëóï é îéëïãäà åþå îå éòðúóúâàì òóïìû
+[CN]áïçåòóâåîîôý, òâåñöïòïáåîîôý, œôäåòîôý
+[CN]é îåâåñïÿóîôý ëïíáéîàøéý âëôòà![C]
+[CN]Ðñÿíï èäåòû, ðñÿíï òåêœàò, [name:0]
+[CN]îàòìàçäàåóòÿ âëôòïí, œóï ñïäïí
+[CN]òìïâîï îå éè üóïãï íéñà!
++++
+[CN][name:0] felt happy!
+[CN][name:0] œôâòóâôåó òœàòóûå!
++++
+[CN]Wow![STS] Wonderful![STE][K]
+[CN]Âàô![STS] Œôäåòîï![STE][K]
++++
+[CN][string0] went up [digits_c:0] point(s)!
+[CN][string0] ôâåìéœéâàåóòÿ îà [digits_c:0]!
++++
+[CN][string0] went up [digits_c:0] point(s)![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN][string0] ôâåìéœéâàåóòÿ îà [digits_c:0]![C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]üóà öàñàëóåñéòóéëà äïòóéãìà íàëòéíôíà.
++++
+[CN][string0] increased!
+[CN][string0] ôâåìéœéâàåóòÿ!
++++
+[CN]Huh?[K] Whaaat?[K]
+[CN]À?[K] Œóïïï?[K]
++++
+[CN][string0] went up [digits_c:0] point(s)!
+[CN][string0] ôâåìéœéâàåóòÿ îà [digits_c:0]!
++++
+[CN][string0] went up [digits_c:0] point(s)![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN][string0] ôâåìéœéâàåóòÿ îà [digits_c:0]![C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]üóà öàñàëóåñéòóéëà äïòóéãìà íàëòéíôíà.
++++
+[CN]IQ increased, too!
+[CN]Óàëçå ôâåìéœéâàåóòÿ IQ!
++++
+[CN][STS]Shock!![STE][K]
+[CN][STS]Ôçàò!![STE][K]
++++
+[CN][name:0]'s [string0] dropped [digits_c:0]!
+[CN][string0] [name:0]
+[CN]ôíåîûšàåóòÿ îà [digits_c:0]!
++++
+[CN][name:0]'s [string0] dropped [digits_c:0]![C]
+[CN]Or so it seemed, but actually
+[CN]it can't go any lower.
+
+[CN][string0] [name:0]
+[CN]ôíåîûšàåóòÿ îà [digits_c:0]![C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]üóà öàñàëóåñéòóéëà äïòóéãìà íéîéíôíà.
++++
+[CN][name:0]'s IQ went down!
+[CN]IQ [name:0] òîéçàåóòÿ!
++++
+[CS:E]Max HP[CR]
+[CS:E]Íàëò. ÏÈ[CR]
++++
+Attack
+Sp. Attack
+Defense
+Sp. Defense
+
+Àóàëà
+Òð. Àóàëà
+Èàþéóà
+Òð. Èàþéóà
++++
+[CN]Lucky! [move:0] became much stronger!
+[CN]Ðïâåèìï!
+[CN]Ðñéæí [move:0] òóàì ãïñàèäï òéìûîåå!
++++
+[CN][move:0] became stronger!
+[CN]Ðñéæí [move:0] òóàîïâéóòÿ òéìûîåå!
++++
+[CN]Lucky! [move:0] became much stronger!
+[C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN]Ðïâåèìï!
+[CN]Ðñéæí [move:0] òóàì ãïñàèäï òéìûîåå!
+[C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]íïþû ðñéæíà ôçå íàëòéíàìûîà.
++++
+[CN][move:0] became stronger![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN]Ðñéæí [move:0] òóàîïâéóòÿ òéìûîåå![C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]íïþû ðñéæíà ôçå íàëòéíàìûîà.
++++
+[CN]IQ increased!
+[CN]IQ ôâåìéœéâàåóòÿ!
++++
+ Also... This was sent to you by
+that guest over there.
+ Åþæ... Üóï íåîÿ ðïðñïòéì
+ðåñåäàóû óïó ãïòóû îåðïäàìæëô.
++++
+ I see you are a true connoisseur!
+ Âéçô, âú îàòóïÿþéê øåîéóåìû!
++++
+ I noticed the way you tasted
+your drink, getting to know the flavor before
+gulping it down...[C]
+ You're obviously a gourmet, and
+I would love to join you on your adventures!
+ Óï, ëàë âú ðéìé üóïó îàðéóïë,
+òíàëôÿ âëôò, ðåñåä óåí, ëàë åãï
+ðñïãìïóéóû...[C]
+ Âú îàòóïÿþéê øåîéóåìû, ðïüóïíô
+ÿ ò ñàäïòóûý ðñéòïåäéîýòû ë âàšåê
+ëïíàîäå!
++++
+ What do you think? Will you let
+me join your team?
+ Œóï òëàçåóå? Ðïèâïìéóå ìé
+âú íîå âòóôðéóû â âàšô ëïííàîäô?
++++
+[CN][name:0] left, looking disappointed...
+[CN][name:0] ñàèïœàñïâàîîï ôöïäéó...
++++
+[CN]Huh? There's something written on the bottom
+[CN]of the glass you just drained.
+[CN]À? Îà äîå òóàëàîà œóï-óï îàðéòàîï.
++++
+[CN]Woohoo![W:15][C]
+[CN]It's a secret exploration spot that now only
+[CN]you know about. Nobody else!
+[CN]Ïïïãïïï![W:15][C]
+[CN]Üóï òåëñåóîïå íåòóï äìÿ éòòìåäïâàîéê,
+[CN]ï ëïóïñïí óåðåñû èîàåóå óïìûëï âú.
+[CN]É îéëóï áïìûšå!
++++
+[CN][name:0] learned the IQ Skill
+[CN][wiseness:0]!
+[CN][name:0] éèôœàåó Îàâúë IQ
+[CN][wiseness:0]!
++++
+[CN][name:0]'s IQ went up tremendously!
+[CN]IQ [name:0] òåñûæèîï ôâåìéœéâàåóòÿ!
++++
+[CN][name:0]'s IQ went up significantly!
+[CN]IQ [name:0] èîàœéóåìûîï ôâåìéœéâàåóòÿ!
++++
+[CN][name:0]'s IQ went up!
+[CN]IQ [name:0] ôâåìéœéâàåóòÿ!
++++
+[CN][name:0]'s IQ went up slightly.
+[CN]IQ [name:0] òìåãëà ôâåìéœéâàåóòÿ!
++++
+[CN][name:0]'s [string0] rose [digits_c:0]!
+[CN][string0] [name:0] ðïâúšàåóòÿ îà [digits_c:0]!
++++
+[CN][string:0]'s [CS:E]Max HP[CR] increased by [digits_c:0].
+[CN][CS:E]Íàëò. ÏÈ[CR] [string:0] ôâåìéœéâàýóòÿ
+îà [digits_c:0].
++++
+[CN][string:0]'s [CS:E]Max HP[CR] increased by [digits_c:0].[C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+
+[CN][CS:E]Íàëò. ÏÈ[CR] [string:0] ôâåìéœéâàýóòÿ
+îà [digits_c:0].[C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]üóà öàñàëóåñéòóéëà äïòóéãìà íàëòéíôíà.
++++
+[CN][name:0]'s [string0] strengthened!
+[CN][string0] [name:0] ôòéìéâàåóòÿ!
++++
+[CN][name:0]'s [string0] strengthened![C]
+[CN]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN][string0] [name:0] ôòéìéâàåóòÿ![C]
+[CN]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]üóï ôçå îà íàëòéíôíå.
++++
+[CN][name:0]'s level became [digits_c:0]![C]
+[CN][se_play:1]Or so it seemed, but actually
+[CN]it's already maxed out.
+[CN]Ôñïâåîû [name:0] òóàîïâéóòÿ [digits_c:0]!
+[CN][se_play:1]Éìé, ëàë ëàèàìïòû, îï îà òàíïí äåìå
+[CN]ïî ôçå íàëòéíàìûîúê.
++++
+Èàëàè
+ Hello!
+Welcome to the Recycle Shop, where everyone
+is happy! Hey, why not?
+ Ðñéâåó!
+Äïáñï ðïçàìïâàóû â Øåîóñ Ðåñåñàáïóëé,
+ãäå âòå âòåãäà ñàäú! À ðïœåíô îåó?
++++
+ Would you like anything else?
+ Öïœåšû œóï-îéáôäû åþæ?
++++
+Recycle
+Ðåñåñàáïóëà
++++
+Prize Ticket
+Ðñéèïâïê Áéìåó
++++
+Info
+Éîõïñíàøéÿ
++++
+Cancel
+Ïóíåîà
++++
+ We've got a new Offer here!
+It will be here for a limited time only!
+ Ô îàò åòóû îïâïå Ðñåäìïçåîéå!
+Ïîï áôäåó äïòóôðîï óïìûëï ïãñàîéœåîîïå
+ëïìéœåòóâï âñåíåîé!
++++
+ What'd you like to trade with?
+ Œóï óú çåìàåšû ïáíåîÿóû?
++++
+ Will you recycle anything else?
+ Öïœåšû ðåñåñàáïóàóû œóï-îéáôäû
+åþå?
++++
+Offer
+Ðñåäìïçåîéå
++++
+Prize Ticket
+Item
+Cancel
+
+Ðñéèïâïê Áéìåó
+Ðñåäíåó
+Ïóíåîà
++++
+[M:D1] I'm sorry, we are all out of
+today's Offer!
+[M:D1] Íîå çàìû, îï ô îàò îà òåãïäîÿ
+îåó Ðñåäìïçåîéÿ!
++++
+ This Offer ends today!
+Don't miss it!
+ Ðñåäìïçåîéå ïãñàîéœåîï ðï
+âñåíåîé! Îå ôðôòóé åãï!
++++
+ Select the item you want, and
+the items you'll have to trade to get it will
+appear on the top screen!
+ Âúáåñé îôçîúê óåáå ðñåäíåó
+é âåþé, ëïóïñúå óåáå îôçîï áôäåó èà îåãï
+ïóäàóû, ðïÿâÿóòÿ îà âåñöîåí üëñàîå!
++++
+ You want this [item:0]?
+ Öïœåšû [item:0]?
++++
+ Am I wrong?
+ Ÿ ïšéáàýòû?
++++
+ You don't have enough items to
+trade for this [item:0]!
+ Ô óåáÿ îå öâàóàåó ðñåäíåóïâ,
+œóïáú ðïìôœéóû âåþû [item:0]!
++++
+ OK, select which items you
+will offer in trade.
+ Öïñïšï, âúáåñé, ëàëéå ðñåäíåóú
+óú ðñåäìïçéšû âèàíåî.
++++
+ Do you want to cancel?
+ Öïœåšû âòæ ïóíåîéóû?
++++
+ Will you recycle these [digits:1]
+items for this [item:0]?
+ Ïáíåîÿåšû [digits:1] ðñåäíåóïâ îà
+âåþû [item:0]?
++++
+ Am I wrong?
+ Ÿ ïšéáàýòû?
++++
+ Thanks for recycling![K]
+Here's your [item:0].
+ Òðàòéáï èà ðåñåñàáïóëô![K]
+Âïó óåáå [item:0].
++++
+ Do you want to redeem that
+[item:0] for a Prize now?
+ Çåìàåšû éòðïìûèïâàóû üóïó
+[item:0] é ðïìôœéóû ðñéè?
++++
+Redeem
+Ïóäàóû
++++
+Not now
+Îå òåêœàò
++++
+ You're not going to redeem it
+now? OK, here's your [item:0].
+ Îå òåêœàò? Öïñïšï, âïó óâïê
+[item:0].
++++
+ Thank you for recycling![K]
+Here's your [item:0].[C]
+ You don't have enough space in
+your Treasure Bag for it, so I'll send it to
+your storage.
+ Òðàòéáï èà ðåñåñàáïóëô![K]
+Âïó [item:0].[C]
+ Ðïöïçå, ô óåáÿ â Òôíëå ò
+Øåîîïòóÿíé îåó íåòóà, ðïüóïíô ÿ ïóðñàâéì
+üóïó ðñåäíåó â óâïæ öñàîéìéþå.
++++
+ You don't have enough space in
+your Treasure Bag for it, so I'll send it to
+your storage.
+ Â óâïåê â Òôíëå ò Øåîîïòóÿíé
+îåó íåòóà, ðïüóïíô ÿ ïóðñàâéì üóïó
+ðñåäíåó â óâïæ öñàîéìéþå.
++++
+[CN]Sent the [item:0] to storage.
+[CN][item:0] ïóðñàâìÿåóòÿ
+[CN]â öñàîéìéþå.
++++
+ Thank you for recycling![K]
+Here's your [item:0].
+ Òðàòéáï èà ðåñåñàáïóëô![K]
+Âïó [item:0].[C]
++++
+[CN][hero] received the
+[CN][item:0]!
+[CN][hero] ðïìôœàåó
+[CN][item:0]!
++++
+ Oh! Congratulations! That
+recycle comes with this [item:0]!
+ Ï! Ðïèäñàâìÿý! Üóà ðåñåñàáïóëà
+ðñéîåòìà ðñåäíåó [item:0]!
++++
+ You can redeem one bonus
+[CS:I]Prize Ticket[CR]! What would you like to do?
+ Íïçîï ïáíåîÿóû ïäéî áïîôòîúê
+[CS:I]Ðñéèïâïê Áéìåó[CR]! Œóï öïœåšû òäåìàóû?
++++
+ If you don't redeem your bonus
+[CS:I]Prize Ticket[CR] now, it becomes invalid. OK?
+ Åòìé îå ïáíåîÿóû áïîôòîúê
+[CS:I]Ðñéèïâïê Áéìåó[CR] òåêœàò, ïî òóàîåó
+îåäåêòóâéóåìûîúí. Âòæ ôòóñàéâàåó?
++++
+ Are you sure? OK, I'll just
+throw it away.
+ Óïœîï? Öïñïšï, óïãäà ÿ ðñïòóï
+âúáñïšô åãï.
++++
+ Âï âñåíÿ âúìàèïë, óåáå óïœîï
+ðïðàäàìéòû îåîôçîúå ðñåäíåóú, óàë?[C]
+ É ðñé ðïðúóëå ðñïäàóû óàëéå
+ðñåäíåóú, èà îéö äàâàìé ãñïšé, ÿ ðñàâ?[C]
+ Üóï óàë ñàèäñàçàåó, âúëéäúâàóû
+ðñåäíåóú ðñïòóï çàìëï! Îï ñàèâå üóï îå
+ñàòóïœéóåìûîï?[C]
+ Éíåîîï ðïüóïíô íú ïóëñúìé
+èäåòû üóïó Øåîóñ Ðåñåñàáïóëé.[C]
+ Üóï ðñåëñàòîàÿ ôòìôãà, ò åæ
+ðïíïþûý óú íïçåšû ïáíåîéâàóû îåîôçîúå
+ðñåäíåóú îà óï, œóï óåáå îôçîï![C]
+ Ðñåäíåóú éè Òôíëé ò Øåîîïòóÿíé
+é öñàîéìéþà âúáéñàýóòÿ âíåòóå, ðïüóïíô
+óåáå îå îôçîï éö òýäà óàòëàóû![C]
+ Íïçîï ðåñåñàáïóàóû ìýáïê
+ðñåäíåó, åòìé ïî îå ÿâìÿåóòÿ íåóàóåìûîúí,
+óàëéí ëàë [CS:I]Ðàìëà[CR].[C]
+ Ëñïíå óïãï, èà îàšé [CS:I]Ðñéèïâúå[CR]
+[CS:I]Áéìåóú[CR] íïçîï ðïìôœéóû âåòæìúå Ðñéèú,
+ðïüóïíô ïáÿèàóåìûîï ðåñåñàáàóúâàê âåþé!
++++
+ Come back anytime!
+ Ðñéöïäé â ìýáïå âñåíÿ!
++++
+[CLUM_SET:8]Trade Requirement[CLUM_SET:128]|[CLUM_SET:140] Held
+[CLUM_SET:8]Óñåáïâàîéÿ[CLUM_SET:128]|[CLUM_SET:140] Ðñé òåáå
++++
+[CLUM_SET:16]Required Item
+[CLUM_SET:16]Óñåáôåíúê Ðñåäíåó
++++
+[CLUM_SET:18]Any item[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][value:2:3]
+[CLUM_SET:18]Ìýáïê ðñåäíåó[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][value:2:3]
++++
+[CLUM_SET:18]Any item[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][CS:W][value:2:3][CR]
+[CLUM_SET:18]Ìýáïê ðñåäíåó[CLUM_SET:96][value:1:3][CLUM_SET:128]|[CLUM_SET:180][CS:W][value:2:3][CR]
++++
+[CLUM_SET:8]Info
+[CLUM_SET:8]Éîõïñíàøéÿ
++++
+[CLUM_SET:8]Lists the required item for trade. You can
+[CLUM_SET:8]also check how many items you have.
+[CLUM_SET:8]Ðïëàèúâàåó óñåáôåíúê ðñåäíåó. Óàëçå
+[CLUM_SET:8]íïçîï ðïòíïóñåóû ëïì-âï âàšéö âåþåê.
++++
+Item
+Offer
+Prize Ticket
+Storage
+Recycle
+Info
+Cancel
+[value:1:3]/[value:2:3]
+Select with [M:B6]
+
+Ðñåäíåó
+Ðñåäì.
+Ðñéè. Áéìåó
+Öñàîéìéþå
+Ïáíåî
+Éîõï
+Ïóíåîà
+[value:1:3]/[value:2:3]
+Âúáïñ: [M:B6]
 +++
