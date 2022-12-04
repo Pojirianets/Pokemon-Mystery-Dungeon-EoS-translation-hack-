@@ -101301,13 +101301,13 @@ G01P02A/enter07.ssb
 [CN]Номер Один![K]\n[CN]Не увиливай от работы!
 +++
 [CN]Two![K]\n[CN]Run away and pay!
-[CN]Номер Два![K]\n[CN]При побеге - поплатись!
+[CN]Номер Два![K]\n[CN]Посмеешь удрать - проблем не избежать!
 +++
 [CN]Three![K]\n[CN]Smiles go for miles!
-[CN]Номер Три![K]\n[CN]Улыбайся до ушей!
+[CN]Номер Три![K]\n[CN]Улыбайся друг, всем вокруг!
 +++
 [CN]Four![K]\n[CN]Once you put a job on your team\'s list,\n[CN]then use Take Job! That step can\'t be missed!
-[CN]Номер Четыре![K]\n[CN]Занеси задание в список и Возьмись за\n[CN]него! Этот шаг трудно пропустить!
+[CN]Номер Четыре![K]\n[CN]Получив задание, не зевай!\n[CN][CS:N]Возьмись[CR] за дело, этот шаг не пропускай!
 +++
 [CN]Five![K]\n[CN]Restock your supplies and rations\n[CN]before heading out on explorations!
 [CN]Номер Пять![K]\n[CN]Чтобы вылазка не обернулась бедой,\n[CN]запасайся припасами и едой!
@@ -103160,3 +103160,2136 @@ P01P04A/enter06.ssb
 [CN]Теперь вы можете отправиться в\n[CN][CS:P]Башню Судьбы[CR]!
 +++
 --- ---
+ Did you try asking [CS:N]Wynaut[CR]\nover there?
+ Может, лучше поговорить с\nтем [CS:N]Вайнотом[CR]?
++++
+ That\'s right!
+ Вот так!
++++
+ Right here, right?
+ Прямо сюда, так?
++++
+ OK, please select a color card.\nRed, Blue, or Yellow?
+Red
+ OK, Red then.
+ Right! Red!
+ Is it a win? Is it not?
+ .........
+ That\'s right!
+ Is that so? That\'s not too bad.
+ Well, here\'s your\nconsolation prize.
+[CN][hero] received the\n[CN][s_item:0]!
+ Draw another [CS:I]Prize Ticket[CR]?
+Yes
+ You can draw once for\neach Ticket!
+ Select which Ticket to use.
+ Draw a [CS:I]Prize Ticket[CR]?
+Yes
+No
+ Select the Ticket you\'d like\nto use.
+ Draw a [CS:I]Silver Ticket[CR]?
+ Draw a [CS:I]Gold Ticket[CR]?
+ Draw a [CS:I]Prism Ticket[CR]?
+Cancel
+ You want to cancel?
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ Select which Ticket to use.
+Cancel
+ I\'m sorry to say that if you don\'t\nhave any [CS:I]Prize Tickets[CR], you can\'t participate in\nthe drawing…
+No
+ Come back anytime!
+ Huh? Your Bag\'s full?
+ OK, I\'ll just send this to your\nstorage, then.
+[CN]The [s_item:0] was\n[CN]sent to storage.
+ So is it a win or not?
+ That\'s right!
+ Wow! That\'s wonderful!
+ That\'s so great!\nWhy not take your prize?
+[CN][hero] received the\n[CN][s_item:0]!
+ Huh...wait. Don\'t tell me...[K]\nIs it a big win...?
+ .........
+ .........[K]\nDon\'t tell me... [K]It\'s a loss, right?
+ That\'s right!
+ Hey...\nWhy not calm down...?
+ Sorry to have gotten your hopes\nup.[K] Why not take this consolation prize?
+[CN][hero] received the\n[CN][s_item:0]!
+ That\'s right!
+ Oh, yeaaaaah!
+ I must congratulate you.[K]\nWhy not? Here is your big-win prize!
+[CN][hero] received the\n[CN][s_item:0]!
+Blue
+ OK, Blue then.
+ Right! Blue!
+Yellow
+ OK, Yellow then.
+ Right! Yellow!
+ It\'s so exciting! You never know\nwhat you might find! \nEnter the Big Treasure [CS:I]Prize Ticket[CR] drawing?
+Yes
+No
+
+ Хорошо. Пожалуйста, выбери\nцветную карту. Красная, Синяя или Жёлтая?
+Красная
+ Хорошо, значит Красная.
+ Так! Красная!
+ Есть выигрыш? Или нет?
+ .........
+ Всё так!
+ Серьёзно? Ну, не так уж и плохо.
+ Что-ж, вот твой утешительный\nприз.
+[CN][hero] получает\n[CN][s_item:0]!
+ Поучавствуешь в розыгрыше за\nдругой [CS:I]Призовой Билет[CR]?
+Да
+ За каждый Билет можно принять\nучастие в одном розыгрыше!
+ Выбери свой Билет.
+ Поучавствуешь в розыгрыше за\n[CS:I]Призовой Билет[CR]?
+Да
+Нет
+ Выбери свой Билет.
+ Разыграть [CS:I]Серебрянный Билет[CR]?
+ Разыграть [CS:I]Золотой Билет[CR]?
+ Разыграть [CS:I]Призматический\nБилет[CR]?
+Отмена
+ Хочешь отказаться?
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Выбери свой Билет.
+Отмена
+ Мне жаль это говорить, но если\nу тебя нет Призовых Билетов, то ты не\nсможешь поучавствовать в розыгрыше...
+Нет
+ Приходи еще!
+ А? У тебя Сумка забита?
+ Ничего, я просто отправлю\nэто в твоё хранилище.
+[CN]Предмет [s_item:0]\n[CN]отправлен в хранилище.
+ Есть выигрыш или нет?
+ Всё так!
+ Ого! Это чудесно!
+ Это очень здорово! Почему бы\nтебе не забрать свой приз?
+[CN][hero] получает\n[CN][s_item:0]!
+ Что...погоди. Не говори...[K]\nЭто крупный выигрыш?..
+ .........
+ .........[K]\nТолько не говори мне... [K]Это проигрыш, да?
+ Всё так!
+ Постой...\nПочему бы не успокоиться?..
+ Прости, что оправдали твоих\nнадежд.[K] Почему бы не взять утешительный\nприз?
+[CN][hero] получает\n[CN][s_item:0]!
+ Всё так!
+ О, даааааааа!
+ Хочу тебя поздравить.[K]\nПочему бы и нет? Вот твой крупный\nвыигрыш!
+[CN][hero] получает\n[CN][s_item:0]!
+Синяя
+ Хорошо, значит Синяя.
+ Так! Синяя!
+Жёлтая
+ Хорошо, значит Жёлтая.
+ Так! Жёлтая!
+ Это так раззадоривает! Кто\nзнает, что можно получить! Поучавствуешь\nв розыгрыше Крупного Выигрыша за [CS:I]Билет[CR]?
+ Да
+ Нет
++++
+[CS:I]Prize Ticket[CR]
+[CS:I]Silver Ticket[CR]
+[CS:I]Gold Ticket[CR]
+[CS:I]Prism Ticket[CR]
+
+[CS:I]Призовой Билет[CR]
+[CS:I]Серебрянный Билет[CR]
+[CS:I]Золотой Билет[CR]
+[CS:I]Призматический Билет[CR]
++++
+ Я думал, что если я возьму\nс собой своё сокровище, то это меня\nподбодрит...
+ Я думала, что если я возьму\nс собой своё сокровище, то это меня\nподбодрит...
++++
+ Какая же я трусиха...
++++
+ У этой суетящейся слабачки...[K]\nБыло что-то ценное, да?
++++
+ У этой слабачки что-то было,\nопределённо.[K] На вид какое-то сокровище.
++++
+ Отправимся за ним в погоню?
+ Отправимся за ней в погоню?
++++
+ В хорошую погоду, на закате\nвыползают [CS:N]Крабби[CR] и пускают пузыри...
++++
+ И эти пузырьки, отражающие\nлучи заходящего солнца от волн...
++++
+ Всегда впечатляют.
++++
+ Они всегда красивы.
++++
+Меня зовут [partner].[K]\nПриятно познакомиться!
++++
+I don\'t think I\'ve seen your face\naround here.
+I\'ve never seen you\naround before.
+I don\'t think I\'ve seen you\naround before.
+
+ Не думаю, что я тебя здесь\nраньше видел.
+ Я тебя тут никогда раньше\nне видел.
+ Не думаю, что я тебя тут\nкогда-либо видела.
++++
+ Ты...[K]Немного странновато\nсебя ведешь...
++++
+ Понятно. Ну, по крайней\nмере ты не выглядишь плохим Покемоном.
++++
+ Видишь ли, с недавних пор,\nв округе появляется все больше и больше\nПокемонов-негодяев!
+ Видишь ли, в округе стало\nпоявляться всё больше и больше\nПокемонов-негодяев!
++++
+ Прости, малыш. Мы это забираем!
+ Прости, малышка. Мы это забираем!
++++
+ Охо-хо![K] Даже и шагу не сделаешь,\nчтобы отобрать это у нас? Что такое?[K]\nСтрашно?
++++
+ Я и не ожидал, что ты настолько\nтрусливый!
+ Я и не ожидал, что ты настолько\nтрусливая!
++++
+ Ещё увидимся, трусишка.[K]\nХе-хе-хе.
++++
+ Ну же, пожалуйста?[K] Прошу,\nпомоги мне вернуть моё сокровище!
+ Я серьёзно! Пожалуйста?[K]\nПрошу, помоги мне вернуть моё сокровище!
+ Пожалуйста?[K] Прошу, помоги\nмне забрать моё сокровище у этих негодяев!
++++
+Полагаю, что если один из\nнас потеряет сознание, то другой не\nсможет идти дальше!
++++
+ Uh...[K] Hey!
+ Well, well...
+ If it isn\'t our old friend, the\nbig chicken.
+ If it isn\'t our old friend, the\nbig chicken.
+ Urk!
+ Give me...[K] Give me back what\nyou stole from me!
+ That\'s my personal treasure!\nIt means everything to me!
+ Treasure, you say?[K] So that\nthing really is valuable, huh?
+ It could be worth more than\nwe\'d hoped for, I\'d say.
+ We ought to try selling it.\nWho knows? It might get a good price.
+ Whoa-ho-ho![K] All the more\nreason not to give it back!
+ Whaaaat?!
+ You can\'t!
+ If you want it back that\nbadly...[K] Come and get it! Heh-heh-heh!
+ 
+ Эм...[K] Эй, вы!
+ Так, так...
+ Да это же наш старый друг,\nбольшой трусишка.
+ Да это же наша старая подруга,\nбольшая трусиха.
+ Ух!
+ Верните мне...[K] Верните мне\nто, что у меня украли!
+ Это моё личное сокровище!\nОно для меня очень важно!
+ Сокровище, говоришь?[K] Значит,\nэта штука и в самом деле ценная, да?
+ Я бы сказал, что она стоит\nдаже больше чем мы предполагали.
+ Лучше продадим это. Кто знает,\nвозможно мы сможем немало денег выручить.
+ Хоа-хо-хо![K] Вполне себе причина\nне возвращать это!
+ Чтоооо?!
+ Так нельзя!
+ Если ты так сильно хочешь это\nвернуть... Тогда отбери! Хе-хе-хе!
++++
+ Huh?
+ What?
+ Oh... What?
+ Why are you still here?
+ What are you still doing here?
+ Why are you still here?
+ I figured you would be long gone\nand far away by now.
+ I thought you would have gotten\nfar away by now.
+ I expected you to have gotten\nfar away by now.
+ Y-you...[K] Shut up!
+ We can\'t find our way out of\nthis place!
+ Whoa-ho-ho![K] But there\'s nothing\nto fear, is there? It\'s only you!
+ Heh-heh-heh! Once a pushover,\nalways a pushover!
+ We\'ll show you what a wimp you\nare all over again![K] You ready?
+
+ А?
+ Что?
+ Ох... Что?
+ Почему вы ещё здесь?
+ А почему вы ещё здесь?
+ Почему вы ещё здесь?
+ Я думал, что вы уже давно\nсбежали.
+ Мне казалось, что вы уже\nочень давно удрали.
+ Я думала, что вы уже давно\nудрали.
+ Т-ты...[K] Замолкни!
+ Мы не знаем, как отсюда\nвыбраться!
+ Хоа-хо-хо![K] Но нам совершенно\nнечего бояться, так? Особенно тебя!
+ Хе-хе-хе! Дали слабину однажды,\nдадите и дважды!
+ Сейчас мы вновь покажем вам,\nкто здесь слабаки![K] Готовы?
++++
+ Owowow...
+ Ugh...[K] We got roughed up…
+ B-blast it... How\'d we get wiped\nout by wimps like them?
+ Bah![K] Here you go. Take it, then!
+ Whoa-ho![K] Don\'t think you\'re so\nawesome. Your victory was a fluke!
+ Yeah, you just remember that!
+ Oh! It\'s my Relic Fragment!
+ Am I ever glad...[K] I actually\nmanaged to get it back.
+ Am I ever glad...[K] I actually did\nmanage to get it back.
+ Thank goodness...[K] I actually\nmanaged to get it back.
+ It\'s because you were there to\nhelp me, [hero].
+ This happened only because you\nhelped me, [hero].
+ Thanks, [hero]!
+ Thank you, [hero]!
+
+ Ойойой...
+ Ух... Как нас отделали...
+ П-проклятье... Как мы могли\nпроиграть таким слабакам?
+ Ай![K] Вот вам, забирайте!
+ Хоа-хо! Не думайте что вы\nтеперь такие крутые. Вам просто повезло!
+ Да, зарубите себе на носу!
+ Ох! Мой Фрагмент Реликвии!
+ Я так рад...[K] Я на самом\nделе смог вернуть его.
+ Я так рад...[K] Я и вправду\nсмог вернуть его.
+ Какое облегчение...[K] Я на\nсамом деле смогла вернуть его.
+ Всё потому что ты был со\nмной, [hero].
+ Всё потому что ты была со\nмной, [hero].
+ Спасибо, [hero]!
+ Спасибо тебе, [hero]!
++++
+ Really, thank you!
+ Thank you! Seriously!
+ Thank you very much!
+(I only helped because I happened to be\nthere... Was that the right thing to do?)
+(I only helped because I happened to be\nthere... Was that the right thing to do?)
+(I guess so.[K] This Pokémon is clearly grateful.)
+(It\'s nice to be appreciated.)
+ Here\'s what they stole.
+ This is a Relic Fragment.[K]\n...Well, at least, that\'s what I started\ncalling it…
+ But this Relic Fragment...[K]\nIt\'s my precious treasure.
+ You see, I\'ve always liked\nlegends and lore…
+ You see, I\'ve always liked\nlegends and lore…
+ I always get so excited when I\nhear tales from the past!
+ I always get so excited when I\nhear tales from the past!
+ Don\'t you feel the same way?
+ Hidden troves full of treasure\nand strange relics…
+ ...uncharted territories veiled\nin darkness…
+ ...and new lands just waiting to\nbe discovered!
+ Such places must be full of gold\nand treasure!
+ Such places must be full of\nunimaginable gold and treasure!
+ And history! Wouldn\'t it be\namazing to make historic discoveries?
+ And history! Wouldn\'t it be\ndramatic to make historic discoveries?
+ I always dream about that. It\'s\nall exciting to me.
+ That\'s what I always dream of.\nIt\'s all exciting to me.
+ That\'s what I always dream of.\nIt\'s all so exciting to me.
+ So one day...[K]I happened to find\nsomething... My Relic Fragment.
+ So one day...[K]I happened to come\nacross my Relic Fragment.
+ And it just so happened...[K]that I\nfound this Relic Fragment.
+ Sure, it looks like junk, but take\na closer look…
+ I admit that it looks like junk,\nbut take a closer look.
+ Sure, it does look like junk, but\ntake a closer look.
+ See?[K] See that strange pattern\ninscribed on it?
+ See?[K] That inscription forms a\nstrange pattern, doesn\'t it?
+ Look there.[K] See that strange\npattern inscribed on it?
+(It\'s true. There is a strange inscription.)
+(I\'ve never seen a pattern like this.)
+(I\'ve never seen a pattern like this.)
+ This pattern must have some\nmeaning to it. I\'m sure of it.
+ There must be some significance\nto this pattern.
+ There must be some meaning to\nthis pattern.
+ This Relic Fragment must be the\nkey to legendary places! To areas where\nprecious treasure lies!
+ At least that\'s the feeling I get.
+ That\'s why I want to join an\nexploration team.
+ This fragment must fit into\nsomething...somewhere! I want to discover\nwhere that is.
+ I want to solve the mystery of\nmy Relic Fragment!
+ So earlier, I tried joining an\nexploration team as an apprentice…
+ So earlier, I tried joining an\nexploration team as an apprentice…
+ But...[K]I chickened out.
+ But...[K]I was too cowardly…
+ What about you, [hero]?\nWhat are you going to do now?
+ You lost your memory. And you\nsomehow transformed into a Pokémon…
+ You lost your memory. And you\nsomehow transformed into a Pokémon…
+ Do you have anywhere to go and\nstay after this?
+ Do you have anyplace where\nyou can stay?
+ If not, can I ask a big favor?
+ Would you join me to make an\nexploration team?
+ Would you be willing to form an\nexploration team with me?
+ Would you form an exploration\nteam with me?
+ I think you and I would make a\ngood exploration team, [hero].
+ I\'m convinced that I can form an\neffective exploration team with you,\n[hero].
+ I think we could make a good\nexploration team together, [hero].
+ So, how about it?[K]\nCome on, please?
+ So will you?[K] Please?
+ So will you do that with me?[K]\nPlease?
+(Whoa! What should I do?[K] I\'m getting\nrecruited out of the blue!)
+(I don\'t know what an exploration team is...)
+(What should I do?[K] Should I join this Pokémon\nand form an exploration team?)
+Form a team
+Say no
+ Huh? Oh, come on!
+ What?! Oh, but…
+ What?! Oh, please!
+ But I\'m braver when I\'m with\nyou, [hero]…
+ And you were awesome when we\nbeat [CS:N]Koffing[CR] and his buddy.
+ And you were fantastic when\nwe faced [CS:N]Koffing[CR] and his sidekick.
+ When I saw that, I realized\nyou\'re no ordinary Pokémon, [hero]!
+ When I saw that, I realized\nyou\'re no ordinary Pokémon, [hero]!
+ I thought that you\'d make a\nfirst-class explorer, [hero].
+ I thought that you could be a\nfirst-class explorer, [hero].
+ So come on, I\'m begging you.[K]\nLet\'s form an exploration team, you and me.
+ So come on now.[K] Let\'s form an\nexploration team together.
+ So, please?[K] Will you please form\nan exploration team with me?
+Are you...?
+ Huh? [K]Am I what?
+ What do you mean, [K]\"Are you...?\"
+You\'re trying to talk me into it?
+ What?! [K]Talk you into it?!
+ I wasn\'t trying to do anything!
+ I didn\'t even think of it!
+ The thought never crossed\nmy mind!
+ Well, I\'m a complete coward...[K]\nHonestly...\n
+ Well, I\'m a complete coward...[K]\nHonestly...\n
+ I mean, yes, I thought I could\ndepend on you, [hero]…
+ I mean, yes, I thought I could\ndepend on you, [hero]…
+ But during that fight with\n[CS:N]Koffing[CR] earlier…
+ Having you there with me, I felt\nreally brave.
+ Having you there with me, I felt\nreally brave.
+ I think I could do anything as\nlong as you\'re helping me, [hero].
+ I think I could do anything as\nlong as you\'re helping me, [hero].
+ So come on, I\'m begging you.[K]\nLet\'s form an exploration team, you and me.
+(It\'s true, I do have nowhere to go...)
+(I don\'t have any clue what I should do next.)
+(I guess it wouldn\'t hurt to team up with\n[partner] for now.)
+(Maybe I\'ll eventually discover who or what\nI am by hanging out with this Pokémon.)
+(OK! That\'s settled!)
+ Yeah?[K] Really?!
+ Oh?[K] Really?!
+ You\'ll form an exploration team\nwith me?
+ You\'ll really form an exploration\nteam with me?
+ Yahoo! Thanks!
+ Yes! Thank you!
+ Yay! Thank you!
+ We\'re going to make a great\ncombination! Let\'s make this work!
+ First, let\'s go to [CS:N]Wigglytuff[CR]\'s\nplace and sign up as apprentices.
+ First, we should go to\n[CS:N]Wigglytuff[CR]\'s place and sign up as apprentices.
+ First, we need to go to\n[CS:N]Wigglytuff[CR]\'s place and sign up as apprentices.
+ That\'s where we can train to\nbecome a proper exploration team.
+ That\'s where we need to train to\nbecome a first-rate exploration team.
+ That\'s where we can get the\ntraining to become a proper exploration team.
+ I think the training will be\nreally tough…
+ I\'m sure the training will be\nvery tough…
+ I think the training will be very\ntough…
+ But let\'s give it our best,\n[hero]!
+ So let\'s give it our best,\n[hero]!
+[CN]And so...
+[CN][partner] and [hero]…
+[CN]formed an exploration team.
+[CN]This turned out to be…
+[CN]their very first step into…
+[CN]many fantastic realms of adventure\n[CN]that awaited their arrival.
+
+ Правда, спасибо тебе!
+ Спасибо тебе! Серьёзно!
+ Спасибо тебе большое!
+(Я помог только потому, что я оказался\nпоблизости... Стоило ли так поступать?)
+(Я помогла только потому, что я оказалась\nпоблизости... Стоило ли так поступать?)
+(Думаю, да.[K] Этот Покемон определённо\nмне благодарен.)
+(Приятно, когда тебя ценят.)
+ Вот что они украли.
+ Это Фрагмент Реликвии.[K]\nНу, по крайней мере, так я его называю.
+ Этот Фрагмент Реликвии...[K]\nОн - моё ценное сокровище.
+ Видишь ли, я всегда любил\nдревние легенды и истории...
+ Видишь ли, я всегда любила\nдревние легенды и истории...
+ Каждый раз, когда я слышу\nсказания прошлого, я так сильно этому\nрадуюсь!
+ Каждый раз, когда я слышу\nсказания прошлого, я так сильно этому\nрадуюсь!
+ Ты наверняка ощущаешь то-же\nсамое чувство?
+ Спрятанные клады, полные\nсокровищ и загадочных реликвий...
+ ...неизведанные территории,\nокутанные во мраке...
+ ...и новые земли, словно\nждущие того, чтобы их обнаружили!
+ Такие места наверняка полны\nзолота и сокровищ!
+ Такие места наверняка полны\nневероятными горами золота и сокровищами!
+ И историей! Разве не будет\nздорово сделать историческое открытие?
+ И историей! Разве не будет\nпрекрасно сделать историческое открытие?
+ Я всегда мечтаю об этом.\nМне это очень интересно.
+ Именно об этом я и мечтаю.\nМне это очень интересно.
+ Именно об этом я и мечтаю.\nМне это невероятно интересно.
+ И однажды...[K] Я нашёл\nкое-что... Мой Фрагмент Реликвии.
+ И однажды...[K] Я наткнулся\nна мой Фрагмент Реликвии.
+ И так случилось, что...[K]\nЯ нашла этот Фрагмент Реликвии.
+ Конечно, на вид мусор, но\nвзгляни повнимательнее...
+ Признаю, на вид мусор, но\nвзгляни повнимательнее...
+ Да, он выглядит как мусор,\nно взгляни повнимательнее...
+ Видишь?[K] Видишь этот\nзагадочный символ?
+ Видишь?[K] Это начертание\nформирует загадочный узор.
+ Взгляни.[K] Видишь, что на нём\nначертан загадочный символ?
+(Верно. Это загадочное начертание.)
+(Я никогда не видел такого узора.)
+(Я никогда не видела такого узора.)
+ Этот узор наверняка что-то\nозначает. Я уверен в этом.
+ Скорее всего, этот узор\nозначает что-то важное.
+ Возможно, этот узор имеет\nкакое-то значение.
+ Этот Фрагмент Реликвии\nможет быть ключом к особым местам, где\nесть ценные сокровища!
+ По крайней мере, как мне\nкажется.
+ Поэтому я хочу вступить в\nкоманду исследователей.
+ Этот фрагмент должен\nподходить куда-нибудь...где-нибудь!\nЯ хочу узнать, где.
+ Я хочу разгадать загадку\nмоего Фрагмента Реликвии!
+ Поэтому, я попытался\nприсоединиться к команде исследователей\nв качестве ученика...
+ Поэтому, я попыталась\nприсоединиться к команде исследователей\nв качестве ученицы...
+ Но...[K] Я струсил.
+ Но...[K] Я слишком\nтруслива...
+ А как насчёт тебя,\n[hero]? Что ты будешь делать?
+ Ты потерял память.\nИ каким-то образом стал Покемоном...
+ Ты потеряла память.\nИ каким-то образом стала Покемоном...
+ Тебе есть куда идти после\nвсего этого?
+ У тебя есть место для\nночлега?
+ Если нет, можно тебя\nкое о чём спросить?
+ Ты присоединишься ко мне\nв команду исследователей?
+ Хочешь ли ты создать со\nмной команду исследователей?
+ Хочешь ли ты сформировать\nкоманду исследователей вместе со мной?
+ Я думаю, из нас получится\nотличная команда исследователей,\n[hero].
+ Я уверен, что с тобой,\n[hero], мы станем отличной командой\nисследователей.
+ Я думаю, что из нас выйдет\nnотличная команда исследователей,\n[hero].
+ Так что думаешь?[K]\nСоздадим команду? Пожалуйста!
+ Создадим команду?[K]\nПожалуйста?
+ Хочешь быть со мной в\nкоманде?[K] Пожалуйста?
+(Ого! Что же мне делать? Меня ни с того\nни с сего начали во что-то втягивать!)
+(Я даже не знаю, что такое команда\nисследователей...)
+(Как мне поступить? Довериться этому\nПокемону и создать команду исследователей?)
+Создать команду
+Отказать
+ А? О, ну-же!
+ Что?! О, но...
+ Что?! О, пожалуйста!
+ Но с тобой, [hero],\nя чувствую себя гораздо храбрее...
+ И ты великолепно справился\nс [CS:N]Коффингом[CR] и его приятелем.
+ И ты прекрасно справилась\nс [CS:N]Коффингом[CR] и его прихвостнем.
+ Увидев это, я осознал, что\nты, [hero], не обычный Покемон!
+ Увидев это, я осознала, что\nты, [hero], не обычный Покемон!
+ Я считаю, что из тебя\nполучится первоклассный исследователь,\n[hero].
+ Я считаю, что из тебя\nполучится первоклассная исследователница,\n[hero].
+ Поэтому, я тебя умоляю.[K]\nДавай создадим команду исследователей.\nТолько ты и я.
+ Поэтому, прошу.[K]Давай\nвместе создадим команду исследователей.
+ Пожалуйста? Прошу, давай\nсоздадим команду исследователей!
+Ты что?..
+ А?[K] Что я?
+ Что ты имеешь в виду,[K]\n\"Ты что?..\"
+Ты пытаешься меня уговорить?
+ Что?![K] Уговорить?!
+ Я не пытался ничего такого\nсделать!
+ Я даже не думал об этом!
+ У меня и мысли такой не\nвозникало!
+ Честно...[K] Я совершенный\nтрус...
+ Честно...[K] Я совершенная\nтрусиха...
+ Точнее, да, я думал, что\nмогу на тебя положиться, [hero]...
+ Точнее, да, я думала, что\nмогу на тебя положиться, [hero]...
+ Но во время этой битвы с\n[CS:N]Коффингом[CR]...
+ С тобой, я был храбр, как\nникогда.
+ С тобой, я была храбра, как\nникогда.
+ Я думаю, что пока ты\nрядом, [hero], я сделаю всё что\nугодно.
+ Я думаю, что пока ты\nрядом, [hero], я сделаю всё что\nугодно.
+ Поэтому, я умоляю тебя.[K]\nДавай создадим команду исследователей.\nТолько ты и я.
+(Это правда, мне действительно некуда\nидти...)
+(И я понятия не имею, что делать дальше.)
+(Думаю, не повредит, если [partner]\nпобудет со мной в одной команде.)
+(Возможно, если я буду рядом с этим\nПокемоном, я узнаю кто я или что я.)
+(Хорошо! Решено!)
+ Да?[K] Правда?!
+ Ох?[K] Правда?!
+ Ты будешь вместе со мной\nв команде исследователей?
+ Ты действительно создашь\nсо мной команду исследователей?
+ Урааа! Спасибо!
+ Да! Спасибо тебе!
+ Ура! Спасибо тебе!
+ Из нас выйдет отличная\nкоманда! Не будем терять времени!
+ Сначала, нам нужно пойти\nк [CS:N]Виглитаффу[CR] и записаться к нему в\nученики.
+ Сперва, мы должны пойти\nк [CS:N]Виглитаффу[CR] и записаться к нему в\nученики.
+ Для начала, нам надо идти\nк [CS:N]Виглитаффу[CR] и записаться к нему в\nученики.
+ Там мы будем тренироваться,\nчтобы стать хорошей командой\nисследователей.
+ Там нам нужно будет\nтренироваться, чтобы стать первоклассной\nкомандой исследователей.
+ Вот где мы будем\nтренироваться, чтобы стать хорошей\nкомандой исследователей.
+ Я думаю, что тренировки\nбудут очень суровы...
+ Я уверен, что тренировки\nбудут очень суровы...
+ Я думаю, что тренировки\nбудут очень суровы...
+ Но, давай сделаем всё,\nчто в наших силах, [hero]!
+ Поэтому, давай сделаем всё,\nчто в наших силах, [hero]!
+[CN]И так...
+[CN][partner] и [hero]...
+[CN]создали команду исследователей.
+[CN]И это стало...
+[CN]их первым шагом...
+[CN]во многие удивительные приключения,\n[CN]что ждали их появления.
++++
+The New\nGuild Recruits
+ This place is [CS:N]Wigglytuff[CR]\'s Guild.
+ This is [CS:N]Wigglytuff[CR]\'s Guild.
+ To form an exploration team,\nyou need to register your team here.
+ Then you have to train until you\nbecome a first-rate exploration team.
+ Y-y-yikes!
+ I still think this place is a\nbit weird. It just is!
+ Isn\'t there something just a\nlittle odd about this place?
+ Isn\'t this place just a little bit\nodd? It just is!
+ No...![K] I\'ve got [hero] with\nme this time.
+ I have to be brave.
+ Pokémon detected![K] Pokémon detected!
+ Whose footprint?[K] Whose footprint?
+ The footprint is [c_kind:ATTENDANT1]\'s![K]\nThe footprint is [c_kind:ATTENDANT1]\'s!
+ Waah!
+ N-no. I have to tough it out…
+ N-no. I have to be strong…
+ N-no. I can\'t lose it now…
+ ...[K]You may ENTER!
+ Someone\'s with you![K] So get that stranger\nto stand up THERE!
+ I think they\'re talking about you,\n[hero].
+ They probably meant you,\n[hero].
+ I think they mean you,\n[hero].
+ They said to stand up here.
+(There\'s a grate covering the hole...)
+(It\'s made so that no one can fall through...)
+(Still, it\'s really strange...)
+(It looks like it will tickle my feet or...)
+ Hey, you! Stranger![K] Get on the GRATE!
+ Pokémon detected![K] Pokémon detected!
+ Whose footprint?[K] Whose footprint?
+ The footprint is...[K] The footprint is... Um…
+ What\'s the matter?![K] Sentry![K] Sentry?!
+ What\'s wrong, sentry [CS:N]Diglett[CR]?
+ Umm... Er...
+
+Новые\nЧлены Гильдии
+ Это место - Гильдия\n[CS:N]Виглитаффа[CR].
+ Это - Гильдия [CS:N]Виглитаффа[CR].
+ Чтобы создать свою команду\nисследователей, её нужно зарегистрировать\nздесь.
+ После чего, необходимо\nтренироваться, чтобы стать первоклассной\nкомандой исследователей.
+ У-у-уххх!
+ Я всё еще считаю, что это\nместо немного странноватое. Именно так!
+ Тебе не кажется, что это\nместо немного странное?
+ Разве это место не\nстранноватое? Вот мне так кажется!
+ Нет!.. На этот раз, со\nмной рядом [hero].
+ Мне нужно быть храбрее.
+ Обнаружен Покемон![K] Обнаружен Покемон![K]
+ Чей это след?[K] Чей это след?[K]
+ След Покемона [c_kind:ATTENDANT1]![K]\nСлед Покемона [c_kind:ATTENDANT1]!
+ Уааа!
+ Н-нет. Я справлюсь...
+ Н-нет. Я буду сильнее...
+ Н-нет. Я не сдамся...
+ ...[K]Вы можете ПРОЙТИ!
+ С вами есть кто-то ещё![K] Пусть этот\nнеизвестный встанет СЮДА!
+ Думаю, они про тебя,\n[hero].
+ Возможно, они говорят о\nтебе, [hero].
+ Думаю, они говорят о тебе,\n[hero].
+ Они говорят, что нужно\nвстать здесь.
+(Дыру прикрывает решётка...)
+(Она сделана таким образом, чтобы в\nдыру никто не провалился...)
+(Всё же, странно всё это...)
+(Как будто бы мои ноги там будут\nщекотать, или...)
+ Эй, ты! Незнакомец![K] Встать\nна РЕШЁТКУ!
+ Обнаружен Покемон![K] Обнаружен Покемон![K]
+ Чей это след?[K] Чей это след?[K]
+ След Покемона...[K] След... Эм...
+ Что такое?![K] Страж![K] Страж?!
+ В чём дело, страж [CS:N]Диглетт[CR]?
+ Эмм... Ээ...
++++ 
+ Umm...[K] The footprint is…
+ Maybe [c_kind:PLAYER]\'s![K]\nMaybe [c_kind:PLAYER]\'s!
+ What?! MAYBE?!
+ B-but...[K] It\'s not a footprint that\nyou normally see around here…
+ UGH! That\'s pretty crummy!
+ Checking the footprints of visiting\nPokémon…
+ That\'s your job, ISN\'T it, [CS:N]Diglett[CR]?
+ Yes, but...[K] I don\'t know what\nI don\'t know.
+
+ Эмм...[K] След...
+ Возможно, Покемона [c_kind:PLAYER]![K]\nВозможно, Покемона [c_kind:PLAYER]!
+ Что?! ВОЗМОЖНО?!
+ Н-но...[K] Такие следы здесь\nредкость...
+ УХ! Это довольно скверно!
+ Ведь смотреть следы приходящих\nПокемонов...
+ Это твоя задача, НЕ ТАК ли, Диглетт?
+ Да, но...[K] Я не знаю того, чего\nне знаю.
++++
+ Wow!
+ So this is [CS:N]Wigglytuff[CR]\'s Guild!
+ There sure are a lot of Pokémon\nhere. Are they all exploration teams?
+ So many Pokémon! I wonder if\nthey\'re all on exploration teams?
+ There are sure a lot of Pokémon\nhere. Do they all belong to exploration teams?
+ Excuse me!
+ It was you two that just came in, right?
+ Y-yes!
+ I\'m [CS:N]Chatot[CR]! ♪[K] I\'m the Pokémon in the\nknow around these parts!
+ I am Guildmaster [CS:N]Wigglytuff[CR]\'s\nright-hand Pokémon! ♪
+ Now, shoo! Leave the premises!\nWe have no time for salespeople or silly\nsurveys.[K] Off you go, if you please!
+ N-no! That\'s not why we\'re here!
+ We want to form an\nexploration team…
+ So we came here. We want to\nget proper training as an exploration team.
+ That\'s why we came. We want\nto be trained as an exploration team.
+ Wh-what?! Exploration team?
+ It\'s rare to see a kid like this\nwant to apprentice at the guild.
+ Especially given how hard our\ntraining is!
+ Surely the steady stream of\nPokémon that run away from our rigorous\ntraining proves how true that is!
+ Hey.
+ Excuse me.
+ Is the exploration team training\nreally that strict?
+ Is the exploration team training\nthat severe?
+ Is the exploration team training\nthat harsh?
+ What?!
+ Well...no! No, no, no!
+ It\'s not true in the slightest![K]\nOur training program for exploration teams is\nas easy as can be!
+ Well, well, well! ♪[K] I wish you\nhad told me up front that you wanted to be\nan exploration team! ♪ Hee-heeee! ♪
+ His attitude did an about-face…
+ His attitude suddenly changed,\ndidn\'t it...?
+ What a shift in attitude!
+ OK! Let\'s get your team signed\nup right away. Follow me! ♪
+ Oh, anything wrong? Come on!\nOver here! ♪[K] Quickly, please! ♪
+
++++
+ This is the guild\'s second\nunderground floor.
+ This is mainly where the\napprentices work.
+ Team registration is this way.\nCome along, please.
+ Wow! We\'re two floors under\nthe ground, but you can see outside!
+ Oh, please! Hush now!
+ The guild is built into the side\nof a cliff.
+ It\'s only natural that you would\nbe able to see outside.
+ Oh.
+ Now, here we are at Guildmaster\n[CS:N]Wigglytuff[CR]\'s chamber.
+ On no account...[K] I repeat, on no\naccount should you be discourteous to our\nGuildmaster.
+ Guildmaster![K] It\'s [CS:N]Chatot[CR]! ♪\nI\'m coming in!
+
+ Это второй подземный этаж нашей\nгильдии.
+ Здесь в основном проходят все\nтренировки учеников.
+ Регистрация команд проводится\nздесь. Сюда, пожалуйста.
+ Ого! Мы на два этажа под\nземлёй, но отсюда видно всё, что\nнаходится снаружи!
+ О, прошу! Потише!
+ Гильдия встроена в скалу.
+ Ничего удивительного, что из неё\nможно увидеть улицу.
+ Ох.
+ Итак, мы у комнаты Гильдмастера\n[CS:N]Виглитаффа[CR].
+ Ни при каких обстоятельствах...[K]\nПодчёркиваю, ни при каких обстоятельствах\nне будьте неучитвы к Гильдмастеру.
+ Гильдмастер![K] Это [CS:N]Чатот[CR]! ♪\nЯ захожу!
++++
+ Guildmaster![K] I present to you\ntwo Pokémon who wish to join our guild as\napprentices.
+ Guildmaster...[K]um...[K]Guildmaster?
+ Hiya!
+ I\'m [CS:N]Wigglytuff[CR]![K] I\'m the guild\'s\nGuildmaster!
+ You want to form an exploration\nteam?[K] Then, let\'s go for it!
+ First we must register your\nexploration team\'s name!
+ So tell me your team\'s name?
+ Huh? The team\'s name?
+ Oh? Our team\'s name?
+ I never thought of that.
+ We didn\'t think of that.
+ I didn\'t think about a team name.
+ Hey, do you have any ideas for a\ncool name, [hero]?
+ So what do you think would be a\ngood name for us, [hero]?
+ ...[team:]?![K]\nTeam [team:]!
+ Yeah... That\'s a good name![K]\nI like it!
+ Yeah... That\'s a good name![K]\nIt suits us!
+ I like it! It\'s a good name![K]\nIt\'s perfect for us!
+ All settled, then![K] I\'ll register\nyour team as [team:].
+ Registering! ♪ Registering! ♪
+ All registered…
+ YOOM...TAH!
+ Congratulations![K] From now on,\nyou\'re an official exploration team!
+ I present you with this in\ncommemoration.
+[CN][CS:N]Wigglytuff[CR] set down\n[CN]a Pokémon Exploration Team Kit!
+ A Pokémon Exploration\nTeam Kit?
+ Yup. It\'s what every exploration\nteam needs.
+ Quick, open it up.
+[CN][partner] opened the\n[CN]Pokémon Exploration Team Kit.
+[CN]There was an\n[CN]Explorer Badge inside…
+[CN]And a Wonder Map…
+[CN]And a Treasure Bag!
+ Yeah! There\'s all sorts of good\nstuff in here!
+ Yeah! There are all sorts of \ngreat items in here!
+ Yes! There are all sorts of\ngreat items in here!
+ That\'s your Explorer Badge! It\'s\nyour official team identification!
+ And there\'s the Wonder Map,\nwhich is a wonder of convenience!
+ Finally, there\'s a Treasure Bag.[K] \nIt lets you carry items you find in dungeons.
+ Your successes as an exploration\nteam can lead to bigger and bigger space for\nyour Treasure Bag.
+ It\'s a very wonderful bag! ♪
+ Have a peek inside your\nTreasure Bag.
+[CN][partner] peered into\n[CN]the Treasure Bag.
+[CN]The [s_item:0]\n[CN]was inside!
+\n[CN]A [CS:I]Silver Bow[CR] was also inside!
+ Those two items are special.
+ I\'m sure they will help you on\nyour adventures! ♪
+ Th-thank you![K] We\'ll do our best!
+ Yup.[K] But you\'re only apprenticing\nright now. So do your best...to train!
+ We will!
+ Let\'s do this right, [hero]!
+ Let\'s always do our best,\n[hero]!
+\n[CN]A [CS:I]Brown Bow[CR] was also inside!
+\n[CN]A [CS:I]Red Bow[CR] was also inside!
+\n[CN]A [CS:I]Pink Bow[CR] was also inside!
+\n[CN]An [CS:I]Orange Bow[CR] was also inside!
+\n[CN]A [CS:I]Yellow Bow[CR] was also inside!
+\n[CN]A [CS:I]Lime Bow[CR] was also inside!
+\n[CN]A [CS:I]Green Bow[CR] was also inside!
+\n[CN]A [CS:I]Viridian Bow[CR] was also inside!
+\n[CN]A [CS:I]Minty Bow[CR] was also inside!
+\n[CN]A [CS:I]Sky Blue Bow[CR] was also inside!
+\n[CN]A [CS:I]Blue Bow[CR] was also inside!
+\n[CN]A [CS:I]Cobalt Bow[CR] was also inside!
+\n[CN]A [CS:I]Purple Bow[CR] was also inside!
+\n[CN]A [CS:I]Violet Bow[CR] was also inside!
+\n[CN]A [CS:I]Fuchsia Bow[CR] was also inside!
+
+ Гильдмастер![K] Я хочу представить\nтебе двух Покемонов, что желают обучаться\nв нашей гильдии.
+ Гильдмастер...[K]эм...[K] Гильдмастер?
+ Приветик!
+ Я - Виглитафф![K]\nГильдмастер гильдии!
+ Хотите создать команду\nисследователей?[K] Тогда, не будем терять\nвремени!
+ Для начала, нужно записать\nназвание вашей команды исследователей!
+ Скажете ваше название?
+ А? Название команды?
+ Ой? Название команды?
+ Я о нём даже не думал.
+ Мы об этом не подумали.
+ Я даже не думала о названии\nкоманды.
+ [hero], а у тебя есть\nкакое-нибудь хорошее название для нас?
+ Как ты думаешь, [hero],\nкакое название подошло бы нам лучше\nвсего?
+ ...[team:]?![K]\nКоманда [team:]!
+ Да... Хорошее название![K]\nМне нравится!
+ Да... Хорошее название![K]\nНам подходит!
+ Мне нравится! Это хорошее\nназвание![K] Подходит идеально!
+ В таком случае, решено![K]\nЯ запишу вас как команду [team:].
+ Записываю! ♪ Записываю! ♪
+ Всё записано...
+ УООМ...ТАХ!
+ Поздравляю![K] Отныне, вы\nофициальная команда исследователей!
+ В честь этого, я дарую вам\nэти вещи.
+[CN][CS:N]Виглитафф[CR] ставит\n[CN]Набор Покемонов-Исследователей!
+ Набор\nПокемонов-Исследователей?
+ Ага. Он нужен каждой команде\nисследователей.
+ Скорее, открывайте.
+[CN][partner] открывает Набор\nПокемонов-Исследователей.
+[CN]Внутри лежит Значок Исследователя...
+[CN]И Чудо-Карта...
+[CN]И Сумка с Ценностями!
+ Да! Здесь столько хороших\nвещичек!
+ Да! Здесь столько классных\nвещей!
+ Да! Здесь много прекрасных\nвещей!
+ Это ваш Значок Исследователя!\nНужен, чтобы официально обозначить вас\nкак команду!
+ Также, я даю вам чудесно\nудобную Чудо-Карту!
+ И наконец, Сумка с Ценностями.[K]\nОна позволит вам носить вещи, которые вы\nбудете находить в подземельях.
+ Чем больше успехов вы будете\nсовершать, тем больше и болшье места\nбудет в вашей Сумке с Ценностями.
+ Это очень чудесная сумка! ♪
+ Загляните внутрь Сумки с\nЦенностями.
+[CN][partner] заглядывает в\n[CN]Сумку с Ценностями.
+[CN]Внутри лежит\n[CN][s_item:0]!
+\n[CN]И [CS:I]Серебрянный Бант[CR]!
+ Эти два предмета особенные.
+ Уверен, они очень помогут\nвам в ваших приключениях! ♪
+ С-спасибо вам![K] Мы сделаем\nвсё, что в наших силах!
+ Ага. Но на данный момент, вы\nздесь только обучаетесь. Поэтому, сделайте\nвсё, что в ваших силах...и тренируйтесь!
+ Обязательно!
+ Сделаем всё как надо,\n[hero]!
+ Выложимся на полную,\n[hero]!
+\n[CN]И [CS:I]Коричневый Бант[CR]!
+\n[CN]И [CS:I]Красный Бант[CR]!
+\n[CN]И [CS:I]Розовый Бант[CR]!
+\n[CN]И [CS:I]Оранжевый Бант[CR]!
+\n[CN]И [CS:I]Жёлтый Бант[CR]!
+\n[CN]И [CS:I]Лаймовый Бант[CR]!
+\n[CN]И [CS:I]Зелёный Бант[CR]!
+\n[CN]И [CS:I]Виридианский Бант[CR]!
+\n[CN]И [CS:I]Мятный Бант[CR]!
+\n[CN]И [CS:I]Небесно-Голубой Бант[CR]!
+\n[CN]И [CS:I]Голубой Бант[CR]!
+\n[CN]И [CS:I]Кобальтовый Бант[CR]!
+\n[CN]И [CS:I]Фиолетовый Бант[CR]!
+\n[CN]И [CS:I]Сиреневый Бант[CR]!
+\n[CN]И [CS:I]Фуксиевый Бант[CR]!
++++
+ This is your room! ♪
+ Wow! We get beds!
+ Great! We get beds!
+ Yay! We get beds!
+ You will live here while you\nwork for us.
+ Things will start getting busy\nfor you tomorrow! ♪[K] So rise early and start\nliving up to our code!
+ Don\'t stay up late. Get to sleep\nearly tonight! ♪[K] That is all.
+
+ Это ваша комната! ♪
+ Вау! У нас есть лежанки!
+ Здорово! У нас лежанки!
+ Ура! Мы спим на лежанках!
+ Пока вы работаете на нас, вы\nбудете жить здесь.
+ Завтра у вас будет много дел! ♪[K]\nПоэтому, вставайте рано и начинайте\nпривыкать к распорядку дня!
+ Не задерживайтесь допоздна.\nЛожитесь спать рано! ♪[K] На этом всё.
++++
+[CN]Exploration Team\n[CN]Quick Tip[W:30]
+[CN]You can save a record of your progress\n[CN]by climbing onto your bed from now on.
+[CN]So whenever you want to save your\n[CN]progress, just climb onto your bed.
+ Hey, are you still awake,\n[hero]?
+ Oh, are you still awake,\n[hero]?
+ Say, are you still awake,\n[hero]?
+ My heart\'s been pounding over\nevery little thing today…
+ My heart\'s been racing all\nday today over every little thing…
+ My heart\'s been racing all day…
+ But I\'m glad I finally worked up\nthe courage to come here.
+ But I\'m glad I finally made\nmyself come here.
+ But I\'m glad I finally forced\nmyself to come here.
+ I thought [CS:N]Wigglytuff[CR] would be\na lot scarier, but he seems pretty nice.
+ I thought [CS:N]Wigglytuff[CR] would be\nscary, but he seems pretty friendly.
+ I thought [CS:N]Wigglytuff[CR] would be\nkind of scary, but he was pretty nice.
+ Even though tomorrow has all\nsorts of new stuff in store for us, I\'m not\nscared at all!
+ We\'re going to experience all\nsorts of things starting tomorrow, but I\'m not\nvery scared.
+ We\'ll experience all sorts of\nnew stuff starting tomorrow, but I\'m not\nvery frightened.
+ Actually, I\'m excited about the\nnew adventures we\'ll face!
+ In fact, it\'s the other way\naround. I\'m super excited about the adventures\nwe\'ll face!
+ Actually, I can\'t wait to find\nout what new adventures are in store for us!
+ Yawn... I\'m getting sleepy…
+ I\'m feeling a little sleepy…
+ Let\'s do our best tomorrow.
+ Let\'s give it our all tomorrow.
+ All right then. Good night,\n[hero]…
+ OK, [hero]. Good night.
+ OK, [hero]. Sleep tight.
+(Um...)
+(Now I\'m suddenly apprenticing at the guild...)
+(I gotta admit, it\'s pretty exciting to be in an\nexploration team.)
+(I gotta admit, it\'s pretty exciting to be in an\nexploration team.)
+(And it\'s fun to be friends with\n[partner]...)
+(And it\'s fun to be friends with\n[partner]...)
+(But first things first...)
+(Who am I?)
+(How did I turn into a Pokémon?)
+(How did I turn into a Pokémon?)
+(How did I end up unconscious on that beach?)
+(How did I end up unconscious on that beach?)
+(I\'m feeling sleepy too...)
+(Well, thinking about it won\'t help right now.\nI\'d better focus on the guild\'s work for now...)
+(If I do that, well, everything should become\nclear eventually...)
+(I\'ll surely get to the bottom of this in time.)
+
+[CN]Подсказка\n[CN]Команде Исследователей[W:30]
+[CN]Теперь вы можете сохранять свой прогресс,\n[CN]забираясь на лежанку.
+[CN]Если вы хотите сохранить игру, просто\n[CN]заберитесь на свою лежанку.
+ Слушай, [hero], ты ещё\nне спишь?
+ Ой, ты еще не спишь,\n[hero]?
+ Скажи, ты ведь ещё не\nспишь, [hero]?
+ Сегодня моё сердце\nколотилось из-за каждой мелочи...
+ Сегодня моё сердце\nколотилось от любой мелочи...
+ Сегодня моё сердце так\nсильно колотилось...
+ Но я рад, что я наконец-то\nнабрался смелости и пришёл сюда.
+ Но я рад, что я наконец-то\nзаставил себя сюда прийти.
+ Но я рада, что я наконец\nзаставила себя сюда прийти.
+ Я думал, что [CS:N]Виглитафф[CR]\nбудет гораздо страшнее, но, похоже, он\nне такой.
+ Я думал, что [CS:N]Виглитафф[CR]\nбудет страшным, но, похоже, он довольно\nдружелюбен.
+ Я думала, что [CS:N]Виглитафф[CR]\nбудет гораздо страшнее, но он довольно\nприятный.
+ Несмотря на то, что завтра\nбудет много всего нового, мне совсем не\nстрашно!
+ Завтра мы переживём много\nнеобычного, но я не очень этого боюсь.
+ Начиная с завтрашнего дня,\nмы будем переживать самые разные вещи,\nно я не очень этого боюсь.
+ На самом деле, я в восторге\nот новых приключений, с которыми мы\nстолкнемся!
+ Даже наоборот. Я очень\nрад тем приключениям что у нас будут!
+ На самом деле, я не могу\nдождаться, чтобы узнать, какие новые\nприключения нас ждут!
+ Ууух... Я засыпаю...
+ Я чувствую себя немножечко\nсонно...
+ Давай завтра сделаем всё,\nчто в наших силах.
+ Давай выложимся завтра на\nполную.
+ Ну ладно. Доброй ночи,\n[hero]...
+ Ладно, [hero].\nДоброй ночи.
+ Ладно, [hero].\nСпокойной ночи.
+(Хм...)
+(Теперь я ни с того ни с сего обучаюсь\nв гильдии...)
+(Но, должен признать, быть в команде\nисследователей довольно весело.)
+(Но, должна признать, быть в команде\nисследователей довольно весело.)
+(И [partner]. С ним весело дружить...)
+(И [partner]. С ней весело дружить...)
+(Но всё же...)
+(Кто я?)
+(Как я стал Покемоном?)
+(Как я стала Покемоном?)
+(Как я очутился на этом пляже без\nсознания?)
+(Как я очутилась на этом пляже без\nсознания?)
+(Я тоже засыпаю...)
+(Что-ж, если я буду думать обо всём этом,\nто это мне не поможет. Лучше сосредоточусь\nна работе в гильдии...)
+(Если я займусь этим, то, возможно, всё\nвскоре прояснится...)
+(Я обязательно доберусь до истины.)
++++
+[CN]The next morning…
+ HEY![K] HEY THERE!
+ RISE AND SHINE!
+(Ugh!)
+(M-my head is pounding!)
+(Wh-what a ridiculously loud voice! It almost\nblasted my eardrums!)
+ Why are you still ASLEEP?![K] WAKE UP!
+(Ugh!)
+ M-my ears...
+ M-my poor ears...
+ C\'mon! Snap OUT of it!
+ I\'m [CS:N]Loudred[CR]![K] And I\'m a fellow apprentice!
+ If you\'re late for our morning\nbriefing, you\'ll be SORRY! So MOVE it!
+ Guildmaster [CS:N]Wigglytuff[CR] has got\na BIG temper. If you make him lose it…
+ YOWEEE! That would be one very\nscary scene!
+ I\'ve got goose bumps just\nthinking about it! YEESH!
+ So ANYWAY…
+ I\'m not about to get in trouble\nbecause you rookies got up LATE!
+ SO GET IT IN GEAR!
+ Urk! My ears are still ringing...
+ What did he say? Something\nabout getting ready?
+ Er...[K] Oh yeah!
+ We signed up as apprentices at\n[CS:N]Wigglytuff[CR]\'s guild, that\'s right!
+ But that means...
+ Oh no! We totally overslept!\nHurry up, [hero]!
+ Waaaah! We totally overslept!\nWe\'ve got to hurry, [hero]!
+ Waaaah! We overslept!\nCome on, [hero]!
+
+[CN]На следующее утро...
+ ЭЙ![K] ЭЙ ВЫ!
+ ПРОСНИТЕСЬ И ПОЙТЕ!
+(Ух!)
+(У меня раскалывается голова!)
+(К-какой ужасно громкий голос! У меня\nчуть барабанные перепонки не лопнули!)
+ Почему вы всё ещё СПИТЕ?![K]\nВСТАВАЙТЕ!
+(Ух!)
+ М-мои уши...
+ М-мои бедные ушки...
+ Ну-же! ПРОСЫПАЙТЕСЬ наконец!
+ Я - [CS:N]Лаудред[CR]![K] И я тоже ученик!
+ Если вы опоздаете на наше\nутреннее построение, вы ПОЖАЛЕЕТЕ!\nТак что, ПОШЕВЕЛИВАЙТЕСЬ!
+ Гильдмастер [CS:N]Виглитафф[CR] ОЧЕНЬ\nвспыльчивый. Если он потеряет терпение...
+ ОЙ-ОЙ! Будет очень страшно!
+ У меня от одной такой мысли\nмурашки по коже! УУУУХ!
+ В ОБЩЕМ так...
+ Я не собираюсь попадать в\nнеприятности только потому, что какие-то\nновички ПРОСПАЛИ!
+ ТАК ЧТО, СОБИРАЙТЕСЬ!
+ Ой! Мои уши всё ещё так\nгудят...
+ Что он сказал? Что-то о\nтом, что нам надо собираться?
+ Ээ...[K] Ох, точно!
+ Мы записались в ученики в\nгильдии [CS:N]Виглитаффа[CR], точно!
+ Но это значит...
+ О, нет! Мы совершенно\nпроспали! Поторопимся, [hero]!
+ Уаааа! Мы совершенно\nпроспали! Нужно торопиться, [hero]!
+ Уаааа! Мы проспали! Скорее,\n[hero]!
++++
+ You\'re LATE, rookies!
+ Hush!
+ Your voice is ridiculously loud!
+ Humph...
+ Everyone seems to be present.
+ Very well. ♪ Let us conduct our\nmorning address.
+ Guildmaster! ♪ The guild is in\nfull attendance! ♪
+ Thank you, Guildmaster! ♪\nPlease address the crew.
+ Zzzz... Zzzz... Snorfle... Zzz…
+[CS:N]Apprentice[CR]: (Psst...! Guildmaster [CS:N]Wigglytuff[CR]\nnever ceases to amaze me!)
+[CS:N]Apprentice[CR]: (Yeah, you got that right!)
+[CS:N]Apprentice[CR]: (Yup, looks like he\'s wide awake.)
+[CS:N]Apprentice[CR]: (Eek! His eyes are wide open!\nBut he\'s fast asleep!)
+ Thank you, sir! We all value\nyour...[K]words of wisdom! ♪
+ OK, Pokémon! ♪ Take our\nGuildmaster\'s words of wisdom to heart! ♪
+ Finally, let\'s not forget our\nmorning cheers! All together now! ♪
+[CS:N]Everyone[CR]: A ONE, A TWO...A ONE-TWO-THREE!
+[CS:N]Everyone[CR]: ONE![K] DON\'T SHIRK WORK!
+[CS:N]Everyone[CR]: TWO![K] RUN AWAY AND PAY!
+[CS:N]Everyone[CR]: THREE![K] SMILES GO FOR MILES!
+ OK, Pokémon! Get to work! ♪
+[CS:N]Everyone[CR]: HOORAY!
+
+ Вы ОПОЗДАЛИ, новички!
+ Тише!
+ Твой голос ужасно громкий!
+ Хмпф...
+ Похоже, что все в сборе.
+ Очень хорошо. ♪ Давайте проведем\nнаше утреннее приветствие.
+ Гильдмастер! ♪ Гильдия в полном\nсборе! ♪
+ Благодарю, Гильдмастер! ♪\nПожалуйста, поприветствуйте всех.
+ Хррр... Хррр... Шмыг... Хрр...
+[CS:N]Ученик[CR]: (Псс!.. Гильдмастер Виглитафф\nне перестаёт меня удивлять!)
+[CS:N]Ученик[CR]: (О, да, ты прав!)
+[CS:N]Ученик[CR]: (Да, кажется, будто он не спит.)
+[CS:N]Ученица[CR]: (Иии! Его глаза широко открыты!\nНо он дремлет!)
+ Благодарю вас, сэр! Мы все\nценим ваши... мудрые слова! ♪
+ Итак, Покемоны! ♪ Хорошенько\nзапомните мудрые слова нашего\nГильдмастера! ♪
+ И наконец, не забудем про\nнашу утреннюю кричалку! Все вместе! ♪
+[CS:N]Все[CR]: И РАЗ И ДВА...И РАЗ-ДВА-ТРИ!
+[CS:N]Все[CR]: РАЗ![K] НЕ УВИЛИВАЙ ОТ РАБОТЫ!
+[CS:N]Все[CR]: ДВА![K] ПОСМЕЕШЬ УДРАТЬ - ПРОБЛЕМ\nНЕ ИЗБЕЖАТЬ!
+[CS:N]Все[CR]: ТРИ![K] УЛЫБАЙСЯ ДРУГ, ВСЕМ ВОКРУГ!
+ Отлично, Покемоны! За работу! ♪
+[CS:N]Все[CR]: УРААААА!
++++
+ Hey, you shouldn\'t just be\nwandering around there.
+ You two come here. ♪
+ Эй, вы не должны здесь так просто\nразгуливать.
+ Вы двое, подойдите сюда. ♪
++++
+ What...[K]\nWhat should we do?
+ Что...[K]\nЧто мы должны делать?
++++
+ You\'re just beginners.
+ We\'ll have you start off with\nthis assignment. ♪
+ This is the Job Bulletin Board.\nPokémon from various regions post job\nrequests here.
+ You\'re aware that bad Pokémon\nare cropping up in greater numbers, right?
+ Yup.[K] Because the flow of time is\ngetting messed up. It\'s wreaking havoc, right?
+ Which is why lots of bad\nPokémon are appearing!
+(The flow of time is getting messed up?)
+(Time? As in hours and minutes?[K] Do they mean\nsomething has gone wrong with time here?)
+(And, because of that, more and more bad\nPokémon are popping up?)
+(What\'s going on here?!)
+ Precisely.[K] Time getting out of\nwhack has caused an outbreak of bad Pokémon.\nPerhaps because of all that…
+ We have noticed an increase\nin the number of jobs.
+ In addition...and it\'s unknown if\nthis is because of time\'s influence…
+ There has also been a mass\noutbreak of...[K]mystery dungeons.
+(Mystery dungeons?!)
+ So, [hero]!
+ You know how we got my Relic\nFragment back yesterday?
+ The place where we found it\nwas a mystery dungeon.
+ A mystery dungeon changes each\ntime you go into it. There\'s a different layout\nand different items every time you enter!
+ If you faint in the middle of a\ndungeon, you lose half of your money…
+ You can even lose half your\nitems or more…
+ Finally, you get kicked right out.\nThey\'re very strange places.
+ But every time you go inside\none, there are always new things to discover!
+ They\'re really awesome places\nto explore!
+ Well! You\'re quite informed,\naren\'t you! ♪
+ That makes things much easier\nfor me to explain! ♪
+ Jobs all take place in\nmystery dungeons.
+ So...[K]let\'s look for a job that you\nshould perform! ♪
+ Ah, yes. ♪ Maybe this will do?
+ Oh, yeah? Let\'s read it!
+ Oh, really? Let\'s read it!
+\"Hello! My name is [CS:N]Spoink[CR]!\"
+\"An outlaw has run off with my most prized\npossession. My precious pearl!\"
+\"That pearl is life itself...to me!\"
+\"I just can\'t seem to settle down if that pearl\nisn\'t in its proper place atop my head!\"
+\"But I\'ve heard my pearl has been sighted!\"
+\"It\'s said to be on a rocky bluff. But this bluff\nis reported to be extremely unsafe.\"
+\"I could never go somewhere so frightening!\"
+\"Oh, friendly readers! Would you be so kind as\nto go to the bluff and get my pearl?\"
+\"I beg your help, exploration team members!\"\n\n                                        From [CS:N]Spoink[CR]
+ Hold on a second!
+ Wait a second…
+ We\'re only going to fetch an\nitem that someone dropped?
+ We\'re going to fetch an item\nthat someone dropped?
+ That\'s hardly an adventure\nat all!
+ I would rather do something\nthat\'s more of an adventure.
+ I\'d rather go on a bigger\nadventure than that.
+ I\'d rather look for treasure or\nexplore unknown places. Things like that!
+ Hush!
+ Yikes!
+ It\'s important that you rookies\npay your dues!
+ Now pay attention![K] I\'ll repeat\nthe warnings again to make sure they stick!
+ You\'ll be forced out of a dungeon\nand sent back here if either of you faints.
+ You\'ll lose half your money![K]\nAnd you could lose half your items or more.\nYou\'d best be careful!
+ If you\'ve understood all that,\nI suggest you get on with the job! ♪
+ Hmm…
+
+ Сейчас вы всего лишь начинающие.
+ Поэтому, начнём с простого\nпоручения. ♪
+ Это Доска Объявлений. Здесь\nПокемоны из самых разных регионов\nразмещают свои запросы.
+ Вы ведь в курсе, что в округе\nпоявляется всё больше плохих Покемонов?
+ Ага. Это происходит из-за\nтого, что нарушен поток времени. Именно\nэто создаёт неразбериху, верно?
+ И это является причиной\nпоявления плохих Покемонов!
+(Поток времени нарушен?)
+(Времени? Как в часах и минутах? Или\nони говорят о чём-то другом?)
+(И из-за этого появляется всё больше\nплохих Покемонов?)
+(Что здесь творится?!)
+ Именно так.[K] Вышедшее из-под\nконтроля время привело к появлению плохих\nПокемонов.
+ Мы заметили увеличение количества\nразмещаемых заданий.
+ К тому же...неизвестно, происходит\nли это из-за влияния времени...
+ Также стало появляться большое\nколичество...[K]таинственных подземелий.
+(Таинственных подземелий?!)
+ Кстати, [hero]!
+ Помнишь, как мы вчера\nвернули мой Фрагмент Реликвии?
+ Тем местом, где мы его\nнашли, является таинственное подземелье.
+ Таинственное подземелье\nпостоянно изменяется. Каждый раз при его\nпосещении, оно меняет своё строение.\nК тому же, в нём появляются другие\nпредметы!
+ Если ты теряешь сознание в\nподземелье, то ты теряешь и половину\nсвоих денег...
+ Ещё можно потерять половину\nсвоих предметов. Или даже больше...
+ И наконец, тебя вышвыривает\nневедомая сила. Странные это места.
+ Но каждый раз, отправляясь\nтуда, можно найти много нового!
+ Эти места всегда интересно\nисследовать!
+ Хорошо! Ты довольно много знаешь,\nне так ли? ♪
+ Значит, тем проще мне будет вам\nвсё объяснить! ♪
+ Все задания проходят в\nтаинственных подземельях.
+ Поэтому...[K]подберу-ка я вам\nчто-нибудь, что вам по силам! ♪
+ Ага, да. ♪ Может, это подойдёт?
+ О, да? Нужно прочитать!
+ О, правда? Нужно прочесть!
+\"Здравствуйте! Меня зовут [CS:N]Споинк[CR]!\"
+\"Один негодяй украл у меня мою самую\nважную вещь. Мою драгоценную жемчужину!"
+\"Эта жемчужина... Дорога мне как жизнь!\"
+\"Я не могу успокоиться, зная, что её\nнет на самом важном для меня месте - моей\nголове!\"
+\"Но я узнал, что кто-то видел мою\nжемчужину!\"
+\"Говорят, это было на скалистом утёсе.\nНо сам утёс - небезопасное место.\"
+\"Я бы никогда не пошёл в такое страшное\nместо!\"
+\"О, друзья читатели! Сможете ли вы пойти\nк этому утёсу и вернуть мне мою\nжемчужину?"
+\"Исследователи, я молю вас о помощи!\"\n\n                                    - [CS:N]Споинк[CR]
+ Секундочку!
+ Секундочку...
+ Мы всего лишь должны\nвернуть кем-то потерянный предмет?
+ Мы будем возвращать вещь,\nкоторую кто-то потерял?
+ Это даже не приключение!
+ Я бы лучше пошёл на более\nнасыщенное приключениями задание.
+ Я бы лучше пошла на куда\nболее интересное приключение.
+ Поискать бы сокровищ или\nразведать интересные места.\nЧто-нибудь в этом роде!
+ Тише!
+ Ой!
+ Вам, новичкам, важно исполнять\nсвои обязанности!
+ Теперь, слушайте внимательно![K]\nЯ повторю вам предостережения, чтобы они\nкак следует впечатались в вашу память!
+ Если любой из вас потеряет\nсознание, вас вышвырнет из подземелья и\nотправит сюда.
+ Вы потеряете половину ваших денег!\nИ вы также можете потерять половину или\nбольше вещей. Будьте осторожны!
+ Если вы всё поняли, предлагаю вам\nзаняться этим заданием! ♪
+ Хмм...
++++
+You wake up one day, only to realize that\nyou\'ve been turned into a Pokémon and are\nnow in a world inhabited only by Pokémon!
+It\'s up to you to form an exploration team\nand embark on the adventure of a lifetime!
+Welcome to the fascinating world of\n[CS:L]Pokémon Mystery Dungeon: Explorers of Sky[CR]!\nNow YOU are the Pokémon!
+ This must be the\nbluff\'s entrance.
+ [CS:N]Spoink[CR]\'s mission description said\nthe pearl is deep down on the B7F level.
+ It\'s supposed to be a really\ndangerous place. We\'d better be careful.
+ It sounds like a seriously\ndangerous place. Let\'s be careful.
+ It\'s supposedly very dangerous.\nLet\'s be really careful.
+ Let\'s do our best, [hero]!
+ 
+ Однажды вы просыпаетесь и понимаете, что\nвы превратились в Покемона и находись в\nмире, где есть только Покемоны!
+Теперь, вам нужно собрать команду\nисследователей и отправиться в невероятное\nприключение!
+Добро пожаловать в поразительный мир\n[CS:L]Таинственных Подземелий: Исследователи Небес[CR]!\nТеперь, вы - Покемон!
+ Должно быть, это проход к\nутёсу.
+ В описании задания [CS:N]Споинка[CR]\nсказано, что жемчужина находится на\nподземном 7 этаже. 
+ Это место считается очень\nопасным. Нам нужно быть осторожнее.
+ Похоже, это очень опасное\nместо. Будем осторожнее.
+ Предполагаю, что это место\nочень опасно. Будем предельно осторожны.
+ Сделаем всё возможное,\n[hero]!
++++
+ [CS:N]Spoink[CR]\'s pearl should be down on\nthe B7F level.
+ Come on! This time, let\'s get\nthis job done, [hero]!
+ OK, let\'s hang in and finish the\njob this time, [hero]!
+ Let\'s hang in there and finish\nthe job this time, [hero]!
+
+ Жемчужина [CS:N]Споинка[CR] должна\nнаходиться на уровне П7Э.
+ Ну же! На этот раз, сделаем\nвсё как надо, [hero]!
+ Хорошо, сосредоточимся и\nна этот раз, [hero], выполним\nзадание!
+ Сосредоточимся и выполним\nнаше задание, [hero]!
++++
+[CN]Thanks for playing!\n[CN]We hope you enjoyed\n[CN]the demo!
+ Ugh... That didn\'t end well…
+ Ugh... That didn\'t go well, did it?
+ Ugh... That didn\'t work at all…
+ Well...[K] It appears that your\nouting was less than a total success.
+ Ugh...
+ Of course, you\'re just beginners\nat all this. No need to fret! ♪
+ These things happen! ♪[K] You can\nattempt another challenge tomorrow! ♪
+
+[CN]Спасибо за игру!\n[CN]Мы надеемся, что вам понравилась\n[CN]демоверсия!
+ Ух... Добром это не\nкончилось...
+ Ух... Добром это не\nкончилось, так?
+ Ух... У нас ничего не\nполучилось...
+ Что-ж...[K] Похоже, ваша вылазка\nувенчалась неудачей.
+ Ух...
+ Конечно же, вы только начинаете\nвсем этим заниматься. Не нужно\nрасстраиваться! ♪
+ Такое случается! ♪[K]Завтра вы\nможете попробовать сделать это задание\nещё раз! ♪
++++
+ Everyone![K] Thanks for\nwaiting! ♪
+ I finished making dinner! ♪
+ Come on! Dinner\'s on! ♪
+[CS:N]Everyone[CR]: YEAH!
+
+ Спасибо за ожидание! ♪
+ Я закончила готовить ужин! ♪
+ Налетайте! Кушать подано! ♪
+ [CS:N]Все[CR]: ДА!
++++
+Crunch-munch! Chew-chew! Snuffle-slurp!\nCrunch-munch! Chew-chew! Snuffle-slurp!
+Хрум-хрум! Ням-ням! Хлюп-хлюп!\nХрум-хрум! Ням-ням! Хлюп-хлюп!
++++
+ Aaaaah! I\'m done eating! Excellent meal!
+ I\'m stuffed, and now I\'m getting sleepy…
+ Yep, I\'m off to bed! Good night, gang!
+ Good night!
+
+ Ааааах! Я наелся!\nПрекрасный ужин!
+ Живот набит и теперь я хочу\nспать...
+ Да, пойду спать!\nДоброй ночи, ребята!
+ Доброй ночи!
++++
+The Scream
+[CN]The next morning…
+ UP AND AT \'EM![K] IT\'S MORNING!
+ Ugh! Good morning,\n[hero]…
+The Gatekeepers
+The First\nOfficial\nExploration
+Team Skull
+
+Крик
+[CN]На следующее утро...
+ ПРОСЫПАЙТЕСЬ![K] УТРО НАСТУПИЛО!
+ Ух! Доброе утро,\n[hero]...
+Привратники
+Первая\nОфициальная\nВылазка
+Команда Череп
++++
+[CS:N]Everyone[CR]: AND...THREE![K] SMILES GO FOR MILES!
+ OK, Pokémon! ♪[K] Time to get\nto work! ♪
+[CS:N]Everyone[CR]: HOORAY!
+
+[CS:N]Все[CR]: И...ТРИ![K] УЛЫБАЙСЯ ДРУГ, ВСЕМ\nВОКРУГ!
+ Отлично, Покемоны! ♪[K]\nЗа работу! ♪
+[CS:N]Все[CR]: УРА!
++++
+ Ugh...[K]\nMorning, [hero]…
+ Ugh...[K]\nGood morning, [hero]…
+ Ooogh...[K]\nGood morning, [hero]…
+ Morning...\n[hero]…
+ Good morning...\n[hero]…
+ Ugh...[K]\nMy ears are still ringing…
+ Oof...[K]\nMy ears are still ringing…
+ Ooogh...[K]\nMy ears are still ringing…
+
+ Ух...[K]\nУтречка, [hero]...
+ Ух...[K]\nДоброе утро, [hero]...
+ Уууух...[K]\nДоброе утро, [hero]...
+ Утречка...\n[hero]...
+ Доброе утро...\n[hero]...
+ Ух...[K]\nУ меня всё ещё звенит в ушах...
+ Уф...[K]\nУ меня всё ещё звенит в ушах...
+ Уууух...[K]\nУ меня всё ещё звенит в ушах...
++++
+ Hey! There it is!
+ Oh! Look at that!
+ Oh! Over there!
+ This has to be [CS:N]Spoink[CR]\'s pearl!
+ This must be [CS:N]Spoink[CR]\'s pearl!
+ This has to be [CS:N]Spoink[CR]\'s pearl!
+ Let\'s take it back right now!
+ Let\'s hurry back with it!
+ Quick! Let\'s take it back!
+
+ Смотри! Вот она!
+ О! Посмотри!
+ О! Она здесь!
+ Похоже, это жемчужина\n[CS:N]Споинка[CR]!
+ Должно быть, это жемчужина\n[CS:N]Споинка[CR]!
+ Похоже, это жемчужина\n[CS:N]Споинка[CR]!
+ Нужно отнести её обратно!
+ Нужно взять её и\nпоторопиться назад!
+ Скорее! Заберём и вернём\nеё!
++++
+ Th-thank you!
+ That pearl must be propped on\nmy head, you see. I missed it so much!
+ I just couldn\'t settle down\nwithout it up there!
+ So I was just boinging and\nsproinging everywhere!
+ That\'s why I\'m covered in dings\nand bumps.
+ But thanks to you, that long\nnightmare is over!
+ You have my sincere thanks!
+[CN][hero]\'s team was rewarded with\n[CN]a [CS:I]Protein[CR]!
+[CN]You also received a [CS:I]Calcium[CR]!
+[CN]You also received an [CS:I]Iron[CR]!
+[CN]You were also given\n[CN][CS:G]2[MP]000[CR][M:S0]! Incredible!
+ Oh, wow! [CS:G]2[MP]000[CR][M:S0]?![K] All this\nmoney\'s for us?
+ Oh, wow! [CS:G]2[MP]000[CR][M:S0]?![K] We can\nhave all this money?
+ Of course! Of course! That\'s\nnothing compared to my pearl\'s value!
+ Farewell!
+ We\'re rich, [hero]!\nJust like that, we\'re rich!
+ We\'re rich, [hero]!\nWe got rich just like that!
+ We\'re rich, [hero]! All of\na sudden, we\'re rich!
+ Well done, team! ♪
+ Now hand that money over, if\nyou please!
+ Huh?!
+ Excuse me?!
+ Most of the money from jobs\ngoes to the Guildmaster, you see! ♪
+ And your team\'s share of the\nmoney comes out to this much...! ♪
+ Huh?![K] We keep only [CS:G]200[CR][M:S0]?
+ That\'s terrible!
+ That\'s awful!
+ That\'s not fair!
+ Well that\'s the guild\'s rule.[K]\nYou simply have to accept it! ♪
+ Hmph…
+
+ С-спасибо вам!
+ Видите ли, эта жемчужина всё\nвремя должна быть у меня на голове.\nЯ по ней так скучал!
+ Без неё я никак не мог\nуспокоиться!
+ Поэтому я повсюду пружинил и\nскакал!
+ И из-за этого, я весь покрыт\nшишками и синяками!
+ Но благодаря вам, этот долгий\nкошмар закончился!
+ Примите мои искренние\nблагодарности!
+[CN]Команда [hero] получает\n[CN][CS:I]Протеин[CR]!
+[CN]Также вы получаете [CS:I]Кальций[CR]!
+[CN]Также вы получаете [CS:I]Железо[CR]!
+[CN]Также вы получаете\n[CN][CS:G]2[MP]000[CR][M:S0]! Невероятно!
+ Ох, вау! [CS:G]2[MP]000[CR][M:S0]?![K]\nИ все эти деньги для нас?
+ Ох, вау! [CS:G]2[MP]000[CR][M:S0]?![K]\nВсе эти деньги наши?
+ Конечно! Конечно! Они - ничто\nпо сравнению с ценностью моей жемчужины!
+ Прощайте!
+ [hero], мы богаты!\nВот так просто, мы богаты!
+ [hero], мы богаты!\nМы так легко разбогатели!
+ [hero], мы богаты!\nВот так внезапно, какое богатство!
+ Хорошая работа, команда! ♪
+ А теперь, если позволите, попрошу\nотдать эти деньги!
+ А?!
+ Что, простите?!
+ Видите ли, большая часть денег,\nполучаемых за задание, полагается нашему\nГильдмастеру! ♪
+ Поэтому, ваша доля за выполненное\nзадание составит вот столько!.. ♪
+ А?![K] Мы получили только\n[CS:G]200[CR][M:S0]?
+ Какой ужас!
+ Это ужасно!
+ Так нечестно!
+ Что-ж, таковы правила гильдии.[K]\nПросто примите это как факт! ♪
+ Угу...
++++
+ Hey, [hero]…
+ Listen, [hero]…
+ Say, [hero]…
+ Today was pretty hectic, wasn\'t\nit! So much happened!
+ Wasn\'t today hectic? So much\nhappened!
+ Today was pretty hectic with\neverything we went through, wasn\'t it?
+ But I\'m glad we managed to pull\noff our first job.
+ But I\'m relieved that our first\njob was a success.
+ But I\'m glad our first job turned\nout so well.
+ I was really steamed about how\n[CS:N]Wigglytuff[CR]\'s Guild took most of the money…
+ It was really upsetting how\n[CS:N]Wigglytuff[CR]\'s Guild took most of the money…
+ I was really mad about how\n[CS:N]Wigglytuff[CR]\'s Guild took most of the money…
+ That\'s just the cost of training,\nI guess. We can\'t do anything about it.
+ That\'s just the cost of training,\nI guess. We can\'t do anything about it.
+ That\'s just the cost of training,\nI guess. We can\'t do anything about it.
+ What meant the most to me\ntoday, though, was getting thanked by [CS:N]Spoink[CR]!
+ But what made me really happy\ntoday, though, was getting thanked by [CS:N]Spoink[CR]!
+ But what made me really happy\ntoday, though, was getting thanked by [CS:N]Spoink[CR]!
+ Yawn... I\'m getting sleepy.
+ I\'m going to sleep.[K] Let\'s do a\ngood job again tomorrow.
+ I\'m going to sleep.[K] Let\'s try our\nbest again tomorrow.
+ Good night, [hero]…
+ Sleep tight, [hero]…
+
+ Слушай, [hero]...
+ Послушай, [hero]...
+ Скажи, [hero]...
+ Сегодняшний день оказался\nдовольно напряженным, не так ли?\nСтолько всего случилось!
+ Разве сегодня не выдался\nнапряженный день? Столько всего\nслучилось!
+ Сегодняшний день был\nдовольно суматошным из-за всего, через\nчто мы прошли, не так ли?
+ Но я рад, что мы справились с\nнашим первым заданием.
+ Но, мне легче от того, что\nмы успешно справились с нашим первым\nзаданием.
+ Но я рада, что мы успешно\nзакончили наше первое задание.
+ Конечно, я расстроился\nиз-за того, что Гильдия [CS:N]Виглитаффа[CR]\nзабирает большую часть заработанного...
+ Очень расстраивает, что\nГильдия [CS:N]Виглитаффа[CR] забирает большую долю\nнаших денег...
+ Я так взбесилась из-за\nтого, что Гильдия [CS:N]Виглитаффа[CR] забирает\nпочти все наши деньги...
+ Но, полагаю, такова цена\nтренировок. Мы ничего не можем с этим\nподелать.
+ Но, полагаю, такова цена\nтренировок. Мы ничего не можем с этим\nподелать.
+ Но, полагаю, такова цена\nтренировок. Мы ничего не можем с этим\nподелать.
+ Впрочем, что для меня более\nважно, это благодарность от [CS:N]Споинка[CR]!
+ Впрочем, то, что меня\nсегодня порадовало, это благодарность от\n[CS:N]Споинка[CR]!
+ Впрочем, то, что меня\nсегодня порадовало, это благодарность от\n[CS:N]Споинка[CR]!
+ Уаах... Я засыпаю.
+ Лучше посплю.[K] Завтра снова\nнужно не ударить в грязь лицом.
+ Лучше посплю.[K] Завтра нужно\nснова выложиться на полную.
+ Доброй ночи,\n[hero]...
+ Спокойной ночи,\n[hero]...
++++
+ So, what do we do today?
+ So, what should we do today?
+ What shall we do today?
+
+ Так, чем мы сегодня\nзаймёмся?
+ Так, что нам нужно сегодня\nсделать?
+ Чем мы сегодня будем\nзаниматься?
++++
+ Oh, you two! Still wandering\naround lost, it seems…
+ Well, come with me.
+
+ О, вы двое! Всё ещё бродите без\nдела...
+ Что-ж, идите за мной.
++++
+ Huh?
+ Oh?
+ Last time we did a job, it was\nfrom the board on the other side…
+ Correct! ♪
+ Today, we\'ll have you do a job\nlisted on this side. ♪
+ How is this different from the\nboard on the other side?
+ Take a closer look! ♪
+ Hey! Check it out, [hero]!
+ Oh, look, [hero]!
+ Oh! Look at this, [hero]!
+ There are posters up here that\nshow a variety of Pokémon!
+ Wow, they all look pretty cool!\nAre they famous explorers or something?
+ Wow, they all look pretty cool!\nAre they famous explorers?
+ Wow, they all look sort of cool!\nAre they famous explorers?
+ Who are these Pokémon, [CS:N]Chatot[CR]?
+ The Pokémon posted here...[K]\nare outlaws.
+ They\'re all shady characters.\nAnd they\'re wanted for committing crimes.
+ What?![K] They\'re all wanted by\nthe law?
+ Oh no![K] They\'re outlaws?!
+ Oh my gosh![K] They\'re wanted\nby the law?
+ Correct.[K] So there are bounties\non their heads.
+ In other words, there is a cash\nreward if you capture one.
+ There are so many aggressive\nPokémon around these days that everyone\'s\nfinding it hard to keep up with the problem.
+ Wait a second! You expect us to\ncatch outlaws?
+ Wait! You\'re telling us to go\ncatch these outlaws?
+ And we\'re supposed to go catch\nthese outlaws?
+ No way! That\'s not possible!
+ You can\'t be serious!\nThat\'s not possible!
+ No way! That\'s not possible!
+ Hee-heeee! ♪[K] Just joking! ♪
+ The bad Pokémon out there come\nin all shades of badness! ♪
+ Some of those Pokémon are\ncompletely wicked, through and through…
+ But there are also bad Pokémon\nwho are merely petty thieves. So you\'ve got\nevil to naughty...and everything in between! ♪
+ So I\'m sure we can avoid giving\nyou a job catching a superbad Pokémon…
+ Hee-heeeee! ♪
+ So look over these posters, then\npick a Pokémon that looks weak enough for you\nto bring to justice! ♪
+ Um...[K] You say some are weak…
+ But they\'re still bad Pokémon,\naren\'t they?
+ They\'re still bad Pokémon,\naren\'t they?
+ Characters like that weird\nme out!
+ I\'m scared of dangerous\nPokémon!
+ It\'s all a part of your training.\nYou\'ll work through it, I\'m sure! ♪
+ But I suppose you do need to be\nprepared to confront a tough opponent…
+ So I\'ll have someone give you a\ntour of the facilities.
+ Hey! [CS:N]Bidoof[CR]![K] [CS:N]Bidoof[CR]?!
+ Yup yup!
+ Huff-puff-huff...[K] You called?
+ Ah, [CS:N]Bidoof[CR]! ♪
+ These are the new recruits that\njust joined us.
+ Take them and show them around\nthe town. ♪
+ Yes sirree! By golly, I\'ll do just\nthat! Yup yup!
+ This is [CS:N]Bidoof[CR]. He\'s one of your\nfellow apprentices.
+ I want you to pay attention to\nwhat [CS:N]Bidoof[CR] has to say and follow his orders.
+ Off you go! ♪
+ Aw, shucks, I\'m overjoyed!
+ Why\'s that?
+ I\'m glad to have members junior\nto me! I\'m almost overcome right now...[K]\nI might just blubber with happiness!
+ Before you all signed on, I was\nthe most recent rookie…
+ Sniffle…
+ Well, I\'d best show you around.\nCome with me, please.
+
+ А?
+ Что?
+ В прошлый раз мы брали\nзадание с другой доски...
+ Верно! ♪
+ Сегодня вам нужно выполнить\nзадание с этой доски. ♪
+ А чем эта доска отличается\nот другой?
+ Взгляните повнимательнее! ♪
+ Эй! Смотри, [hero]!
+ Ой, посмотри, [hero]!
+ Ой! Взгляни, [hero]!
+ Это плакаты с изображениями\nразных Покемонов!
+ Вау, как здорово они\nвыглядят! Они что, какие-то известные\nисследователи?
+ Вау, как здорово они\nвыглядят! Они что, какие-то известные\nисследователи?
+ Вау, они классно выглядят!\nЭто известные исследователи?
+ [CS:N]Чатот[CR], кто эти Покемоны?
+ Покемоны на этих плакатах...[K]\nНегодяи.
+ Это тёмные личности. И все они\nобъявлены в розыск за свои преступления.
+ Что?![K] Их разыскивают?
+ О, нет![K] Они преступники?!
+ О боже мой![K] Их разыскивают\nза злодейства?
+ Верно.[K] За их головы назначено\nвознаграждение.
+ Другими словами, если вы поймаете\nодного из них, вас вознаградят деньгами.
+ Появилось столько агрессивных\nПокемонов, что с ними становится всё\nтруднее управиться.
+ Постойте! Вы хотите, чтобы\nмы ловили негодяев?
+ Погодите! Нам нужно ловить\nэтих негодяев?
+ И мы должны ловить этих\nнегодяев?
+ Ни за что! Это невозможно!
+ Вы ведь не всерьёз!\nЭто невозможно!
+ Быть не может!\nЭто невозможно!
+ Хи-хиии! ♪[K] Я пошутил! ♪
+ Эти плохие Покемоны совершили\nсамые разные лиходейства! ♪
+ Некоторые из них совершенно и\nнасквозь ужасны...
+ Но есть и такие Покемоны-негодяи,\nкоторые являются всего лишь жалкими\nворишками.\nПоэтому, есть и злые, и гадкие Покемоны...\nИ те, что где-то посередине! ♪
+ Поэтому, я уверен, что ловить\nкого-то сверхужасного я вам не поручу...
+ Хи-хииии! ♪
+ Посмотрите на плакаты, выберите\nПокемона, что выглядит достаточно слабым\nдля вас и предайте его правосудию! ♪
+ Эм...[K] Ты говоришь, что\nнекоторые из них слабы...
+ Но они всё же плохие\nПокемоны, верно?
+ Но всё же они плохие\nПокемоны, так?
+ Подобные личности выводят\nменя из себя!
+ Я боюсь опасных Покемонов!
+ Это всё часть вашей тренировки.\nЯ уверен, вы справитесь! ♪
+ Но, лучше вам всё же подготовиться\nк встрече с сильным противником...
+ Поэтому, я поручу кому-нибудь\nпоказать вам окрестности.
+ Эй! [CS:N]Бидуф[CR]![K] [CS:N]Бидуф?!
+ Да-да!
+ Ух-ух-ух...[K] Вызывали?
+ А, [CS:N]Бидуф[CR]! ♪
+ Это наши новобранцы, что недавно\nвступили в гильдию.
+ Возьми их с собой и покажи им\nчто есть в городе. ♪
+ Да сэррр! Ей-богу, так и сделаю!\nДа-да!
+ Это [CS:N]Бидуф[CR]. Он один из наших\nучеников.
+ Слушайте внимательно, что он\nбудет вам говорить и следуйте его\nуказаниям.
+ Можете идти! ♪
+ Ох, ну и ну, как же я рад!
+ Почему?
+ Я рад, что есть кто-то, кто\nмладше меня! Я так поражён...[K]\nНаверное, сейчас расплачусь от счастья!
+ Прежде чем вы пришли сюда, я был\nсамым младшим членом гильдии...
+ Шмыг...
+ Хорошо, лучше покажу вам\nокрестности. За мной, пожалуйста.
++++
+ First things first!
+ Here, we have [CS:N]Croagunk[CR]…
+ But to tell the truth, I don\'t\nhave any idea what that Pokémon\'s up to…
+ He always seems to be fiddling\naround with that big cauldron back there.\nIt\'s all a mystery to me! Yup yup!
+ Over this way\'s the mess hall.
+ And if you all look that way,\nyou\'ll find the crew rooms.
+ And this here leads to the\nGuildmaster\'s Chamber.
+ Next, I\'ll guide you both around\nplaces outside the guild.
+
+ Сперва наперво!
+ Это [CS:N]Кроганк[CR]...
+ Но, по правде говоря, я не знаю,\nчем этот Покемон занимается...
+ Он постоянно находится возле того\nбольшого котла. Я не знаю зачем! Да-да!
+ Там находится обеденный зал.
+ А если пойти туда, то можно\nпопасть в комнаты команд исследователей.
+ И здесь находится Комната\nГильдмастера.
+ Теперь, я покажу вам места\nснаружи гильдии.
++++
+ I hear you can make a record of\nyour adventure at that Watering Hole.
+ Usually, you make a record of\nyour adventure by going to your bed at\nthe guild, yup yup.
+ Seems you can make a record\nof your adventure over there too.
+ By golly, it\'s a handy spot when\nyou want to record your adventure frequently.
+
+ Я знаю, что у этого Колодца можно\nзаписывать свой прогресс.
+ Обычно все записывают свои\nприключения в гильдии, на своей лежанке,\nда-да.
+ Но, похоже, здесь тоже можно так\nделать
+ Ей-богу, если хотите записывать\nсвои приключения почаще, вам это место\nпригодится.
++++
+ This is [CS:K]Kecleon[CR] Market.[K] You\ncan buy and sell items here.
+ Here we have [CS:K]Kecleon[CR] Market.\nYou can buy and sell items here.
+ This is [CS:K]Kecleon[CR] Market. You\ncan buy and sell items here.
+ And there\'s [CS:K]Kangaskhan[CR] Storage.\nItems stored here will never be lost.
+ If you have precious items that\nyou can\'t afford to lose, store them here\nbefore you go on an adventure.
+ And those are the basics for\nexploration teams.
+ And those are the basic places\nthat exploration teams visit.
+
+ Это Лавка [CS:K]Кеклеонов[CR].[K]\nТам можно продавать и покупать предметы.
+ Здесь находится Лавка\n[CS:K]Кеклеонов[CR].[K] Там можно продавать и покупать\nпредметы.
+ Это Лавка [CS:K]Кеклеонов[CR].[K]\nТам можно продавать и покупать предметы.
+ И это [CS:K]Кангасхан[CR]-Хранилище.\nВещи, что хранятся у неё, никогда не\nбудут потеряны.
+ Если у тебя есть нечто\nценное, что не хотелось бы потерять,\nположи это на хранение перед вылазкой.
+ Всё это - основные места\nдля команд исследователей.
+ Всё это - основые места,\nкуда приходят команды исслдеователей.
++++
+ That about covers it, I guess.
+ And that should do it.
+ I guess that about covers it.
+ You sure know a lot, yes sirree!\nAnd that\'s good to know!
+ All right, then. Come find me\nwhen you\'re all ready to go.
+ I\'ll give you a helping hand with\nselecting the right outlaw for you.
+ Thanks, [CS:N]Bidoof[CR]. You\'ve been\nreally nice about this.
+ Thank you, [CS:N]Bidoof[CR]. You\'ve been\nreally nice.
+ Thank you. How nice of you,\n[CS:N]Bidoof[CR]!
+ G-golly, you\'re embarrassing me!\nAw, shucks…
+ I\'ll be waiting at the guild\'s\nupper underground floor for you.
+ All right, let\'s go.
+ OK, let\'s go.
+ I\'d like to see what kinds of\nitems are available!
+ Let\'s go to the [CS:K]Kecleon[CR] Market!
+ Before we head back, a visit to\nthe [CS:K]Kecleon[CR] Market is a must!
+
+ Вроде бы, это всё.
+ И на этом всё.
+ Думаю, на этом всё.
+ Ты так много обо всём знаешь!\nЭто хорошо!
+ Ладно. Подойдите ко мне, когда\nприготовитесь.
+ Я помогу вам выбрать подходящего\nвам негодяя.
+ Спасибо, что заботишься о нас,\n[CS:N]Бидуф[CR].
+ Спасибо тебе, [CS:N]Бидуф[CR].\nКак любезно с твоей стороны.
+ Спасибо тебе. Ты нам очень\nпомог, [CS:N]Бидуф[CR]!
+ В-вот это да, вы меня смущаете!\nНу и ну...
+ Я буду ждать вас на верхнем\nподуровне гильдии.
+ Хорошо, идём.
+ Что-ж, идём.
+ Я очень хочу узнать, что мы\nможем купить!
+ Пойдём в Лавку [CS:K]Кеклеонов[CR]!
+ Прежде чем мы отправимся\nобратно, мы обязательно должны посетить\nэто место!
++++
+ Let\'s hurry over to [CS:K]Kecleon[CR]\nMarket, [hero].
+ Поспешим к Лавке [CS:K]Кеклеонов[CR],\n[hero].
++++
+ [hero].[K]\nWhere to?
+ [hero].[K]\nWhere to now?
+ [hero].[K]\nWhere shall we go next?
+
+ [hero].[K]\nКуда теперь?
+ [hero].[K]\nКуда мы теперь идём?
+ [hero].[K]\nКуда мы пойдём дальше?
++++
+ [CS:N]Bidoof[CR] said he\'d be waiting for\nus on the guild\'s upper underground floor.
+ [CS:N]Bidoof[CR]\'s supposed to be waiting\nfor us on the guild\'s upper underground floor.
+ [CS:N]Bidoof[CR] should be waiting for us\non the guild\'s upper underground floor.
+ Once we\'re ready for our\nadventure, let\'s go talk to [CS:N]Bidoof[CR].
+ Once we\'re ready to head out on\nour adventure, let\'s go talk to [CS:N]Bidoof[CR].
+ Once we\'re ready to go out on\nour adventure, let\'s go talk to [CS:N]Bidoof[CR].
+
+ [CS:N]Бидуф[CR] сказал, что он ждёт\nнас на верхнем подуровне гильдии.
+ [CS:N]Бидуф[CR] должен ждать нас на\nверхнем подуровне гильдии.
+ [CS:N]Бидуф[CR] ждёт нас на верхнем\nподуровне гильдии.
+ Как только мы подготовимся\nк приключению, нужно поговорить с\n[CS:N]Бидуфом[CR].
+ Если мы будем готовы к\nнашему приключению, нужно поговорить с\n[CS:N]Бидуфом[CR].
+ Если мы готовы идти в\nприключение, нужно поговорить с [CS:N]Бидуфом[CR].
++++
+ Eek!
+ Oh my gosh! The new guild\nrecruits![K] Delighted to meet you!
+ You can get all sorts of things\nhere. It\'s quite convenient.
+ Do build a stock of items that\nwill aid your explorations.
+ 
+ Иии!
+ О боже мой! Новички![K]\nРада вас видеть!
+ Здесь можно достать множество\nразных вещей. Это довольно удобно.
+ Запаситесь предметами, которые\nпомогут вам в ваших вылазках.
++++
+ We\'re a two-member\nexploration team!
+ We\'re [CS:N]Seedot[CR] and [CS:N]Pidgey[CR].[K]\nOur team name, [CS:X]Seedgey[CR], combines our names!
+ So remember it!
+ 
+ Мы - дуэт-команда исследователей!
+ Наши имена [CS:N]Сидот[CR] и [CS:N]Пиджи[CR].\nА название нашей команды, [CS:X]Сиджи[CR], это\nкомбинация наших имён!
+ Запомни это!
++++
+ Exploration teams gather here\nfrom all over.
+ Our own Team [CS:X]Seedgey[CR] is one\nof them!
+
+ Сюда отовсюду приходят команды\nисследователей.
+ Наша Команда [CS:X]Сиджи[CR] - одна из\nтаких!
++++
+ Our exploration team is called\nTeam [CS:X]Tasty[CR]!
+ That cool name was thought up\nby my partner [CS:N]Wurmple[CR] next to me!
+ What do you think? Cool name,\nam I right?!
+
+ Наша команда исследователей\nназывается Команда [CS:X]Вкусная[CR]!
+ Это классное название придумал\nмой спутник [CS:N]Вурмпл[CR]!
+ Что думаешь?\nПрекрасное название, верно?!
++++
+ Excuse me? Why did I pick the\nname Team [CS:X]Tasty[CR]?
+ Well...[K] Er, um…
+ I think that\'s how my partner\nwill think of me eventually...[K] Y-y-yeesh…
+
+ Что, простите? Почему я выбрал\nназвание [CS:X]Вкусная[CR] для команды?
+ Ну... Эм...
+ Я считаю, что рано или поздно\nтакая мысль проскользнёт у моего\nспутника...[K] Д-д-дааа...
++++
+ The [CS:K]Kecleon[CR] Market isn\'t over\nthis way.
+ The [CS:K]Kecleon[CR] Market is this way.
+ Let\'s go, [hero]!
+
+ Лавка [CS:K]Кеклеонов[CR] не в той\nстороне.
+ Лавка [CS:K]Кеклеонов[CR] в той\nстороне.
+ Идём, [hero]!
++++
+ Yo![K] Are you two the new\napprentices at the guild?
+ Then, hello! The name\'s\n[CS:N]Vigoroth[CR]!
+ I\'m no good at sitting still.[K]\nI\'m always bursting with energy![K]\nGreat to meet ya!
+
+ Йо![K] Вы те двое новых учащихся\nгильдии?
+ Тогда, привет! Звать меня\n[CS:N]Вигорот[CR]!
+ Я не могу стоять на месте.[K]\nЯ всегда полон сил и энергии![K]\nРад с вами познакомиться!
++++
+ We\'re Team [CS:X]Ebony[CR].[K] We\'ve\ntraveled and explored all over.
+ Мы - Команда [CS:X]Эбонит[CR].[K]\nМы исследовали множество разных мест.
++++
+ My favorite things, darlings?\nWell, do I ever have an eye for sparklies!
+ I keep telling my partner that\nwe should seek out flashy baubles and\nglamorous glitz…
+ But [CS:N]Shuppet[CR] always reacts\ncoolly to my suggestions.
+ But she seems not to hear! Or\nshe just won\'t listen![K] Arrgh, it\'s aggravating!
+
+ Мои любимые вещи, дорогуши?\nО, я обожаю блестяшки!
+ Я постоянно говорю своей\nспутнице, что нам нужно искать яркие\nштучки да сверкающие камешки...
+ Но [CS:N]Шаппет[CR] всегда с холодом\nвоспринимает мои предложения.
+ Но она ничего не слышит! Или не\nхочет слышать![K] Арррх, как это сложно!
++++
+ Misters [CS:N]Kecleon[CR]!
+ Ah! Little [CS:N]Marill[CR] and [CS:N]Azurill[CR]![K]\nWelcome, my young friends! ♪
+ Hello. May I buy an [CS:I]Apple[CR]?
+ Oh, most certainly!
+[CN][CS:N]Marill[CR] and [CS:N]Azurill[CR] bought\n[CN]an [CS:I]Apple[CR] at [CS:K]Kecleon[CR] Market.
+ Thank you, Misters [CS:N]Kecleon[CR]!
+ No, thank you, my young friends!\nYou are to be admired! ♪
+ You see, those delightful\nchildren are brothers.
+ Lately, their poor mother has\nfallen sick. So those youngsters come and\ndo the shopping for her.
+ It\'s quite remarkable. Though\nvery young, they\'ve stepped up and\ntaken charge. ♪
+ Misters [CS:N]Kecleon[CR]!
+ Oh? What\'s the hurry? What\nmakes you return in such a rush?
+ There was an extra [CS:I]Apple[CR]!
+ We didn\'t pay for this many.
+ Oh, yes... That, young friends,\nis a gift from me and my brother.
+ Please, share it among\nyourselves and do enjoy.
+ Really?!
+ Yay! Thank you, Mr. [CS:N]Kecleon[CR]\nand Mr. [CS:N]Kecleon[CR]!
+ Oh, not to worry, my friends.\nDo take care on your way home. ♪
+ Yowch!
+ W-we\'re sorry to bother you.\nThank you so much.
+[CN][hero] gave the [CS:I]Apple[CR]\n[CN]back to [CS:N]Azurill[CR].
+\n[CN]But then suddenly…
+(Huh? What was that?)
+(D-dizzy? Or am I...?)
+
+ Мистеры [CS:N]Кеклеоны[CR]!
+ А! Малютки [CS:N]Марилл[CR] и [CS:N]Азурилл[CR]!\nДобро пожаловать, мои юные друзья!
+ Здравствуйте. Можно вот это\n[CS:I]Яблоко[CR]?
+ О, разумеется!
+[CN][CS:N]Марилл[CR] и [CS:N]Азурилл[CR] купили [CS:I]Яблоко[CR]\n[CN]в Лавке [CS:K]Кеклеонов[CR].
+ Спасибо, Мистеры [CS:N]Кеклеоны[CR]!
+ Нет, это вам спасибо, мои юные\nдрузья! Вами можно восхищаться! ♪
+ Видите ли, эти чудесные дети\nприходятся друг-другу братьями.
+ Не так давно их бедная мама\nзаболела. Поэтому эти малыши приходят сюда\nи делают для неё покупки.
+ Это так трогательно. Хоть они\nещё очень молоды, но уже могут взять на\nсебя такую ответственность. ♪
+ Мистеры [CS:N]Кеклеоны[CR]!
+ Ой? Что за спешка?\nПочему вы вернулись?
+ Вы дали нам лишнее [CS:I]Яблоко[CR]!
+ Мы за столько не платили.
+ Ох, точно... Это, мои юные\nдрузья, подарок от меня и моего брата.
+ Прошу, разделите его на двоих\nи наслаждайтесь им.
+ Правда?!
+ Ура! Спасибо вам, Мистер [CS:N]Кеклеон[CR]\nи Мистер [CS:N]Кеклеон[CR]!
+ О, не за что, друзья мои.\nБерегите себя на пути домой. ♪
+ Ой-ёй!
+ П-простите за беспокойство.\nСпасибо большое.
+[CN][hero] возвращает [CS:I]Яблоко[CR]\n[CN][CS:N]Азуриллу[CR].
+\n[CN]Но внезапно...
+(А? Что это было?)
+(Г-головокружение? Или я?..)
++++
+[CN]H-h-h...HELP!
+[CN]П-п-п... ПОМОГИТЕ!
++++
+(What was that?)
+(I\'m sure I heard a shout for help just now...)
+(I\'m sure I heard a shout for help just now...)
+(Did that shout come from you?)
+ Is something the matter?
+ Hey, [CS:N]Azurill[CR]![K] What\'s going on?\nHurry home!
+ Yup! I\'m coming! Wait up!
+ Are you all right?
+ Yup!
+ We\'re done with our shopping...\nNow we gotta look for an item we\'ve lost!
+ Let\'s get going.
+ Yup! I\'m coming!
+ Ha! Those little guys are cute.
+ Huh?[K] What\'s wrong,\n[hero]?
+ Oh?[K] What\'s the matter,\n[hero]?
+ Huh?[K] What\'s the matter,\n[hero]?
+ Huh? Did I hear a shout for help\njust then?
+ Pardon? Did I hear a shout for\nhelp just then?
+ Uh, no... I didn\'t hear anything\nlike that!
+ Uh, no... I didn\'t hear anything\nlike that!
+ Hey, [CS:N]Kecleon[CR] brothers.
+ Did you hear anything strange\njust a moment ago?
+ No, nothing out of the ordinary.
+ I didn\'t hear anything odd either.
+ See? The [CS:N]Kecleon[CR] brothers\ndidn\'t hear anything like that either.
+ It sounds like the [CS:N]Kecleon[CR]\nbrothers didn\'t hear anything odd either.
+ The [CS:N]Kecleon[CR] brothers didn\'t hear\nanything strange either.
+ You probably just imagined it,\n[hero].
+ You must have imagined it,\n[hero].
+ You must have just imagined it,\n[hero].
+(No, I\'m positive that I didn\'t imagine it.)
+(No, I\'m positive that I didn\'t imagine it.)
+(I definitely heard it!)
+(I definitely heard it!)
+(That shout that I heard...)
+(That shout that I heard...)
+[CN]H-h-h...HELP!
+(There\'s no mistaking it...)
+(That was [CS:N]Azurill[CR]\'s scream!)
+ Uh, are you daydreaming?
+ Let\'s go already, [hero]!
+ Let\'s move it, [hero]!
+ Let\'s hustle, [hero]!
+
+(Что это было?)
+(Я уверен, что слышала чей-то крик о\nпомощи...)
+(Я уверена, что слышала чей-то крик о\nпомощи...)
+(Это он кричал?)
+ Что-то случилось?
+ Эй, [CS:N]Азурилл[CR]![K] Что такое?\nПоспешим домой!
+ Да! Я иду! Постой!
+ Ты в порядке?
+ Ага!
+ С покупками закончили...\nТеперь, нам нужно поискать нашу пропавшую\nвещь!
+ Пойдем.
+ Ага! Иду!
+ Ха! Какие они милые.
+ А?[K] Что такое, [hero]?
+ А?[K] Что случилось,\n[hero]?
+ А?[K] Что случилось,\n[hero]?
+ Что? Слышал ли я крик о\nпомощи?
+ Что? Слышала ли я крик о\nпомощи?
+ Эм, нет... Я ничего такого\nне слышал!
+ Эм, нет... Я ничего такого\nне слышала!
+ Эй, братья [CS:N]Кеклеоны[CR].
+ Вы слышали что-нибудь\nстранное?
+ Нет, ничего необычного.
+ Я тоже ничего такого не слышал.
+ Видишь? Братья [CS:N]Кеклеоны[CR]\nтоже ничего подобного не слышали.
+ Похоже, что и братья\n[CS:N]Кеклеоны[CR] не слышали ничего странного.
+ Братья [CS:N]Кеклеоны[CR] тоже не\nслышали ничего необычного.
+ Наверное, тебе просто\nпослышалось, [hero].
+ Скорее всего, тебе\nпослышалось, [hero].
+ Должно быть, тебе просто\nпослышалось, [hero].
+(Нет, я уверен, что мне не послышалось.)
+(Нет, я уверена, что мне не послышалось.)
+(Я точно это слышал!)
+(Я точно это слышала!)
+(Этот крик...)
+(Этот крик...)
+[CN]П-п-п... ПОМОГИТЕ!
+(Сомнений быть не может...)
+(Это был крик [CS:N]Азурилла[CR]!)
+ Эм, о чём ты думаешь?
+ Пойдём, [hero]!
+ Поспешим, [hero]!
++++
+ Hey! What\'s that about?
+ Oh![K] What\'s going on there?
+ Say![K] What are they up to?
+ Yaaaay!
+ Thank you!
+ Please! It\'s nothing.
+ What\'s going on?
+ What\'s happening?
+ Oh! Hi!
+ Some time ago, we lost an item\nthat\'s pretty important to us…
+ We\'ve been looking all over...[K]\nBut we haven\'t found it yet!
+ Then Mr. [CS:N]Drowzee[CR] came along…
+ And he says he may have seen\nour lost item somewhere!
+ He even offered to help us look\nfor it.
+ We\'re so happy about this!
+ Awesome! That\'s great for you!
+ Yeah! That\'s great for you!
+ Is that right? How nice for you!
+ Thank you, Mr. [CS:N]Drowzee[CR]!
+ Oh, please…
+ I\'d have to have a cold heart to\nignore kids in need! I can\'t turn a blind eye!
+ Let us be on our way to begin\nour search!
+ Yup!
+ Yup!
+ Whoops![K] Excuse me.
+(Urk...[K] Wh-what is this...?)
+ That [CS:N]Drowzee[CR] is sure a nice\nPokémon.[K] You\'ve got to admire that.
+ That [CS:N]Drowzee[CR] sure is a nice\nPokémon, isn\'t he?[K] I\'m impressed.
+ That [CS:N]Drowzee[CR] sure is nice.[K]\nYou\'ve got to admire that!
+ With more and more bad\nPokémon around...[K]it\'s hard to do good deeds.
+(It\'s happening again...)
+(Another dizzy spell...)
+
+ Эй! Что там происходит?
+ Ой![K] Что там такое?
+ Смотри![K] Что там такое?
+ Ураааа!
+ Спасибо вам!
+ Пожалуйста! Это пустяк.
+ Что происходит?
+ Что случилось?
+ Ой! Здравствуйте!
+ Некоторое время назад, мы\nпотеряли очень важную для нас вещь...
+ Мы всюду её ищем...[K]\nНо никак не можем найти!
+ К нам подошёл Мистер [CS:N]Дроузи[CR]...
+ И сказал, что где-то видел нашу\nвещь!
+ Он даже предложил нам свою\nпомощь в её поисках.
+ Мы так рады этому!
+ Здорово! Это потрясающая\nновость!
+ Ага! Это потрясающая\nновость!
+ Правда? Это отличная\nновость!
+ Спасибо вам, Мистер [CS:N]Дроузи[CR]!
+ О, не стоит...
+ Было бы бессердечно оставлять\nдетишек в беде! Я не могу им не помочь!
+ Собирайтесь, мы идём на поиски!
+ Ага!
+ Ага!
+ Ууупс![K] Прошу прощения.
+(Ух...[K] Ч-что это?..)
+ Этот [CS:N]Дроузи[CR] очень добрый\nПокемон.[K] Это трудно не заметить.
+ Разве этот Дроузи не добрый\nПокемон?[K] Я восхищён.
+ Этот [CS:N]Дроузи[CR] очень добр.[K]\nЭто трудно не заметить!
+ Когда вокруг столько плохих\nПокемонов...[K] Трудно делать что-либо\nхорошее.
+(Снова начинается...)
+(Опять наваждение...)
++++
+ If you keep being difficult, it\nwill mean big trouble for you!
+ Если ты продолжишь упираться,\nдля тебя это плохо кончится!
++++
+(What was that?!)
+ I sure hope those kids find their\nitem soon.
+ It would be nice if those little\nguys found their item soon.
+ It would be nice if those cute\nlittle guys found their item soon.
+ Huh? What\'s up, [hero]?
+ Huh? What\'s the matter,\n[hero]?
+ Huh? Is anything the matter,\n[hero]?
+ What\'s with that grim look?
+ You\'re looking awfully grim…
+ Why are you looking so grim?
+ ...Hmm?[K] You want to tell\nme something?
+ What? You had a dizzy spell?
+ Then you saw [CS:N]Azurill[CR] being\nthreatened by [CS:N]Drowzee[CR]?!
+ Then you saw [CS:N]Azurill[CR] being\nthreatened by [CS:N]Drowzee[CR]?!
+ So you want to go rescue\n[CS:N]Azurill[CR] right away?
+ So you want to go rescue\n[CS:N]Azurill[CR] right away?
+ It\'s an...emergency?!
+ Well, what you describe does\nsound like an emergency, but…
+ Well, it\'s not like I don\'t trust\nyou, [hero], but…
+ I just can\'t believe it!
+ I mean, [CS:N]Drowzee[CR] looked like an\nhonestly nice Pokémon, didn\'t he?
+ After all, [CS:N]Drowzee[CR] seemed to\nbe a sincerely nice Pokémon, didn\'t he?
+ I watched the three of them go\noff earlier…
+ I saw the three of them go off\ntogether earlier…
+ They looked like they were\nhaving a good time, didn\'t they?
+ You\'re probably just tired,\n[hero].
+ You\'re probably just tired,\n[hero].
+ Maybe that\'s why you just had\nthat bad daydream.
+(Was that it...?[K] Just a bad daydream?)
+(But come to think of it...[K] That [CS:N]Drowzee[CR] didn\'t\nseem like a bad Pokémon.)
+ Anyway, we\'re only apprentices.\nWe can\'t just go running off on our own.
+ Anyway, we\'re only apprentices.\nWe can\'t just go do whatever we want.
+ Anyway, we\'re only apprentices.\nWe can\'t just go off on our own.
+ Sure, it\'s worrying, but…
+ Sure, it\'s a little odd, but…
+ We have to focus on our guild\nwork for now.
+ We have to concentrate on our\nguild work for now.
+ We have to focus on our guild\nwork for now.
+ Let\'s get ready to explore, then\nmeet up with [CS:N]Bidoof[CR].
+ Let\'s get ourselves ready to\nexplore. Then we should find [CS:N]Bidoof[CR].
+ Let\'s get all set for exploring,\nthen go meet up with [CS:N]Bidoof[CR].
+ [CS:N]Bidoof[CR] said he\'d be waiting for\nus on the guild\'s upper underground floor.
+ [CS:N]Bidoof[CR]\'s supposed to be waiting\nfor us on the guild\'s upper underground floor.
+ [CS:N]Bidoof[CR] should be waiting for us\non the guild\'s upper underground floor.
+ Let\'s get to it, [hero]!
+ Let\'s go, [hero]!
+
+(Что это было?!)
+ Надеюсь, эти дети найдут\nсвою пропавшую вещь.
+ Будет хорошо, если эти дети\nотыщут свою вещь.
+ Будет здорово, если эти\nмалютки отыщут свою вещь.
+ А? Что случилось,\n[hero]?
+ А? Что такое, [hero]?
+ А? Что-то не так,\n[hero]?
+ Что у тебя за мрачный вид?
+ Выглядишь ужасно мрачно...
+ Почему у тебя такой мрачный\nвид?
+ ...Хмм?[K] Хочешь мне что-то\nсказать?
+ Что? У тебя было\nголовокружение?
+ И затем ты увидел, как\n[CS:N]Дроузи[CR] угрожал [CS:N]Азуриллу[CR]?!
+ И затем ты увидела, как\n[CS:N]Дроузи[CR] угрожал [CS:N]Азуриллу[CR]?!
+ Поэтому ты хочешь идти\nспасать [CS:N]Азурилла[CR]?
+ Поэтому ты хочешь идти\nспасать [CS:N]Азурилла[CR]?
+ Это... Срочно?!
+ Ну, то, что ты описываешь,\nдействительно похоже на срочный случай,\nно...
+ Знаешь, не то, чтобы я тебе\nне доверяю, [hero], но...
+ Я просто не могу в это\nповерить!
+ [CS:N]Дроузи[CR] выглядел, как\nсовершенно честный Покемон, верно?
+ Всё-таки, [CS:N]Дроузи[CR] кажется\nискренне любезным Покемоном, верно?
+ Я видел, как эти трое\nуходили...
+ Я видела, как эти трое\nвместе уходили...
+ Они выглядели так, как\nбудто хорошо проводили время, да?
+ Должно быть, ты просто не\nвыспался, [hero].
+ Должно быть, ты просто не\nвыспалась, [hero].
+ И из-за этого у тебя такие\nсильные наваждения.
+(Это всё?..[K] Всего лишь сильное\nнаваждение?)
+(Но, если так подумать...[K]\nТот Дроузи не кажется плохим Покемоном.)
+ В любом случае, мы всего\nлишь новички. Мы не можем просто так\nвзять и убежать куда-либо.
+ В любом случае, мы всего\nлишь новички. Мы не можем делать всё,\nчто захотим.
+ В любом случае, мы всего\nлишь новички. Мы не можем идти куда\nзахотим.
+ Да, это беспокоит, но...
+ Конечно, всё это немного\nстранновато, но...
+ Нам нужно сосредоточиться\nна наших гильдейских заданиях.
+ Нам нужно сконцентрироваться\nна наших гильдейских заданиях.
+ Нам нужно сосредоточиться\nна наших гильдейских заданиях.
+ Приготовимся к вылазке и\nвстретимся с [CS:N]Бидуфом[CR].
+ Сперва подготовимся к\nвылазке. После этого, поговорим с [CS:N]Бидуфом[CR].
+ Сперва приготовимся к\nвылазке, после чего встретимся с [CS:N]Бидуфом[CR].
+ [CS:N]Бидуф[CR] сказал, что он будет\nждать нас на верхнем подуровне гильдии.
+ [CS:N]Бидуф[CR] должен ждать нас на\nверхнем подуровне гильдии.
+ [CS:N]Бидуф[CR] ждёт нас на верхнем\nподуровне гильдии.
+ Идём, [hero]!
+ Пошли, [hero]!
++++
+ We don\'t have the time to\nwander off.
+ This is no time to be dawdling.
+ We can\'t take any detours.
+ We have to do the guild\'s\nwork now.
+ [CS:N]Bidoof[CR]\'s waiting at the guild.\nLet\'s move it!
+ [CS:N]Bidoof[CR]\'s waiting at the guild.\nLet\'s get going!
+ [CS:N]Bidoof[CR]\'s waiting at the guild.\nWe have to hurry!
+
+ У нас нет времени на то,\nчтобы куда-то уходить.
+ Сейчас не время\nбездельничать.
+ Мы сейчас не можем уходить.
+ Нам нужно выполнять\nгильдейское задание.
+ [CS:N]Бидуф[CR] ждёт нас в гильдии.\nПоспешим!
+ [CS:N]Бидуф[CR] ждёт нас в гильдии.\nИдём!
+ [CS:N]Бидуф[CR] ждёт нас в гильдии.\nНам нужно поспешить!
++++
+ Gotta do guild work.
+ We have to do our guild chores.
+ Let\'s hurry to [CS:P]Mt. Bristle[CR]!
+ Come on! We\'ve gotta save\n[CS:N]Azurill[CR]!
+ Hurry! We\'ve gotta save [CS:N]Azurill[CR]!
+
+ Нам нужно выполнять\nгильдейские задания.
+ Нам нужно делать работу\nв гильдии.
+ Поспешим на Гору [CS:P]Бристл[CR]!
+ Скорее! Нужно спасти\n[CS:N]Азурилла[CR]!
+ Поспешим! Нам нужно спасти\n[CS:N]Азурилла[CR]!
++++
+ We\'re Team [CS:X]Glee[CR]![K] We\'re the\nexploration team that delivers happiness!
+ Мы - Команда [CS:X]Радость[CR]![K] Наша\nкоманда исследователей приносит счастье!
++++
+ Worrying isn\'t for us!
+ Тревожиться - это не для нас!
++++
+ So many Pokémon in need!\nJust look at those boards!
+ We have to help them!
+
+ Столько Покемонов нуждается в\nпомощи! Только взгляните на эти доски\nобъявлений!
+ Мы должны им помочь!
++++
+ Hey, [hero].
+ Listen, [hero].
+ Say, [hero].
+ Didn\'t [CS:N]Bidoof[CR] say he\'d help us\npick an outlaw?
+ When it came to picking an\noutlaw, didn\'t [CS:N]Bidoof[CR] say he\'d help us?
+ Didn\'t [CS:N]Bidoof[CR] say he\'d help us\npick an outlaw?
+ We should ask [CS:N]Bidoof[CR] first.
+ Let\'s ask [CS:N]Bidoof[CR] for his advice.
+ We should ask [CS:N]Bidoof[CR] first.
+
+ Погоди, [hero].
+ Послушай, [hero].
+ Постой, [hero].
+ Разве [CS:N]Бидуф[CR] не говорил, что\nпоможет нам подобрать негодяя по силам?
+ Нам нужно выбрать негодяя\nпо силам, но разве [CS:N]Бидуф[CR] не говорил, что\nон поможет нам в этом?
+ Разве [CS:N]Бидуф[CR] не сказал, что\nпоможет нам подобрать негодяя по силам?
+ Сначала спросим [CS:N]Бидуфа[CR].
+ Сначала спросим совета у\n[CS:N]Бидуфа[CR].
+ Нам нужно поговорить с\n[CS:N]Бидуфом[CR].
++++
+ Hey, [hero].
+ Today, they didn\'t want us to do\nany jobs from the Job Bulletin Board.
+ We\'re supposed to check the\njobs on the Outlaw Notice Board, right?
+ If we\'re ready to go on the job,\nwe\'re supposed to tell [CS:N]Bidoof[CR] by the Outlaw\nNotice Board.
+ If we\'re ready for the job,\nwe\'re supposed to tell [CS:N]Bidoof[CR] by the Outlaw\nNotice Board.
+ If we\'re ready to go do the job,\nwe have to tell [CS:N]Bidoof[CR] by the Outlaw\nNotice Board.
+
+ Постой, [hero].
+ Сегодня нам не нужно\nвыполнять задания с Доски Объявлений.
+ Нам нужно посмотреть\nзадания с Доски Разыскиваемых, так?
+ Если мы будем готовы к\nвыполнению задания, то нужно сказать об\nэтом [CS:N]Бидуфу[CR] у Доски Разыскиваемых.
+ Если мы будем готовы к\nвыполнению задания, то надо сказать об\nэтом [CS:N]Бидуфу[CR] у Доски Разыскиваемых.
+ Если мы будем готовы к\nвыполнению задания, то нужно сказать об\nэтом [CS:N]Бидуфу[CR] у Доски Разыскиваемых.
++++
