@@ -6030,26 +6030,37 @@ Quirky[value:0:2]:Quiet[value:1:2]:Rash[value:2:2]:Bold[value:3:2]
 [CS:C]Debug[CR]
 
 [CS:C]Normal[CR]
-
+---
 " Look at the footprint on the top
 screen, OK? Then identify the PokГ©mon![C]
  You can get only [CS:V]two wrong[CR], OK?
 [partner] will keep an eye on things!"
-
+ Смотри на след на верхнем экране!
+Затем, опознай по нему Покемона![C]
+ Ты можешь ошибиться лишь [CS:V]дважды[CR]!
+[partner] будет тебе подсказывать!
++++
 " Here are the rankings for the
 top sentry sessions."
-
+ Это таблица рекордов лучших
+подработок стражем.
++++
 " Here comes a PokГ©mon! Check
 its footprint and tell me what it is!"
-
+ Сюда идёт Покемон! Осмотри его
+след и скажи мне, кто пришёл!
++++
  Whose footprint is this?[W:60]
-
+ Чей это след?[W:60]
++++
  [se_play:0][W:30]Out of time! Pick up the pace![W:75]
-
+ [se_play:0][W:30]Время вышло! Поторопись![W:75]
++++
 [value:0:2]/[value:1:2]
-
++++
 [CN]High Score
-
+[CN]Таблица Рекордов
++++
 [value:0:8]P
 
 1
@@ -6074,235 +6085,286 @@ its footprint and tell me what it is!"
 
 " Thank you for helping. I'm
 counting on you to do a good job!"
-
+ Спасибо за помощь. Я надеюсь,
+что вы хорошо постараетесь!
++++
  Huh? I don't think so. Try again!
-
+ А? Я так не думаю. Попробуй
+ещё раз!
++++
 " The footprint is [kind:]'s!
 The footprint is [kind:]'s![W:60]"
-
+ След Покемона [kind:]!
+След Покемона [kind:]![W:60]
++++
  Heard ya! Come in, visitor![W:30]
-
+ Слышу! Входите, посетитель![W:30]
++++
 " The footprint is [kind:]'s!
 The footprint is [kind:]'s![W:60]"
-
+ След Покемона [kind:]!
+След Покемона [kind:]![W:60]
++++
  Heard ya! Come in, visitor![W:30]
-
+ Слышу! Входите, посетитель![W:30]
++++
  ......[se_play:0][W:30]Yep! Looks like you're right![W:75]
-
+ ......[se_play:0][W:30]Да! Совершенно верно![W:75]
++++
  ......[se_play:0][W:30]Huh?! Looks wrong to me![W:50]
-
+ ......[se_play:0][W:30]Что?! По-моему, это
+неправильный ответ![W:50]
++++
 " The correct answer is
 [kind:]! Buck up! And snap to it![se_play:0][W:120]"
-
+ Правильный ответ это
+[kind:]! Соберись! И за дело![se_play:0][W:120]
++++
  [se_play:0]Sorry to keep you waiting.
-
+ [se_play:0]Простите, что заставил вас
+ждать.
++++
 " [partner] and [hero]![C]
  That'll do it! Now get back here!"
-
+ [partner] и [hero]![C]
+ Этого хватит! Возвращайтесь!
++++
 " [se_play:0]No more visitors! No more
 visitors! в™Є"
-
+ [se_play:0]Посетителей больше нет!
+Посетителей больше нет! ♪
++++
 " OK, got that![C]
  Hey, [partner] and
 [hero]![C]
  That's all for today! Now get
 back here!"
-
+ Хорошо, понял![C]
+ Эй, [partner] и
+[hero]![C]
+ На сегодня всё!
+Возвращайтесь!
++++
 It totters around on unsteady feet.
-
+Он шатается и у него нетвердая походка.
 It is covered in a fluffy coat of down.
-
+Он покрыт пушистой шубкой из пуха.
 It spits fireballs.
-
+Он плюётся огненными шарами.
 It is a Chick PokГ©mon.
-
+Это Покемон Цыплёнок.
 It opens its huge jaws wide when attacking.
-
+Атакуя, он широко раскрывает свои
+челюсти.
 There are 48 fangs lining its mouth.
-
+В его рту 48 острых зубов.
 "Once it bites down, it won't let go until it loses
 its fangs."
-
+При укусе, он не разожмёт челюсти, пока
+не потеряет своих зубов.
 It is a Big Jaw PokГ©mon.
-
+Это Большеротый Покемон.
 It is very cute.
-
+Он очень милый.
 It has an unstable genetic makeup.
-
+Имеет неустойчивый генетический состав.
 "It appears to have the possibility of evolving
 into seven kinds of PokГ©mon."
-
+Способен эволюционировать в семь разных
+видов Покемонов.
 It is an Evolution PokГ©mon.
-
+Это Эволюционный Покемон.
 It is clad entirely in iron-hard armor.
-
+Он полностью облачен в твердую, как
+сталь, броню.
 It wheels through the sky at over 180 mph.
-
+Он мчится по небу со скоростью более
+180 миль в час.
 "Its sharp feathers were used to make swords
 and knives."
-
+Из его острых перьев создавались мечи
+и ножи.
 It is an Armor Bird PokГ©mon.
-
+Это Покемон Бронированная Птица.
 It can't stop itself from chasing moving things.
-
+Он не может удержаться от погони за
+движущимися предметами.
 It runs in a circle, chasing its own tail.
-
+Он носится по кругу, гоняясь за своим
+собственным хвостом.
 "It usually lives in forests. Specifically,
 inside holes in trees."
-
+Обычно живёт в лесах. Конкретно, на
+деревьях, в дуплах.
 It is a Kitten PokГ©mon.
-
+Это Покемон Котёнок.
 It does as it pleases at its own pace.
-
+Он делает что захочет и как захочет.
 "It eats and sleeps whenever and wherever it
 decides."
-
+Он спит и ест где ему угодно и когда
+ему угодно.
 It is highly popular for its sublime fur.
-
+Он очень известен благодаря своему
+великолепному меху.
 It is a Prim PokГ©mon.
-
+Это Жеманный Покемон.
 It has a beak.
-
+У него есть клюв.
 It swims as fast as a jet boat.
-
+Он плавает так же быстро как и моторная
+лодка.
 Three horns extend from its beak.
-
+Из его клюва торчат три рога.
 It is an Emperor PokГ©mon.
-
+Это Императорский Покемон.
 It is very large.
-
+Он очень большой.
 It usually moves slowly.
-
+Он передвигается медленно.
 It bites with massive and powerful jaws.
-
+Он кусается большими и мощными челюстями.
 It's a Big Jaw PokГ©mon.
-
+Это Большеротый Покемон.
 It has a rock-hard head.
-
+У него крепкая, словно камень, голова.
 It has suction cups.
-
+У него есть присоски.
 It spews murky ink from its mouth.
-
+Он плюётся чернилами.
 It is a Jet PokГ©mon.
-
+Это Потоковый Покемон.
 It has long pincers.
-
+У него длинные клешни.
 On cold nights, it sleeps under the ground.
-
+Холодными ночами он спит под землей.
 It grips prey with its pincers.
-
+Он хватает добычу своими клешнями.
 It is a Stag Beetle PokГ©mon.
-
+Это Покемон Жук-Олень.
 It can store sand in its body.
-
+Он может хранить песок в своём теле.
 Its mouth is huge.
-
+У него огромный рот.
 "It blows sand from ports on its body to make
 a towering twister."
-
+Он выдувает песок из отверстий на своем
+корпусе, образуя возвышающийся смерч.
 It is a Heavyweight PokГ©mon.
-
+Это Тяжеловесный Покемон.
 It is very lazy.
-
+Он очень ленивый.
 It eats an enormous amount.
-
+Он невероятно много ест.
 It goes to sleep as soon as it finishes eating.
-
+Он ложится спать сразу после еды.
 It is a Sleeping PokГ©mon.
-
+Это Спящий Покемон.
 It has a shell.
-
+Он обладает панцирем.
 It swims.
-
+Он умеет плавать.
 It has furry ears and tail.
-
+У него пушистые уши и хвост.
 It is a Turtle PokГ©mon.
-
+Это Покемон Черепаха.
 It has a shell.
-
+Он обладает панцирем.
 In a pinch, it withdraws into its shell.
-
+В случае опасности он прячется в панцирь.
 "It spouts water from rocket cannons on its
 shell."
-
+Он извергает воду из пушек на своём
+панцире.
 It is a Shellfish PokГ©mon.
-
+Это Моллюсковый Покемон.
 Its tail is thick.
-
+У него толстый хвост.
 "The soles of its feet are covered by countless
 tiny spikes."
-
+Его ступни покрыты бесчисленными
+крошечными шипами.
 It can walk on walls and ceilings.
-
+Он может передвигаться по стенам и
+потолкам.
 It is a Wood Gecko PokГ©mon.
-
+Это Покемон Древесный Геккон.
 It is always rampaging.
-
+Он постоянно буйствует.
 Once it takes aim, it charges with its horns.
-
+Как только он прицелится, он атакует
+своими рогами.
 They fight each other by locking horns.
-
+Они сражаются друг с другом, сцепляясь
+рогами.
 It is a Wild Bull PokГ©mon.
-
+Это Покемон Бык.
 It has a fiery nature.
-
+У него вспыльчивый характер.
 It uses a special kind of martial arts.
-
+Сражается особым видом боевых исскуств.
 It burns with a flame that never goes out.
-
+Он жжёт особым, неугасимым пламенем.
 It is a Flame PokГ©mon.
-
+Это Пламенный Покемон.
 Its voice is normally very quiet.
-
+Обычно его голос очень тихий.
 "If it senses danger, it starts crying at an
 earsplitting volume."
-
+Почуяв угрозу, он начинает невероятно
+громко рыдать.
 "When it stops crying, it goes to sleep, all tired
 out."
-
+Когда он прекращает рыдать, он ложится
+спать от усталости.
 It is a Whisper PokГ©mon.
-
+Это Шепчущий Покемон.
 "It swallows food whole with almost no
 chewing."
-
+Он глотает еду целиком, не жуя.
 It hides food under its long body hair.
-
+Он прячет еду под своим длинным волосяным
+покровом.
 It forgets it has hidden food under its hair.
-
+Он забывает про еду, что спрятана под
+его волосяным покровом.
 It is a Big Eater PokГ©mon.
-
+Это Покемон Едок.
 Its legs can stretch double in length.
-
+Его ноги могут растягиваться в двойную
+длину.
 It can kick in succession.
-
+Он может бить серией пинков.
 It can execute every known kick.
-
+Может исполнить каждый возможный пинок.
 It is a Kicking PokГ©mon.
-
+Это Пинающий Покемон.
 It has sharp claws.
-
+У него острые когти.
 It has incredible agility.
-
+Он невероятно ловкий.
 It feuds with [CS:N]Seviper[CR].
-
+Он ненавидит [CS:N]Севайперов[CR].
 It is a Cat Ferret PokГ©mon.
-
+Это Покемон Мангуст.
 It digs at an incredible pace.
-
+Он невероятно быстро роет землю.
 It slashes foes with its claws.
-
+Он рвёт врагов своими когтями.
 It curls up its spike-covered back and tackles.
-
+Он выгибает свою покрытую шипами спину и
+делает выпад.
 It is a Mouse PokГ©mon.
-
+Это Мышиный Покемон.
 It lovingly raises trees in its forest.
-
+Он с любовью выращивает деревья в своем
+лесу.
 It agilely leaps about the branches of trees.
-
+Он ловко скачет по ветвям деревьев.
 It has leaves growing on its body.
-
+На его теле растут листья.
 It is a Forest PokГ©mon.
-
+Это Лесной Покемон.
 [M:D1]Grovyle 1
 
 [M:D1]Grovyle 2
@@ -6312,701 +6374,811 @@ It is a Forest PokГ©mon.
 [M:D1]Grovyle 4
 
 Its protective colors hide it in grass.
-
+Защитная окраска маскирует его в траве.
 It moves extremely quickly.
-
+Он очень быстро передвигается.
 It has sharp scythes on its forearms.
-
+У него на предплечьях острые косы.
 It is a Mantis PokГ©mon.
-
+Это Покемон Богомол.
 It has a shell.
-
+Он обладает панцирем.
 It swims.
-
+Он умеет плавать.
 It withdraws into its shell when endangered.
-
+В случае опасности он прячется в панцирь.
 It is a Tiny Turtle PokГ©mon.
-
+Это Покемон Черепашка.
 It lives quietly deep in forests.
-
+Он тихо живет в лесных дебрях.
 It can whip up powerful gusts of wind.
-
+Он может создавать мощные потоки воздуха.
 It holds large fans.
-
+Он обладает веерами.
 It is a Wicked PokГ©mon.
-
+Это Скверный Покемон.
 Its facial hide is extremely hard.
-
+Его кожа на лице чрезвычайно твердая.
 "It polishes its face by rubbing it against tree
 trunks."
-
+Он полирует своё лицо трением о древесную
+кору.
 It is weak to attacks from behind.
-
+Он восприимчив к атакам со спины.
 It is a Shield PokГ©mon.
-
+Это Защищенный Покемон.
 "The more water it drinks, the glossier its body
 becomes."
-
+Чем больше воды он пьет, тем более
+блестящим становится его тело.
 "It attaches the top of its head to a branch,
 then dangles."
-
+Он прикрепляет себя к ветке дерева и
+болтается на ней.
 "It looks just like an acorn when it is dangling
 from a branch of a tree."
-
+Болтаясь на ветке дерева, он очень
+напоминает жёлудь.
 It is an Acorn PokГ©mon.
-
+Это Покемон Жёлудь.
 "Instead of blood, a powerful magnetic force
 circulates in its body."
-
+Вместо крови, в его теле циркулирует
+магнитная субстанция.
 "To sleep, it anchors itself to a cliff using the
 hooks on its backside."
-
+Чтобы уснуть, он прикрепляется к скале
+крючками на своей задней стороне.
 "It uses magnetic waves to converse with its
 kind."
-
+Он пользуется магнитными волнами, чтобы
+общаться с сородичами.
 It is an Iron Ball PokГ©mon.
-
+Это Покемон Стальной Шар.
 It loves to sunbathe.
-
+Он любит загорать.
 It can determine the temperature and humidity.
-
+Он может определить температуру и
+влажность воздуха.
 It has a leaf on its head.
-
+Из его головы растёт лист.
 It is a Leaf PokГ©mon.
-
+Это Лиственный Покемон.
 "It lives on a grassy plain with a clear field of
 vision."
-
+Он живет на травянистой, открытой
+равнине.
 Its fast running makes up for its poor flying.
-
+Его быстрый бег компенсирует его плохой
+полёт.
 It has two heads.
-
+У него две головы.
 It is a Twin Bird PokГ©mon.
-
+Это Покемон Двухголовая Птица.
 It is considered a symbol of good luck.
-
+Он считается символом удачи.
 It has a shell.
-
+Он имеет оболочку.
 Its shell is said to be filled with joy.
-
+Говорят, его оболочка полна радости.
 It is a Spike Ball PokГ©mon.
-
+Это Покемон Шипастый Шар.
 It migrates in search of water.
-
+Он мигрирует в поисках воды.
 Its back is huge.
-
+У него огромная спина.
 Small PokГ©mon make nests on its back.
-
+Мелкие Покемоны гнездятся на его спине.
 It is a Continent PokГ©mon.
-
+Это Континентальный Покемон.
 The shell on its back is made of soil.
-
+Его панцирь состоит из почвы.
 "It photosynthesizes with its body, creating
 oxygen."
-
+Его тело фотосинтезирует и вырабатывает
+кислород.
 The leaf on its head wilts if it is thirsty.
-
+Если он хочет пить, лист на его голове
+чахнет.
 It is a Tiny Leaf PokГ©mon.
-
+Это Покемон Листик.
 It loafs around motionlessly.
-
+Он любит лежать без движения.
 It is rarely seen in motion.
-
+Его редко видно в движении.
 Seeing it is enough to make others drowsy.
-
+Одного взгляда на него достаточно, чтобы
+погрузиться в сон.
 It is a Slacker PokГ©mon.
-
+Это Ленивый Покемон.
 "Its body is covered by stiff, needlelike
 scales."
-
+Его тело покрыто жесткой, похожей на иглы
+чешуей.
 Its hard scales provide strong protection.
-
+Он защищён твёрдой чешуёй.
 "It uses its tough, scaly body to seal its nest
 and protect its young."
-
+Он использует свое чешуйчатое тело, чтобы
+запечатать гнездо и защитить детенышей.
 It is a Drill PokГ©mon.
-
+Это Сверлящий Покемон.
 It loves anything that shines.
-
+Он любит всё блестящее.
 It is fascinated by round objects.
-
+Он обожает круглые вещи.
 "When it spots something shiny, the gold coin
 on its head shines too."
-
+Если он замечает что-то блестящее, то
+монета на его голове тоже блестит. 
 It is a Scratch Cat PokГ©mon.
-
+Это Кошачий Покемон.
 It is very fickle.
-
+Он очень непостоянен.
 It claws if it is displeased.
-
+Он царапается, если недоволен.
 "With its sharp glare, it puts foes into a mild
 hypnotic state."
-
+Своим острым взглядом он вводит врагов
+в легкое гипнотическое состояние.
 It is a Catty PokГ©mon.
-
+Это Кошачий Покемон.
 "Whenever three or more get together, they
 start singing."
-
+Если они образуют группу из троих, они
+начинают петь.
 Its song sounds like bellowing.
-
+Его песня звучит как мычание.
 Its echoing cry attracts [CS:N]Poliwag[CR] and [CS:N]Poliwhirl[CR].
-
+Его отдающийся эхом клич привлекает
+[CS:N]Поливагов[CR] и [CS:N]Поливирлов[CR].
 It is a Frog PokГ©mon.
-
+Это Лягушачий Покемон.
 "Its well-developed hind legs let it stand
 upright."
-
+Его развитые задние лапы позволяют ему
+стоять прямо.
 "It plays in mud on beaches when the tide is
 out."
-
+Он играет в грязи на пляжах во время
+отлива.
 It burrows into dirt to sleep.
-
+Он зарывается в грязь, чтобы уснуть.
 It is a Mud Fish PokГ©mon.
-
+Это Земноводный Покемон.
 It has humps on its back.
-
+У него на спине есть горбы.
 The humps are said to be transformed bones.
-
+Говорят, что горбы - преображённые кости.
 The humps sometimes erupt with lava.
-
+Иногда из горбов извергается лава.
 It is an Eruption PokГ©mon.
-
+Это Извергающий Покемон.
 It creates heat shimmers to hide itself.
-
+Чтобы спрятаться, он создаёт тепловое
+мерцание.
 "The heat shimmers are created with intense
 fire."
-
+Тепловое мерцание получается от мощного
+пламени.
 "It rubs its blazing fur together to cause
 explosions."
-
+Он трёт свой пылающий мех, чтобы создать
+взрывы.
 It is a Volcano PokГ©mon.
-
+Это Вулканический Покемон.
 It has incredibly strong legs.
-
+У него невероятно мощные ноги.
 "It looses flames from its wrist when faced
 with a tough foe."
-
+Он выпускает пламя из своего запястья,
+когда сталкивается с сильным врагом.
 "The tougher the foe, the more intensely its
 wrists burn."
-
+Чем сильнее враг, тем сильнее горит
+пламя из запястий.
 It is a Blaze PokГ©mon.
-
+Это Пылающий Покемон.
 It gets active after dusk.
-
+Он становится активным после наступления
+сумерек.
 Its body is covered by a slippery, slimy film.
-
+Его тело покрыто скользкой, склизкой
+пленкой.
 "It feels horribly unpleasant to be touched by
 its slimy hands."
-
+Его склизкие прикосновения вызывают
+ужасно неприятные ощущения.
 It's a Jolly PokГ©mon.
-
+Это Радостный Покемон.
 It lives along water in forests.
-
+Он живет в лесах рядом с водой.
 It has a shell.
-
+У него есть панцирь.
 "In the daytime, it leaves the forest to
 sunbathe its tree-covered shell."
-
+В дневное время, он покидает лес и
+выставляет на солнце свой панцирь
 It is a Grove PokГ©mon.
-
+Это Покемон Роща.
 It looses electricity if it is endangered.
-
+Он испускает разряды электричества, если
+чувствует опасность.
 "It stores electricity in the pouches on its
 cheeks."
-
+Он запасает электроэнергию в мешочках
+на своих щечках.
 "It sometimes discharges electricity when it is
 dozy after waking up."
-
+Иногда он делает разряды, когда находится
+в полудреме после пробуждения.
 It is a Mouse PokГ©mon.
-
+Это Мышиный Покемон.
 It agilely scales steep cliffs.
-
+Он ловко взбирается по отвесным скалам.
 Its rear end is on fire.
-
+Его задняя часть в огне.
 "The fire on its rear end goes out when
 it sleeps."
-
+Когда он спит, огонь на его задней
+части затухает.
 It is a Chimp PokГ©mon.
-
+Это Покемон Мартышка.
 It prefers hot things.
-
+Он предпочитает горячие вещи.
 A flame burns at the tip of its tail.
-
+На кончике его хвоста горит пламя.
 Its tail burns intensely if it is healthy.
-
+Если его хвост горит ярким пламенем, то
+он полностью здоров.
 It is a Lizard PokГ©mon.
-
+Это Покемон Ящерица.
 It has a timid nature.
-
+У него робкий характер.
 It shoots flames out of its back.
-
+Он зажигает пламя на свой спине.
 "If it is startled, the flames on its back burn
 more vigorously."
-
+Если он испуган, пламя на его спине
+разгорается сильнее.
 It is a Fire Mouse PokГ©mon.
-
+Это Огненный Мышиный Покемон.
 Exposure to sunlight makes it stronger.
-
+Воздействие солнечного света делает его
+сильнее.
 It has a bud on its back.
-
+У него на спине бутон.
 "When the bud begins to expand, it looses a
 sweet scent."
-
+Когда бутон расцветает, он испускает
+сладкий аромат.
 It's a Seed PokГ©mon.
-
+Это Покемон Семечко.
 Its body grows in size with the seed.
-
+Его тело растёт вместе с его семечком.
 There is a seed on its back.
-
+У него на спине семечко.
 "It grows by drawing nutrients from the seed
 on its back for a short while after hatching."
-
+Он растёт, получая питательные вещества
+из своего семечка на спине.
 It is a Seed PokГ©mon.
-
+Это Покемон Семечко.
 Exposure to sunlight fills it with energy.
-
+Воздействие солнечного света наполняет
+его энергией.
 There is a flower growing on its back.
-
+На его спине растёт цветок.
 "After a rainy day, the flower on its back
 smells stronger."
-
+После дождливого дня, цветок на его
+спине начинает пахнуть сильнее.
 It is a Seed PokГ©mon.
-
+Это Покемон Семечко.
 There is a leaf on its head.
-
+На его голове есть лист.
 Its neck is ringed by buds.
-
+Его шея окольцована бутонами.
 The buds give off a spicy aroma.
-
+Бутоны испускают пряный аромат.
 It is a Leaf PokГ©mon.
-
+Это Лиственный Покемон.
 "It gathers in forests to search for tree sap,
 its favorite food."
-
+Он приходит в леса за своей любимой
+пищей - древесным соком.
 It is extremely strong.
-
+Он невероятно сильный.
 "It flings foes using its strength and mighty
 horn."
-
+Он швыряет врагов, используя свою силу
+и свой могучий рог.
 It is a Single Horn PokГ©mon.
-
+Это Однорогий Покемон.
 It has a vicious temperament.
-
+У него жестокий темперамент.
 Its fur has many admirers.
-
+Его мехом многие восхищаются.
 It has a gem on its forehead.
-
+В его лбу есть самоцвет.
 It is a Classy Cat PokГ©mon.
-
+Это Кошачий Покемон.
 "It begins hooting at precisely the same time
 every day."
-
+Он начинает ухать примерно в одинаковое
+время, каждый день.
 It always stands on one foot.
-
+Он всегда стоит на одной лапе.
 "It switches its standing foot so quickly, it
 can't be seen."
-
+Он меняет свою неподвижную лапу так
+быстро, что это никто не замечает.
 It is an Owl PokГ©mon.
-
+Это Совиный Покемон.
 It has a persistent nature.
-
+У него постоянный характер.
 "At first sight, it takes a bite out of anything
 that moves."
-
+Завидев движение, он пытается укусить
+движущийся объект.
 "A distinguishing feature is how large its fangs
 are compared to its body."
-
+Отличительной чертой является то, как
+велики его зубы по сравнению с телом.
 It is a Bite PokГ©mon.
-
+Это Кусачий Покемон.
 It lives alone, away from others.
-
+Он живет один, вдали от других.
 Its wings deliver wicked blows.
-
+Его крылья наносят жестокие удары.
 It searches for prey in icy seas.
-
+Он ловит добычу в ледяных морях.
 It is a Penguin PokГ©mon.
-
+Это Покемон Пингвин.
 Its thick down guards it from cold.
-
+Его густой пух защищает его от холода.
 It lives along shores in northern countries.
-
+Он живет на побережьях северных стран.
 It is a skilled swimmer.
-
+Он умелый пловец.
 It is a Penguin PokГ©mon.
-
+Это Покемон Пингвин.
 It lives among tall grasses and in forests.
-
+Он живёт в высокой траве и лесах.
 It chases off foes by flapping up sand.
-
+Он отпугивает врагов, поднимая пыль.
 It is docile, but it can strike back ferociously.
-
+Он спокоен, но может нанести яростный
+ответный удар.
 It is a Tiny Bird PokГ©mon.
-
+Это Покемон Птичка.
 It is very weak at birth. It can barely walk.
-
+При рождении очень слаб. Он едва может
+передвигаться.
 Its hooves are extremely hard.
-
+Его копыта очень твёрдые.
 Its mane is made of fire.
-
+У него пламенная грива.
 It is a Fire Horse PokГ©mon.
-
+Это Покемон Огненный Конь.
 It is programmed with only basic motions.
-
+Он запрограммирован только на основные
+движения.
 "It can't perform motions that have not been
 programmed."
-
+Он не может выполнять действия, которые
+не были запрограммированы.
 It is capable of moving freely in cyberspace.
-
+Он может свободно перемещаться по
+киберпространству.
 It is a Virtual PokГ©mon.
-
+Это Виртуальный Покемон.
 It is fully covered by nonflammable fur.
-
+Он полностью покрыт огнеупорным мехом.
 It keeps foes at bay with intense flames.
-
+Он держит врагов на расстоянии с помощью
+интенсивного пламени.
 It attacks with the fire on its back.
-
+Он атакует врагов огнём на спине.
 It is a Volcano PokГ©mon.
-
+Это Вулканический Покемон.
 Its body is very skinny.
-
+У него очень худое тело.
 It prefers hot and humid places.
-
+Он предпочитает жаркие и влажные места.
 "It plants its feet deep underground to replenish
 water."
-
+Он зарывает свои конечности глубоко в
+землю, чтобы восполнить влагу.
 It is a Flower PokГ©mon.
-
+Это Покемон Цветок.
 It has a fin on its head.
-
+У него есть плавник на голове.
 "In water, it breathes using the gills on its
 cheeks."
-
+Находясь в воде, он дышит с помощью
+жабр на щеках.
 It has the strength to heft boulders.
-
+У него достаточно силы, чтобы поднимать
+валуны.
 It is a Mud Fish PokГ©mon.
-
+Это Земноводный Покемон.
 "Being close to it is refreshing, as if relaxing
 in a sunny forest."
-
+Находясь рядом с ним, можно почувствовать
+себя легче, словно вы в солнечном лесу.
 It has flower petals around its neck.
-
+Его шею окольцовывают лепестки.
 Its breath can revive dead plants and flowers.
-
+Его дыхание может оживить увядшие
+растения и цветы.
 It is an Herb PokГ©mon.
-
+Это Травяной Покемон.
 "It uses ceilings and walls to launch aerial
 attacks."
-
+Он использует потолок и стены, чтобы
+атаковать с воздуха.
 Its fiery tail is only one of its weapons.
-
+Его огненный хвост - лишь одно из его
+орудий.
 "It stretches the fire on its tail to make itself
 appear bigger."
-
+Он разжигает огонь на своем хвосте, чтобы
+казаться больше.
 It is a Playful PokГ©mon.
-
+Это Игривый Покемон.
 "It hides any shiny object it finds in a secret
 location."
-
+Он прячет любой найденный им блестящий
+предмет в укромные места.
 It is said to be the bearer of ill fortune.
-
+По слухам, приносит несчастья.
 "It is believed to bring misfortune to those who
 see it at night."
-
+Считается, что он приносит несчастья тем,
+кто видит его ночью.
 It is a Darkness PokГ©mon.
-
+Это Тёмный Покемон.
 It is always itching to go on a wild rampage.
-
+Он всегда норовит побуянить.
 It is simply incapable of remaining still.
-
+Он просто неспособен стоять спокойно.
 "Its stress level rises if it can't be moving
 constantly."
-
+Он нервничает, если не может постоянно
+передвигаться.
 It is a Wild Monkey PokГ©mon.
-
+Это Обезьяний Покемон.
 "It turns aggressive if it has too much
 electricity charged in its electric pouches."
-
+Если в его электрощечках накопится
+много заряда, он станет аггресивнее.
 It has electric pouches in its cheeks.
-
+В его щёчках есть электрические мешочки.
 "It discharges electricity by planting its tail in
 the ground."
-
+Он разряжает электричество, упираясь
+хвостом в землю.
 It is a Mouse PokГ©mon.
-
+Это Мышиный Покемон.
 "It predicts storms by sensing changes in the
 sounds of waves and tidal winds with its fins."
-
+Он предугадывает бури, тонко улавливая
+изменения звуков волн и ветра плавниками.
 "It protects its nest from storms by piling up
 boulders."
-
+Он защищает гнездо от бурь, натаскивая
+в него камней.
 "With one swing of its thick arm, it can batter
 down its foe."
-
+Он может вырубить врага одним ударом его
+крепкой лапы.
 It is a Mud Fish PokГ©mon.
-
+Это Земноводный Покемон.
 It has vicious claws.
-
+У него острые когти.
 The tip of its tail is burning.
-
+На кончике его хвоста горит пламя.
 "If it becomes agitated in battle, the flame on
 its tail burns more intensely."
-
+Если он рассвирепеет в бою, то пламя на
+его хвосте будет гореть ярче.
 It is a Flame PokГ©mon.
-
+Это Пламенный Покемон.
 "Its fire burns hotter if it has experienced
 harsh battles."
-
+Чем чаще он сражается, тем горячее
+становится его пламя.
 It flies high on its wings.
-
+Он летает на своих крыльях.
 "When breathing intense fire, the tip of its tail
 also flares ferociously."
-
+При выдохе огня, кончик его хвоста также
+вспыхивает ярким пламенем.
 It is a Flame PokГ©mon.
-
+Это Пламенный Покемон.
 "It is very timid and swarms with others right
 away."
-
+Он очень робок и старается держаться
+рядом с себе подобными.
 "In cold weather, they cluster to keep each
 other warm."
-
+В холодную погоду они сбиваются в группы,
+чтобы согреть друг друга.
 "It secretes an aromatic fluid from its leg to
 indicate its location."
-
+Он выделяет аромат из своей ножки, чтобы
+указать свое местоположение.
 It is a Five Star PokГ©mon.
-
+Это Пятизвёздный Покемон.
 "It toughens up its legs by running through
 fields and mountains."
-
+Он укрепляет ноги, бегая по полям и
+горам.
 It emits sharp cries to intimidate foes.
-
+Он издает пронзительные крики, чтобы
+запугать врагов.
 "It battles with intense fire and outstandingly
 destructive kicks."
-
+Он сражается огнём и невероятно мощными
+пинками.
 It is a Young Fowl PokГ©mon.
-
+Это Покемон Птица.
 It is small, but rough and tough.
-
+Он маленький, но крепкий и сильный.
 "Its well-developed jaws are powerful and
 capable of crushing anything."
-
+Его развитые челюсти позволяют ему
+прокусывать всё подряд.
 It has the habit of biting anything.
-
+Он обладает привычкой кусать всё подряд.
 It is a Big Jaw PokГ©mon.
-
+Это Большеротый Покемон.
 It flocks in great numbers.
-
+Он слетается в большие стаи. 
 "Though small, it flaps its wings with great
 power."
-
+Он мал, но способен махать крыльями с
+огромной силой.
 Its cries are very strident.
-
+Его крики очень пронзительны.
 It is a Starling PokГ©mon.
-
+Это Покемон Скворец.
 It is very intelligent and persistent.
-
+Он очень умный и стойкий.
 It is said to live for a thousand years.
-
+По слухам, он может жить тысячу лет.
 It has nine tails.
-
+У него девять хвостов.
 It is a Fox PokГ©mon.
-
+Это Покемон Лиса.
 It is said to live in mountainous areas.
-
+Он живёт в гористой местности.
 It rarely travels to the base of mountains.
-
+Он редко спускается к подножию гор.
 "It appears before people only to warn them of
 impending danger."
-
+Он появляется перед людьми, чтобы
+предупредить их о приближающейся беде.
 It is a Disaster PokГ©mon.
-
+Это Катастрофический Покемон.
 It is strong despite its compact size.
-
+Несмотря на свой размер, он очень силён.
 It likes to dig holes in riverbanks.
-
+Он любит рыть норы на берегах рек.
 It uses its long nose to shower itself.
-
+Он использует свой длинный нос, чтобы
+умываться.
 It is a Long Nose PokГ©mon.
-
+Это Длинноносый Покемон.
 Its body shines if endangered.
-
+Его тело сияет, если ему грозит
+опасность.
 "Its forelegs have a muscle-based system of
 generating electricity."
-
+Мускулы его передних лап имеют свойство
+вырабатывать электричество.
 "Its fur dazzles when in danger, and it flees
 while the foe is momentarily blinded."
-
+В момент опасности, его мех вспыхивает
+светом, позволяя ему уйти от врага.
 It is a Flash PokГ©mon.
-
+Это Покемон Вспышка.
 Its body is clad in a thick hide.
-
+Его тело имеет толстую шкуру.
 Its bones are said to be very strong and solid.
-
+Его кости очень прочные.
 "Once it starts charging, it won't stop until it
 falls asleep."
-
+Если он начнет бежать, он не остановится,
+пока не свалится от усталости.
 It is a Spikes PokГ©mon.
-
+Это Шипастый Покемон.
 "It violently shudders its wings, generating
 ultrasonic waves."
-
+Он яростно взмахивает крыльями, генерируя
+ультразвуковые волны.
 Its ultrasonic waves can make enemies faint.
-
+Его ультразвуковые волны могут заставить
+врагов упасть без сознания.
 "Its ultrasonic waves are so strong they can
 induce headaches."
-
+Его ультразвуковые волны настолько
+мощны, что могут вызвать головную боль.
 It is a Vibration PokГ©mon.
-
+Это Вибрационный Покемон.
 "It makes a pit in desert sand and waits at the
 bottom for prey to come tumbling down."
-
+Он выкапывает яму в песке пустыни и ждёт
+на дне, пока добыча не свалится вниз.
 Its large jaw is strong enough to crush rocks.
-
+Его крепкие челюсти могут дробить камни.
 It can go up to a week without water.
-
+Он может целую неделю жить без воды. 
 It is an Ant Pit PokГ©mon.
-
+Это Покемон Роющий Ямы.
 It stores electricity in its fur.
-
+Он накапивает электричество в шерсти.
 "It stimulates its muscles using electricity to
 heighten its reaction speed."
-
+Он стимулирует мускулы электричеством,
+повышая свою скорость реакции.
 It runs so fast it is merely a blur.
-
+Он бегает молниеносно быстро.
 It is a Lightning PokГ©mon.
-
+Это Молниевый Покемон.
 It moves very quickly.
-
+Он перемещается очень быстро.
 It moves so fast that it cannot be seen.
-
+Он движется так быстро, что его трудно
+заметить.
 It congregates around tree sap.
-
+Он обожает древесный сок.
 It is a Ninja PokГ©mon.
-
+Это Покемон Ниндзя.
 It has very large, long tusks.
-
+У него очень большие, длинные бивни.
 Its body is clad in a thick hide.
-
+Его тело имеет толстую шкуру.
 "It attacks by curling up, then rolling into its
 foe."
-
+Он сворачивается в шар и катится во
+врага.
 It is an Armor PokГ©mon.
-
+Это Бронированный Покемон.
 It spins around when it walks.
-
+Он кружится при ходьбе.
 Its erratic step fouls the aim of foes.
-
+Его беспорядочные движения сбивают не
+дают врагам прицелиться по нему.
 It has spots.
-
+На нём есть пятна.
 It is a Spot Panda PokГ©mon.
-
+Это Покемон Пятнистая Панда.
 "It uses fancy footwork to get close to
 enemies."
-
+Он причудливо перебирает ногами, чтобы
+подобраться поближе к врагам.
 Its arms stretch when it throws punches.
-
+Его руки вытягиваются при нанесении
+ударов.
 "The seeds on its tail are made of
 hard-packed poison."
-
+Семена на его хвосте очень ядовиты.
 It is a Mushroom PokГ©mon.
-
+Это Грибной Покемон.
 It can run very quickly to charge enemies.
-
+Он может очень быстро бегать, чтобы
+атаковать врагов.
 "It's very difficult for it to take even the
 slightest curve."
-
+Ему очень трудно свернуть с пути.
 If it doesn't stop quickly, it cannot turn.
-
+Если он не остановится, он не сможет
+сменить направление бега.
 It is a Rushing PokГ©mon.
-
+Это Стремительный Покемон.
 It fights while spinning like a top.
-
+Он сражается, вращаясь на голове.
 "It spins on its head to time its attacks against
 enemies."
-
+Он отражает удары врагов, вращаясь на
+своей голове.
 It kicks while spinning.
-
+Он пинает врагов при вращении.
 It is a Handstand PokГ©mon.
-
+Это Стоящий на Руках Покемон.
 It is said to live in treetop colonies.
-
+Обычно живёт на деревьях, в колониях.
 It's always angry.
-
+Он постоянно злится.
 "If one becomes enraged, the whole colony
 rampages for no reason."
-
+Если он приходит в ярость, вся колония
+начинает бесноваться без всякой причины.
 It is a Pig Monkey PokГ©mon.
-
+Это Обезьяний Покемон.
 Its body is lithe yet powerful.
-
+Его тело гибкое, но мощное.
 "It is said to be able to crest three mountains
 and cross two canyons in one night."
-
+Говорят, что за одну ночь он может
+пересечь три горы и два каньона.
 It emanates an aura from its body.
-
+Он излучает ауру.
 It is an Emanation PokГ©mon.
-
+Это Эманационный Покемон.
 It has the ability to sense auras.
-
+Он может чувствовать ауры других.
 It is a Fighting- and Steel-type PokГ©mon.
-
+Это Покемон Боевого и Стального типов.
 "It can read others' thoughts and movements
 from their auras."
-
+Он может читать мысли и движения существ
+по их аурам.
 It is an Aura PokГ©mon.
-
+Это Ауровый Покемон.
 "Its claws loose electricity with enough
 voltage to cause fainting."
-
+Его когти выделяют электричество, чего
+хватает, чтобы вызвать обморок.
 They live in small groups.
-
+Они живут в небольших группах.
 "It communicates with rhythmic electric pulses
 from its claws."
-
+Он общается с помощью электрических
+импульсов, исходящих от его когтей.
 It is a Spark PokГ©mon.
-
+Это Искрящий Покемон.
 Its eyes gleam gold.
-
+Его глаза отливают золотым цветом.
 It has eyes that can see through anything.
-
+Он может видеть сквозь что угодно.
 "It spots and captures prey hiding behind
 objects."
-
+Он видит свою добычу даже сквозь
+препятствия.
 It is a Gleam Eyes PokГ©mon.
-
+Это Просвечивающий Покемон.
 It controls balls of fire.
-
+Он контролирует огненные шары.
 It has six tails.
-
+У него шесть хвостов.
 "As it grows, its six tails split from their tips
 to make more tails."
-
+Вырастая, его шесть хвостов разделяются
+и получается больше хвостов.
 It is a Fox PokГ©mon.
-
+Это Покемон Лиса.
 It is a master of courtesy.
-
+Он очень учтив.
 It fights using extending swords on its elbows.
-
+Он сражается удлинняющимися мечами на
+локтях.
 It is a master of swordsmanship.
-
+Это мастер владения клинками.
 It is a Blade PokГ©mon.
-
+Это Клинковый Покемон.
 It is always smiling.
-
+Он всегда улыбается.
 It loves eating sweet fruit.
-
+Он любит есть сладкие фрукты.
 "It grows strong by pushing up against others
 as part of a group."
-
+Он становится сильнее, отталкиваясь от
+других в группе.
 It is a Bright PokГ©mon.
-
+Это Яркий Покемон.
 "Its large limbs and tail boast of its intense
 strength."
-
+Его большие конечности и хвост обладают
+невероятной силой.
 "Its skin is as hard as a rock, and it has a long
 horn."
-
+Его кожа крепка словно камень. Кроме
+того, у него длинный рог.
 Its horn is poisonous.
-
+Его рог ядовит.
 It is a Drill PokГ©mon.
 -
 [string0] used the [item:0].
@@ -104784,7 +104956,7 @@ Team Skull
  И это [CS:K]Кангасхан[CR]-Хранилище.\nВещи, что хранятся у неё, никогда не\nбудут потеряны.
  Если у тебя есть нечто\nценное, что не хотелось бы потерять,\nположи это на хранение перед вылазкой.
  Всё это - основные места\nдля команд исследователей.
- Всё это - основые места,\nкуда приходят команды исслдеователей.
+ Всё это - основые места,\nкуда приходят команды исследователей.
 +++
  That about covers it, I guess.
  And that should do it.
@@ -105292,4 +105464,2494 @@ Team Skull
  Если мы будем готовы к\nвыполнению задания, то нужно сказать об\nэтом [CS:N]Бидуфу[CR] у Доски Разыскиваемых.
  Если мы будем готовы к\nвыполнению задания, то надо сказать об\nэтом [CS:N]Бидуфу[CR] у Доски Разыскиваемых.
  Если мы будем готовы к\nвыполнению задания, то нужно сказать об\nэтом [CS:N]Бидуфу[CR] у Доски Разыскиваемых.
++++
+ All right![K] Time to buck up and\nWORK HARD!
+ Значит, так![K] Время взбодриться\nи ПОРАБОТАТЬ!
++++
+ The name\'s [CS:N]Croagunk[CR].
+ Nice to meet you, rookies.\nMeh-heh-heh.
+ Звать меня [CS:N]Кроганк[CR].
+ Рад знакомству, новички.\nХе-хе-хе.
++++
+ You two![K] Did [CS:N]Bidoof[CR] give you a\ntour of the premises?
+ Very well. Then I want you to\nexamine the Outlaw Notice Board.
+ Choose a weak criminal or two.\nThat should be suitable for you! ♪[K] I can trust\nyou with that, I\'m sure! ♪
+
+ Вы, двое![K] [CS:N]Бидуф[CR] уже показал вам\nокрестности?
+ Очень хорошо. В таком случае,\nвам нужно осмотреть Доску Разыскиваемых.
+ Выберите для себя негодяя\nпослабее. Или пару негодяев, что вам по\nсилам! ♪[K] Уверен, вы справитесь! ♪
++++
+ How do you like living in the\nguild?[K] Is it fun?
+ Friendly friends! ♪[K] Go out and\nwork hard for us!
+
+ Как вам жизнь в гильдии?[K]\nВесело?
+ Добрые мои друзья! ♪[K]\nПоработайте как следует!
++++
+ Oh?[K] Hungry already?
+ But it\'s not dinner yet!
+ I\'ll ring for everyone when\ndinner is served. Until then, you should keep\nup your training! ♪
+
+ Ой?[K] Уже проголодались?
+ Но время ужинать ещё не\nнаступило!
+ Когда я подам ужин, я зазвеню\nвам. А пока, продолжайте тренироваться! ♪
++++
+ Huh?[K] Are you folks all set and\nready for some exploring?
+Yes
+No
+ Not yet, huh?
+ Just give me a holler when\nyou\'re all ready to go.
+ Then we\'ll all have a gander at\nthe Outlaw Notice Board and pick out a suitable\noutlaw for you.
+
+ Так что?[K] Вы подготовились к\nвылазке?
+Да
+Нет
+ Ещё нет, так?
+ Сообщите мне, если приготовитесь\nк вылазке.
+ После этого, мы посмотрим на\nДоску Разыскиваемых и я помогу подобрать\nнегодяя вам по силам.
++++
+ Oh, yes sirree! Reckon you all\nare all ready!
+ Then let\'s pick ourselves a\nlawbreaker for you to find.
+ Well, you\'ve got your pick of\nthis sorry bunch of characters.
+ Let\'s see. Which should we pick?
+ Ahem.[K] As your mentor, how\nabout I do the choosing?
+ Don\'t pick one that looks scary!
+ Don\'t choose anyone too scary!
+ Please don\'t pick anyone scary!
+ Yes sirree, I hear you![K] Let\'s see.\nEenie, meenie…
+ Stand clear! Updating listings!
+ What\'s that? What\'s happening?
+ Oh, the data\'s getting updated.
+ It\'s being...updated?
+ Yikes! Did you see that?! The\npanel flipped over!
+ Yikes! Did you see that?! The\npanel flipped over!
+ What\'s going on here?
+ The Outlaw Notice Board and Job\nBulletin Board are set up on revolving panels.
+ While the panel is flipped over…
+ A Pokémon named [CS:N]Dugtrio[CR]\nswaps out the old jobs with new ones.
+ [CS:N]Dugtrio[CR]?
+
+ О, прекрасно! Вы готовы!
+ Тогда, нужно выбрать вам\nподходящего по силам негодяя.
+ У вас есть выбор из этих печально\nизвестных личностей.
+ Посмотрим. Кого же нам\nвыбрать?
+ Кхм.[K] Поскольку я вам помогаю, то,\nможет лучше я выберу за вас?
+ Только не выбирай тех, кто\nвыглядит страшно!
+ Но не выбирай никого, кто\nвыглядит страшно!
+ Прошу, только не выбирай\nтех, кто выглядит страшно!
+ Конееечно, вас понял![K] Посмотрим.\nЭники-беники...
+ Просьба отойти! Обновление заданий!
+ Что это? Что происходит?
+ А, задания обновляются.
+ Они... Обновляются?
+ Ой! Ты видел?! Доска\nперевернулась!
+ Ой! Ты видела?! Доска\nперевернулась!
+ Что здесь происходит?
+ Доска Объявлений и Доска\nРазыскиваемых сделаны таким образом,\nчтобы вращаться.
+ Когда доска переворачивается...
+ Покемон [CS:N]Дагтрио[CR] заменяет\nустаревшие задания новыми.
+ [CS:N]Дагтрио[CR]?
++++
+ Updating data is [CS:N]Dugtrio[CR]\'s duty.
+ He tunnels his way to our guild…
+ Then he flips the panel and\nupdates the data.
+ This duty doesn\'t get noticed\nmuch, but it\'s very important. Yup yup!
+ That\'s why [CS:N]Dugtrio[CR] takes such\ngreat pride in the duty he does!
+
+ Обновление заданий - это\nобязанность [CS:N]Дагтрио[CR].
+ Он прокапывается до нашей\nгильдии...
+ После чего переворачивает доски и\nзаменяет задания.
+ Его работу мало кто замечает, но\nона очень важна. Да-да!
+ Именно поэтому [CS:N]Дагтрио[CR] так\nгордится своей работой!
++++
+ Oh, is that so?
+ Update completed! Stand clear!
+ Oh, looks like he\'s done.
+ Yes sirree! The data is updated.
+ The list of outlaws has been\nrefreshed, so let\'s pick one.
+ Huh? What\'s ailing you?[K] Why\nare you shivering all of a sudden?
+ Huh? What\'s ailing you?[K] Why\nare you shivering all of a sudden?
+ It\'s not cold here, after all.
+ T-t-take a look at this,\n[hero]!
+ L-l-look at this, [hero]!
+ P-p-please look at this,\n[hero]!
+ Up top! On the left!
+ At the top! On the left!
+ It\'s [CS:N]Drowzee[CR]![K] H-he\'s a\nwanted criminal!
+ We have to get moving! [CS:N]Azurill[CR]\nwill be in serious trouble!
+ We have to get moving! [CS:N]Azurill[CR]\nwill be in danger!
+ We have to hurry! [CS:N]Azurill[CR] will\nbe in trouble!
+ Now what\'s going on?
+ Where are you all off to?
+
+ О, вот значит как?
+ Задания обновлены! Просьба отойти.
+ О, кажется, он закончил.
+ Верррно! Задания обновлены.
+ Список негодяев обновился,\nпоэтому выберем кого-нибудь.
+ А? Что случилось?[K] Почему ты так\nвнезапно начал дрожать?
+ А? Что случилось?[K] Почему ты так\nвнезапно начала дрожать?
+ Здесь ведь совсем не холодно.
+ П-п-посмотри, [hero]!
+ В-в-взгляни на это,\n[hero]!
+ П-п-прошу, посмотри,\n[hero]!
+ Сверху! Слева!
+ В верхнем левом углу!
+ Это [CS:N]Дроузи[CR]![K]\nО-он разыскиваемый преступник!
+ Нам нужно спешить! [CS:N]Азурилл[CR]\nв ужасной опасности!
+ Нам нужно спешить! [CS:N]Азурилл[CR]\nв опасности!
+ Поспешим! [CS:N]Азурилл[CR] в ужасной\nопасности!
+ Да что происходит?
+ Куда они убежали?
++++
+ Hey! There\'s [CS:N]Marill[CR]!
+ Look! There\'s [CS:N]Marill[CR]!
+ Oh! [CS:N]Marill[CR]\'s over there!
+ [CS:N]Marill[CR], what\'s wrong?
+ [CS:N]Marill[CR], what\'s the matter?
+ Where are [CS:N]Azurill[CR] and [CS:N]Drowzee[CR]?
+ Yes...about them...!
+ After we all left, we went\nlooking for our lost item together…
+ But I wound up all alone when\nMr. [CS:N]Drowzee[CR] went somewhere with [CS:N]Azurill[CR].
+ I called and called! But they\ndidn\'t come back.[K] I got scared…
+ So which way did they go?!
+ Th-that way!
+
+ Эй! Это же [CS:N]Марилл[CR]!
+ Смотри! Это [CS:N]Марилл[CR]!
+ Ой! Там [CS:N]Марилл[CR]!
+ [CS:N]Марилл[CR], что случилось?
+ [CS:N]Марилл[CR], что произошло?
+ Где [CS:N]Азурилл[CR] и [CS:N]Дроузи[CR]?
+ Да... Они!..
+ После того, как мы ушли из\nгорода, мы отправились на поиски нашей\nпропавшей вещи...
+ Но, когда Мистер [CS:N]Дроузи[CR] куда-то\nпошёл с [CS:N]Азуриллом[CR], я оказался один.
+ Я долго их звал! Но они так и не\nпоявились.[K] Я испугался...
+ Куда они ушли?!
+ Т-туда!
++++
+ You\'re sure [CS:N]Drowzee[CR] and [CS:N]Azurill[CR]\nwent off in this direction?
+ You think [CS:N]Drowzee[CR] and [CS:N]Azurill[CR]\nwent in this direction?
+ So you think that [CS:N]Drowzee[CR] and\n[CS:N]Azurill[CR] went off in this direction?
+ Yes…
+ Oh, [hero]! The [CS:N]Drowzee[CR]\nand [CS:N]Azurill[CR] you saw in your dream…
+ Oh, [hero]! The [CS:N]Drowzee[CR]\nand [CS:N]Azurill[CR] you saw in your dream…
+ You said you saw them in a\nmountainous place, right?
+ You said you saw them in a\nmountainous place, right?
+ I think the two of them are up\nahead here.
+ I get the feeling that they\'re\nup ahead here.
+ I think they\'re up ahead here.
+ Let\'s roll, [hero]. Quick!
+ Let\'s get going, [hero]!
+
+ Ты уверен, что [CS:N]Дроузи[CR] и\n[CS:N]Азурилл[CR] пошли в эту сторону?
+ Ты считаешь, что [CS:N]Дроузи[CR] и\n[CS:N]Азурилл[CR] пошли в эту сторону?
+ Думаешь, что [CS:N]Дроузи[CR] и\n[CS:N]Азурилл[CR] пошли в эту сторону?
+ Да...
+ Ой, [hero]!\nТе [CS:N]Дроузи[CR] и [CS:N]Азурилл[CR], что ты видел в своём\nвидении...
+ Ой, [hero]!\nТе [CS:N]Дроузи[CR] и [CS:N]Азурилл[CR], что ты видела в\nсвоём видении...
+ Ты сказал, что они были в\nкакой-то гористой местности, так?
+ Ты сказала, что они были в\nкакой-то гористой местности, так?
+ Думаю, что эти двое где-то\nна вершине.
+ Подозреваю, что эти двое\nушли куда-то наверх.
+ Я думаю, что они где-то\nвпереди.
+ Пойдём, [hero].\nБыстрее!
+ Идём, [hero]!
++++
+ Hmm. That didn\'t end well…
+ Ugh. That didn\'t go well.
+ Hmm. That didn\'t end well…
+ Hmmm... This is pretty hard.\nLet\'s break for today.
+ Hmmm... This won\'t be easy...\nLet\'s break for today.
+ Hmmm... This is really tough...\nLet\'s call it off for today.
+
+ Хмм. У нас не вышло...
+ Ух. У нас не вышло...
+ Хмм. У нас не вышло...
+ Хммм... Это нелёгкая\nзадача. Сделаем перерыв.
+ Хммм... Будет непросто...\nСделаем перерыв.
+ Хммм... Это очень трудная\nзадача... Нужно передохнуть.
++++
+ Ah, you two. Are you more or\nless settled into the guild?
+ If you\'ve finally made yourself\ncomfortable, then you should get down to work.
+ It will be good to earn loads of\nmoney for yourselves...and the guild! ♪
+
+ А, вы двое. Ну как, более-менее\nосвоились в гильдии?
+ Если вы наконец-то устроились,\nвам нужно приниматься за работу.
+ Будет неплохо, если вы заработаете\nкучу денег для себя...и для гильдии! ♪
++++
+ HEY! [CS:N]Diglett[CR]!
+ Let me know right away if\nANYONE sketchy comes along!
+ Yes! Will do!
+
+ ЭЙ! [CS:N]Диглетт[CR]!
+ Дай мне знать, если сюда придёт\nКТО-НИБУДЬ подозрительный!
+ Да! Разумеется!
++++
+ The other day, you all went off\nrunning in a mighty rush.
+ What was that all about?
+
+ В тот день, вы начали спешить\nи куда-то убежали.
+ К чему всё это было?
++++
+ Yes?[K] Oh, you want to know\nhow the Job Bulletin Board works?
+Yes
+ Very well.[K] I will be happy to\nexplain it to you.
+ First, you walk up to the Job\nBulletin Board and press [M:B2].
+ Using the Job Bulletin Board,\nfirst choose the jobs you want to do someday.
+ The jobs you chose will then\nappear in your menu\'s Job List. Each whole job\nletter will be there with all the details.
+ Then use the Take Job command\nto activate jobs on your Job List.[K] After that,\nyou can go to the dungeon to do the job!
+ Don\'t forget! You must activate\na job with Take Job if you want to do it.
+No
+ This Job Bulletin Board fills up\nwith many kinds of jobs.
+ They represent the cries of\nPokémon who are calling for our help.
+ Lending a helping hand to such\nPokémon in need is an important part of an\nexploration team\'s work.
+
+ Да?[K] О, ты хочешь знать, как\nработает Доска Объявлений?
+Да
+ Хорошо.[K] Буду рада объяснить\nэто.
+ Сперва, нужно подойти к Доске\nОбъявлений и нажать [M:B2].
+ Далее, нужно выбрать задания,\nчто ты хочешь сделать.
+ Выбранные задания появятся в\nтвоём Списке Заданий. Все подробности\nзадания будут описаны в самом письме.
+ После этого, нажми Взяться,\nчтобы начать выполнять выбранные задания.[K]\nДалее можно идти в подземелье!
+ Не забудь! Тебе нужно Взяться\nза задание, прежде чем начать его\nвыполнять.
+Нет
+ На Доске Объявлений каждый раз\nразмещаются самые разные задания.
+ Они - зов о помощи тех\nПокемонов, что нуждаются в нас.
+ Важная часть работы\nисследователей - это помощь Покемонам\nв беде.
++++
+ Hey, hey! You\'re going out on an\nexploration?
+ You can start exploring by going\nout this way, hey, hey!
+ Hey, hey! You be careful!
+ Hey, hey! If you\'re looking for\nadventure, you gotta get ready for whatever\ncomes your way!
+
+ Эй, эй! Вы идёте на вылазку?
+ Вы можете начать её, если\nпойдёте направо, эй, эй!
+ Эй, эй! Будьте осторожны!
+ Эй, эй! Если хотите успешной\nвылазки, то будьте готовы ко всему!
++++
+ Ahoy![K]\nAre you headed to the beach?
+ Well…
+ Would you keep an eye out for\nsomething, if you could?
+ Recently...[K]there have been\nBottles washing up on the beach…
+ It looks as though there\'s\nsomething inside those Bottles…
+ If that sounds interesting, you\nmight want to look for Bottles on the beach.
+ Bottles washing up on\nthe beach…
+ Bottles with something\nin them…
+ I\'m sold. Let\'s check it out.
+ I\'m interested…
+ Sounds interesting…
+ Sounds like they\'re only washing\nup now and then…
+ Whenever we head to the beach,\nwe can look for a Bottle!
+
+ Ахой! Вы идёте на пляж?
+ Тогда...
+ Можете кое на что обратить\nвнимание?
+ С недавних пор... На пляж начали\nпопадать Бутылки...
+ И судя по всему, в этих Бутылках\nчто-то есть...
+ Если вам интересно, то вы скорее\nвсего захотите поискать такие Бутылки на пляже.
+ Бутылки, попадающие на\nпляж...
+ В Бутылках что-то есть...
+ Ни слова больше. Нужно\nпроверить.
+ Я заинтересован...
+ Звучит интересно...
+ Похоже, что их иногда\nвымывает из моря...
+ Если мы будем идти на пляж,\nто можно поискать Бутылку!
++++
+[CN]There\'s a Bottle here.
+[CN]Huh?[K] It looks like there\'s something inside.\n[CN]Would you like to try and take it out?
+Yes
+[CN]There was a Treasure Memo inside!\n[CN]Would you like to add it to your Job List?
+Yes
+[CN]The Treasure Memo was added\n[CN]to your Job List.
+[CN]The job was added\n[CN]to your Job List.
+[CN]Your Job List is full,\n[CN]so you cannot add to it.
+No
+[CN]There was a Job Letter inside!\n[CN]Add it to your Job List?
+Yes
+No
+No
+
+[CN]Это Бутылка.
+[CN]Что?[K] Похоже, внутри что-то есть.\n[CN]Вынуть содержимое?
+Да
+[CN]Внутри Записка о Сокровищах!\n[CN]Хотите добавить её как Задание в Список\n[CN]Заданий?
+Да
+[CN]Записка о Сокровищах\n[CN]добавлена в Список Заданий.
+[CN]Задание добавлено в Список Заданий.
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете добавить ещё одно Задание.
+Нет
+[CN]Внутри Записка с Заданием!\n[CN]Хотите добавить Задание в Список Заданий?
+Да
+Нет
+Нет
++++
+ Oh, [hero] and\n[partner]!
+ It\'s me! [CS:N]Spoink[CR]!
+ Thank you so much for getting\nmy pearl back for me!
+ I\'ll give you a useful tip as\nfurther gratitude! ♪
+ Inside a dungeon...[K]until you make\na move, no enemies can take their turns. Did\nyou know that surprising fact?
+ So when you run into an enemy\nin a dungeon...[K]you don\'t have to panic.
+ That gives you time to stay calm\nwhile you choose what to do. You\'ll be a\ngreat explorer if you make careful choices! ♪
+
+ О, [hero] и\n[partner]!
+ Это я! [CS:N]Споинк[CR]!
+ Спасибо ещё раз, что вернули\nмне мою жемчужину!
+ Я хочу дать вам один полезный\nсовет в знак признательности! ♪
+ В подземелье...[K] Враги не будут\nсовершать действий, пока этого не сделаете\nвы. Вы знали этот удивительный факт?
+ Поэтому, если вы наткнётесь на\nврага...[K] Паниковать не стоит.
+ Лучше подойти к ситуации\nспокойно и обдумать свои действия.\n\nЕсли не спешить, то вы станете лучшими\nисследователями! ♪
++++
+ Uh-oh. It\'s a dead end.
+ Excuse me, Mr. [CS:N]Drowzee[CR]. Where\nis my lost item?
+ Could you show me where the\nitem is now?
+ Sorry, kiddo.
+ Your lost item? It\'s not here,\nthat\'s for sure.
+ Huh?
+ My...big brother…
+ My big brother\'s following us,\nright? He\'s coming soon?
+ Nope. Your big brother\'s\nnot coming.
+ I\'ll let you in on a little secret.\nThis was all a trick.[K] I deceived you.
+ Huh?!
+ But let\'s not dwell on that.\nThere\'s a little favor I need to ask.
+ See that hole behind you?
+ Well…
+ There\'s a rumor that there\'s a\ntrove of thief treasure inside there!
+ But as you can see, I\'m too big\nto squirm my way through that hole.
+ And that\'s where you come in!
+ Don\'t worry. Just do as I say.
+ Do that, then I\'ll help you get\nback out of there.
+ B-but…
+ Go on, get going!
+ Go into that hole. And don\'t\nforget to bring back the treasure!
+ I want my big brother!
+ H-hey! Stop that!
+ Sheesh! I said that I\'ll take you\nhome when you\'re done!
+ If you keep being difficult, it\nwill mean big trouble for you!
+ H-h-h...HELP!
+ Stop right there!
+ We won\'t let you do that![K]\n[CS:N]Drowzee[CR], you bully!
+ H-how did you find this place?!
+ We\'re Team [team:]![K]\nAn exploration team!
+ No criminal can escape us!
+ An exploration team?![K] You came\nto apprehend…
+ ...Huh?[K] Are you...trembling?
+ A-ha! I\'ve figured it out!
+ You say you\'re on an exploration\nteam, but you\'re total rookies!
+ Urk!
+ Heh.[K] That\'s right, I\'m a wanted\nPokémon with a bounty on my head.
+ But can you two do the job?
+ Can you confront this outlaw and\nbring him to justice?
+ Urk!
+ Y-yes. We can![K] Yes, we can!
+ We\'d never lose to a bad guy\nlike you!
+ Ha ha ha![K] I\'ve been chased by\nall sorts of exploration teams in my day…
+ But never a sorrier-looking\nbunch than you two!
+ Urk!
+ This should be a laugh.[K] Let\'s see\nif you can take me down.
+ Show me what you\'ve got!
+
+ Ой-ёй. Это тупик.
+ Извините, Мистер [CS:N]Дроузи[CR].\nГде моя потерянная вещь?
+ Можете показать мне, где она?
+ Прости, малыш.
+ Твоя потерянная вещь? Её здесь\nопределённо нет.
+ Что?
+ Мой...старший брат...
+ Мой старший брат идёт за нами,\nда? Он ведь придёт?
+ Не-а. Твой старший брат не\nпридёт.
+ Я раскрою тебе крохотную тайну.\nВсё это - уловка.[K] Я обманул тебя.
+ Что?!
+ Но не будем на этом\nзацикливаться. Я хочу тебя кое о чём\nпопросить.
+ Видишь эту щель позади тебя?
+ В общем...
+ Ходят слухи, что за ней\nскрывается тайник, полный награбленных\nсокровищ!
+ Но, как видишь, я немного\nвеликоват и не могу пролезть в эту щель.
+ А ты по размеру как раз\nподходишь!
+ Не переживай. Просто сделай так,\nкак я скажу.
+ Сделаешь и я помогу тебе оттуда\nвылезти.
+ Н-но...
+ Давай, пошевеливайся!
+ Залезай в щель. И не забудь\nпринести мне мои сокровища!
+ Я хочу к брату!
+ Э-эй! А ну прекращай!
+ Вот ведь! Я сказал, что отведу\nтебя домой, сразу после того, как\nсделаешь, что тебя просят!
+ Если ты продолжишь упираться,\nдля тебя это плохо кончится!
+ П-п-п... ПОМОГИТЕ!
+ Стой где стоишь!
+ Мы не позволим тебе это\nсделать![K] [CS:N]Дроузи[CR], ты негодяй!
+ К-как вы нашли это место?!
+ Мы - Команда [team:]![K]\nКоманда исследователей!
+ Ни один негодяй не\nускользнёт от нас!
+ Команда исследователей?![K]\nВы пришли арестовать...
+ ...А?[K] Ты что... Дрожишь?
+ А-га! Всё ясно!
+ Ты говоришь, что вы - команда\nисследователей, но на самом деле, вы ещё\nсовсем новички!
+ Ух!
+ Хе.[K] Да, так и есть.\nЯ - объявленный в розыск Покемон, за чью\nголову назначена награда.
+ Но сможете ли вы выполнить это\nзадание?
+ Сможете ли вы одолеть этого\nнегодяя и предать его правосудию?
+ Ух!
+ Д-да. Мы сможем![K] Да, мы\nсможем!
+ Мы никогда не проиграем\nкому-то вроде тебя!
+ Ха-ха-ха![K] В своё время меня\nпреследовали самые разные команды\nисследователей...
+ Но я ещё никогда не видел\nстоль жалкую группу, как вы!
+ Ух!
+ Это смехотворно.[K] Посмотрим,\nсможете ли вы со мной справиться.
+ Покажите, на что вы\nспособны!
++++
+ [CS:N]Drowzee[CR]!
+ Not you again.
+ Let go of [CS:N]Azurill[CR], [CS:N]Drowzee[CR]!
+ You foolish pests. Do I have to\nembarrass you again?
+ You seem to hunger for\npunishment. Let me help you out!
+ C\'mon! Whenever you want!
+
+ [CS:N]Дроузи[CR]!
+ Опять вы здесь.
+ Отпусти [CS:N]Азурилла[CR], [CS:N]Дроузи[CR]!
+ Глупые вредители. Мне снова\nуказать, где ваше место?
+ Вы так и жаждете наказания.\nЯ вам его предоставлю!
+ Вперед! Покончим с этим!
++++
+ Rrrrawrrr!
+ We came to rescue you.
+ We\'re here to rescue you.
+ Are you all right? You\'re not\nhurt, are you?
+ Are you OK? You\'re not hurt,\nare you?
+ I\'m OK.
+ Awesome! That\'s a big relief!
+ Your big brother is waiting.\nLet\'s go home!
+ OK.
+
+ Ррррааааа!
+ Мы пришли спасти тебя.
+ Мы здесь, чтобы спасти\nтебя.
+ Ты в порядке? Не ранен?
+ С тобой всё порядке?\nТы не ранен?
+ Я в порядке.
+ Чудесно! Какое облегчение!
+ Твой старший брат ждёт\nтебя. Идём домой!
+ Хорошо.
++++
+ ZZZT! I am [CS:N]Magnezone[CR], the\nprimary officer in this region! ZZZT!
+ ZZZT! Thanks to you…
+ We have been able to arrest a\nwanted outlaw! ZZZT!
+ ZZZT! We owe you great thanks\nfor your cooperation! ZZZT!
+ ZZZT! We will send the reward\nto your guild. Thank you again! ZZZT!
+ ZZZT! Now come with us! ZZZT!
+ Awww…
+ [CS:N]Azurill[CR]!
+ [CS:N]Marill[CR]!
+ Waaaaah!
+ [CS:N]Marill[CR]![K] It was so scary!
+ You OK, [CS:N]Azurill[CR]?[K] Are you hurt?
+ He\'s fine. The little guy\'s not\nhurt at all.
+ He\'s fine. The little guy hasn\'t\nbeen harmed in any way.
+ He\'s fine. The little guy\'s not\nhurt in any way.
+ Really?
+ That\'s a relief!
+ Oh, [CS:N]Azurill[CR]...[K][CS:N]Azurill[CR]…
+ I\'m really glad for you guys.
+ I\'m glad you kids are happy!
+ I\'m truly happy for you two!
+ You did this all for us,\n[partner] and [hero].
+ We won\'t forget what you did\nfor us.[K] Thank you so much.
+ Come on, [CS:N]Azurill[CR]. You too.
+ Yup…
+ Thank you very much![K] Thank you\nfor rescuing me!
+ Really...[K] Really, thank you!
+[CN]The Exploration Team Federation\n[CN]has sent a message...[W:30]
+[CN][hero]\'s team was rewarded\n[CN]with an enlarged Treasure Bag![W:100]
+[CN]You can now carry more\n[CN]items than you could before!
+[CN]Wait...[K]\n[CN]There\'s one more message.
+[CN]The Special Episode\n[CN]\"Bidoof\'s Wish\"\n[CN]has been unlocked![W:90]
+[CN]To play a Special Episode,\n[CN]select it from the Episode List\n[CN]on the Top Menu.
+[CN]If you would like to play the Special Episode,\n[CN]save your adventure progress, and\n[CN]return to the Top Menu.
+
+ БЗЗЗ! Я - [CS:N]Магнезон[CR], старший\nофицер этого региона! БЗЗЗ!
+ БЗЗЗ! Благодаря вам...
+ Нам удалось арестовать\nразыскиваемого преступника! БЗЗЗ!
+ БЗЗЗ! Мы очень благодарны вам\nза содействие! БЗЗЗ!
+ БЗЗЗ! Мы отправим награду в\nвашу гильдию. Благодарим ещё раз! БЗЗЗ!
+ БЗЗЗ! А теперь, идём с нами!\nБЗЗЗ!
+ Оххх...
+ [CS:N]Азурилл[CR]!
+ [CS:N]Марилл[CR]!
+ Уааааа!
+ [CS:N]Марилл[CR]![K] Мне было так страшно!
+ Ты в порядке, [CS:N]Азурилл[CR]?[K] Не ранен?
+ С ним всё в порядке.\nНа нём ни царапины.
+ С ним всё в порядке.\nЕму никто не навредил.
+ С ним всё в порядке.\nНа нём нет ни единой царапины.
+ Правда?
+ Какая радость!
+ О, [CS:N]Азурилл[CR]...[K] [CS:N]Азурилл[CR]...
+ Я очень рад за вас, ребята.
+ Я так рад, что вы\nсчастливы, ребята!
+ Я искренне рада за вас!
+ Вы сделали это всё ради нас,\n[partner] и [hero].
+ Мы никогда этого не забудем.[K]\nСпасибо огромное.
+ Давай, [CS:N]Азурилл[CR]. Скажи спасибо.
+ Да...
+ Спасибо огромное![K] Спасибо, что\nспасли меня!
+ Большое...[K] Большущее вам\nспасибо!
+[CN]Федерация Команд Исследователей\n[CN]прислала сообщение...[W:30]
+[CN]Ваша команда получает более вместительную\n[CN]Сумку с Ценностями![W:100]
+[CN]Теперь вы сможете носить больше вещей!
+[CN]Минутку...[K]\n[CN]Есть ещё одно сообщение.
+[CN]Разблокирован Особый Эпизод\n[CN]\"Желание Бидуфа\"![W:90]
+[CN]Чтобы сыграть в Особый Эпизод, выберите\n[CN]его из Списка Эпизодов в Главном Меню.
+[CN]Если вы хотите сыграть в Особый Эпизод,\n[CN]сохраните своё приключение и вернитесь в\n[CN]Главное Меню.
++++
+ I\'ve gotten the bounty from\nOfficer [CS:N]Magnezone[CR] for the captured outlaw! ♪
+ Well done, you two! ♪
+ Here\'s your share for the job.[K]\nIt\'s yours to keep! ♪
+[CN][hero]\'s team received\n[CN]the [CS:G]3[MP]000[CR][M:S0] bounty that was on\n[CN]the head of the captured outlaw!
+[CN]However…
+[CN]Because [CS:G]2[MP]700[CR][M:S0] of that\n[CN]is the guild\'s share…
+[CN]That portion was withheld…
+[CN]As a result,\n[CN][hero]\'s team…
+[CN]Received only the\n[CN]remaining [CS:G]300[CR][M:S0]!
+ Huh?! We get only this much?!
+ What?! This is all we get?!
+ No way! This is all we get?!
+ After all that hard work…
+ After all our effort…
+ ...[K]But of course![K] It\'s all part\nof the training!
+ And we expect just as much\neffort tomorrow![K] Hee-heeee! ♪
+ Urf…
+ You know, it would make me\nhappy if our share was just a little bigger.
+ I\'d be happy if our share of the\nreward was just a little bigger.
+ It would be nice if they\'d give\nus a slightly bigger share of the reward.
+ But that\'s all right.[K] We managed\nto rescue [CS:N]Azurill[CR].
+ And it\'s all thanks to you,\n[hero]!
+ Because you had that dream,\n[hero]…
+ We learned about [CS:N]Azurill[CR]\'s\ntrouble in advance.
+(It\'s true!)
+(I can\'t explain it, but...)
+(That first shout I heard from [CS:N]Azurill[CR]...)
+(That first shout I heard from [CS:N]Azurill[CR]...)
+[CN]H-h-h...HELP!
+(And that dream I had...)
+
+ Я получил награду от Офицера\n[CS:N]Магнезона[CR] за поимку негодяя! ♪
+ Отличная работа! ♪
+ Вот ваша доля за выполненное\nзадание.[K] Вы заслужили! ♪
+[CN]Команда [hero]\n[CN]получает награду в [CS:G]3[MP]000[CR][M:S0]!
+[CN]Однако...
+[CN]Поскольку доля гильдии составляет\n[CN][CS:G]2[MP]700[CR][M:S0]...
+[CN]Эта сумма была вычтена\n[CN]из вашей награды...
+[CN]В итоге, ваша команда...
+[CN]Получает всего лишь [CS:G]300[CR][M:S0]!
+ Что?!\nМы получили так мало?!
+ Что?!\nИ это вся наша награда?!
+ Быть не может!\nИ это вся наша награда?!
+ За такую непростую\nзадачу...
+ После того, что мы\nсделали...
+ ...[K]Ну, конечно же![K] Это ведь всё\nчасть ваших тренировок!
+ И завтра я ожидаю от вас таких\nже усилий, что и сегодня![K] Хи-хиии! ♪
+ Уфф...
+ Знаешь, будь наша доля\nнемножечко побольше, я был бы счастлив.
+ Было бы лучше, если наша\nдоля была бы чуточку побольше.
+ Было бы неплохо, если бы\nон давал нам долю чуточку побольше.
+ Но ничего страшного.[K]\nНам удалось спасти [CS:N]Азурилла[CR].
+ И всё благодаря тебе,\n[hero]!
+ Из-за твоего видения,\n[hero]...
+ Мы заранее узнали о том,\nчто [CS:N]Азурилл[CR] в опасности.
+(Так и есть!)
+(Я не могу объяснить, но...)
+(Тот крик, что я слышал от [CS:N]Азурилла[CR]...)
+(Тот крик, что я слышала от [CS:N]Азурилла[CR]...)
+[CN]П-п-п... ПОМОГИТЕ!
+(И то видение...)
++++
+(Both of these events...)
+(They took place in the future!)
+(Why was I able to see something like that?)
+(Why was I able to see something like that?)
+(What was that dream about?)
+ Whoops! My stomach growled!
+ Oh! My stomach growled!
+ Uh-oh! My stomach growled!
+ Ha ha ha! Your stomach growled\ntoo, [hero]!
+ I guess we must be starved!
+ We must have worked up a\nbig appetite!
+ I guess we must be famished!
+ We were so focused on rescuing\n[CS:N]Azurill[CR] that I didn\'t notice at all!
+ We were so focused on rescuing\n[CS:N]Azurill[CR] that I didn\'t notice at all!
+ But now I\'m even hungrier!
+ But now I\'m even hungrier!
+ Let\'s go get dinner,\n[hero]!
+
+(Оба этих события...)
+(Произошли в будущем!)
+(Почему я смог видеть нечто подобное?)
+(Почему я смогла видеть нечто подобное?)
+(Что значило это видение?)
+ Упс! У меня заурчал\nживотик!
+ Ой! У меня заурчал животик!
+ Ой-ёй! У меня заурчал\nживотик!
+ Ха ха ха! Твой животик тоже\nурчит, [hero]!
+ Должно быть, мы сильно\nпроголодались!
+ Наверное, мы нагуляли\nаппетит!
+ Должно быть, мы сильно\nизголодались!
+ Мы так зациклились на\nспасении [CS:N]Азурилла[CR], что я даже этого и не\nзаметил!
+ Мы так зациклились на\nспасении [CS:N]Азурилла[CR], что я даже этого и не\nзаметила!
+ Но теперь я ещё больше\nпроголодался!
+ Но теперь я ещё больше\nпроголодалась!
+ Идём ужинать, [hero]!
++++
+ Whoa! That lightning\'s intense!
+ It looks like it\'s really\nstormy tonight…
+ Wait a second!
+ Hold on!
+ That reminds me!
+ You know the night before we\nmet, [hero]?
+ It was storming that night.
+ I found you out cold on the\nbeach the day after that stormy night,\n[hero].
+ I found you out cold on the\nbeach the day after that stormy night,\n[hero].
+ So do you remember anything\nabout being out cold on the beach?[K] Can you\nremember anything at all?
+ So do you remember anything\nabout being out cold on the beach?[K] Can you\nremember anything at all?
+(I wonder...[K] Hmm...)
+(There was a storm... But how did I end up\nunconscious there?)
+(There was a storm... But how did I end up\nunconscious there?)
+(Nope. I can\'t remember a thing.)
+ I guess it won\'t be that easy.
+ But that\'s all right. Just try\nremembering a little at a time.
+ We have to get up early again\ntomorrow. Let\'s get some sleep.
+
+ Ого! Какая сильная гроза!
+ Похоже, сегодня всю ночь\nбудет бушевать буря...
+ Секундочку!
+ Погоди-ка!
+ Кстати говоря!
+ Помнишь ту ночь, после\nкоторой мы встретились, [hero]?
+ Тогда тоже была буря.
+ После той ненастной ночи, я\nнашёл тебя без сознания на пляже,\n[hero].
+ После той ненастной ночи, я\nнашла тебя без сознания на пляже,\n[hero].
+ Помнишь ли ты что-нибудь до\nтого, как ты очнулся, замерзая на пляже?[K]\nХотя бы немного?
+ Помнишь ли ты что-нибудь до\nтого, как ты очнулась, замерзая на пляже?[K]\nХотя бы немного?
+(Надо подумать...[K] Хмм...)
+(Буря действительно была... Но как я\nочутился там без сознания?)
+(Буря действительно была... Но как я\nочутилась там без сознания?)
+(Нет. Я не могу ничего вспомнить.)
+ Похоже, это не так то\nпросто.
+ Но ничего. Со временем,\nпонемногу, но ты всё вспомнишь.
+ Завтра нам снова рано\nвставать. Нужно ложиться спать.
++++
+ Hey, [hero].
+ Listen, [hero].
+ Say, [hero].
+ Are you still awake,\n[hero]?
+ I\'ve been thinking about this\nsince it happened.
+ I\'ve been thinking about it since\nit happened.
+ That strange dream you had,\n[hero]…
+ Maybe it has to do with you\npersonally, [hero].
+(Huh?)
+ It\'s just the feeling that I get.
+ That\'s just the feeling I get.
+ I can\'t quite say why.
+ I sure don\'t know any other\n[c_kind:PLAYER] who dreams about the future.
+ I sure don\'t know any other\n[c_kind:PLAYER] who dreams about the future.
+ And I\'ve never heard of a human\nsuddenly turning into a Pokémon either.
+ And I\'ve never heard of a human\nsuddenly turning into a Pokémon either.
+ That\'s why I think those two\nevents are connected.
+ I just can\'t shake that feeling.
+(The key to unlocking my memory...)
+(Was it in that dream?)
+(But even if that were true...)
+(How does it relate to anything else?)
+ I don\'t know what you were like\nas a human, [hero]…
+ I don\'t know what you were like\nas a human, [hero]…
+ But I\'m sure you were a\ngood person.
+ But I\'m sure you were a\ngood person.
+ After all, [hero], it was\nyour dream that helped us catch that\nbad Pokémon.
+(Bad Pokémon, huh...)
+(Oh! That reminds me of what [CS:N]Chatot[CR] said.)
+(That the growing number of bad Pokémon has\nbeen caused by time going out of whack.)
+ You know…
+ Time is getting messed up,\nbit by bit, all over the world.
+ No one seems to know why.
+ But everyone believes that the\nTime Gears are somehow involved.
+(Huh?[K] Time Gears?)
+ They say Time Gears are hidden\nin secret places around the world.
+
+ Эй, [hero].
+ Слушай, [hero].
+ [hero].
+ Ты еще не спишь,\n[hero]?
+ Я всё думал о том, что\nслучилось.
+ Я всё думала о том, что\nслучилось.
+ Твоё странное видение,\n[hero]...
+ Возможно, оно как то\nсвязано лично с тобой, [hero].
+(Что?)
+ Это просто такое ощущение.
+ Так я это ощущаю.
+ Я не могу сказать, почему.
+ Я не слышал о том, что\n[c_kind:PLAYER] может видеть будущее.
+ Я не слышала о том, что\n[c_kind:PLAYER] может видеть будущее.
+ И тем более я никогда не\nслышал о том, что человек становился\nПокемоном.
+ И тем более я никогда не\nслышала о том, что человек становился\nПокемоном.
+ Поэтому, я думаю, что эти\nдва события взаимосвязаны.
+ Я просто не могу отделаться\nот этой мысли.
+(Ключ к моим воспоминаниям...)
+(Был в моём видении?)
+(Но даже если это и так...)
+(Как это связано с чем-либо?)
+ Я не знаю, каким человеком\nты был, [hero]...
+ Я не знаю, каким человеком\nты была, [hero]...
+ Но я уверен, что\nты - хороший человек.
+ Но я уверена, что\nты - хороший человек.
+ В конце концов,\n[hero], именно благодаря твоему\nвидению, мы поймали плохого Покемона.
+(Плохого Покемона, да...)
+(Ой! Чатот упоминал об этом.)
+(Что растущее количество негодяев\nпроисходит из-за вышедшего из-под\nконтроля времени.)
+ Знаешь...
+ Время выходит из-под\nконтроля по всему миру, крупица за\nкрупицей.
+ И никто не знает почему.
+ Но все уверены, что это\nсвязано с Шестернями Времени.
+(Что? Шестерни Времени?)
+ Говорят, что Шестерни\nВремени скрыты в самых потаённых уголках\nмира.
++++
+ Like in a forest...
+ Как та, что в лесу...
++++
+ Or at a lake in an underground\ncavern…
+ Или близ подземного озера...
++++
+ I\'ve even heard that there is\na hidden altar inside a volcano.
+ I\'ve even heard that there is\na hidden altar inside a volcano.
+ Я слышал, что она есть\nдаже внутри вулкана.
+ Я слышала, что она есть\nдаже внутри вулкана.
++++
+ At the center of such places…
+ is what\'s known as a Time Gear.
+ Time Gears serve a very\nimportant function.
+ Each one protects time and keeps\ntime flowing properly in its region.
+
+ В центре таких мест...
+ находится Шестерня Времени.
+ Шестерни Времени очень\nважны.
+ Каждая из них оберегает\nвремя и выравнивает его поток в пределах\nсвоего местоположения.
++++
+ But...what happens if a region\nloses its Time Gear?
+ Но... Что случится, если\nв одном из таких мест пропадёт Шестерня\nВремени?
++++
+ I don\'t really know the answer\nto that question.
+ Я не совсем знаю ответ на\nэтот вопрос.
++++
+ But my guess is that if a Time\nGear is removed from a region…
+ The flow of time in that region\nwill probably stop too.
+ That\'s why everyone makes sure\nnever to disturb the Time Gears.
+ Everyone has long been certain\nthat some kind of disaster would strike.
+ So everyone stays away from\nthe Time Gears and doesn\'t tamper with them.
+ Even the most hardened criminal\nPokémon know to avoid messing with them.
+
+ Я думаю, что если Шестерня\nВремени пропадёт...
+ То поток времени в том\nместе, где она была, остановится.
+ Именно поэтому никто не\nтрогает Шестерни Времени.
+ Все давно поняли, что если\nих убрать, произойдёт катастрофа.
+ Все держатся подальше от\nШестерней Времени и не пытаются их\nзабрать.
+ И даже самые отпетые\nПокемоны-негодяи не лезут к ним.
++++
+ Do my eyes deceive me?[K] Could it be...?[K]\nYes, it is!
+ I\'ve finally found it![K] A Time Gear!
+ But...[K]this is only the first of many…
+
+ Мои глаза меня подводят?[K]\nНеужели это?..[K] Да, это она!
+ Наконец-то я нашёл её![K] Шестерню\nВремени!
+ Но...[K] Это только одна из многих...
++++
+ Ah, you two! ♪[K] Let me give you\nyour assignment for today…
+ Look up jobs on the Job Bulletin\nBoard and the Outlaw Notice Board.
+ Do the listed jobs. That will do\nfor today! ♪
+ Understood? No shirking your\nwork, OK?
+ Well? If you understand, get\non with it!
+
+ А, вы двое! ♪[K] Вот что вам нужно\nсегодня делать...
+ Выберите себе задания с Доски\nОбъявлений и Доски Разыскиваемых.
+ Выполните взятые задания. Этого\nвполне хватит! ♪
+ Всё поняли? Не увиливаем от\nработы, верно?
+ Ну? Если всё поняли, то за дело!
++++
+ Today they want us to do jobs\nthat are posted on the Job Bulletin Board and\nOutlaw Notice Board.
+ Let\'s look good, [hero]!
+
+ Сегодня мы должны выполнять\nзадания с Доски Объявлений и Доски\nРазыскиваемых.
+ Сделаем это, [hero]!
++++
+ Ah, you two!
+ Today you\'re on assignment. So\ngo to the waterfall and investigate what\nsecrets it may hide.
+ I\'ll leave you to it! ♪
+
+ А, вы двое!
+ Сегодня вы на задании.\nОтправляйтесь к водопаду и разузнайте,\nкакие секреты он может в себе хранить.
+ Вы справитесь! ♪
++++
+ Today you should take on\njob requests.
+ Examine the Job Bulletin Board\nand the Outlaw Notice Board.
+ Take the jobs that you\'re capable\nof handling...[K] I\'ll leave you to it! ♪
+
+ Сегодня вам нужно заняться\nзаданиями с досок.
+ Осмотрите Доску Объявлений и\nДоску Разыскиваемых.
+ Выберите задания, которые вам по\nсилам...[K] Не буду отвлекать! ♪
++++
+ Let\'s do our best, [CS:N]Loudred[CR]!
+ Yes![K] I\'ll try my hardest!
+
+ Выложимся на полную, [CS:N]Лаудред[CR]!
+ Да![K] Я постараюсь!
++++
+ Значит так, [CS:N]Диглетт[CR]![K] Пора\nвзбодриться и СОСРЕДОТОЧИТЬСЯ!
++++
+ You caught yourselves a wanted\ncriminal?
+ So you really can get things\ndone. Meh-heh-heh.
+ Of course, what you did is only\nwhat\'s expected of any exploration team.\nMeh-heh-heh.
+
+ Вы сумели поймать негодяя?
+ Так вы и правда можете доводить\nдела до конца. Хе-хе-хе.
+ Конечно же, то, что вы сделали,\nожидаемо и от любой другой команды\nисследователей. Хе-хе-хе.
++++
+ I\'m getting dinner ready now.
+ I\'ll ring for everyone when\ndinner\'s ready.
+ Until then, keep at your work,\nplease! ♪
+
+ Я ещё только готовлю ужин.
+ Когда он будет готов, я зазвеню\nвсем.
+ А пока, занимайтесь своими\nделами, пожалуйста! ♪
++++
+ Приветик![K] Вы поймали негодяя?\nЭто прекрасно!
+ Добрые мои друзья! ♪[K]\nПродолжайте в том же духе!
++++
+ So you all ran off the other day\nbecause you had to rescue little [CS:N]Azurill[CR]!
+ By golly, I\'m impressed that you\ncaught yourselves an outlaw in the process!
+ Yup yup, I need to pick up the\npace. Can\'t have you rookies showing me up!
+
+ Так значит, тогда вы убежали,\nпотому что хотели спасти малютку\n[CS:N]Азурилла[CR]!
+ Ей-богу, вы ещё и негодяя смогли\nпоймать! Я потрясён!
+ Да-да, надо бы мне поспешить за\nвами. Я не могу позволить вам меня\nобогнать!
++++
+ See that signboard on the left?
+ That is the Pokémon Exploration\nTeam Federation Q&A.
+ It lists topics that you should\nfind useful as explorers.
+ You should take a look if you\ndon\'t understand something.
+
+ Видишь эту табличку слева?
+ Это Вопросы и Ответы Федерации\nКоманд Исследователей.
+ Там перечислены темы, которые\nмогут быть полезны для исследователей.
+ Если ты что-то не понимаешь,\nто, возможно, стоит заглянуть туда.
++++
+ What\'s that?[K] You want me to\nexplain how the Job Bulletin Board works?
+Yes
+ Well, all right![K] Let me explain!
+ First, you want to stand in front\nof the Job Bulletin Board, then press [M:B2].
+ You can choose jobs you want to\ndo by using the Job Bulletin Board.
+ You\'ll get a letter describing\neach job you choose. Those letters will show up\non your Job List in the menu.
+ To actually start a job, you must\nuse the Take Job command in your Job List.[K]\nThen you can do the job in the dungeon!
+ You must use Take Job before\nstarting a job. Or else you can\'t do it, even if\nyou go to the correct dungeon!
+No
+ ...Oh. You\'re not interested…
+ It\'s fun to do jobs, but…
+ Incidentally…
+ Hey, [CS:N]Wurmple[CR]!
+ I was checking out the Job\nBulletin Board. I found a great job.
+ It\'s an easy job, plus it\npays well.
+ Sounds real tasty!
+ T-t-tasty...?![K] S-s-sheesh…
+
+ Что такое?[K] Хочешь, чтобы я\nобъяснил тебе принцип работы Доски\nОбъявлений?
+Да
+ Ну, хорошо![K] Я объясню!
+ Сперва, нужно встать перед\nДоской Объявлений и нажать [M:B2].
+ С помощью Доски Объявлений,\nможно выбрать желаемые задания.
+ К каждому заданию прикреплено\nписьмо, описывающее суть задания.\nВыбранные задания будут в Списке Заданий.
+ Чтобы начать выполнять задание,\nнужно Взяться за него в Списке Заданий.[K]\nЗатем, можно идти в нужное подземелье!
+ Нужно обязательно Взяться за\nзадание. Иначе его будет невозможно\nвыполнить, даже в нужном тебе подземелье!
+Нет
+ ...Ох. Тебе не интересно...
+ Задания выполнять весело, но...
+ Кстати говоря...
+ Эй, [CS:N]Вурмпл[CR]!
+ Я тут просматривал Доску\nОбъявлений. Нашёл неплохое задание.
+ Довольно лёгкое, но за него\nхорошо платят.
+ Как по мне, предложение очень\nвкусное!
+ В-в-вкусное?!.[K] Ф-ф-фуух...
++++
+ The jobs on the boards range\nfrom easy to difficult.
+ The easiest jobs are marked\nwith the letter \"E.\"
+ The jobs get progressively\ndifficult from \"[CS:I]D[CR:0]\" to \"[CS:K]C[CR:0]\" and so on.
+ If you\'re just starting out and\nyou\'re unsure of your skills, you should start\nwith the easiest jobs rated \"E.\"
+ Pardon?[K] Me?
+ I\'d never choose a hard job rated\n\"[CS:K]C[CR:0]\" or anything like that![K] Y-y-yeesh!
+
+ На досках есть разные по\nсложности задания, от лёгких до трудных.
+ Самые простые задания отмечены\nбуквой \"E\".
+ С ранга \"[CS:I]D[CR:0]\", \"[CS:K]C[CR:0]\" и так\nдалее, задания будут усложняться.
+ Если ты только начинаешь и не\nзнаешь своих возможностей, то стоит\nвыполнять задания ранга \"E\".
+ Что?[K] Я?
+ Я бы ни за что не выбрал\nзадание ранга \"[CS:K]C[CR:0]\" или вроде этого![K]\nД-д-даа!
++++
+ Outlaws are also ranked.
+ They\'re easiest in \"E\" rank.[K]\nThe criminals get tougher in \"[CS:I]D[CR:0]\" rank.[K]\nThen even tougher in \"[CS:K]C[CR:0]\" and so on…
+
+ Негодяев также оценивают по\nрангам.
+ Самые слабые под рангом \"E\".[K]\nПосильнее - под рангом \"[CS:I]D[CR:0]\".[K]\nЕщё сильнее в \"[CS:K]C[CR:0]\" и так далее...
++++
+ The three of us are the\n[CS:N]Poochyena[CR] Brothers![K] We\'re Team [CS:X]Poochy[CR]!
+ We stick to tracking outlaws!
+ We chase and chase and chase\nour targets…
+ And then we catch them when\nthey\'re too tired to move!
+
+ Наша троица - Братья [CS:N]Пучиены[CR]![K]\nМы - Команда [CS:X]Пучи[CR]!
+ Мы выслеживаем негодяев!
+ Мы гонимся, преследуем и\nзагоняем наши цели...
+ И когда у них не остаётся сил\nдля бега, мы их ловим!
++++
+ We target only outlaws with a\n\"[CS:K]C[CR:0]\" rank.[K] They have bigger bounties on them\nthan the ones with \"E\" and \"[CS:I]D[CR:0]\" ranks.
+ There\'s a catch...[K] Outlaws with a\n\"[CS:K]C[CR:0]\" rank are much tougher.
+ We have to fight those crooks\ncarefully. Otherwise, we could take a beating!
+
+ Мы берём задания только на\nнегодяев ранга \"[CS:K]C[CR:0]\".[K] За них предлагается\nбольшая награда, чем на рангах \"E\" и \"[CS:I]D[CR:0]\".
+ Но есть один нюанс...[K] Негодяи\nранга \"[CS:K]C[CR:0]\" гораздо опаснее.
+ Мы должны сражаться с ними\nаккуратно. Иначе нам будет плохо!
++++
+ Hopes and dreams…
+ This is..
+ Надежды и мечты...
+ Это...
++++
+ I\'ve heard more and more bad\nPokémon are appearing.
+ They say it\'s caused by time\ngoing out of control.
+ I think it\'s awful.[K] I wish we\ncould live in peace.
+ Ходят слухи, что в округе\nпоявляется все больше и больше плохих\nПокемонов.
+ Говорят, что это происходит\nиз-за вышедшего из-под контроля времени.
+ Я считаю, что это ужасно.[K]\nХотел бы я, чтобы мы жили в мире.
++++
+ I don\'t know if it\'s because time\nis going out of control or not, but…
+ No one can evolve lately.
+ You know how Pokémon evolve\nonly after certain conditions are met, right?
+ Well, right now, no one can\nevolve, no matter what…
+
+ Не знаю, происходит ли это\nиз-за вышедшего из-под контроля времени\nили нет, но...
+ Сейчас никто не может\nэволюционировать.
+ Ты знаешь, что при подходящих\nусловиях, Покемоны эволюционируют, так?
+ Так вот. Как бы кто-либо ни\nстарался, но эволюционировать никак не\nполучается...
++++
+ Ah, yes, I\'ve heard!
+ You saved that cute [CS:N]Azurill[CR] from\na horrible outlaw?!
+ For that, please accept our\nsincere thanks!
+
+ Ах, да, я слышал об этом!
+ Вам удалось вырвать [CS:N]Азурилла[CR]\nиз лап ужасного негодяя?!
+ За это, примите наши искренние\nблагодарности!
++++
+ Ahhh! To arrest a criminal so\nearly in your career! You must be exceptional!
+ It\'s hard to believe you\'ve been\non an exploration team for a short while! ♪
+
+ Ахх! Арестовать негодяя в самом\nначале своей карьеры! Вы, должно быть,\nнеобыкновенны!
+ Трудно поверить, что вы не так\nдавно стали исследователями! ♪
++++
+ Yo! Another great day!
+ Good luck with your guild\ntraining!
+ Йо! Хороший сегодня день!
+ Удачи вам в ваших тренировках!
++++
+ We\'re like a garden of flowers!
+ Мы - словно цветочный сад!
++++
+ We\'re the exploration team that\ndelivers happiness! We\'re Team [CS:X]Glee[CR]!
+ Hey, gang! Where should we go\nexploring today?
+ Мы команда исследователей, что\nприносит счастье! Мы - Команда [CS:X]Радость[CR]!
+ Эй, ребята! Куда мы сегодня\nпойдём?
++++
+ I wish I could go to a pond.
+ Вот бы сейчас окунуться в пруд.
++++
+ ZZZT! Thank you for your\ncooperation! ZZZT!
+ БЗЗЗ! Благодарим вас за содействие!\nБЗЗЗ!
++++
+ HEY, you two!
+ We need your help with\nsomething today!
+ [CS:N]Diglett[CR], I brought them!
+ Thank you, [CS:N]Loudred[CR].
+ You two are doing sentry\nduty today!
+ Sorry. I\'m usually the one to do\nsentry duty.
+ But today, my dad gave me his\nduty of updating the boards.
+ That\'s why I can\'t man my post.
+ It would be great if someone\ncould take over my sentry duty for today.
+ And that\'s why you\'re here.\nPlease do a good job for me.[K] Bye!
+ ...And that\'s THAT.
+ Huh?! I didn\'t follow that at all!\nWhy are we involved?
+ Huh?! I didn\'t follow that at all!\nWhy are we involved in this?
+ Huh?! I didn\'t follow that at all!\nHow did we get involved in this?
+ Shut your YAP!
+ NO MORE BELLYACHING!\nGO DO YOUR DUTY!
+ Ugh... My head hurts…
+ What are we supposed to do?
+ Climb down this hole and\nstand guard. You\'re on sentry duty!
+ Sentry duty?
+ You heard right.[K] Sentry duty.
+ We can\'t have suspicious\ncharacters coming into the guild.
+ So we station a sentry below the\nguild entrance to evaluate Pokémon visitors.
+ When you first came, you had\nyour footprint evaluated, right?
+ When you first came, you had\nyour footprint evaluated, right?
+ My footprint?[K] What do you...?
+
+ ЭЙ, вы двое!
+ Сегодня нам понадобится ваша\nпомощь!
+ [CS:N]Диглетт[CR], я привёл их сюда!
+ Спасибо, [CS:N]Лаудред[CR].
+ Сегодня вы будете стоять на\nстраже!
+ Извините. Обычно на страже\nнахожусь я.
+ Но сегодня мой отец поручил мне\nобновлять задания.
+ Поэтому, я не могу находиться\nна своём посту.
+ Будет здорово, если бы\nкто-нибудь смог побыть сегодня на страже.
+ И именно поэтому вы здесь.\nПоработайте как следует. Пока!
+ ...Это ВСЁ.
+ А?! Я что-то совсем не\nпонял! А почему именно мы?
+ А?! Я что-то совсем не\nпонял! А почему именно мы этим будем\nзаниматься?
+ А?! Я что-то совсем не\nпоняла! Каким образом теперь этим\nзанимаемся мы?
+ Закрыть ПАСТЬ!
+ И ХВАТИТ НЫТЬ! ЗА РАБОТУ!
+ Ух.. Голова раскалывается...
+ Что нам нужно делать?
+ Спускайтесь в эту дыру и займите\nпост. Вы - привратники!
+ Привратники?
+ Именно так.[K] Привратники.
+ В гильдию нельзя допускать\nвсяких подозрительных личностей.
+ Именно поэтому под гильдией\nработает страж, который изучает следы\nприходящих Покемонов.
+ Когда ты впервые сюда пришёл,\nпомнишь как мы изучили твой след?
+ Когда ты впервые сюда пришла,\nпомнишь как мы изучили твой след?
+ Мой след?[K] О чем ты?..
++++
+ Oh, now I remember! There was\nthat weird hole in front of the gate…
+ Oh, now I remember! There was\nthat weird hole in front of the gate…
+ I stood on the grating, then\nsomeone shouted up at me. It was shocking!
+ I stood on the grating, then\nsomeone shouted up at me. It was shocking!
+
+ О, я вспомнил! Перед\nворотами была эта странная дыра...
+ О, я вспомнила! Перед\nворотами была эта странная дыра...
+ Я встал на решётку и снизу\nкто-то начал кричать. Я аж подпрыгнул от\nнеожиданности!
+ Я встала на решётку и снизу\nкто-то начал кричать. Я аж подпрыгнула от\nнеожиданности!
++++
+ OK, so we climb down this hole.\nWhat next?
+ The tunnel down there leads to\nthe sentry post.
+ Хорошо, мы спустимся в эту\nдыру. А дальше что?
+ Вы попадете в туннель, ведущий\nк посту привратника.
++++
+ [CS:N]Diglett[CR] burrows through it and\npops out underneath the sentry post.
+ From the sentry post, [CS:N]Diglett[CR]\ninspects the footprints of visitors, identifies\nthem, then informs me.
+ Then I decide if the Pokémon\nis suspicious or not and open the gate if\nhe passes muster.
+ So we serve as the guild\'s\ngatekeepers. That\'s the gist of it.
+
+ Диглетт прокапывается через\nтуннель и появляется на своём посту.
+ Со своего места, Диглетт\nосматривает следы посетителей, определяет\nих, после чего сообщает мне, кто пришёл.
+ И тогда я решаю, подозрителен\nли Покемон или нет. Если всё в порядке,\nя открываю ворота.
+ Так мы и работаем привратниками.\nВот в чем суть.
++++
+ Look, all you two have to do is\ninspect the footprints of visitors, then tell me\nwhat Pokémon they are.
+ All right? Understood?
+Understood
+ Good! Then let\'s get to WORK!
+ Buck up and do a GOOD job!
+ Yow! It\'s pitch black in here,\n[hero]…
+ We\'ll have to feel our way…
+ Well, we should be getting close\nto the sentry post…
+ Hey![K] There![K] I see light,\n[hero]!
+ HOW\'S IT GOING?![K] Have you\ntaken position at the sentry post?!
+ Yep! We\'re here!
+ GOOD!
+ Pokémon visitors will step onto\nthe grill above the sentry post!
+ Identify them by footprint, then\ninform me![K] Got that?!
+ Yup! Got it!
+ GOOD! Let\'s get started!
+Please explain again
+ Really?! You\'re not just messing\nwith me, ARE you?
+ All right. I\'ve got a BIG heart.\nI\'ll explain as much as you want.
+
+ Всё что вам нужно делать - это\nосматривать следы посетителей и говорить\nмне, что это за Покемон.
+ Вам всё ясно?
+Задача ясна
+ Прекрасно! Тогда, ЗА\nРАБОТУ!
+ Соберитесь и поработайте КАК\nСЛЕДУЕТ!
+ Ого! [hero],\nздесь кромешная темень...
+ Нам придётся двигаться на\nощупь...
+ Кажется, мы почти дошли до\nпоста стража...
+ Эй![K] Смотри![K] [hero],\nя вижу свет!
+ КАК ВЫ ТАМ?[K] Вы заняли\nпозицию на посту?!
+ Да! Мы на месте!
+ ПРЕКРАСНО!
+ Покемоны будут вставать на\nрешётку над постом стража!
+ Определите их по следу и\nсообщите мне![K] Всё понятно?!
+ Да! Всё понятно!
+ ПРЕКРАСНО! Начинайте!
+Объясни нам ещё раз
+ Чего?! Вы что, со МНОЙ шутки\nшутить вздумали?
+ Ладно. Я БОЛЬШОЙ добряк.\nЯ буду объяснять столько, сколько\nзахотите.
++++
+ Let\'s get some sleep.
+ We should get some sleep.
+ Why don\'t we get some sleep?
+ Hey, beginners!
+ Before you go to bed, our\nGuildmaster wants to speak with you.
+ Давай поспим.
+ Нам нужно поспать.
+ Может, лучше ляжем спать?
+ Эй, новички!
+ Прежде чем вы ляжете спать, наш\nГильдмастер хочет поговорить с вами.
++++
+ Now, this could just be a wild\nguess on my part, but…
+ I would guess that it\'s because\nyou fail so often. Our Guildmaster must be\nseething with anger over you.
+ Our Guildmaster is truly a\nterror when enraged…
+ So watch yourself and do your\nbest to avoid displeasing our Guildmaster.
+
+ Конечно, это всего лишь моё личное\nпредположение, но...
+ Я полагаю, это всё из-за того,\nчто вы слишком часто терпите неудачи.\nВозможно, Гильдмастер очень зол на вас.
+ А наш Гильдмастер по настоящему\nстрашен в гневе...
+ Поэтому следите за языками и\nочень постарайтесь не прогневать нашего\nГильдмастера.
++++
+ Guildmaster, I\'ve brought you\nTeam [team:].
+ Guildmaster...[K] Guildmaster?\n
+ Hiya!
+ Job not going well? That stinks!
+ That\'s why I\'m giving you these!
+[CN][CS:N]Wigglytuff[CR] gave you\n[CN]a [CS:I]Reviver Seed[CR]!
+[CN]In addition, he also gave you an [CS:I]Oran Berry[CR]!
+[CN]Incredibly, he also gave you a [CS:I]Max Elixir[CR]!
+ Those items I gave you are all\nvery useful in dungeons.
+ Please give it your best effort\nagain tomorrow!
+
+ Гильдмастер, я привёл вам Команду\n[team:].
+ Гильдмастер...[K] Гильдмастер?\n
+ Приветик!
+ Работа не спорится? Непорядок!
+ Именно поэтому я даю вам вот\nэти вещи!
+[CN][CS:N]Виглитафф[CR] дал вам\n[CN][CS:I]Зерно Оживления[CR]!
+[CN]Кроме того, он дал вам\n[CS:I]Пельси Ягоду[CR]!
+[CN]Невероятно, он также дал вам\n[CN][CS:I]Макс. Эликсир[CR]!
+ Эти вещи, что я вам дал, очень\nполезны в подземельях.
+ Пожалуйста, приложите все свои\nусилия, чтобы выполнить задание!
++++
+ We shouldn\'t go exploring now.\nWe have to get ready for tomorrow.
+ We have to go to Treasure\nTown.
+ No, we can\'t, [hero].
+ We have to get ready for\ncapturing [CS:N]Grovyle[CR], right?
+ We\'re supposed to get ready for\ncapturing [CS:N]Grovyle[CR] first, right?
+ Aren\'t we supposed to get ready\nfor capturing [CS:N]Grovyle[CR] first?
+ Let\'s get back to the guild as\nsoon as we\'re ready.
+ If we dawdle now, they\'ll leave\nus behind on the expedition!
+ When we\'re ready for the\nexpedition, we have to go back to the guild.
+ We have to let [CS:N]Chatot[CR] know\nwe\'re ready!
+ We don\'t have the time to\nwander off.
+ This is no time to be dawdling.
+ We can\'t take any detours.
+ We have to do the guild\'s\nwork now.
+ [CS:N]Bidoof[CR]\'s waiting at the guild.\nLet\'s get going!
+[CN]Would you like to go to the [CS:P]Beach Cave[CR]?
+Yes
+\n[CN]Caution!
+[CN]This rescue cannot be undertaken unless\n[CN]the team includes certain Pokémon.
+[CN]Please put together your team\n[CN]with the Pokémon specified by\n[CN]the job, or \"Suspend\" the job.
+\n[CN]Caution!
+[CN]This rescue cannot be undertaken unless\n[CN]the team includes certain Pokémon.
+[CN]Please put together your team\n[CN]with the Pokémon specified by\n[CN]the job, or \"Suspend\" the job.
+No
+
+ Мы не должны идти на\nвылазку. Нам нужно подготовиться к\nзавтрашнему дню.
+ Нам нужно идти в Город\nСокровищ.
+ Нет, мы не можем туда идти,\n[hero].
+ Нам нужно подготовиться к\nпоимке [CS:N]Гровайла[CR], так?
+ Сперва нам нужно\nподготовиться к поимке [CS:N]Гровайла[CR], так?
+ Разве мы не должны сперва\nподготовиться к поимке [CS:N]Гровайла[CR]?
+ Как только мы будем готовы,\nнужно вернуться в гильдию.
+ Если мы будем бездельничать,\nони не возьмут нас в экспедицию!
+ Как только мы подготовимся\nк экспедиции, нам придется вернуться в\nгильдию.
+ Нам нужно сообщить [CS:N]Чатоту[CR]\nо нашей готовности!
+ У нас нет времени на то,\nчтобы куда-то уходить.
+ Сейчас не время\nбездельничать.
+ Мы сейчас не можем уходить.
+ Нам нужно выполнять\nгильдейское задание.
+ [CS:N]Бидуф[CR] ждёт нас в гильдии.\nПоспешим!
+[CN]Хотите пойти в [CS:P]Пещеру у Пляжа[CR]?
+Да
+\n[CN]Внимание!
+[CN]Это спасение не может быть выполнено,\n[CN]поскольку в группе есть определённый\n[CN]Покемон.
+[CN]Соберите свою группу с учётом\n[CN]необходимого для задания Покемона, либо\n[CN]Отложите задание.
+\nВнимание!
+[CN]Это спасение не может быть выполнено,\n[CN]поскольку в группе есть определённый Покемон.
+[CN]Соберите свою группу с учётом\n[CN]необходимого для задания Покемона, либо\n[CN]Отложите задание.
+Нет
++++
+ ...[K]The sea...[K]is so vast…
+ ...[K]Море...[K]такое огромное...
++++
+ You\'ve done an honest\nday\'s work! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K]dreadful!
+ You failed so many times!
+ You slackers! Did you do\nanything besides goof off?
+ UGH...!
+ You two got SO many wrong…
+ I even got in TROUBLE for it!
+ H-hush!
+ Don\'t you dare blame\nanyone else!
+ Sentry duty is a cooperative job,\nisn\'t it?
+ Anyway, this job was a\nfiasco, no doubt about it!
+ As such, there shall be\nno reward!
+ WHAAAT?!
+ Furthermore!
+ You\'ll go without dinner tonight!
+ B-but…
+ You\'ve done an honest\nday\'s work! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K]adequate.
+ Hmm…
+ Oh…
+ Here are your rewards for\nthe job.
+[CN]As a reward for doing the job,\n[CN][hero]\'s team…
+[CN]received [CS:G]100[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Protein[CR]!
+ I expect to see better effort\nout of you lot next time. ♪
+ You\'ve all worked an honest day.
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K]\nHmm! Well done!
+ Good job, team! ♪
+ Good!
+ Yay!
+ Here are your rewards for all\nyour work today! ♪
+[CN]As thanks for a job well\n[CN]done, [hero]\'s team…
+[CN]received [CS:G]200[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Zinc[CR]!
+[CN]Not only that, the team\n[CN]also received a [CS:I]Nectar[CR]!
+ Keep up the good work! ♪
+ You\'ve worked an honest day,\nyou two! ♪
+ Let me review your sentry-duty\nperformance…
+ Well, well![K] Your results were...\ncompletely perfect!
+ You identified every visitor\ncorrectly! ♪
+ Excellent!
+ We did it!
+ We\'ll reward your effort![K]\nGenerously, I might add!
+ You all deserve an especially\nlarge reward! ♪
+[CN]As the reward for a job perfectly\n[CN]done, [hero]\'s team…
+[CN]received [CS:G]500[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Joy Seed[CR]!
+[CN]Not only that, the team\n[CN]also received a [CS:I]Ginseng[CR]!
+[CN]But that\'s not the end of it!
+[CN]The team also\n[CN]received a [CS:I]Life Seed[CR]!
+[CN]So many rewards! Can you believe it?
+ Keep up the good work! ♪
+
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K] Ужасают!
+ Вы столько раз ошиблись!
+ Вы, лентяи! Вы вообще что-либо\nделали, кроме как отлынивали?
+ УХ!..
+ Вы, двое, ТАК МНОГО раз\nошиблись...
+ Что даже МНЕ за это прилетело!
+ Т-тихо!
+ Не смейте обвинять кого-либо в\nсвоих ошибках!
+ Работа стражами это командная\nработа, так?
+ В любом случае, без сомнения,\nэто полное фиаско!
+ Поэтому, награды вам не видать!
+ ЧТООО?!
+ Кроме того!
+ Сегодня вы будете спать без\nужина!
+ Н-но...
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K] Приемлимы.
+ Хмм...
+ Ох...
+ Вот ваши награды за работу.
+[CN]В качестве награды за работу,\n[CN]команда [hero]...
+[CN]Получает [CS:G]100[CR][M:S0]!
+[CN]Кроме того, команда получает\n[CN][CS:I]Протеин[CR]!
+ Я надеюсь, что в следующий раз,\nваш результат будет получше. ♪
+ Вы честно проработали целый\nдень.
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K] Хмм!\nНеплохие!
+ Хорошая работа, команда! ♪
+ Отлично!
+ Ура!
+ Вот ваши награды за сегодняшнюю\nработу! ♪
+[CN]В качестве награды за работу,\n[CN]команда [hero]...
+[CN]Получает [CS:G]200[CR][M:S0]!
+[CN]Кроме того, команда получает\n[CN][CS:I]Цинк[CR]!
+[CN]И ещё, команда получает\n[CN][CS:I]Нектар[CR]!
+ Продолжайте в том же духе! ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Так, так! Ваши результаты...\nСовершенно идеальны!
+ Вы верно определили каждого\nпосетителя! ♪
+ Великолепно!
+ У нас получилось!
+ За такую работу полагается\nнаграда![K] И щедрая, должен сказать!
+ Вы все заслуживаете особенно\nкрупной награды! ♪
+[CN]В качестве награды за идеально\n[CN]выполненную работу, команда\n[CN][hero]...
+[CN]Получает [CS:G]500[CR][M:S0]!
+[CN]Кроме того, команда также получает\n[CN][CS:I]Зерно Радости[CR]!
+[CN]Также, команда получает\n[CN][CS:I]Женьшень[CR]!
+[CN]Но и это ещё не всё!
+[CN]Команда также получает\n[CN][CS:I]Зерно Жизни[CR]!
+[CN]Столько наград! Можете в это поверить?
+ Продолжайте в том же духе! ♪
++++
+ OK, everyone![K] Dinnertime! ♪
+[CS:N]Everyone[CR]: HOORAY!
+Crunch munch! Chomp chomp! Gobble gulp![K]\nCrunch munch! Chomp chomp! Gobble gulp!
+ Uggggh…
+ I\'m...starving…
+ So very...hungry…
+ So hungry…
+ Grrr...
+ Come on, quit giving me the eye!
+ Don\'t glare at me like that…
+ Please don\'t glare at me…
+ I\'m stuffed! That was delicious!
+ Oof... I\'m so full and sleepy!
+ We\'re all off to bed, then. Good night!
+ Good night!
+
+ Всем внимание![K] Пора ужинать! ♪
+[CS:N]Все[CR]: УРРАААА!
+Хрум-хрум! Ням-ням! Хлюп-хлюп![K]\nХрум-хрум! Ням-ням! Хлюп-хлюп!
+ Ууухх...
+ Я так...голоден...
+ Как же я...голоден...
+ Я так голодна...
+ Гррр...
+ Ну, хватит на меня так\nсмотреть!
+ Не смотри на меня таким\nвзглядом...
+ Прошу, не смотри на меня\nтаким взглядом...
+ Я наелся! Было очень вкусно!
+ Ууф... Я наелся и хочу спать!
+ Тогда, мы идём спать. Доброй ночи!
+ Доброй ночи!
++++
+ Grrr…
+ Will you let it go already?
+ Can you stop that already?
+ Can you let it go, please?
+ We\'re going to bed too…
+ Yes, you have the right to be\nangry with us, but…
+
+ Грр...
+ Может, хватит уже?
+ Ты можешь уже прекратить?
+ Пожалуйста, может,\nпрекратишь?
+ Мы тоже ложимся спать...
+ Да, ты имеешь право на нас\nзлиться, но...
++++
+ [CS:N]Diglett[CR] is on sentry duty today.\nGOOD THING!
+ You two don\'t inspire confidence\nas sentries! HAW HAW!
+
+ Сегодня стражем работает\n[CS:N]Диглетт[CR]. И ЭТО ПРЕКРАСНО!
+ Вы двое, как стражи, не вселяете\nв меня уверенности! ХА-ХА!
++++
+ Thank you for covering my\nsentry shift!
+ I may have to ask you again.\nI hope you\'ll cover for me then!
+
+ Спасибо, что подменили меня на\nработе!
+ Возможно мне придётся вас снова\nоб этом просить. Надеюсь, что в таком\nслучае вы мне снова поможете!
++++
+ It\'s not time for dinner yet.
+ I\'ll ring for everyone when\ndinner is ready. Please be patient.
+ Oh![K] I almost forgot!
+ The Guildmaster and [CS:N]Chatot[CR]\nasked me to start a new service for the guild.
+ I\'m going to start a service for\nassembling larger teams soon! ♪
+ I\'m going to run the Assembly\nservice out of the upper guild level. I hope\nthat you will find it useful! ♪
+
+ Ещё не время ужинать.
+ Когда ужин будет готов, я\nзазвеню всем.
+ Ой! Я чуть не забыла!
+ Гильдмастер и Чатот попросили\nменя поуправлять одной гильдейской\nуслугой.
+ Скоро я буду помогать тебе\nсобирать более крупную группу!
+ Я буду управлять Сборным Пунктом\nна первом подуровне гильдии. Надеюсь, что\nэто будет тебе полезно! ♪
++++
+ Meh-heh-heh... You two...[K]\nTrain hard every day. Meh-heh-heh.
+ Hey, [CS:N]Croagunk[CR].[K] I\'ve been meaning\nto ask you…
+ [CS:N]Croagunk[CR], what are you doing\nhere all the time?
+ Huh?[K] Who...me? Meh-heh-heh.
+ What am I doing here...?[K]\nMeh-heh...[K] Meh-heh-heh.
+ Meh-heh-heh-heh-heh…
+
+ Хе-хе-хе... Вы двое...[K]\nТренируйтесь хорошенько. Хе-хе-хе.
+ Слушай, [CS:N]Кроганк[CR].[K] Я всё хочу\nтебя спросить...
+ [CS:N]Кроганк[CR], чем ты здесь всё\nвремя занимаешься?
+ Хм?[K] Кто... Я? Хе-хе-хе.
+ Чем я здесь занимаюсь?..[K]\nХе-хе...[K] Хе-хе-хе. Хе-хе-хе-хе-хе...
++++
+ Today you should take on\njob requests.
+ Examine the Job Bulletin Board\nand the Outlaw Notice Board.
+ Take the jobs that you\'re capable\nof handling...[K] I\'ll leave you to it! ♪
+
+ Сегодня вам нужно выполнять\nзадания.
+ Осмотрите Доску Объявлений и\nДоску Разыскиваемых.
+ Выполните задания, которые вам\nпо силам...[K] Не буду вам мешать!
++++
+ Friendly friends! ♪[K] Keep up\nyour training!
+ Добрые мои друзья! ♪[K]\nПродолжайте тренироваться!
++++
+ Today you should take on\njob requests.
+ Examine the Job Bulletin Board\nand the Outlaw Notice Board.
+ Take the jobs that you\'re capable\nof handling...[K] I\'ll leave you to it! ♪
+
+ Сегодня вам нужно выполнять\nзадания.
+ Осмотрите Доску Объявлений и\nДоску Разыскиваемых.
+ Выполните задания, которые вам\nпо силам...[K] Не буду вам мешать!
++++
+ Hey, hey, you two![K] Want to hear\na tip about these Job Bulletin Board tasks?
+Yes
+ Sure, you want to hear![K] I\'ll tell\nyou, hey, hey!
+ You can take as many of those\njobs and outlaw missions for the same dungeon\nas you want! Hey, hey!
+ Here\'s an example! Let\'s say\nthere are two jobs in the same dungeon, one\non 5F and another on 10F…
+ First, add the jobs to your own\nJob List. Second, select Take Job for both of\nthem. Third, go to that dungeon!
+ Once there, you do the job on 5F\nfirst! Then, instead of returning here, you\ncontinue onward to do the job on 10F!
+ That way, you do two jobs in one\nexploration! Hey, hey!
+ Nice and neat, right? Hey, hey!
+No
+ What, you don\'t want to know?\nSay it ain\'t so, hey, hey…
+
+ Эй, эй, вы двое! Хотите узнать\nбольше про задания с Доски Объявлений?
+Да
+ Конечно же, хотите! Я скажу,\nэй, эй!
+ Вы можете брать столько\nзаданий, которые выполняются в одном\nподземелье, сколько хотите! Эй, эй!
+ Вот вам пример! Допустим, есть\nдва задания, которые можно выполнить в\nодном и том же подземелье на 5Э и 10Э...
+ Сначала, нужно добавить задания\nв Список Заданий. Затем, Взяться за оба\nзадания. Далее, можно идти в подземелье!
+ Придя в подземелье, нужно\nсначала сделать задание на 5 этаже!\nИ вместо того, чтобы возвращаться из\nгорода в подземелье, можно продолжить\nидти дальше и достичь задания на 10 этаже!
+ Таким образом можно выполнить\nсразу два задания за одну вылазку!\nЭй, эй!
+ Здорово, правда? Эй, эй!
+Нет
+ Что, вы не хотите знать?\nНу, нет так нет, эй, эй...
++++
+ I\'m not content with our rank.\nWe should be so much better.
+ I would like to raise our\nExplorer Rank much higher.
+ I deserve a rank that sparkles\nand shines![K] I am worthy!
+ Меня не устраивает наш ранг.\nМы способны на большее.
+ Я хочу повысить наш Ранг\nИсследователя.
+ Я заслуживаю сверкающего и\nблестящего ранга![K] Заслуживаю!
++++
+ Did you know? There are ranks\nto exploration teams.
+ We of Team [CS:X]Ebony[CR] have the\nSilver Rank.
+ Well?[K] Nice, huh?
+ Вы знаете, что у команд\nисследователей есть ранги?
+ Мы, Команда [CS:X]Эбонит[CR], обладаем\nСеребрянным Рангом.
+ Ну как? Неплохо,[K] правда?
++++
+ So which outlaw should we track\ndown today...?
+ Так какого же негодяя нам\nсегодня выследить?..
++++
+ We try to pursue weak crooks\nwith only the highest bounties!
+ Мы пытаемся ловить слабых\nнегодяев, за которых назначена высокая\nнаграда!
++++
+ There are bad Pokémon out and\nabout in the world. That\'s why we can make a\nbusiness of catching them.
+ В мире множество плохих\nПокемонов. Именно поэтому ловить их - это\nприбыльное дело.
++++
+ Oh, there\'s nothing to be\nfrightened of, [CS:N]Bidoof[CR].
+ Let us be brave and go on our\nexploration.
+
+ О, [CS:N]Бидуф[CR], здесь совершенно\nнечего бояться.
+ Смелее, идём на вылазку.
++++
+ I\'m going on an exploration with\n[CS:N]Sunflora[CR], but…
+ Oof...[K] I tell you, I\'m feeling\nless than mighty confident.
+
+ Я собираюсь на вылазку с\n[CS:N]Санфлорой[CR], но...
+ Уф...[K] Я не то чтобы полон\nуверенности...
++++
+ Right here, right?
+ That\'s right!
+ Прямо здесь, да?
+ Всё так!
++++
+ Oh, [hero] and\n[partner]!
+ Thank you so much for saving\nmy little brother!
+ [CS:N]Azurill[CR] came back safely...[K]\nI...[K]I…
+ Thank you so very much!
+ О, [hero] и\n[partner]!
+ Спасибо вам ещё раз за то, что\nспасли моего братишку!
+ [CS:N]Азурилл[CR] не пострадал... Я...\nЯ...
+ Я вам очень благодарен!
++++
+ Thank you, [hero] and\n[partner]!
+ Спасибо вам, [hero] и\n[partner]!
++++
+ Hey, [CS:N]Wurmple[CR]!
+ Y-yes!
+ The weather\'s good today.
+ On nice days like this...[K] I really\nwork up an appetite!
+ Huh?[K] Really?![K] Eeep! Y-y-yeesh!
+
+ Эй, [CS:N]Вурмпл[CR]!
+ Д-да!
+ Сегодня отличная погода.
+ В такие погожие деньки...[K]\nУ меня разыгрывается аппетит!
+ А? Правда?![K] Иии! О-ооой!
++++
+ We\'re Team [CS:X]AWD[CR]![K] We\'re a band\nof thieves led by [CS:N]Weavile[CR].
+ Our travels in search of the\nultimate treasures brought us here…
+ But this place doesn\'t appear to\nbe much of a prospect.
+
+ Мы - Команда [CS:X]АВД[CR]![K] Мы - шайка\nворов, подчиняющихся [CS:N]Вивайлу[CR].
+ Наши поиски несметных богатств\nпривели нас сюда.
+ Но в этом месте особенно нечем\nпоживиться.
++++
+ Hey, you two![K] Are you from\naround here?
+ Then let me ask you…
+ Somewhere in this area...[K]\nthere should be a place called [CS:P]Zero Isle[CR]…
+ Do you know of it?
+ [CS:P]Zero Isle[CR]?
+ No. Should I?
+ No. Should I?
+ Hmmm...[K] So that\'s the case?[K]\nFine. Be that way.
+
+ Эй, вы, двое![K] Вы местные?
+ Тогда я хочу вас кое о чём\nспросить...
+ Где то здесь...[K]должно быть\nместо, названное [CS:P]Нуль-Островом[CR]...
+ Вам что нибудь про него\nизвестно?
+ [CS:P]Нуль-Остров[CR]?
+ Нет. А я должен знать?
+ Нет. А я должна знать?
+ Хмм...[K] Так в чём же дело?[K]\nЛадно. Пускай так.
++++
+ We traveled all the way out\nhere, but…
+ It turnsssss out that thisssss\nssssspot isssss pretty dingy, issssn\'t it?
+ Мы много где побывали, но...
+ Оказываетссссся, что это\nмесссссто довольно таки ссссскверное,\nверно?
++++
+ Er, ahem.[K] Everyone, listen up.\nI have an important announcement to make.
+ Far to the northeast, then\nfarther into its outermost reaches…
+ There lies a place named\n[CS:P]Treeshroud Forest[CR]…
+ In [CS:P]Treeshroud Forest[CR]…
+ Time has apparently stopped…
+ Huh?!
+ Eek! What did you say?!
+ You\'re saying time stopped?!\nHey, hey, hey!
+ Yes, that\'s correct…
+
+ Эм, кхм.[K] Все, послушайте. Я хочу\nсообщить вам важную новость.
+ Далеко на северо-востоке и затем\nеще дальше в самых отдаленных пределах\nэтих земель...
+ Есть место под названием\n[CS:P]Заросший Лес[CR]...
+ В [CS:P]Заросшем Лесу[CR]...
+ Остановилось время...
+ Что?!
+ Иии! Что ты сказал?!
+ Ты говоришь, что время\nостановилось?! Эй, эй, эй!
+ Да, это так...
++++
+ Time has come to a standstill in\n[CS:P]Treeshroud Forest[CR]...[K] The wind has stopped...\nThe clouds are motionless…
+ 
+ В [CS:P]Заросшем Лесу[CR] не движется\nвремя...[K] Ветер не дует...\nОблака неподвижны...
++++
+ Dewdrops on leaves won\'t fall...\nThey just hang there, suspended.
+ In [CS:P]Treeshroud Forest[CR], time itself\nhas truly stopped.
+ 
+ С листьев не падают росинки...\nОни висят без движения.
+ В [CS:P]Заросшем Лесу[CR] остановилось\nсамо время.
++++
+ T-time has stopped?!
+ But…
+ How could something this\nawful happen?
+ It\'s unthinkable!
+ Yes, the unthinkable\nhas happened.
+ Why has time stopped in\n[CS:P]Treeshroud Forest[CR]?
+ Well, it\'s because [CS:P]Treeshroud\nForest[CR]\'s Time Gear was…
+ Stolen!
+ Huh?!
+ The Time Gear was s-stolen?!
+ That\'s what made time stop!\nHey, hey, hey!
+ I\'d heard it was possible![K]\nBut now it\'s really happened.
+ I don\'t get it, though![K] Why would\nANYONE take a Time Gear?!
+ Quiet, everyone!
+ Officer [CS:N]Magnezone[CR] has already\nstarted an investigation.
+ It\'s hard to believe that anyone\nwould dare steal a Time Gear.
+ But if one Time Gear can be\nstolen, the others may also be in danger.
+ The officer asked to be notified\nimmediately if we notice any suspicious\ncharacters.
+ So keep that in mind. Let us\nknow if you notice anything.
+ That is all.
+ All right, everyone! Here\'s to\nanother busy day of work! ♪
+[CS:N]Everyone[CR]: HOORAY!
+ Oh, you there.
+ You two, come here.
+ You\'ve become quite good at\nyour work.
+ I\'m impressed with your capture\nof [CS:N]Drowzee[CR]. That was very admirable! ♪
+ So!
+ You all will finally be assigned a\nmission worthy of a proper exploration team.
+ R-really?! Hooray!
+ Let me see your Wonder Map.
+[CN][hero] opened\n[CN]the Wonder Map.
+
+ В-время остановилось?!
+ Но...
+ Как что-то столь ужасное могло\nвообще произойти?
+ Это немыслимо!
+ Да, произошло немыслимое.
+ Почему в [CS:P]Заросшем Лесу[CR]\nостановилось время?
+ Что-ж, это случилось потому,\nчто Шестерня Времени [CS:P]Заросшего Леса[CR]\nбыла...
+ Украдена!
+ Что?!
+ Шестерня Времени у-украдена?!
+ Из-за этого и остановилось\nвремя! Эй, эй, эй!
+ Я не думала, что такое\nвозможно![K] Но это на самом деле случилось.
+ Но я не понимаю![K] Зачем кому-то\nВООБЩЕ понадобилось красть Шестерню\nВремени?!
+ Все, я прошу тишины!
+ Офицер [CS:N]Магнезон[CR] уже инициировал\nрасследование.
+ Трудно поверить в то, что кто-то\nосмелился украсть Шестерню Времени.
+ Но если её забрали, то и другие\nнаходятся под такой же угрозой.
+ Офицер сказал, чтобы мы\nнемедленно сообщили, если узнаем о\nкаких-нибудь подозрительных личностях.
+ Поэтому держите это в уме.\nДайте мне знать, если вы о чём нибудь\nузнаете.
+ На этом всё.
+ Итак! Пора всем сегодня\nпотрудиться на славу! ♪
+[CS:N]Все[CR]: УРААА!
+ О, вы двое.
+ Подойдите ко мне.
+ Вы уже довольно неплохо\nсправляетесь с заданиями.
+ Я поражён тем, как вам удалось\nпоймать [CS:N]Дроузи[CR]. Это было великолепно! ♪
+ Поэтому!
+ Вы все наконец-то будете\nназначены на задание, которое достойно\nнастоящей команды исследователей.
+ П-правда?! Урааа!
+ Позвольте мне взглянуть на вашу\nЧудо-Карту.
+[CN][hero] открывает\n[CN]Чудо-Карту.
++++
+ Treasure Town is here.
+ And...over here is where we\nwould like you to investigate.
+ See? There is a waterfall\nflowing here. ♪
+ By all appearances, it\'s just an\nordinary waterfall.
+ But we\'ve received intelligence\nthat the waterfall may conceal a secret.
+ And that\'s where you come in.\nWe want you lot to investigate the waterfall\nand determine what\'s there.
+
+ Здесь находится Город Сокровищ.
+ А здесь...место, которое вам\nнужно исследовать.
+ Видите? Здесь находится\nводопад. ♪
+ На первый взгляд, это самый\nобычный водопад.
+ Но мы получили сведения, что этот\nводопад скрывает некий секрет.
+ И вот что вы будете делать. Вам\nнужно исследовать этот водопад и узнать\nчто там находится.
++++
+ That\'s all. Do you understand\nwhat this mission entails?
+Understood
+ Good! ♪
+ All right, I\'ll leave you all to\nthoroughly investigate the waterfall! ♪
+ Huh? What\'s wrong?\nYou\'re shivering.
+ A-are you all right?
+ Yup. I\'m OK. It\'s just the\nanticipation that\'s making me nervous.
+ This will be our first real job\nas an exploration team.
+ I\'m feeling a little worked up…
+ Yeah! I might just burst from\nthe excitement!
+ Oh, I feel like I\'m going to burst\nfrom excitement!
+ Ooh... I\'m bubbling over\nwith excitement!
+ Let\'s do our best, [hero]!
+Please explain again
+ Fine, I\'ll explain it again.
+ Let me see your Wonder Map.
+[CN][hero] opened\n[CN]the Wonder Map.
+
+ На этом всё. Вы поняли, что вам\nнужно делать?
+Мы поняли
+ Отлично! ♪
+ В таком случае, вы можете пойти\nисследовать водопад! ♪
+ А? Что случилось? Ты дрожишь.
+ Т-ты в порядке?
+ Да. Я в порядке. Я просто\nтрясусь от нетерпения.
+ Это ведь будет наше первое\nнастоящее исследовательское задание.
+ Я чувствую себя немножечко\nвзбудораженно...
+ Да! Я возможно сейчас сгорю\nот радости!
+ О, мне кажется, что я\nсейчас сгорю от радости!
+ Оох... Кажется, я закипаю\nот радости!
+ Сделаем всё что в наших\nсилах, [hero]!
+Объясни нам ещё раз
+ Ладно, я объясню ещё раз.
+ Позвольте мне взглянуть на вашу\nЧудо-Карту.
+[CN][hero] открывает\n[CN]Чудо-Карту.
++++
+ Let\'s try to check behind the\nwaterfall thoroughly today!
+ Let\'s go, [hero]![K]\nTo [CS:P]Waterfall Cave[CR]!
+ Wow, I am getting really excited\nabout this!
+ Wow, I am getting really excited\nabout this!
+ Let\'s go, [hero]![K] To the\nwaterfall!
+
+ Давай попробуем более\nтщательно исследовать место за водопадом!
+ Идём, [hero]![K]\nВ [CS:P]Пещеру за Водопадом[CR]!
+ Ох, я так взбудоражен!
+ Ох, я так взбудоражена!
+ Идём, [hero]![K]\nК водопаду!
++++
+ HEY, [CS:N]Diglett[CR]! It\'s a new day!\nLet\'s buckle down and FOCUS!
+ ЭЙ, [CS:N]Диглетт[CR]! Наступил новый\nдень! Пора взбодриться и СОСРЕДОТОЧИТЬСЯ!
++++
+ Ah, you two!
+ Today you\'re on assignment. So\ngo to the waterfall and investigate what\nsecrets it may hide.
+ I\'ll leave you to it! ♪
+
+ А, вы двое!
+ Сегодня вы на задании.\nОтправляйтесь к водопаду и узнайте, какие\nсекреты он может скрывать.
+ Не буду вам мешать! ♪
++++
+ Oh! [hero]! And\n[partner] too!
+ Huh?[K] What\'s [CS:N]Chimecho[CR]\ndoing there?
+ Hello! What\'s going on here?
+ I just started an Assembly here.\nToday, in fact.
+ Assembly?
+ Yes![K] For assembling your team!\nHave you ever considered adding members,\n[partner]?
+ Other members?[K] Well, sure!\nIt\'d be cool to add other members!
+ If there were more than just\nthe two of us…
+ It sure would help when we\nexplore dungeons!
+ Well then![K] You need to start\nrecruiting new members!
+ How do we start?
+ I\'ll just ring the Friendship Bell\nfor you, Team [team:]!
+ Here goes![K] Hey-yah!
+[CN][CS:N]Chimecho[CR] rang\n[CN]the Friendship Bell!
+ Now Team [team:] has the\npower to recruit new members!
+ R-really?
+ Yes! From now on, while battling\nPokémon in dungeons…
+ You may earn respect from\nsome of them...[K]and those Pokémon will then\nask to join Team [team:].
+ Once you have recruited a\nPokémon, you can bring it along with you\non dungeon explorations.
+ To bring a Pokémon along, visit\nmy Assembly, then choose which members\nshould join your team for the exploration.
+ Always see me when you want\nto assemble a team that includes recruits! ♪
+ Oh, wow! Thanks, [CS:N]Chimecho[CR]!
+
+ Эй! [hero]! [partner]!
+ А?[K] Что там делает [CS:N]Чаймеко[CR]?
+ Привет! Что такое?
+ Я теперь управляю Сборным\nПунктом. С сегодняшнего дня.
+ Сборным Пунктом?
+ Да![K] Для сбора группы! Было бы\nнеплохо добавить в свою группу больше\nПокемонов, [partner]?
+ Других Покемонов?[K]\nНу конечно! Было бы здорово!
+ Если бы нас было больше\nдвух...
+ Это бы определённо помогло\nнам в вылазках!
+ Отлично![K] Вам нужно начать\nвербовать новых членов команды!
+ Как нам это делать?
+ Я зазвеню вам Колокольчиком\nДружбы, Команда [team:]!
+ Прямо сейчас![K] Хии-я!
+[CN][CS:N]Чаймеко[CR] звенит в\n[CN]Колокольчик Дружбы!
+ Теперь Команда [team:]\nможет вербовать Покемонов!
+ П-правда?
+ Да! Отныне, когда вы сражаетесь\nс Покемонами в подземельях...
+ Вы сможете завоевать уважение\nнекоторых из них...[K] Такие Покемоны могут\nвступить в Команду [team:].
+ Завербовав Покемона, вы сможете\nбрать его с собой на вылазки.
+ Чтобы взять Покемона в группу,\nзагляните на Сборный Пункт и выберите\nтого, кто вам нужен.
+ Обратитесь ко мне, если хотите\nсобрать другую группу! ♪
+ Вау! Спасибо тебе, [CS:N]Чаймеко[CR]!
++++
+ [CS:N]Ponyta[CR] and I are great at using\nfire-based attacks, as you can imagine. But…
+ We leave swirling fire in our\nwake as we fight...[K]and that scares our leader.
+ I think our leader has lost\nconfidence because of this...[K] But I don\'t know\nwhat we can do about it.
+ Я и [CS:N]Понита[CR] хороши в применении\nогненных атак. Но...
+ В пылу битвы после нас остаётся\nостаточное пламя...[K]что пугает нашего\nлидера.
+ Я думаю, что из-за этого, наш\nлидер не очень уверен в себе...[K] Но я\nпонятия не имею что нам с этим делать.
++++
+ Our leader is always nervous\naround fire.[K] But that\'s a small thing compared\nto all the positives!
+ So I\'m happy to support our\nleader through thick or thin.
+
+ Наш лидер не переносит огонь.[K]\nНо это ничто по сравнению со всеми\nположительными моментами!
+ Поэтому, так или иначе, я рад\nподдержать нашего лидера.
++++
+ We\'re Team [CS:X]Flame[CR].\nI\'m the leader.
+ I don\'t like to admit it, but I\'m\nvery timid…
+ When my team members start\nfighting with fire, I can\'t do a thing but stand\nback and hope I don\'t get hit…
+ Ugh...[K]I feel so pathetic…
+
+ Мы Команда [CS:X]Пламя[CR].\nЯ лидер команды.
+ Я не люблю это признавать, но\nя очень робок...
+ Когда моя группа начинает\nсражаться огнём, я ничего не могу делать,\nтолько держаться в стороне...
+ Эх...[K] Я такой жалкий...
++++
+ Exploring is...[K]too much effort.
+ Исследовать...[K]столько усилий.
++++
+ We\'re Team [CS:X]Slacker[CR].[K] We\'re the\nzero-motivation exploration team.
+ Мы Команда [CS:X]Лентяи[CR].[K] Мы команда\nисследователей без какой-либо мотивации.
++++
+ Huh?![K] You all have been assigned\nto investigate that waterfall?!
+ It\'ll be your first exploration![K]\nI\'m pulling for you to succeed, by gosh!
+ Now, you all dig into that\nchallenge really hard now!
+
+ Что?![K] Вас отправили исследовать\nэтот водопад?!
+ Это будет ваша первая\nисследовательская миссия![K] Ей-богу, я\nнадеюсь, что у вас всё получится!
+ Постарайтесь пройти это\nиспытание!
++++
+ Huh? What\'s going on?
+ There are stairs here!
+ There\'s something written on\nthe sign…
+ Huh? What?
+ It says...[K]\"[CS:K]Spinda[CR]\'s Café! A Shop\nof Hopes and Dreams, Opening Soon! Win Big!\"
+ Looks like a new shop will be\nopening soon.
+ But \"Hopes and Dreams\"?\nI wonder what kind of shop it is…
+ Let\'s come back after it\'s\nopen and check it out.
+
+ Что? Что это такое?
+ Здесь лестница!
+ На табличке что-то\nнаписано...
+ А? Что?
+ Здесь написано: "Кафе\n[CS:K]Спинды[CR]! Где Сбываются Надежды и Мечты,\nСкоро Открытие! Выиграйте по Крупному!"
+ Похоже, здесь скоро\nоткроется новое место.
+ Но "Надежды и Мечты"?\nИнтересно, что здесь будет...
+ Вернёмся позже после\nоткрытия и посмотрим, что тут будет.
++++
+[CN]The door is still closed, so you can\'t get in.\n[CN]It seems like they\'re still getting ready.
+ Let\'s take [CS:N]Manaphy[CR] to the beach.
+
+[CN]Проход всё ещё закрыт, пройти внутрь\n[CN]невозможно.\n[CN]Похоже, это место ещё не открылось.
+ Отведём [CS:N]Манафи[CR] на пляж.
++++
+ Yo! Another great day!
+ By the way, you two![K] Do you\nknow [CS:K]Marowak[CR] Dojo?
+ Йо! Сегодня прекрасный день!
+ Кстати! Вы знаете о Додзё\n[CS:K]Маровака[CR]?
++++
+ [CS:K]Marowak[CR] Dojo?
+ [CS:K]Marowak[CR] Dojo is a place where\nexploration teams go to hone their skills.
+ Actually, when everything was\npeaceful, there wasn\'t much need for its\nservices…
+ The sensei couldn\'t pay for its\nupkeep...[K]and it eventually collapsed.
+ What?!
+ But...[K]let there be rejoicing![K]\nThat [CS:K]Marowak[CR] Dojo…
+ It\'s been resurrected from the\nrubble![K] Back and better than ever under new\nmanagement!
+ ...And, uh, I\'m going around\nadvertising the dojo\'s reopening for my\nsponsor, [CS:N]Marowak[CR].
+ [CS:K]Marowak[CR] Dojo is straight down\nfrom here.
+ You two are an exploration\nteam, right? Why don\'t you go test yourselves\nat the dojo?
+
+ Додзё [CS:K]Маровака[CR]?
+ Додзё [CS:K]Маровака[CR] это место, где\nкоманды исследователей оттачивают свои\nнавыки.
+ На самом деле, когда в округе\nцарил мир, в услугах Додзё никто не\nнуждался...
+ Учитель не смог содержать\nДодзё...[K] И со временем оно разрушилось.
+ Что?!
+ Но...[K]возрадуйтесь![K] Поскольку\nДодзё [CS:K]Маровака[CR]...
+ Вновь работает![K] И с его новым\nвладельцем, оно ещё лучше прежнего!
+ ...И эм, я брожу по округе и\nрекламирую открытие Додзё для моего\nспонсора [CS:N]Маровака[CR].
+ Додзё [CS:K]Маровака[CR] находится внизу.
+ Вы ведь исследователи, верно?\nПочему бы вам не опробовать свои навыки\nв додзё?
++++
+ You can sharpen your skills as\nexplorers at [CS:K]Marowak[CR] Dojo.
+ It\'s just down from here.
+ You two are an exploration\nteam, right? Why don\'t you go test yourselves\nat the dojo?
+ Вы можете отточить свои навыки\nисследователей в Додзё Маровака.
+ Оно находится внизу.
+ Вы ведь исследователи, верно?\nПочему бы вам не опробовать свои навыки\nв додзё?
++++
+ We slash our way through deep\nwoods with our sharp claws!
+ Мы прорубаем путь сквозь\nлесные дебри нашими острыми когтями!
++++
+ We like finding new places\nwhere no one\'s gone before.
+ Нам нравится находить места\nв которых ещё никто не был.
++++
+ We\'re Team [CS:X]Razor Wind[CR]![K]\nWe\'re the sharp-clawed trio!
+ Мы Команда [CS:X]Шквал Порезов[CR]![K]\nМы - трио с острыми когтями!
++++
+ The shop down from here looks\nunoccupied now…
+ Not in business yet, I guess…
+ Кажется, этой лавкой,\nнаходящейся внизу, ещё никто не\nуправляет...
+ Наверное, владелец её пока не\nоткрыл...
++++
+ So which items should we\nbuy today...?
+ Так каких же предметов нам\nсегодня купить?..
++++
+ We try to buy only cheaper\nitems that have the greatest value!
+ Мы стараемся покупать только\nдешёвые предметы с наибольшей для нас\nценностью!
++++
+ We wish that we were like the\nsea before us.
+ Expansive. Deep of heart.
+ O sea, hear me!
+ O sea, teach me!
+ O sea, understand me!
+
+ Мы хотим, чтобы мы были как\nэто море.
+ Огромное. Глубокое.
+ О море, услышь меня!
+ О море, обучи меня!
+ О море, пойми меня!
++++
+ So this is the waterfall that\'s\nsupposed to have a secret…
+ Whoa!
+ That water\'s pounding down!
+ Try getting close to the\nwaterfall, [hero].
+(It\'s true...[K] This is incredible...)
+(I can barely stay standing near this deluge!)
+(Waaah!)
+ See? It\'s intense.
+ If you fell under this waterfall,\nI think you\'d get pretty battered up.
+ I didn\'t think it would be pouring\ndown this hard!
+ I didn\'t think it would be pouring\ndown this hard!
+ Where should we even start\nlooking?
+(Hmm...)
+(Something seems familiar.)
+(It\'s that dizziness I felt before.)
+(It\'s that dizziness I felt before.)
+
+ Значит, этот водопад должен\nскрывать какой-то секрет...
+ Ого!
+ Как сильно хлещет эта вода!
+ Попробуй подобраться\nпоближе, [hero].
+(Это правда...[K] Изумительно...)
+(Я едва могу стоять рядом с этим\nпотоком!)
+(Уааа!)
+ Видишь? Он очень мощный.
+ Если свалишься под водопад,\nот тебя и мокрого места не останется.
+ Я не думал, что поток воды\nбудет настолько мощный!
+ Я не думала, что поток воды\nбудет настолько мощный!
+ С чего бы нам начать?
+(Хмм...)
+(Знакомое ощущение.)
+(Я уже чувствовал такое головокружение.)
+(Я уже чувствовала такое головокружение.)
++++
+(It happened again!)
+(I saw something...)
+(I saw something...)
+(But what did I just see?)
+(But what did I just see?)
+ Huh? What\'s the matter,\n[hero]?
+ What?! You had another vision?
+ But this time, you saw a lone\nPokémon leap into this waterfall?!
+ But this time, you saw a lone\nPokémon leap into this waterfall?!
+ And not only that…
+ There\'s a hidden cave behind the\nwaterfall?!
+ Hmm…
+ But it looks like that water is\ncrashing down really hard.
+ Imagine if there was actually a\nsolid cliff wall behind that waterfall!
+ Ouch!
+ If we tried to jump through…
+ We\'d be pounded badly!
+ So [hero]…
+ What do you think,\n[hero]?
+ Is there really something behind\nthis waterfall?
+ Do you really think there\'s a\ncave there?
+ Well... All right.
+ I\'m going to believe you,\n[hero]!
+ Yes! I totally believe in you,\n[hero]!
+ Eek!
+ OK, I gotta be brave now!
+ If I get scared and fail to leap\nthrough at full speed…
+ I\'ll be smooshed no matter what\nI do!
+ If I\'m doing it, I have to do it\nwithout hesitating.
+ Be brave...[K] Use all your courage!
+ Be brave...[K] Use all your courage!
+ Ready! Let\'s go, [hero]!
+ Three...[K] Two...[K] One...[K] Now!
+ Waaaah!
+
+(Это снова случилось!)
+(Я что-то увидел...)
+(Я что-то увидела...)
+(Но что я только что видел?)
+(Но что я только что видела?)
+ А? Что такое, [hero]?
+ Что?! У тебя было ещё одно\nвидение?
+ Но на этот раз, ты видел\nкак Покемон прыгает в этот водопад?!
+ Но на этот раз, ты видела\nкак Покемон прыгает в этот водопад?!
+ И кроме того...
+ За водопадом скрыта\nпещера?!
+ Хмм...
+ Но поток этой воды очень\nмощный.
+ А что если там на самом\nделе ничего нет!?
+ Ой!
+ Если мы попытаемся\nпрыгнуть...
+ Нас просто раздавит!
+ Так что, [hero]...
+ Как ты думаешь, [hero]?
+ Неужели за водопадом правда\nчто-то есть?
+ Ты действительно считаешь,\nчто там есть пещера?
+ Так... Ладно...
+ Я поверю тебе, [hero]!
+ Да! Я целиком и полностью\nверю тебе, [hero]!
+ Иии!
+ Так, мне нужно быть смелее!
+ Если я испугаюсь и не смогу\nперепрыгнуть сквозь водопад...
+ Меня раздавит под толщей\nводы!
+ Если я хочу перепрыгнуть,\nмне не стоит сбавлять скорость.
+ Будь храбрым...[K] Смелее!
+ Будь храброй...[K] Смелее!
+ Вперёд! Идём, [hero]!
+ Три...[K] Два...[K] Один...[K]\nВперёд!
+ Уааааа!
++++
+ Yowowow…
+ W-what is this?!
+ Yes! It is a cave!
+ You were right after all,\n[hero]!
+ You were right after all,\n[hero]!
+ Let\'s go explore this cave,\n[hero]!
+ Let\'s see what secrets it holds!
+
+ Ой-ёй-ёй-ёй...
+ Ч-что это?!
+ Да! Это пещера!
+ Ты всё таки был прав,\n[hero]!
+ Ты всё таки была права,\n[hero]!
+ Идём, исследуем эту пещеру,\n[hero]!
+ Посмотрим, какие секреты\nона скрывает!
++++
+ Ugh... That didn\'t go well…
+ Hmmm... This is really hard...\nLet\'s call it off for today.
+
+ Ух... Мы не справились...
+ Хммм... Это непростая\nзадача... Лучше пока передохнуть.
++++
+ Ты готов? Тогда вперёд,\n[hero]!
+ Ты готова? Тогда вперёд,\n[hero]!
++++
+ Are you OK, [hero]?
+ Let\'s go inside.
+ Ты в порядке, [hero]?
+ Идём внутрь.
++++
+ Wow! Check that out,\n[hero]!
+ Look at all the gems sparkling!
+ Wow, look over there! It\'s a\ngigantic gem!
+ Awesome! I\'ve never seen a gem\nthis humongous!
+ Wow! I\'ve never seen a gem\nthis huge!
+ Oh, wow! I\'ve never seen \na gem this immense!
+ This is an incredible treasure!
+ Everyone will be amazed if we\ntake this back.
+[CN][partner] tried to grab\n[CN]the giant gem.
+ Urrrrgh! Urrrrgh![K] Ugh…
+ Nope, it\'s not budging…
+ It\'s really stuck tight.
+ Can you give it a try,\n[hero]?
+[CN][hero] took over and tried\n[CN]to pull out the gigantic gem.
+(Whoa!)
+(This is really stuck!)
+(It won\'t budge!)
+(Urrrrgh...ugh...[K] Nope, no good...)
+ So you couldn\'t move it either,\n[hero]…
+ But we can\'t just give up.
+ If we try hard enough, we\'ll\nprobably get some kind of result!
+ I\'m going to give it another go,\n[hero]!
+[CN][partner] tried to pull out\n[CN]the gigantic gem again.
+ Urrrrrrgh![K] Urrrrrrgh!
+(Hmm...)
+(It\'s not budging one bit...)
+(Huh?[K] Oh no...)
+(It\'s happening again...)
+(It\'s...)
+
+ Ого! Посмотри,\n[hero]!
+ Сколько здесь самоцветов!
+ Вау, посмотри туда! Какой\nогромный самоцвет!
+ Ничего себе! Я никогда не\nвидел такого огромного самоцвета!
+ Вот это да! Я никогда не\nвидел такого огромного самоцвета!
+ Ох, ничего себе! Я никогда\nне видела такого большого самоцвета!
+ Это невероятное сокровище!
+ Вот все удивятся, если мы\nего принесём.
+[CN][partner] пытается схватить\n[CN]гигантский самоцвет.
+ Эээээхх! Ууууух![K] Ух...
+ Нет, его не сдвинуть...
+ Он намертво застрял.
+ Может у тебя получится его\nвытащить, [hero]?
+[CN][hero] обхватывает самоцвет\n[CN]и пытается его вытащить.
+(Ого!)
+(Его и впрямь не сдвинуть!)
+(Не вытаскивается!)
+(Ууууух...ух...[K] Нет, бесполезно...)
+ И у тебя не получается его\nсдвинуть, [hero]...
+ Но мы не можем просто так\nсдаться.
+ Если мы приложим достаточно\nусилий, у нас что нибудь получится!
+ Я попробую ещё раз,\n[hero]!
+[CN][partner] снова пытается вытащить\n[CN]гигантский самоцвет.
+ Уууухххх![K] Уууууухххх!
+(Хмм...)
+(Он совершенно не поддаётся...)
+(А?[K] О нет...)
+(Снова начинается...)
+(Это...) 
++++
+(But that was...!)
+ Urrrrrrgh![K] Urrrrrrgh!
+ I can\'t get it out…
+ It\'s no good. I can\'t pull it out…
+ N-no. It just won\'t come out…
+[CN][partner] just happened\n[CN]to push the gigantic gem!
+(Aaaack! That\'s...)
+ Huh? What\'s happening?
+ Waaah! It\'s a flood!
+ Waaaaaaah!
+
+(Но это же!..)
+ Уууууухх![K] Уууууухх!
+ Не могу вытащить...
+ Нет. Я не могу его\nвытащить...
+ Н-нет.\nОн не вытаскивается...
+[CN][partner] каким-то образом сдвигает\n[CN]гигантский самоцвет!
+(Ооооой! Это...)
+ А? Что происходит?
+ Уаааа! Наводнение!
+ Уаааааааа!
++++
+ Huh? What...? Where are we?
+ Hi, hi! Are you two OK?
+ You plopped down from nowhere!
+ Oh, you startled everyone!
+ Where are we?
+ This is the Hot Spring.
+ H-Hot Spring?!
+ Indeed! This is the Hot Spring.
+ The Hot Spring works wonders\non tired muscles and creaky joints. Many\nPokémon visit here.
+ Tell me, youngster, have you a\nmap?
+ Map?[K] Oh, our Wonder Map, you\nmean? We have one.
+ Unfold it for me.
+
+ А? Что?.. Где мы?
+ Привет, привет! Вы в порядке?
+ Вы плюхнулись сюда из\nниоткуда!
+ О, вы всех напугали!
+ Где мы?
+ Это Горячие Источники.
+ Г-горячие Источники?!
+ Разумеется! Это Горячие\nИсточники.
+ Горячие Источники - настоящее\nчудо для уставших мышц и скрипящих\nсуставов. Сюда приходят разные Покемоны.
+ Скажи мне, у тебя есть карта?
+ Карта?[K] О, ты говоришь о\nнашей Чудо-Карте? Да, у нас она есть.
+ Разверните её мне.
++++
+ My goodness! It was the water\nthat carried you all this way?
+ What a long journey that must\nhave been![K] Let the Hot Spring wash away your\nfatigue before you make your way home.
+ Good idea. We\'ll do that. Thanks,\neveryone!
+
+ Ничего себе! Вас так далеко\nвынесло водой?
+ Должно быть, это было долгое\nпутешествие![K] Прежде чем вы уйдёте,\nпозвольте Источникам смыть вашу усталость.
+ Хорошая мысль. Мы отдохнём\nздесь. Спасибо вам всем!
++++
+ There.[K] We are here.
+ This is the Hot Spring\'s location.
+ Oh. I see.
+ The waterfall\'s located here,\nso…
+ Hey! Check this out,\n[hero]!
+ The water carried us all the way\nover here.
+
+ Вот. Мы здесь.
+ Здесь находятся Горячие\nИсточники.
+ О. Я вижу.
+ Водопад находится здесь,\nтак что...
+ Эй! Посмотри, [hero]!
+ Вода очень далеко нас\nзанесла.
++++
+ Hmm. Let me see if I\'ve got this\nall straight.
+ Behind the waterfall, there is\na cave…
+ In the deepest part of the cave,\nthere is a gigantic gem…
+ When you pushed on the gem, it\ntriggered a trap of some kind…
+ And, surprisingly, you were\nflushed off to the distant Hot Spring?[K] Is that\nthe gist of your report?
+ Yes.[K] It\'s awfully disappointing\nthat we couldn\'t bring the gem back…
+ No, no, no! Emphatically, no!
+ This is a major discovery!
+ R-really?!
+ Undoubtedly! ♪
+ After all, the presence of the\ncave behind the waterfall…
+ No one knew about that\nbefore now! ♪
+ Oh, I see! We made a discovery!
+(When I had those dizzy spells...)
+(The shadow of that Pokémon I saw...)
+
+ Хмм. Скажите мне, если я\nправильно вас понял.
+ За водопадом есть пещера...
+ В самой глубокой части пещеры\nесть гигантский самоцвет...
+ Вы попытались его вытащить, но\nактивировалась какая-то ловушка...
+ И, к вашему удивлению, вас\nвынесло к Горячим Источникам?[K] Это вся суть вашего отчёта?
+ Да.[K] Но, наверное, вы ужасно\nогорчены, что мы так и не смогли принести этот самоцвет...
+ Нет, нет, нет! Категорически нет!
+ Это большое открытие!
+ П-правда?
+ Несомненно! ♪
+ Всё таки, о том, что за водопадом\nесть пещера...
+ До этого момента никто о ней не\nзнал! ♪
+ Ох, верно! Мы совершили\nоткрытие!
+(Когда у меня были головокружения...)
+(Тень Покемона, что был в видениях...)
++++
+(That shape...)
+(I\'ve seen that shape before...)
+(I\'ve seen that shape before...)
+(That shape...[K] There\'s no mistaking it!)
+(That was...[K][CS:N]Wigglytuff[CR]!)
+
+(Этот силуэт...)
+(Я уже его раньше видел...)
+(Я уже его раньше видела...)
+(Этот силуэт...[K] Ошибки быть не может!)
+(Это был...[K] [CS:N]Виглитафф[CR]!)
++++
+ Your waterfall discovery is just\namazing![K] The Guildmaster must be told! ♪
+ What? What\'s wrong,\n[hero]?
+ Huh?
+ You\'re saying [CS:N]Wigglytuff[CR] may\nhave been at that waterfall before?!
+ No, no, no! Emphatically no![K]\nThat\'s inconceivable!
+ If that were so, the Guildmaster\nwouldn\'t have ordered you to investigate the\nplace, right?
+ Hmm. However, since you insist,\nI will confirm it with the Guildmaster…
+ Hmm... But why would they want\nto spoil their own discovery! How strange!
+ I should be used to it by now…
+ These apprentices are yet\nanother strange crew, aren\'t they...?
+ What was that, [CS:N]Chatot[CR]?
+ What? Oh, nothing, nothing.\nNothing at all!
+ Anyway, I will go confirm what\nyou told me with the Guildmaster.
+ Please wait here.
+ So how did it go?
+ When I asked the Guildmaster,\nhe mulled it over for a bit.
+ And then he said…
+ \"Oh, memories! ♪ Sweet\nmemories! ♪[K] YOOM...TAH!\"
+ Then he danced around a bit.[K]\nAnd then he said…
+ \"Yes, yes! When I think hard,\nmaybe I did go there once!\"
+ And that\'s just what the\nGuildmaster said.
+ To sum it up, it\'s just as\n[hero] suspected...[K] He has indeed already\nbeen to [CS:P]Waterfall Cave[CR].
+ Oh... OK.[K] That\'s kind of\ndisappointing…
+ We really thought we\'d\ndiscovered a new place.
+ I wish [CS:N]Wigglytuff[CR] had told us\nright from the start…
+ The Guildmaster can be rather,\nuh, erratic at times...\n
+ Even I can\'t quite fathom what\ngoes on in his head.
+ Well, that\'s too bad for you.
+ Nevertheless, I shall expect your\nbest effort tomorrow! ♪
+ Urf...
+
+ Ваше открытие потрясающе![K]\nЯ должен сказать о нём Гильдмастеру! ♪
+ Что? Что случилось,\n[hero]?
+ А?
+ Говоришь, что [CS:N]Виглитафф[CR] уже\nбыл у того водопада?!
+ Нет, нет, нет! Категорически нет![K]\nЭто невозможно!
+ Даже если это и так, то почему\nГильдмастер приказал вам исследовать это\nместо?
+ Хмм. Впрочем, раз ты настаиваешь,\nя поговорю об этом с Гильдмастером...
+ Хмм... Но зачем они портят своё\nсобственное открытие! Странно!
+ Я уже давно должен к такому\nпривыкнуть...
+ Эти ученики всего лишь очередная\nстранная команда, верно?..
+ Ты что-то сказал, [CS:N]Чатот[CR]?
+ Что? О, ничего, ничего.\nСовершенно ничего!
+ Так, я пойду к Гильдмастеру и\nузнаю, верны ли твои слова.
+ Пожалуйста, подождите меня здесь.
+ Так что, как всё прошло?
+ Когда я спросил обо всём\nГильдмастера, он немного подумал.
+ И затем сказал...
+ \"О, воспоминания! ♪ Чудесные\nвоспоминания! ♪[K] УООМ...ТАХ!\"
+ Затем, он пустился в пляс.[K]\nИ далее сказал...
+ \"Да, да! Если так подумать, то,\nвозможно, я действительно был там разок!\"
+ И это всё, что Гильдмастер мне\nсказал.
+ Вкратце, всё сказанное оказалось\nправдой...[K] Он действительно был в [CS:P]Пещере\nза Водопадом[CR].
+ Ох... Понятно.[K]\nЭто несколько разочаровывающе...
+ Нам казалось, что мы\nоткрыли новое место.
+ Вот бы [CS:N]Виглитафф[CR] нам сразу\nоб этом сказал...
+ Иногда Гильдмастер может быть\nнемного, эм, чудаковатым...
+ Даже я иногда не совсем понимаю,\nчто творится в его голове.
+ Ну, тем хуже для вас.
+ Но всё равно, завтра я ожидаю\nот вас всех возможных усилий! ♪
+ Уф...
++++
+(Today was exhausting.)
+(I should get to sleep early.)
+ Sigh...[K] We went through a lot\ntoday, didn\'t we?
+ But you know what? It was\nincredibly fun for me!
+ Sure, there was that huge\nletdown…
+ But it was our first exploration!\nI thought I was going to explode from\nexcitement and anticipation the whole time.
+ It made me feel glad I became\nan exploration team member.
+ It made me realize I made the\nright decision in joining an exploration team.
+ I realized I did the right thing in\nbecoming an exploration team member.
+ One day I\'m sure I\'ll solve the\nsecret of my Relic Fragment.
+ That\'s my dream.
+ If it ever came true, I\'d surely\nfaint from sheer happiness!
+ If it ever came true, I\'d surely\nfaint from sheer happiness!
+ Ha ha ha ha!
+ But seriously, thanks…
+ I can explore because of you,\n[hero].
+ Yup…
+(Сегодня был выматывающий день.)
+(Мне нужно лечь спать пораньше.)
+ Эх...[K] Сегодня многое\nпроизошло, да?
+ Но знаешь, что? Мне было\nневероятно весело!
+ Конечно, было и\nразочарование...
+ Но это была наша первая\nнастоящая вылазка! Мне всё время казалось,\nчто я лопну от нетерпения и радости.
+ Я так рад, что стал членом\nкоманды исследователей.
+ Я осознал, что я принял\nправильное решение, что вступил в команду\nисследователей.
+ Я поняла, что приняла\nправильное решение, вступив в команду\nисследователей.
+ Однажды я раскрою загадку\nмоего Фрагмента Реликвии.
+ Это моя мечта.
+ Если она сбудется, я\nпотеряю голову от счастья!
+ Если она сбудется, я\nпотеряю голову от счастья!
+ Ха-ха-ха-ха!
+ Но честно, спасибо...
+ Благодаря тебе, [hero],\nя могу ходить на вылазки.
+ Да...
++++
+ I\'m the biggest chicken around,\nand even I managed to work up the courage!
+ I\'m the biggest chicken around,\nand even I managed to work up the courage!
+ And it was all because you were\nwith me, [hero].
+ And it was all because you were\nwith me, [hero].
+ Seriously, [hero], thanks!
+ ...Oh yeah!
+ You know, I was thinking…
+ You know, I was thinking…
+ I noticed something about your\ndizzy spells, [hero].
+ I noticed something about your\ndizzy spells, [hero].
+ They always seem to happen\nwhen you\'re touching something.
+(Come to think of it, [partner]\'s right!)
+(Come to think of it, [partner]\'s right!)
+(When I heard [CS:N]Azurill[CR]\'s scream...)
+(When I heard [CS:N]Azurill[CR]\'s scream...)
+
+ Я самый безнадёжный трус,\nно даже я смог набраться смелости!
+ Я безнадёжная трусиха, но\nдаже я смогла набраться смелости!
+ И всё это благодаря тому,\nчто ты был рядом со мной, [hero].
+ И всё это благодаря тому,\nчто ты была рядом со мной, [hero].
+ Я говорю совершенно\nвсерьёз. [hero], спасибо тебе!
+ ...Ох, точно!
+ Знаешь, я тут всё думал\nкое о чём...
+ Знаешь, я тут всё думала\nкое о чём...
+ Я заметил кое-какую\nзакономерность в твоих наваждениях,\n[hero].
+ Я заметила кое-какую\nзакономерность в твоих наваждениях,\n[hero].
+ Они всегда происходят,\nкогда ты касаешься чего либо.
+(Если так подумать, [partner] прав!)
+(Если так подумать, [partner] права!)
+(Когда я услышал крик [CS:N]Азурилла[CR]...)
+(Когда я услышала крик [CS:N]Азурилла[CR]...)
++++
+(And that other time...)
+(И во второй раз...)
++++
+(And when we were exploring [CS:P]Waterfall\nCave[CR]!)
+(И когда мы пошли исследовать [CS:P]Пещеру за\nВодопадом[CR]!)
++++
+(It... It\'s true...)
+(It was always after touching something!\nThat\'s when I got those dizzy spells!)
+(It was always after touching something!\nThat\'s when I got those dizzy spells!)
+(When I touch something, I see something\nconnected to it...[K] Right?)
+ There\'s another thing.
+ When we rescued [CS:N]Azurill[CR], you\nhad a vision of the future…
+ But this time, you saw\n[CS:N]Wigglytuff[CR] going into the cave, right?
+ But this time, you saw\n[CS:N]Wigglytuff[CR] going into the cave, right?
+ So that means…
+ This time, you saw something\nthat happened in the past.
+ This time, you saw something\nthat happened in the past.
+(Th-that\'s true!)
+ In other words, [hero]…
+ If you touch something, you see\nits past or future.
+ You must have that kind of\nspecial ability!
+ This could be something totally\nawesome!
+ You could use it in lots of ways!
+ Not just for exploring, either!\nThe ability could be useful for many things!
+ This is awesome, [hero]!
+(W-well, yes! I guess that\'s true...)
+(But that doesn\'t mean I always get a vision\nevery time I touch something...)
+(It would be useful if I could have visions\nwhen I wanted, but...)
+(It would be useful if I could have visions\nwhen I wanted, but...)
+ Hey, you two!
+ The Guildmaster wants to see\nyou right away.
+
+(Это... Это правда...)
+(Это происходит только тогда, когда я к\nчему-либо прикасаюсь! Тогда у меня\nпроисходят эти видения!)
+(Это происходит только тогда, когда я к\nчему-либо прикасаюсь! Тогда у меня\nпроисходят эти видения!)
+(Если я касаюсь чего-либо, я вижу\nсвязанные с этим события...[K] Так?)
+ Есть ещё кое-что.
+ Когда мы спасали [CS:N]Азурилла[CR],\nу тебя было видение будущего...
+ Но на этот раз, ты видел,\nкак [CS:N]Виглитафф[CR] уже был в пещере, верно?
+ Но на этот раз, ты видела,\nкак [CS:N]Виглитафф[CR] уже был в пещере, верно?
+ И это значит...
+ Что тогда ты видел нечто,\nчто происходило в прошлом.
+ Что тогда ты видела нечто,\nчто происходило в прошлом.
+(Э-это правда!)
+ Иначе говоря, [hero]...
+ Если ты касаешься\nчего-либо, ты видишь его прошлое или\nбудущее.
+ Должно быть, такой\nспособностью обладаешь только ты!
+ Это может быть совершенно\nневероятным!
+ Ты можешь использовать эту\nспособность самыми разными способами!
+ И не только на вылазках!\nГде угодно и как угодно!
+ Это прекрасно, [hero]!
+(Д-да! Полагаю, что это так...)
+(Но это не значит, что я всегда могу\nвызвать видения при прикосновении...)
+(Это могло бы быть полезным, если бы я\nмог вызывать видения в любой момент, но...)
+(Это могло бы быть полезным, если бы я\nмогла вызывать видения в любой момент, но...)
+ Эй, вы двое!
+ Гильдмастер хочет видеть\nвас.[K] Прямо сейчас.
++++
+ Guildmaster, I\'ve brought you\nTeam [team:].
+ Guildmaster...[K]Guildmaster?
+ Hiya!
+ Your team went through a lot\ntoday! Yes, a lot-lot!
+ But don\'t worry! I\'m keeping \nwatch on your activities!
+ I should tell you why I called\nyou here.
+ We\'re planning to mount a full\nexpedition soon! ♪
+ An expedition?
+ Yes! The guild will go explore\nsomeplace far away!
+ It\'s much harder than exploring\nour nearby area.
+ That\'s why we need to prepare\nfor the big trip properly.
+ We carefully choose which guild\nmembers go on the expedition.
+ Really?!
+ Usually, we would never, ever\nconsider rookies to be expedition members.
+ But you two are working so\nvery hard!
+ That\'s why we\'re making a\nspecial exception this time!
+ We decided to include you in\nthe list of candidates for the expedition!
+ R-really?!
+ Now, now!
+ You haven\'t been chosen as\nexpedition members yet.
+ There is still time before we\nset out on the expedition.
+ If you fail to do good work\nbefore then, you cannot expect to be selected\nfor the expedition.
+ I\'m sure you two can do it!
+ Try hard!
+ Yes!
+ An expedition! Isn\'t it amazing,\n[hero]?
+ My heart is pounding all of a\nsudden!
+ Let\'s do our best and make sure\nwe get picked for the expedition!
+
+ Гильдмастер, я привёл вам\nКоманду [team:].
+ Гильдмастер...[K] Гильдмастер?
+ Приветик!
+ Вы сегодня много сделали!\nДа, много-много!
+ Но не переживайте! Я слежу за\nвашими действиями!
+ Я должен сказать почему я вас\nсюда пригласил.
+ Скоро мы планируем снарядить\nполноценную экспедицию! ♪
+ Экспедицию?
+ Да! Гильдия будет исследовать\nотдалённое место!
+ Это будет гораздо более\nсложная задача, чем обычно.
+ Именно поэтому нам нужно\nтщательно к ней подготовиться.
+ Мы сделаем отбор тех членов\nгильдии, что отправятся в экспедицию.
+ Правда?!
+ В обычной ситуации мы ни при\nкаких обстоятельствах не берём в\nэкспедиции новичков.
+ Но вы двое так усердно\nтрудитесь!
+ Поэтому на этот раз, мы\nсделаем особое исключение!
+ Мы решили включить вас в\nсписок кандидатов на экспедицию!
+ П-правда?!
+ Ну, ну!
+ Вас пока еще не выбрали как\nчленов экспедиции.
+ Прежде чем мы отправимся в\nэкспедицию, пройдет некоторое время.
+ Если вы не будете хорошо\nтрудиться, то вас не выберут для\nэкспедиции.
+ Я уверен, что вы двое\nсправитесь!
+ Старайтесь!
+ Да!
+ Экспедиция! Разве это не\nздорово, [hero]?
+ Мое сердце внезапно начало\nбиться быстрее!
+ Сделаем всё возможное чтобы\nнас выбрали в экспедицию!
++++
+ Ahem! As I was explaining...\nthere is a lake far to the east.
+ There are many aspects of that\nlake that remain mysterious.
+ We hope to unravel those\nmysteries.
+ And so, our guild is planning to\nmount an expedition for the first time in\na while. ♪
+ An expedition, you say? Yes,\nplease! Yes sirree!
+ It\'s been a long time since we\nwent on an expedition!
+ But... That means you\'re going to\nbe picking members for the expedition from\nALL of us again, right?
+ Precisely! ♪
+ We will depart in several days.
+ Over these next few days, we\nwill choose the most worthy apprentices.
+ The chosen members will form\nthe expedition party.
+ Everyone, work hard so that you\nmay be chosen for the expedition!
+ Oh my gosh! This is so exciting!
+ Yup yup! I\'ve yet to go on an\nexpedition. I would surely love to go this time!
+ Let\'s work at it and get picked\nas members!
+ All right, everyone. ♪ It\'s back\nto work as usual. ♪
+[CS:N]Everyone[CR]: HOORAY!
+ Ah, you two.
+ Today, I want you two to check\nthe Job Bulletin Board and the Outlaw Notice\nBoard and handle their listed jobs.
+ That will do for now. ♪
+
+ Кхем! Как я уже объяснял...\nДалеко на востоке есть озеро.
+ У этого озера есть некоторые\nособенности, которые остаются для нас\nзагадочными.
+ Мы надеемся разгадать эти\nзагадки.
+ И поэтому, наша гильдия в первый\nраз за долгое время планирует снарядить\nэкспедицию. ♪
+ Экспедицию, говоришь? Да!\nДа, сэрррр!
+ С прошлой экспедиции прошло\nуже столько времени!
+ Но... Это значит, что вы снова\nбудете отбирать членов для экспедиции из\nчисла ВСЕХ нас, да?
+ Именно так! ♪
+ Мы отправляемся через несколько\nдней.
+ За эти следующие несколько дней\nмы выберем самых достойных учеников.
+ Выбранные члены гильдии попадут\nв экспедиционную группу.
+ Вы все должны усердно поработать,\nчтобы вас выбрали в экспедицию!
+ О боже мой! Это так\nволнительно!
+ Да-да! Я ещё не бывал в\nэкспедициях. Но я очень хочу в ней\nпоучавствовать!
+ Мы хорошенько потрудимся и нас\nобязательно выберут!
+ Ну хорошо. ♪ Вам пора снова\nприниматься за работу. ♪
+[CS:N]Все[CR]: УРААА!
+ А, вы двое.
+ Сегодня, вам нужно выбрать себе\nзадания с Доски Объявлений и Доски\nРазыскиваемых.
+ Пока всё. ♪
 +++
