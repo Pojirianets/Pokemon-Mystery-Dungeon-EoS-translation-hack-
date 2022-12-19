@@ -107955,3 +107955,3168 @@ Please explain again
  Сегодня, вам нужно выбрать себе\nзадания с Доски Объявлений и Доски\nРазыскиваемых.
  Пока всё. ♪
 +++
+ Let\'s do a good job again today,\n[CS:N]Loudred[CR]!
+ Давай сегодня хорошенько\nпоработаем, [CS:N]Лаудред[CR]!
++++
+ Хорошо! ВЫШЕ НОС, [CS:N]Диглетт[CR]!
++++
+ So today they want us to work\non the jobs listed on the Job Bulletin Board and\nthe Outlaw Notice Board?
+ Let\'s try to do as many jobs as\nwe can.
+ Then they\'ll have to pick us for\nthe expedition party!
+ Let\'s go check now,\n[hero]!
+ Look! Those Pokémon…
+ Hey!
+ You two?!
+ Huh? That duo…
+ Wait, haven\'t we seen\nthem before?
+
+ Так значит сегодня нам\nнужно выполнять задания с Доски\nОбъявлений и Доски Разыскиваемых?
+ Тогда нам нужно взять\nпобольше заданий.
+ Сделаем так и нас\nобязательно возьмут в экспедицию!
+ Пойдем посмотрим, что можно\nвыполнить, [hero]!
+ Гляди! Эти Покемоны...
+ Эй!
+ Вы двое?!
+ А? Эта парочка...
+ Минутку, разве мы не видели\nих раньше?
++++
+ I... I remember!
+ I... I remember!
+ They\'re those two crooks who\nripped off my Relic Fragment!
+ They\'re those two crooks who\nstole my Relic Fragment!
+ They\'re those two crooks who\ntook off with my Relic Fragment!
+ What are they doing here?!
+ Whoa-ho-ho! I\'ll have you know\nthat we\'re an exploration team too.
+ Heh-heh-heh. What\'s so funny\nabout an exploration team checking out the\nJob Bulletin Board?
+ What?![K] You\'re an exploration\nteam?!
+ That\'s right. Though the way we\noperate isn\'t always...[K]by the book.
+ But what a surprise! Why would\nyou be here?
+ We wanted to become\nexploration team members.
+ That\'s why we\'re training at\nthis guild.
+ Whaaaat?!
+ You want to become a real-deal\nexploration team member?!
+ You! Come with us for a second.
+ Wh-what is it?
+ Now don\'t take what I\'m about\nto say the wrong way.[K] You should just forget\nabout being on an exploration team!
+ What?! Why?!
+ Well, you\'re timid.\nYou scare easy.
+ A scaredy-cat like you can\'t cut\nit on an exploration team.
+ B-but!
+ It-it\'s true that I\'m timid…
+ It-it\'s true that I\'m timid…
+ But that\'s why I\'m in training!\nSo I can overcome my own shortcomings!
+ But that\'s why I\'m in training!\nSo I can overcome my own shortcomings!
+ Even now, I\'m working hard to\nbe picked for the guild\'s expedition!
+ Oh? An expedition, you say?
+ Heh-heh. Well, effort only gets\nyou so far.
+ You won\'t get picked for the\nexpedition party if you don\'t have talent, right?
+ It all comes down to talent...\npure talent!
+ B-big talk!
+ You sure talk a lot about talent,\nbut what kind of skills do you have?
+ You\'re so weak, you even lost\nto us!
+ Whoa-ho-ho! Well, we didn\'t\nhave the Chief with us.
+ Ch-Chief?
+ Heh-heh. That\'s right.
+ Team [CS:X]Skull[CR], our exploration\nteam, has three members.
+ Our Chief is incredibly talented.
+ To put it bluntly, he\'s brutally\ntough.
+ Heh-heh. If the Chief were\naround, we\'d snap you like a twig.
+ Whoa-ho-ho! Speaking of the\nChief, I can smell him coming now!
+ Smell?
+ Here\'s the Chief!
+ Move! Out of the way!
+ Oh, [hero]!
+ Ugh! What\'s this awful stench?
+ Eek! It reeks like rotten cheese!
+ That is foul, yes sirree!
+ Hey, hey! My eyes are burning!
+ Move it! Or do you want to end\nup like that wimp over there?!
+ Oh no…
+ Chief!
+ You showed them, Chief! You\'re\nthe best!
+ Yeah, yeah, whatever.[K]\nSo, you two, did you sniff out any jobs that\'ll\nbring in the cash?
+ The Job Bulletin Board only\nposted cheap tasks, but…
+ There\'s something else, Chief.\nIt\'s got the potential to go big…
+ Psst...psst...whisper...psst…
+ What? An expedition from\nthis guild?
+ That does sound tasty.
+ Doesn\'t it?
+ Let\'s get out of here. We need\nto do some plotting.
+ Come on. We\'re going.
+[CS:N]Koffing[CR] & [CS:N]Zubat[CR]: Yeah!
+ What are you all staring at?\nThis isn\'t a public performance!
+ Heh-heh, see you around, wimps.
+ Are you OK, [hero]?!
+ Great! It doesn\'t look like\nyou\'re injured.
+ That sure was rough, though.
+ I couldn\'t work up the courage to\nchallenge him to his face!
+ I couldn\'t work up the courage to\nchallenge him to his face!
+ Even though he knocked you out,\n[hero]... I\'m so disappointed in myself…
+ Even though he hurt you,\n[hero]... I\'m ashamed of myself…
+ Even though he knocked you out,\n[hero]... I let you down…
+ They\'re right... I am a wimp...\nA big chicken.
+ They\'re right... I am a wimp...\nA big chicken.
+You\'re not a wimp…
+ Thanks for trying to cheer me\nup, [hero]…
+ But...
+ But I really am a wimp...
+ But I really am a wimp...
+ But it\'s nothing new for me…
+ I\'ve decided that I can still do\nmy best even if I\'m not very brave.
+ I\'ve decided that I can still do\nmy best even if I\'m not very brave.
+ I won\'t let something like this\nbreak me.
+ I\'m going to be cheerful and\nkeep trying.
+ Thank you, [hero]!
+ For now, we\'d better keep\nworking like we\'ve been doing.
+ Today we\'re supposed to handle\nthe jobs on the Job Bulletin Board and the\nOutlaw Notice Board.
+ Let\'s keep at it, [hero]!
+Bok bok bok!
+ I-I guess you\'re right…
+ I\'m a really big chicken.
+ I\'m a really big chicken.
+ But it\'s nothing new for me…
+ I\'ve decided that I can still do\nmy best even if I\'m not very brave.
+ I\'ve decided that I can still do\nmy best even if I\'m not very brave.
+ I won\'t let something like this\nbreak me.
+ I\'m going to be cheerful and\nkeep trying.
+ Thank you for straightening me\nout, [hero]!
+
+ Я... Я вспомнил!
+ Я... Я вспомнила!
+ Это те два плута, которые\nотбирали у меня Фрагмент Реликвии!
+ Это те два плута, которые\nкрали мой Фрагмент Реликвии!
+ Это те два плута, которые\nубегали с моим Фрагментом Реликвии!
+ Что они здесь делают?!
+ Хоа-хо-хо! Тебе стоит знать,\nчто мы тоже команда исследователей.
+ Хе-хе-хе. Что смешного в том,\nчто команда исследователей смотрит\nзадания на Доске Объявлений?
+ Что?![K]\nВы команда исследователей?!
+ Верно. Впрочем мы не всегда\nдействуем...[K]по инструкции.
+ Но каков сюрприз! Как вас сюда\nзанесло?
+ Мы хотели стать\nисследователями.
+ Именно поэтому мы стали\nтренироваться в этой гильдии.
+ Чтооооо?!
+ Вы хотели стать всамделишными\nисследователями?!
+ Ты! Пойдём-ка сюда на минутку.
+ Ч-что такое?
+ Только не пойми меня\nнеправильно.[K] Тебе стоит забыть о карьере\nисследователя!
+ Что?! Почему?!
+ Видишь ли, тебя легко испугать.
+ Таким трусишкам как ты лучше\nзабыть о исследованиях.
+ Н-но!
+ Да, это правда.\nЯ пуглив...
+ Да, это правда.\nЯ пуглива...
+ Но именно поэтому я и\nтренируюсь! Для того, чтобы побороть свои\nнедостатки!
+ Но именно поэтому я и\nтренируюсь! Для того, чтобы побороть свои\nнедостатки!
+ Даже сейчас я усердно\nтренируюсь, чтобы меня взяли в\nгильдейскую экспедицию!
+ А? Экспедицию, говоришь?
+ Хе-хе. Ну, ты недалеко уйдешь.
+ Если у тебя нет таланта, то в\nэкспедицию тебя не возьмут, верно?
+ Для этого нужен талант...\nЧистый талант!
+ Ч-что за чушь!
+ Вы столько говорите о\nталанте, но что вы сами то можете?
+ Вы настолько слабы, что\nдаже нам проиграли!
+ Хоа-хо-хо! В тот раз с нами не\nбыло нашего Босса.
+ Б-босса?
+ Хе-хе. Всё верно.
+ В нашей Команде [CS:X]Череп[CR] трое\nисследователей.
+ Наш Босс невероятно талантлив.
+ Грубо говоря, он очень силён.
+ Хе-хе. Если бы наш Босс был\nрядом, он бы переломил тебя как\nтростинку.
+ Хоа-хо-хо! Кстати о Боссе, я\nпо запаху чую как он идёт сюда!
+ Запаху?
+ Вот и наш Босс!
+ Прочь! С дороги!
+ Ох, [hero]!
+ Ух! Что за ужасная вонь?
+ Иии! Пахнет тухлым сыром!
+ Вот это аромат, да сэрррр!
+ Ой, ой! У меня горят глаза!
+ С дороги! Или ты тоже хочешь\nполучить?!
+ О, нет...
+ Босс!
+ Вот это ты поставил их на\nместо! Ты лучше всех!
+ Да, да, неважно.[K] Ну так что,\nвы двое уже разнюхали для нас\nкакую-нибудь прибыльную работёнку?
+ На Доске Объявлений нет ничего\nстоящего, но...
+ Есть кое-что ещё, Босс.\nКрупное дельце...
+ Шушу...шушу...шушушу...шушу...
+ Что? Гильдейская экспедиция?
+ Какое вкусное предложение.
+ Согласен?
+ Пойдём-ка отсюда. Надо кое-что\nобсудить.
+ За мной. Мы уходим.
+[CS:N]Коффинг[CR] и [CS:N]Зубат[CR]: Да!
+ А вы на что уставились? Это не\nпубличное шоу!
+ Хе-хе, ещё увидимся, слабаки.
+ Ты в порядке, [hero]?!
+ Отлично! Кажется, с тобой\nвсё хорошо.
+ Но это было очень грубо.
+ Я так и не сумел высказать\nему всё в лицо!
+ Я так и не сумела высказать\nему всё в лицо!
+ Хоть он тебя и сбил с ног,\n[hero]... Я так разочарован собой...
+ Хоть он тебе и навредил,\n[hero]... Мне так стыдно за себя...
+ Хоть он тебя и сбил с ног,\n[hero]... Я подвела тебя...
+ Они правы... Я слабый...\nИ трус.
+ Они правы... Я слабая...\nИ трусишка.
+Это не так...
+ Спасибо, что стараешься\nподбодрить меня, [hero]...
+ Но...
+ Я и вправду слабак...
+ Я и вправду слабая...
+ Но мне это уже известно...
+ Я решил, что даже если я не\nочень храбр, я всё равно буду стараться\nизо всех сил.
+ Я решила, что даже если я\nне очень храбра, я всё равно буду\nстараться изо всех сил.
+ Я не поддамся на такие\nпровокации.
+ Я буду держаться навеселе.
+ Спасибо тебе, [hero]!
+ А пока, нам лучше\nпродолжить заниматься своими делами.
+ Сегодня нам нужно выполнять\nзадания с Доски Объявлений и Доски\nРазыскиваемых.
+ Пора за дело, [hero]!
+Трусишка, трусишка!
+ Я-я думаю это так...
+ Я настоящий трус.
+ Я настоящая трусишка.
+ Но мне это уже известно...
+ Я решил, что даже если я не\nочень храбр, я всё равно буду стараться\nизо всех сил.
+ Я решила, что даже если я\nне очень храбра, я всё равно буду\nстараться изо всех сил.
+ Я не поддамся на такие\nпровокации.
+ Я буду держаться навеселе.
+ Спасибо за прямоту,\n[hero]!
++++
+ Let\'s work hard so they pick us\nfor the expedition, [hero]!
+ Давай постараемся, чтобы\nнас взяли в экспедицию, [hero]!
++++
+ What was that awful stench...?
+ But I won\'t let that bother me!\nI have my job to do!
+ Что это был за ужасный\nзапах?..
+ Но я не буду обращать на него\nвнимание! Мне есть чем заняться!
++++
+ Ewww! What an eye-watering\nstink cloud!
+ Now don\'t you all look at me\nlike that. Gosh, it\'s not nice to stare!
+ By golly, I tell you it has nothing\nto do with me, no sirree!
+ Фууу! Какое зловонное облако,\nот него слезятся глаза!
+ Только не смотрите на меня так.\nТаращиться нехорошо!
+ Ей-богу, я здесь совершенно не\nпричём, вовсе нет!
++++
+ Hey, hey, hey! Those guys you\nwere talking with…
+ They looked like some rough\ncustomers, hey, hey?
+ Эй, эй, эй! Эти ребята, с\nкоторыми вы говорили...
+ Они какие-то грубоватые, эй,\nэй?
++++
+ I wonder why we had such an\nawful stench in our guild…
+ It\'s a mystery! Eek!
+ Интересно, откуда появился\nэтот ужасный запах...
+ Настоящая загадка! Иии!
++++
+ Oh! A customer, is it not?
+ Good day, is it not?
+ The new shop, [CS:K]Spinda[CR]\'s Café, is\nnow open!
+ This wonderful shop is\noverflowing with hopes and dreams,\nis it not?
+ Hopes and dreams?
+ That\'s right!
+ Hey! Why not come on in?\nDon\'t be shy!
+ I don\'t know what this place is.\nWant to find out?
+ We have two guests!
+
+ О! Клиенты, не так ли?
+ Хороший денёк, не так ли?
+ Сегодня открылось новое место,\nКафе Спинды!
+ Это чудесное место переполнено\nнадеждами и мечтами, не так ли?
+ Надеждами и мечтами?
+ Всё так!
+ Послушайте! Почему бы вам не\nзайти? Не стесняйтесь!
+ Я не знаю, что это за\nместо. А ты хочешь узнать?
+ У нас два гостя!
++++
+ Whoa! This place is pretty big!
+ Wow! This is a big place!
+ Wow! This place is so large!
+ Hello and welcome to\n[CS:K]Spinda[CR]\'s Café!
+ My name is [CS:N]Spinda[CR]. I am the\nowner of this café.
+ This is a café for explorers\nwho enjoy finding new things every day and\nwho are constantly challenging themselves.
+ A café for explorers?
+ That\'s right.[K] It\'s natural to\nwant to refresh yourself with a hearty,\ndelicious drink after exploring…
+ So we are delighted to provide\nthis service to explorers, and we trust it\nwill bring them happiness.
+ Today is our grand opening!\nAllow me to show you around the premises.
+ This is the Juice Bar.
+ You\'ve undoubtedly collected\nGummis and [CS:I]Apples[CR] during your explorations,\nam I right?
+ Here, those edibles can become\ndelicious drink sensations.
+ I, [CS:N]Spinda[CR], will take your\ningredient and use my incredible skills to\ncreate a delectable drink for you.
+ Really? So if we brought you an\n[CS:I]Apple[CR], you\'d make some Apple Juice, is\nthat what you\'re saying?
+ That\'s right! That is exactly\nright. That\'s how it works.
+ While you\'re enjoying a\nnutritious drink, you can sit back and share\nexploration stories.
+ Here\'s the next facility…
+ This is the centerpiece of our\nplace, the Recycle Shop.
+ I\'ll bet you have a bunch\nof items in storage that you picked up in your\ntravels and have little use for, am I right?
+ Sometimes you have to\nthrow out your extra items to make room…
+ Doesn\'t that seem wasteful?
+ There could be explorers in\ndungeons out there who are desperately in need\nof the very things you have locked in storage.
+ That\'s what we thought too.\nThat\'s why we established this facility.
+ You can bring your extra items\nhere and trade them for items you want.\nHow does that sound?
+ One Pokémon\'s trash is another\nPokémon\'s treasure, am I right?
+ I thought it would be fun\nfor explorers to gather and trade items\nwith one another.
+ You\'ll never have to throw out\nanother item. You\'ll never have to say,\n\"What a waste!\"[K] That\'s my goal.
+ So if you\'ve got a collection of\nitems you don\'t need, please make use of our\nRecycle Shop.
+ You can even get a bonus\n[CS:I]Prize Ticket[CR] when recycling items.\nIt\'s a lot of fun.
+ ...I know that was a whirlwind\ntour, but I hope you\'ve got an idea\nof what kind of a place this is.
+ Wow. Seems like a pretty\ncool shop.
+ Thank you very much!
+ It is my goal to have a café of\nhopes and dreams, where many explorers\ncan gather.
+ I hope to see you again soon\nhere at [CS:K]Spinda[CR]\'s Café.
+
+ Ого! Какое просторное\nместо!
+ Вау! Какое большое место!
+ Вау! Это такое большое\nместо!
+ Приветствую и добро пожаловать\nв Кафе [CS:K]Спинды[CR]!
+ Я [CS:N]Спинда[CR]. Я владелец этого кафе.
+ Это кафе для исследователей, что\nлюбят совершать новые открытия и\nпроверять себя на прочность.
+ Кафе для исследователей?
+ Правильно.[K] После долгой вылазки,\nкаждый хочет испить освежающего, вкусного\nнапитка и как следует отдохнуть...
+ Я рад дать исследователям такую\nвозможность. И я надеюсь, что это\nпринёсет им счастье.
+ Сегодня наше открытие! Позвольте\nмне показать вам, что у нас есть.
+ Это Бар Напитков.
+ Во время ваших вылазок, вы\nнаверняка подбирали Желе и [CS:I]Яблоки[CR], так?
+ Здесь из этих вкусностей можно\nсделать вкуснейшие напитки.
+ Я, [CS:N]Спинда[CR], возьму ваши\nингредиенты и при помощи моих невероятных\nнавыков, сделаю вам особенный напиток.
+ Правда? Ты хочешь сказать,\nчто если мы принесём тебе [CS:I]Яблоко[CR], ты\nсделаешь нам Яблочный Сок, верно?
+ Верно! Именно. Так всё и будет.
+ Пока вы наслаждаетесь полезным\nнапитком, можно расслабиться и рассказать\nсвои истории с вылазок.
+ А вот ещё одно место...
+ Это ключевая точка в нашем\nзаведении, Центр Переработки.
+ Я уверен, что у вас в хранилище\nлежит полно предметов, которым вы не\nможете найти применения, так?
+ Иногда вы вынуждены выбрасывать\nлишние предметы, чтобы освободить\nместо...
+ Но разве это не расточительно?
+ В подземельях могут находиться\nисследователи, которые так отчаянно\nнуждаются в ваших хранящихся предметах.
+ Мы об этом подумали. И основали\nэто место.
+ Как вам такое? Вы сможете\nпринести сюда свои ненужные предметы и\nобменять их на нужные.
+ Что для одного Покемона мусор,\nдля другого - сокровище, верно?
+ Я подумал, что будет здорово,\nесли исследователи будут здесь собираться\nи обмениваться своими вещами.
+ Вам никогда не придётся что-либо\nвыкидывать. Не придётся говорить: "Жаль\nэто выбрасывать!"[K] Вот моя цель.
+ Поэтому, если у вас есть\nненужные предметы, воспользуйтесь нашим\nЦентром Переработки.
+ За переработку предметов вы\nтакже сможете получить бонусный [CS:I]Призовой\nБилет[CR]. Это очень весело.
+ ...Я знаю, у вас уже голова\nкружится от пояснений, но я надеюсь, что\nвы поняли назначение нашего места.
+ Вау. Это и правда классное\nместо.
+ Спасибо большое!
+ Я хочу создать кафе, где будут\nсобираться исследователи и где сбудутся\nвсе их надежды и мечты.
+ Надеюсь, вы ещё посетите Кафе\n[CS:K]Спинды[CR].
++++
+ Wow!\nThis shop is increeedible!!
+ It\'s like a paradise for\nexploooorers!!
+ Вау! Это место неееевероятно!!
+ Это словно рай для\nисслеееедователей!!
++++
+ Heh-heh-heh...\nThere\'s a new scent!
+ Хе-хе-хе...\nНовый запах!
++++
+ It seems like a good idea to\ntrade in unused items you\'ve collected\nfor something you want.
+ I\'ve got too many [CS:I]Oran Berries[CR],\nso I\'ve been thinking of trading them in.
+ Похоже, обменивать ненужные\nпредметы на что-то полезное очень выгодно.
+ Я набрал себе много [CS:I]Пельси\nЯгод[CR], поэтому я хочу их обменять.
++++
+ I had collected a bunch of\n[CS:I]Apples[CR], so I had some drinks made.
+ The drinks were so fresh and\njuicy...and delicious...[K]\nBut that was it…
+ I thought my Belly would be\nfilled and my HP would be restored…
+ It seems like a drink made from\nan [CS:I]Apple[CR] or an [CS:I]Oran Berry[CR] has no effect.
+ Well, at any rate, it was\ndelicious, so I\'m not too disappointed.
+ I wonder if there\'s an effect\nwhen you use a Gummi…
+
+ Я собрала несколько [CS:I]Яблок[CR] и\nотнесла их сюда, чтобы мне сделали\nнапитков.
+ Напитки были такие освежающие\nи вкусные...[K] Но не более того...
+ Я думала, что они восполнят\nмне Сытость и ОЗ...
+ Но похоже, что напитки\nсделанные из [CS:I]Яблок[CR] и [CS:I]Пельси Ягод[CR] не\nобладают каким-либо эффектом.
+ Но, по крайней мере, напитки\nбыли вкусными, поэтому я не так сильно\nрасстроилась.
+ Интересно, а что будет, если\nиспользовать Желе...
++++
+ If you bring in a favorite\ningredient, you can have a delicious\ndrink made.
+ Hmm... What should I do...?\nI should splurge and have a drink made with\nmy [CS:I]Yellow Gummi[CR]…
+ Если принести сюда свой\nлюбимый ингредиент, то из него можно\nсделать напиток.
+ Хмм... Что же мне сделать?..\nМне нужно раскошелиться на [CS:I]Жёлтое Желе[CR] и\nсделать из него напиток...
++++
+ Oh, [hero]!
+ Were you just at the café?
+ Were you just at the café?
+ Perfect timing![K]\nThe truth is... I have something to ask you…
+ In the past, when you\'ve wanted\nto take team members with you to explore,\nthey waited for you at this Watering Hole…
+ In the past, when you\'ve wanted\nto take team members with you to explore,\nthey waited for you at this Watering Hole…
+ But now that the café\nhas just opened…
+ Everyone has been saying they\'d\nlike to wait while relaxing at the café.
+ I completely understand that...[K]\nI mean, I understand how they feel.
+ So, [hero], what do\nyou think?
+ Would you like to meet up with\nyour team members waiting at the café?
+OK.
+ Thank you, [hero]!
+ I\'ll make sure to let\neveryone know!
+ I\'m sure everyone will be happy\nto hear that!
+ Oh! [K]I almost forgot!
+ I placed a secret signpost here...[K]\nDid you see it, [hero]?
+ I placed a secret signpost here...[K]\nDid you see it, [hero]?
+Yes
+ Of course you would,\n[hero]!
+ You must have rung the bell,\nbecause your team has assembled here already.
+ You must have rung the bell,\nbecause your team has assembled here already.
+ As you know, when you ring this\nbell...[K] I come here from the guild…
+ You can still assemble your\nexploration team here!
+ So when you want to assemble\nyour team, just ring this bell!
+ That\'s all, [hero]![K]\nGood luck exploring!
+No
+ I...I knew it!
+ I\'m sorry, [hero].[K]\nI guess I should explain!
+ If you ring the bell attached to\nthis sign...[K] I\'ll come here from the guild…
+ You can still assemble your\nexploration team here!
+ So when you want to assemble\nyour team, just ring this bell!
+ ...[K]M-maybe you already\ndid ring the bell to summon me here before…
+ ...[K]M-maybe you already\ndid ring the bell to summon me here before…
+ ...and you did assemble your\nteam here…
+ ...and you did assemble your\nteam here…
+ Regardless, you rather\ncarelessly answered my question\nwith a \"No.\"
+ Regardless, you rather\ncarelessly answered my question\nwith a \"No.\"
+ Maybe you just wanted to see\nwhat would happen if you answered with\na \"No\"…
+ Maybe you just wanted to see\nwhat would happen if you answered with\na \"No\"…
+ Anyway...[K] If you ring the bell\nhere, your team will assemble…
+ So try it sometime and see!
+ That\'s all, [hero]![K]\nGood luck exploring!
+No way.
+ W-what?![K]\nN-no...[K]way?!
+ Are you making fun of me,\n[hero]? You are! I know it!
+ You said \"No way\" to see\nhow I\'d react, didn\'t you?
+ You said \"No way\" to see\nhow I\'d react, didn\'t you?
+ ...[K]I understand how you feel…
+ Even if you select a \"No,\" you\neventually have to select the \"Yes,\" so\nit always ends up the same anyway…
+ That comes up frequently, that\nsort of thing...[K] But…
+ I\'ll ask you again, [hero].
+ Would you like to meet up with\nyour team members waiting at the café?
+OK!
+No way.
+
+ О, [hero]!
+ Ты был в кафе?
+ Ты была в кафе?
+ Как раз вовремя![K] По правде\nговоря... Я хотела тебя кое о чём\nспросить...
+ В прошлый раз, когда ты хотел\nвзять в свою группу членов команды, они\nждали тебя рядом с Колодцем...
+ В прошлый раз, когда ты хотела\nвзять в свою группу членов команды, они\nждали тебя рядом с Колодцем...
+ Но с тех пор, как открылось\nкафе...
+ Все стали говорить о том, как\nсильно они хотят ждать, отдыхая в кафе.
+ Я так их понимаю...[K]\nОх, точнее, я понимаю их желания.
+ Поэтому, [hero],\nчто думаешь?
+ Хочешь ли ты разрешить членам\nтвоей группы ожидать в кафе?
+Да.
+ Спасибо тебе, [hero]!
+ Я расскажу всем об этом!
+ Я уверена, что все будут рады\nуслышать эту новость!
+ Ой! Я чуть не забыла!
+ Я поставила здесь особую\nтабличку...[K] Ты её уже видел, [hero]?
+ Я поставила здесь особую\nтабличку...[K] Ты её уже видела, [hero]?
+Да
+ Конечно же, да!
+ Здесь уже собралась твоя\nгруппа, поэтому ты наверняка звенел\nколокольчиком.
+ Здесь уже собралась твоя\nгруппа, поэтому ты наверняка звенела\nколокольчиком.
+ Как тебе уже известно, при\nзвонке в колокольчик...[K] Я прилетаю сюда\nиз гильдии...
+ Ты всё ещё можешь собирать\nздесь свою активную группу!
+ Поэтому, если ты захочешь\nсобрать свою группу, просто зазвени в\nколокольчик!
+ Это всё, [hero]![K]\nУдачи в твоих вылазках!
+Нет
+ Я...[K] Так и знала!
+ Прости меня, [hero].[K]\nДумаю, мне стоит объяснить!
+ Если позвонить в колокольчик\nрядом с этим знаком...[K] Я прилечу из\nгильдии...
+ Ты всё ещё можешь собирать\nздесь свою активную группу!
+ Поэтому, если ты захочешь\nсобрать свою группу, просто зазвени в\nколокольчик!
+ ...[K]В-возможно, раньше ты уже\nзвонил в этот колокольчик, чтобы я сюда\nприлетела...
+ ...[K]В-возможно, раньше ты уже\nзвонила в этот колокольчик, чтобы я сюда\nприлетела...
+ ...и с моей помощью собирал\nгруппу...
+ ...и с моей помощью собирала\nгруппу...
+ Но несмотря на это, ты без\nколебаний ответил "Нет".
+ Но несмотря на это, ты без\nколебаний ответила "Нет".
+ Возможно, ты хотел узнать, что\nбудет, если ответить "Нет"...
+ Возможно, ты хотела узнать,\nчто будет, если ответить "Нет"...
+ В общем...[K] Если ты позвонишь\nв колокольчик, ты можешь начать собирать\nгруппу...
+ Поэтому, попробуй это!
+ Это всё, [hero]![K]\nУдачи в твоих вылазках!
+Ни за что.
+ Ч-что?[K] Н-ни за...[K]что?!
+ [hero], ты хочешь надо\nмной подшутить? Да, именно! Я тебя\nраскусила!
+ Ты сказал "Ни за что" только\nчтобы посмотреть, как я отреагирую на\nэто, да?
+ Ты сказала "Ни за что" только\nчтобы посмотреть, как я отреагирую на\nэто, да?
+ ...[K]Я понимаю тебя...
+ Даже если ты выбираешь "Нет",\nто рано или поздно приходится выбрать\n"Да", ведь это ни к чему не приводит...
+ Такое подозрительно часто\nслучается...[K] Но...
+ Я спрошу тебя ещё раз,\n[hero].
+ Хочешь ли ты разрешить членам\nтвоей группы ожидать в кафе?
+Да!
+Ни за что.
++++
+ We have no motivation at all…
+ Why did we even bother forming\nan exploration team...?
+ У нас совсем нет мотивации...
+ Зачем мы вообще пытались создать\nкоманду исследователей?..
++++
+ Stealing Time Gears is\nunthinkable!
+ Who would go around stealing\nthem?
+ Это немыслимо!
+ Кто вообще осмелился красть\nШестерни Времени?
++++
+ Hey, gang! What kind of items\nshould we buy today?
+ I want a [CS:I]Blue Gummi[CR]!
+ I want a [CS:I]Green Gummi[CR]!
+ But wait...![K] Hold on a second!
+ Let\'s think about it for a second!\nWe don\'t have any money, do we?
+ Oh! You\'re so right!
+ That\'s so silly of us!
+ Ha ha ha!
+ Ha ha ha!
+ Ha ha ha! Ha ha ha!
+
+ Эй, ребята! Каких предметов\nнам сегодня купить?
+ Я хочу [CS:I]Синее Желе[CR]!
+ А я хочу [CS:I]Зеленое Желе[CR]!
+ Но погодите!..[K] Секундочку!
+ Мы совсем забыли! У нас ведь\nсовсем нет денег, так?
+ Ох! Точно!
+ Мы такие глупые!
+ Ха-ха-ха!
+ Ха-ха-ха!
+ Ха-ха-ха! Ха-ха-ха!
++++
+ Tee-hee!
+ Хи-хи!
++++
+ Ha ha ha!
+ Ха-ха-ха!
++++
+ Ah, you ask why we are here\nall the time...?[K] It is because…
+ We learn much from the sea.\nTo be deep and expansive.
+ Don\'t think that we\'re shirking\nour work. That isn\'t our intention!
+ We insist that you understand\nus clearly on that point!
+ O sea, hear me!
+ O sea, teach me!
+ O sea, understand me!
+ А, ты хочешь узнать, почему\nмы всё время находимся здесь?..[K]\nЭто потому что...
+ Мы многому учимся у моря.\nУчимся быть глубокими и огромными.
+ Не думай, что мы отлыниваем от\nработы. Это не наша цель!
+ Мы хотим, чтобы тебе было это\nясно!
+ О море, услышь меня!
+ О море, обучи меня!
+ О море, пойми меня!
++++
+ After a day of work, nothing\nbeats the Hot Spring.
+ Hoooo... It doesn\'t get better\nthan this! ♪
+ После трудового дня ничто не\nсравнится с Горячими Источниками.
+ Аххххх... Лучше них нет\nничего! ♪
++++
+ The Hot Spring here is good for\nloosening up knotted muscles.
+ The way I keep my arms raised\nall the time... It does a number on\nmy shoulders.
+ I\'m lucky the Hot Spring exists!
+ Горячие Источники прекрасны,\nчтобы расслабить затёкшие мышцы.
+ То, как я постоянно держу свои\nруки поднятыми... Это напрягает мои\nплечи.
+ Мне повезло, что есть Горячие\nИсточники!
++++
+ I\'m usually hotheaded, but when\nI come here, I calm right down.
+ Обычно я постоянно\nразгорячённый, но когда я сюда прихожу,\nя успокаиваюсь.
++++
+ I can\'t soak in the Hot Spring\nmyself…
+ Instead, I lounge about on the\nheated rocks here. Ho-ho-ho!
+ Я не могу купаться в Горячих\nИсточниках...
+ Вместо этого я лежу на горячих\nкамнях. Хо-хо-хо!
++++
+[CN]Would you like to return\n[CN]to Treasure Town?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Armaldo\'s Shelter[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Barren Valley\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Temporal Tower\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Dark Ice Mountain\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Vast Ice Mountain\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Boulder Quarry\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Illusion Stone Chamber[CR]?
+Yes
+No
+[CN]Would you like to return\n[CN]to Treasure Town?
+[CN]Would you like to return\n[CN]to Sharpedo Bluff?
+[CN]Would you like to return\n[CN]to Treasure Town?
+[CN]Would you like to return\n[CN]to the guild?
+[CN]Would you like to return to\n[CN][CS:P]Steam Cave\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN]the [CS:P]Sealed Ruin\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Brine Cave\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN]the [CS:P]Hidden Land\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN]the [CS:P]Hidden Land\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Temporal Tower\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return to\n[CN][CS:P]Spacial Rift\'s entrance[CR]?
+Yes
+No
+[CN]Would you like to return\n[CN]to Treasure Town?
+Yes
+No
+
+[CN]Хотите вернуться\n[CN]в [CS:P]Город Сокровищ[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]в [CS:P]Убежище Армальдо[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Бесплодную Долину[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Темпоральную Башню[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу на Тёмную Ледяную Гору[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу на Бескрайнюю Ледяную Гору[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Расселину Валунов[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Иллюзорную Комнату[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]в Город Сокровищ?
+[CN]Хотите вернуться\n[CN]на Мыс Шарпедо?
+[CN]Хотите вернуться\n[CN]в Город Сокровищ?
+[CN]Хотите вернуться\n[CN]в гильдию?
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу у Паровых Пещер[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Запечатанные Руины[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Пещеру у Моря[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Сокрытые Земли[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Сокрытые Земли[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Темпоральную Башню[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]ко [CS:P]Входу в Пространственный Разлом[CR]?
+Да
+Нет
+[CN]Хотите вернуться\n[CN]в Город Сокровищ?
+Да
+Нет
++++
+ Ah, it\'s you.
+ Today again, I want you to check\nthe Job Bulletin Board and the Outlaw Notice\nBoard and do the posted jobs.
+ That will do for now. ♪
+ А, это вы.
+ Сегодня вам снова нужно\nпросмотреть Доску Объявлений и Доску\nРазыскиваемых и выполнить задания.
+ На этом всё. ♪
++++
+ HEY, you two!
+ I thought I smelled something\nawfully ODD coming from over there…
+ Did something happen on the\nother floor?
+ ЭЙ, вы двое!
+ Мне показалось, что я учуял\nкакой-то УЖАСНО странный аромат...
+ Что там наверху случилось?
++++
+ Meh-heh-heh. That aroma\nwafting down from upstairs…
+ I don\'t mind it at all. Nope, it\'s\nquite all right with me. Meh-heh-heh.
+ Хе-хе-хе. Этот аромат,\nдоносящийся сверху...
+ Я не возражаю его нюхать.\nНет, я даже не против него. Хе-хе-хе.
++++
+ The guild is preparing for an\nexpedition soon?!
+ Please do try to be chosen\nas members! ♪
+ Гильдия готовится к\nэкспедиции?!
+ Пожалуйста, постарайтесь, чтобы\nвас в неё взяли! ♪
++++
+ The guild is going on an\nexpedition, I hear! ♪
+ Ah, it has been a long time! ♪
+ Я слышал, что гильдия готовит\nэкспедицию!♪
+ Ах, давно пора! ♪
++++
+ Urk! We didn\'t do well on that.
+ Hmm... This is challenging.[K]\nLet\'s go back for now.
+ Ugh! Well, that went badly.
+ It\'s harder than I thought...[K]\nLet\'s try this another time.
+ It\'s harder than I thought...[K]\nLet\'s try this another time.
+ Ух! Мы не справились.
+ Хмм... Это непросто.[K]\nЛучше вернуться назад.
+ Ух! Похоже, у нас не\nполучилось.
+ Это труднее, чем я думал...[K]\nПопробуем в другой раз.
+ Это труднее, чем я думала...[K]\nПопробуем в другой раз.
++++
+ HEY, YOU TWO!
+ I\'m sorry, but I have something\nelse I have to do today.
+ Please take over my sentry duty\nagain today. Bye.
+ All right! Let\'s DO this!
+ You\'ve done this sentry-duty\nthing once before, RIGHT?
+ You\'ll be fine without me\nexplaining the job again?
+Yes, no problem!
+ Good![K] Then, let\'s get to WORK!
+ Buck up and do a GOOD job!
+No, please explain…
+ WHAT?! You need me to explain\nit again?!
+ All right. I\'ve got a BIG heart.\nI\'ll explain as much as you want.
+ ЭЙ, ВЫ ДВОЕ!
+ Прошу прощения, но сегодня\nу меня есть другие дела.
+ Пожалуйста, займите мой пост\nстража. Пока.
+ Итак! ЗА ДЕЛО!
+ Вы ведь этим уже занимались,\nВЕРНО?
+ Вы справитесь без моих\nобъяснений?
+Да, без проблем!
+ Отлично![K] Тогда, принимайтесь\nЗА РАБОТУ!
+ Соберитесь и ПОТРУДИТЕСЬ!
+Нет, объясни нам...
+ ЧТО?! Вам снова нужно\nобъяснять?!
+ Ладно. Я БОЛЬШОЙ добряк.\nЯ буду объяснять столько, сколько\nзахотите.
++++
+ You two go through this tunnel\nuntil you pop out at the sentry post.
+ From the sentry post, inspect\nthe footprints of visitors, identify them, then\ninform me.
+ I will then decide if the\nPokémon is suspicious or not. If it passes\nmuster, I will open the gate.
+ And I\'ll let that cleared Pokémon\ninto the guild.[K] That\'s the gist of it.
+ Вам нужно проползти по туннелю,\nпока вы не появитесь на посту стража.
+ Находясь на посту, изучите\nследы посетителей, определите их и\nсообщите мне.
+ И тогда я решу, подозрителен\nли Покемон или нет. Если всё в порядке,\nя открою ворота.
+ И впущу Покемона в гильдию.[K]\nВ этом вся суть.
++++
+ Look, all you two have to do is\ninspect the footprints of visitors, then tell me\nwhat Pokémon they are.
+ All right? Understood?
+Yes, no problem!
+ Good![K] Then, let\'s get to WORK!
+ Buck up and do a GOOD job!
+No, please explain…
+ What?! You need me to explain\nit again?!
+ All right. I\'ve got a BIG heart.\nI\'ll explain as much as you want.
+
+ Слушайте, всё что вам нужно\nделать, это изучать следы посетителей и\nговорить мне, что они за Покемоны.
+ Ну как? Всё ясно?
+Да, всё ясно!
+ Отлично![K] Тогда, принимайтесь\nЗА РАБОТУ!
+ Соберитесь и ПОТРУДИТЕСЬ!
+Нет, объясни снова...
+ Что?! Мне опять нужно всё\nобъяснять?!
+ Ладно. Я БОЛЬШОЙ добряк.\nЯ буду объяснять столько, сколько\nзахотите.
++++
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K]dreadful!
+ You failed so many times!
+ What nonsense were you up to?!
+ UGH...!
+ You two got SO many wrong…
+ I even got in TROUBLE for it!
+ H-hush!
+ Don\'t you dare blame\nanyone else!
+ Sentry duty is a cooperative job,\nisn\'t it?
+ Anyway...[K] This job was a\nflagrant fiasco!
+ As such, there shall be\nno reward!
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K] Hmm.[K] \nMerely adequate.
+ Hmm…
+ Oh…
+ Here are your rewards for\nthe job.
+[CN]As the reward for doing the job,\n[CN][hero]\'s team…
+[CN]received [CS:G]50[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received an [CS:I]Oran Berry[CR]!
+ I expect to see a better effort\nout of you next time! ♪
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K] Hmm![K] \nWell done!
+ Good job, you two! ♪
+ Good!
+ Yay!
+ Here are your rewards for your\nhonest effort! ♪
+[CN]As the reward for a job well\n[CN]done, [hero]\'s team…
+[CN]received [CS:G]100[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Max Elixir[CR]!
+[CN]Not only that, the team\n[CN]also received a [CS:I]Nectar[CR]!
+ You two, keep that up! ♪
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K] Well, well!\nPerfect!
+ You identified every visitor\ncorrectly! ♪
+ Excellent!
+ We did it!
+ Your effort will certainly be\nrewarded! ♪[K] The reward will be special too!
+ You two deserve an especially\ngenerous selection of rewards! ♪
+[CN]As the reward for a job perfectly\n[CN]done, [hero]\'s team…
+[CN]received [CS:G]300[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Def. Scarf[CR]!
+[CN]Not only that, the team\n[CN]also received a [CS:I]Reviver Seed[CR]!
+[CN]But that\'s not the end of it!
+[CN]The team even\n[CN]received a [CS:I]Heal Seed[CR]!
+[CN]Is it really OK to be\n[CN]rewarded this much?!
+ You two, keep that up! ♪
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K]dreadful!
+ Still, you have shown some\nimprovement from before…
+ Well, isn\'t this amazing.[K]\nYou\'ve beaten the previous high score! ♪
+ But it doesn\'t alter the fact that\nyour performance as sentries was utterly\ndreadful![K] Don\'t get cocky!
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K] Hmm.[K] \nMerely adequate.
+ Well...[K] You have improved\nfrom before.
+ Well, isn\'t this amazing.[K]\nYou\'ve beaten the previous high score! ♪
+ But it doesn\'t alter the fact that\nyour performance as sentries was only\nadequate.[K] Don\'t get cocky!
+ Here are your rewards for\nthe job.
+[CN]As the reward for doing the job,\n[CN][hero]\'s team…
+[CN]received [CS:G]100[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Max Elixir[CR]!
+ I expect to see a better effort\nout of you next time! ♪
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K] Hmm![K] \nWell done!
+ Ah, yes, this is impressive![K]\nYou\'ve beaten the previous high score! ♪
+ Good!
+ Yay!
+ Here are your rewards for your\nhonest effort! ♪
+[CN]As the reward for a job well\n[CN]done, [hero]\'s team…
+[CN]received [CS:G]200[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Heal Seed[CR]!
+[CN]Not only that, the team\n[CN]also received a [CS:I]Nectar[CR]!
+ You two, keep that up! ♪
+ You\'ve worked an honest day! ♪
+ Let me review your sentry-duty\nperformance…
+ Your results were...[K] Well, well!\nPerfect!
+ Ah, yes, this is impressive![K]\nYou\'ve beaten the previous high score! ♪
+ Excellent!
+ We did it!
+ Your effort will certainly be\nrewarded! ♪[K] The reward will be special too!
+ You two deserve an especially\ngenerous selection of rewards! ♪
+[CN]As the reward for a job perfectly\n[CN]done, [hero]\'s team…
+[CN]received [CS:G]400[CR][M:S0]!
+[CN]In addition, the team\n[CN]also received a [CS:I]Pecha Scarf[CR]!
+[CN]Not only that, the team\n[CN]also received a [CS:I]Reviver Seed[CR]!
+[CN]But that\'s not the end of it!
+[CN]The team even\n[CN]received a [CS:I]Max Elixir[CR]!
+[CN]Is it really OK to be\n[CN]rewarded this much?!
+ You two, keep that up! ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K]\nУжасают!
+ Вы столько раз ошиблись!
+ Чем вы там вообще занимались?!
+ УХ!..
+ Вы, двое, ТАК МНОГО раз\nошиблись...
+ Что даже МНЕ за это прилетело!
+ Т-тихо!
+ Не смей обвинять кого-либо в\nсвоих ошибках!
+ Работа стражами это командная\nработа, так?
+ В любом случае...\nЭта работа стала вопиющим фиаско!
+ Поэтому, награды вам не видать!
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K]\nЕдва приемлимы.
+ Хмм...
+ Ох..
+ Вот ваши награды за работу.
+[CN]В качестве награды за работу,\n[CN]команда [hero]...
+[CN]Получает [CS:G]50[CR][M:S0]!
+[CN]Кроме того, команда получает\n[CN][CS:I]Пельси Ягоду[CR]!
+ Я надеюсь, что в следующий раз,\nваш результат будет получше. ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K] Хмм![K]\nНеплохие!
+ Хорошая работа, команда! ♪
+ Отлично!
+ Ура!
+ Честная плата за честную\nработу! ♪
+[CN]В качестве награды за работу,\n[CN]команда [hero]...
+[CN]Получает [CS:G]100[CR][M:S0]!
+[CN]Кроме того, команда получает\n[CN][CS:I]Макс. Эликсир[CR]!
+[CN]И ещё, команда получает\n[CN][CS:I]Нектар[CR]!
+ Продолжайте в том же духе! ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Так, так! Ваши результаты...[K]\nСовершенно идеальны!
+ Вы верно определили каждого\nпосетителя! ♪
+ Великолепно!
+ У нас получилось!
+ Ваш труд будет вознаграждён!\n♪ И награда будет особенной!
+ Вы двое заслуживаете очень\nщедрую награду! ♪
+[CN]В качестве награды за идеально\n[CN]выполненную работу, команда\n[CN][hero]...
+[CN]Получает [CS:G]300[CR][M:S0]!
+[CN]Кроме того, команда также получает\n[CN][CS:I]Шарф Защиты[CR]!
+[CN]Также, команда получает\n[CN][CS:I]Зерно Оживления[CR]!
+[CN]Но и это ещё не всё!
+[CN]Команда также получает\n[CN][CS:I]Зерно Исцеления[CR]!
+[CN]Действительно ли это нормально - получать\nтакую большую награду?!
+ Продолжайте в том же духе! ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K] Ужасают!
+ Впрочем, с прошлого раза вы\nсправились получше...
+ Да, это прекрасно. Вы побили\nпредыдущий рекорд! ♪
+ Но это не отменяет того, что вы\nсовершенно ужасно работали!\nНе расслабляйтесь!
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K]\nЕдва приемлимы.
+ Что-ж... С прошлого раза вы\nсправились лучше.
+ Да, это прекрасно. Вы побили\nпредыдущий рекорд! ♪
+ Но это не отменяет того, что вы\nне слишком хорошо работали!\nНе расслабляйтесь!
+ Вот ваши награды за работу.
+[CN]В качестве награды за работу,\n[CN]команда [hero]...
+[CN]Получает [CS:G]100[CR][M:S0]!
+[CN]Кроме того, команда получает\n[CN][CS:I]Макс. Эликсир[CR]!
+ Я надеюсь, что в следующий раз,\nваш результат будет получше. ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Ваши результаты...[K] Хмм![K]\nНеплохие!
+ Да, поразительно! Вы побили\nпредыдущий рекорд! ♪
+ Отлично!
+ Ура!
+ Честная плата за честную\nработу! ♪
+[CN]В качестве награды за работу,\n[CN]команда [hero]...
+[CN]Получает [CS:G]200[CR][M:S0]!
+[CN]Кроме того, команда получает\n[CN][CS:I]Зерно Исцеления[CR]!
+[CN]И ещё, команда получает\n[CN][CS:I]Нектар[CR]!
+ Продолжайте в том же духе! ♪
+ Вы честно проработали целый\nдень! ♪
+ Позвольте мне дать оценку вашей\nработе стражами...
+ Так, так! Ваши результаты...[K]\nСовершенно идеальны!
+ О, это поразительно! Вы побили\nпредыдущий рекорд! ♪
+ Великолепно!
+ У нас получилось!
+ Ваш труд будет вознаграждён! ♪\nИ награда будет особенной!
+ Вы двое, заслуживаете очень\nщедрой награды! ♪
+[CN]В качестве награды за идеально\n[CN]выполненную работу, команда\n[CN][hero]...
+[CN]Получает [CS:G]400[CR][M:S0]!
+[CN]Кроме того, команда также получает\n[CN][CS:I]Сепри-Шарф[CR]!
+[CN]Также, команда получает\n[CN][CS:I]Зерно Оживления[CR]!
+[CN]Но и это ещё не всё!
+[CN]Команда также получает\n[CN][CS:I]Макс. Эликсир[CR]!
+[CN]Действительно ли это нормально - получать\nтакую большую награду?!
+ Продолжайте в том же духе! ♪
++++
+ Everyone! ♪ I have an\nannouncement before we get down to work.
+ Let me introduce our\nnew allies. ♪
+ Allies? What, more new\napprentices?
+ Golly, I wonder what kinds of\nPokémon they are?
+ Hey! Over here, please. ♪
+ Ugh! What stinks?!
+ Eek! It reeks like rotten cheese!\nEwwww!
+ Yup yup! That is some kind of\nfoul stench!
+ It-it\'s them!
+ These three are our new\npartners. ♪
+ Whoa-ho-ho! I\'m [CS:N]Koffing[CR].
+ Heh-heh-heh! [CS:N]Zubat[CR] here. Glad to\nmeet you.
+ And I\'m Team [CS:X]Skull[CR]\'s leader.
+ I\'m [CS:N]Skuntank[CR].[K] Remember it.
+ Especially you two.\nChaw-haw-haw!
+ What, you\'re already acquainted?
+ That simplifies things. ♪
+ These three aren\'t joining us as\napprentices.
+ They will be joining our\nexpedition to lend us their assistance. ♪
+ Whaaaat?!
+ Why are you so shocked?
+ [CS:N]Chatot[CR], sir, it\'s nothing. That one\nalways overreacts to every little thing.[K]\nChaw-haw-haw.
+ [CS:N]Chatot[CR], sir, it\'s nothing. That one\nalways overreacts to every little thing.[K]\nChaw-haw-haw.
+ Hm. Very well, then.
+ Anyway, the Guildmaster has\nmade his decision.
+ He has decided that having this\ntrio take part will make us stronger on the\nexpedition.
+ However, it would be impossible\nto coordinate teamwork if we were to begin\nworking together right away.
+ Therefore, we\'ve decided that\nthe trio should live with us for several days.
+ Though it will be only for a\nshort while, I ask everyone to treat our\nguests with hospitality. ♪
+ ...Doesn\'t [CS:N]Chatot[CR] think something\nstinks about this? Literally?
+ ...Eww. How can the Guildmaster\nstand this?
+ I sure hope this expedition ends\nsoon! Yup yup!
+ All right, everyone. ♪ Let\'s get\ndown to work. ♪
+[CS:N]Everyone[CR]: ...Hooray.
+ What\'s this?[K] Where\'s your\nusual spirit?
+ You gotta be KIDDING!
+ This STINKS! How do you expect\nus to be cheerful when…
+ WH-WHAT?
+ YOOM…
+ YOOOOOOM…
+ No![K] The Guildmaster... His rage\nis building!
+ If the Guildmaster gets angry,\nit will be horrific!
+ Everyone! Come on! Be cheerful,\neven if it hurts!
+ All right, everyone. ♪ Let\'s get\ndown to today\'s work. ♪
+[CS:N]Everyone[CR]: HOORAY!
+ Chaw-haw-haw! Glad to have\nmet you.
+ Whoa-ho-ho!
+ Heh-heh-heh!
+ Urk! Something\'s definitely\nsuspicious about them for sure.
+ I don\'t know what they\'re\nplotting…
+ But we\'d better be careful,\n[hero].
+ Ah, you two.
+ Take care of the jobs on the\nboards today, OK?
+ We\'re counting on you. ♪
+
+ Всем внимание! ♪ Прежде чем\nвы начнёте работать, я хочу вам кое-что\nсообщить!
+ У нас появились новые\nсоратники. ♪
+ Соратники? Что, ещё новые\nученики?
+ Ого, интересно, что они за\nПокемоны?
+ Эй! Сюда пожалуйста. ♪
+ Ух! Что за вонь?!
+ Иии! Пахнет тухлым сыром!\nФуууу!
+ Да-да! Это не очень приятный\nаромат!
+ Это же они!
+ Эти трое - наши новые союзники. ♪
+ Хоа-хо-хо! Я [CS:N]Коффинг[CR].
+ Хе-хе-хе! Я [CS:N]Зубат[CR].\nРад познакомиться.
+ А я - лидер Команды [CS:X]Череп[CR].
+ Я [CS:N]Скантанк[CR].[K] Запомните меня.
+ Особенно вы двое. Кха-ха-ха!
+ Что, вы уже знакомы?
+ Это всё упрощает. ♪
+ Эти трое не будут у нас\nобучаться.
+ Они временно будут помогать нам\nв экспедиции. ♪
+ Чтоооооо?!
+ Чему ты удивляешься?
+ [CS:N]Чатот[CR], сэр, всё в порядке.\nОн постоянно так истерично на всё\nреагирует.[K] Кха-ха-ха.
+ [CS:N]Чатот[CR], сэр, всё в порядке.\nОна постоянно так истерично на всё\nреагирует.[K] Кха-ха-ха.
+ Хм. Ну ладно.
+ В общем, Гильдмастер всё решил.
+ Он решил, что если это трио\nпримет участие в экспедиции, то вместе мы\nстанем сильнее.
+ Однако, если мы начнем\nсотрудничать сейчас, то координировать\nдействия команд будет невозможно.
+ Именно поэтому, мы решили, что\nтрио поживёт с нами несколько дней.
+ Хоть это будет недолго, но я\nпопрошу всех присутствующих отнестись к\nним с радушием. ♪
+ ...Разве [CS:N]Чатот[CR] не думает, что\nэта затея в прямом смысле дурно пахнет?
+ ...Фуу. Как Гильдмастер это\nвообще терпит?
+ Я надеюсь, что экспедиция скоро\nкончится! Да-да!
+ Ну хорошо. ♪ Вам всем пора снова\nприниматься за работу. ♪
+[CS:N]Все[CR]: ...Ураа-а-а-а.
+ В чём дело?[K] Куда подевался\nваш весёлый настрой?
+ Вы должно быть ШУТИТЕ!
+ Здесь стоит ВОНЬ! Как мы вообще\nдолжны быть навеселе, когда...
+ Ч-ЧТО?
+ УООМ...
+ УООООООМ...
+ Нет![K] Гильдмастер...\nСейчас разозлится!
+ Если Гильдмастер разозлится,\nпроизойдёт катастрофа!
+ Слушайте, все! Скорее! Даже если\nвам неприятно, будьте навеселе!
+ Ну хорошо. ♪ Вам всем пора снова\nприниматься за работу. ♪
+[CS:N]Все[CR]: УРАААА!
+ Кха-ха-ха! Рад был с вами\nвстретиться.
+ Хоа-хо-хо!
+ Хе-хе-хе!
+ Ух! Они невероятно\nподозрительно себя ведут.
+ Я не знаю, что они\nпланируют...
+ Но нам лучше быть\nнастороже, [hero].
+ А, вы двое.
+ Выполните сегодня задания с\nдосок, ладно?
+ Мы рассчитываем на вас. ♪
++++
+ Team [CS:X]Skull[CR] is kind of scary...
+ Жуткие это ребята, Команда\n[CS:X]Череп[CR]...
++++
+ Ugh...[K] Our Guildmaster is really\na special guy…
+ Special in all sorts of ways…
+ Ух...[K] Наш Гильдмастер и правда\nособенный...
+ Особенный во всех смыслах этого\nслова...
++++
+ Meh-heh-heh. I guess I get to\nenjoy this fine, ripe aroma for a while yet.
+ It\'s another thing that makes me\nhappy. Meh-heh-heh.
+ Oh, by the way…
+ I\'m almost done repairing my\nSwap Cauldron here…
+ When I\'m done fixing it, I\'ll\nbe sure to let you know.
+ You\'ll finally learn what I\'m up\nto here. Meh-heh-heh.
+ Хе-хе-хе. Кажется, я уже очень\nдавно наслаждаюсь этим чудесным, сочным\nароматом.
+ Он одна из немногих вещей, что\nделают меня счастливым. Хе-хе-хе.
+ О, кстати...
+ Я почти починил свой Обменный\nКотёл...
+ Когда я закончу его чинить, я\nдам вам об этом знать.
+ Наконец-то вы узнаете зачем я\nздесь. Хе-хе-хе.
++++
+ Whoa-ho-ho! Seems we\'re living\nhere with you wimps for a while.
+ We\'ll put up with you, whoa-ho!
+ Хоа-хо-хо! Похоже, нам придётся\nпока пожить с вами, слабаками.
+ Ничего, вас мы потерпим, хоа-хо!
++++
+ The expedition should be a joke.\nI\'m looking forward to it. Chaw-haw-haw!
+ Of course, there\'s just one\nlittle thing…
+ Will you wimps get picked for\nthe expedition? Chaw-haw-haw!
+ Эта экспедиция смехотворна.\nЯ её очень жду. Кха-ха-ха!
+ Конечно, есть маленький\nвопрос...
+ Возьмут ли вас, слабаков, в\nэкспедицию? Кха-ха-ха!
++++
+ Heh-heh-heh! Nice to see\nyou again.
+ Хе-хе-хе! Рад вас снова видеть.
++++
+ It\'s like this shop just sprang\nup overnight…
+ Это место открылось здесь словно\nза одну ночь...
++++
+ This is a pretty nice shop...
+ Это довольно уютное место...
++++
+ Мне очень понравилось это место.
++++
+ There\'s been a terrible stench\nlately. Or am I imagining it?
+ В последнее время я чувствую\nужасную вонь. Или мне кажется?
++++
+ I don\'t think that stench is just\na figment of my imagination…
+ Want proof? Fewer exploration\nteams are visiting Treasure Town lately!
+ I bet the stench is keeping them\nall away.
+ Я не думаю, что эта вонь - \nвсего лишь плод моего воображения...
+ Хочешь доказательство? В Город\nСокровищ стало приходить меньше команд!
+ Полагаю, что их отпугивает\nзапах.
++++
+ Yo! I hear explorers are staying\naway from this place because that stench\nwon\'t go away.
+ If you were to ask me...[K]\nYou\'d have to be pretty soft to let a little\nsmell put you off!
+ You two keep up with your\ntraining!
+
+ Йо! Я слышал, что исследователи\nне заходят в город из-за противного\nзапаха.
+ Что я думаю... Нужно быть\nслишком чувствительным, чтобы такой запах\nмог хоть как-то навредить!
+ Продолжайте тренировки, друзья!
++++
+ We\'ve heard other exploration\nteams are losing their will to work. You know,\nbecause of the stench.
+ It didn\'t have any effect on us.
+ Yup.[K] We didn\'t have any energy\nto begin with.
+ Ходят слухи, что другие команды\nисследователей отказываются от работы.\nВсё из-за запаха.
+ Но нам как-то всё равно.
+ Ага.[K] Во-первых, у нас совсем\nнет сил.
++++
+ Other teams are losing their\nstomachs for exploring because of the awful\nstench lately…
+ But it hasn\'t affected us.
+ Yeah.[K] How could we get any less\nmotivated than we are now...?
+ Другие команды нехорошо себя\nчувствуют из-за ужасного запаха...
+ Но на нас он не повлиял.
+ Да.[K] Как мы можем быть ещё менее\nмотивированы, чем сейчас?..
++++
+Хрум-хрум! Ням-ням! Хлюп-хлюп![K]\nХрум-хрум! Ням-ням! Хлюп-хлюп!
++++
+ We just had dinner, but I could\ngo for some more food.
+ My belly\'ll never get filled on\ngrub like that.
+ All right. The guild members\nhave all gone off to bed…
+ Let\'s go find it now.
+ Huh? Find what?
+ What else? The guild\'s food\nstock.
+ We\'ll find their food and give\nourselves a proper feast.
+ I like that thinking, Chief!
+ Okay, let\'s get to it!
+ Мы только что поели, но этого\nмало.
+ Я никогда не наемся такими\nперекусами.
+ Так. Члены гильдии ушли спать...
+ Пойдём-ка, поищем.
+ А? Что поищем?
+ Кладовую гильдии. Что же ещё?
+ Мы найдём их еду и как следует\nнаедимся.
+ Мне нравится эта мысль, Босс!
+ Хорошо, сделаем это!
++++
+ Ah, you two.
+ Your task today is to obtain\nstock to replenish the larder.
+ Larder? You mean, go get\nsome food?
+ Correct. ♪
+ We inspected the larder\nthis morning.
+ For some mysterious reason, the\nguild\'s food stock has dropped sharply all\nof a sudden.
+ Furthermore, our entire stock of\nPerfect Apples has disappeared. That was the\nonly item to get completely cleaned out.
+ Perfect Apples?\nWhat are those?
+ They\'re very big and very\ndelicious [CS:I]Apples[CR].
+ But more than that, they are\nthe Guildmaster\'s favorite food! ♪
+ If there were no Perfect\nApples, the Guildmaster would, um…
+ The Guildmaster w-w-would…
+ ...erk!
+ Go on. If there were no Perfect\nApples, what would happen to [CS:N]Wigglytuff[CR]?
+ The G-Guildmaster would...[K]...[K]…
+ ...[K]Yes, that\'s what would happen.
+ That\'s why I\'m begging you two\nto get some Perfect Apples.
+ Uh, what did he just say?![K]\nI didn\'t hear! It\'ll drive me nuts, not knowing!
+ Uh, what did he just say?![K]\nI didn\'t hear! It\'ll really bug me, not knowing!
+ But, oh well.
+ Sure, we\'ll go get some. You can\ncount on us!
+ Good! ♪
+ Perfect Apples can be found\ndeep in [CS:P]Apple Woods[CR].
+ Now, listen, this may seem like\na simple errand, but it\'s a crucial job.
+ After all, this is all about the\nGuildmaster\'s…
+ ...erk!
+ ...[K]So please don\'t fail! ♪
+ OK!
+ Let\'s give it our best,\n[hero]!
+ Whoa-ho-ho! Looks like they\'re\ngoing out foraging for food.
+ That\'s because we feasted last\nnight. A thankless task thanks to us,\nchaw-haw-haw!
+ Heh-heh-heh! Let\'s mess\nwith them!
+
+ А, вы двое.
+ Сегодня ваша задача - пополнить\nзапасы кладовой.
+ Кладовой?\nМы должны принести еды?
+ Именно так. ♪
+ Этим утром мы осмотрели кладовую.
+ По какой-то неведомой причине,\nзапасы еды в гильдии серьёзно уменьшились.
+ Кроме того, пропал весь наш\nзапас Идеальных Яблок. Это единственная\nеда, которая совсем исчезла.
+ Идеальные Яблоки?\nКакие они?
+ Это очень большие и очень\nвкусные [CS:I]Яблоки[CR].
+ И ещё, это любимая еда\nГильдмастера! ♪
+ Если Идеальных Яблок не будет,\nто Гильдмастер... Эм...
+ Г-г-гильдмастер будет...
+ ...ух!
+ Продолжай. Если Идеальных\nЯблок не будет, то что случится с\n[CS:N]Виглитаффом[CR]?
+ Г-г-гильдмастер сделает...[K]...[K]...
+ ...[K]Да, так и случится.
+ Именно поэтому я прошу вас\nпринести Идеальных Яблок.
+ Эм, что он только что\nсказал?![K] Я ничего не услышал! Я с ума\nсойду, если не узнаю!
+ Эм, что он только что\nсказал?![K] Я ничего не услышала! Я теперь\nпостоянно буду об этом думать!
+ Но, так и быть.
+ Конечно, мы принесём их.\nПоложись на нас!
+ Отлично! ♪
+ Идеальные Яблоки можно найти\nв дебрях [CS:P]Яблоневого Леса[CR].
+ Послушайте, задание хоть и\nкажется лёгким, но оно очень важное.
+ Всё таки, это нужно, чтобы\nГильдмастер...
+ ...ух!
+ ...[K]Поэтому, пожалуйста, не\nпровалите задание! ♪
+ Хорошо!
+ Сделаем всё, что в наших\nсилах, [hero]!
+ Хоа-хо-хо!\nКажется, их отправили добывать еду.
+ А всё из-за нашей плотной ночной\nпирушки. Благодаря нам, они выполняют\nнеблагодарное задание, кха-ха-ха!
+ Хе-хе-хе! Пойдём, поиздеваемся\nнад ними!
++++
+ Today we should do jobs on the\nJob Bulletin Board and Outlaw Notice Board.
+ Let\'s keep working hard so we\'ll\nget picked for the expedition!
+ Let\'s keep working hard. We can\nstill be picked for the expedition!
+ Let\'s keep working so we\'ll get\npicked for the expedition!
+ Let\'s get some Perfect Apples\nfor sure today, [hero]!
+ The Perfect Apples are supposed\nto be in the deepest part of [CS:P]Apple Woods[CR].
+ Let\'s go to [CS:P]Apple Woods[CR],\n[hero]!
+ Our objective is to bring back\nsome Perfect Apples.
+ The Perfect Apples are supposed\nto be deep in [CS:P]Apple Woods[CR].
+ Let\'s go to [CS:P]Apple Woods[CR],\n[hero]!
+ Сегодня нам нужно выполнить\nзадания с Доски Объявлений и Доски\nРазыскиваемых.
+ Поработаем как следует,\nчтобы нас взяли в экспедицию!
+ Поработаем как следует.\nНас всё ещё могут взять в экспедицию!
+ Поработаем как следует,\nчтобы нас взяли в экспедицию!
+ Мы обязаны добыть Идеальные\nЯблоки, [hero]!
+ Идеальные Яблоки можно\nнайти в самых дебрях [CS:P]Яблоневого Леса[CR].
+ Отправимся в [CS:P]Яблоневый Лес[CR],\n[hero]!
+ Наша задача - принести\nИдеальных Яблок.
+ Идеальные Яблоки должны\nнаходиться в дебрях [CS:P]Яблоневого Леса[CR].
+ Отправимся в [CS:P]Яблоневый Лес[CR],\n[hero]!
++++
+ The expedition is coming up![K]\nLet\'s do our best to be chosen!
+ Скоро начнётся экспедиция![K]\nСделаем всё возможное, чтобы нас туда\nвзяли!
++++
+ Ah, you two![K] Today your job is\nto gather Perfect Apples.
+ The Perfect Apples can be found\nin the deepest part of [CS:P]Apple Woods[CR].
+ Now, listen up...[K] This may seem\nsimple. But it\'s an important job.
+ Remember, I\'m really trusting\nyou with a very big job! ♪
+ А, вы двое![K] Сегодня ваша\nзадача - собрать Идеальных Яблок.
+ Идеальные Яблоки можно найти\nв самых дебрях [CS:P]Яблоневого Леса[CR].
+ Послушайте...[K] Это задание\nкажется простым. Но оно очень важное.
+ Помните, я доверяю вам очень\nответственную задачу! ♪
++++
+ HEY, [CS:N]Diglett[CR]! We GOTTA work\nhard at getting picked for the expedition!
+ ЭЙ, [CS:N]Диглетт[CR]! Нам нужно УСЕРДНО\nтрудиться, чтобы нас взяли в экспедицию!
++++
+ I\'m almost done repairing my\nSwap Cauldron here... Almost, but not yet.
+ I\'ll tell you when I\'m done. It\'s\nsomething you should look forward to.\nMeh-heh-heh.
+ You\'ll finally learn what I\'m up\nto here. Meh-heh-heh.
+ Я почти закончил чинить свой\nОбменный Котёл... Почти, но это ещё не\nвсё.
+ Когда я закончу, я вам сообщу.\nЖдите этого. Хе-хе-хе.
+ Наконец-то вы узнаете зачем я\nздесь.
++++
+ There\'s something mighty\npuzzling…
+ Yup yup. I can\'t help thinking\nthat our larder is going down much faster than\nit should be…
+ Кое-что меня озадачивает...
+ Да-да. Я не понимаю, почему\nзапасы нашей кладовки истощаются с такой\nскоростью...
++++
+ Huh?[K] You\'re going to get me\nsome Perfect Apples?
+ А?[K] Вы принесёте мне\nИдеальных Яблок?
++++
+ Yay! Thanks! ♪
+ Friendly friends! ♪[K] Bring me\nlots and lots and lots!
+ Ура! Спасибочки! ♪
+ Добрые друзья! ♪[K] Принесите мне\nмного и много и мнооого Идеальных Яблок!
++++
+ Please hurry and help\n[c_name:RANDOM_REQUEST_NPC02]. I\'m counting on you.
+ If it isn\'t Team [team:]!\nI had something I wanted to ask you!
+ I\'d like you to help [c_name:RANDOM_REQUEST_NPC02].
+ I just can\'t do it myself...\nPlease, I\'m counting on you!
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you so much!\nPlease help [c_name:RANDOM_REQUEST_NPC02]!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ Oh, no...\nI really thought Team [team:] could help\n[c_name:RANDOM_REQUEST_NPC02]…
+ Please hurry and find\n[c_name:RANDOM_REQUEST_NPC02]! I\'m counting on you!
+ Oh, Team [team:]!\nPerfect timing!
+ I\'d like to ask you to look for\n[c_name:RANDOM_REQUEST_NPC02], who\'s been gone for a while!\nCould you, please?
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you so much!\nPlease help [c_name:RANDOM_REQUEST_NPC02]!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ Whaaat?!\nI guess it can\'t be helped... I\'ll just put a\nrequest up on the Job Bulletin Board.
+ I\'ll join you just inside the\ndungeon. I\'m counting on you!
+ I have to go into the dungeon to\nmeet [c_name:RANDOM_REQUEST_NPC02], but I\'m too scared to go\nby myself.
+ Now, Team [team:]!\nCould you please escort me to meet\n[c_name:RANDOM_REQUEST_NPC02]?
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you so much!\nI\'ll try my best too!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ Oooh...\nI\'m so scared, but I guess I have no choice but\nto go in alone…
+ Yay! Yay!\nI get to explore with Team [team:]!\nLet\'s do our best!
+ Team [team:]!\nWill you take me exploring with you?
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ You\'ll really go with me?\nOK then. Let\'s do our best!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ Aah...\nI really wanted to explore with you,\nTeam [team:].
+ I\'m so relieved...\nNow I\'ll be able to go there…
+ There\'s a place I really want\nto visit.
+ But I\'m scared to explore a\ndungeon by myself.
+ I\'d really like it if you could\ncome with me, Team [team:]…
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Really?! Thank you so much!\nI\'ll do my best to help and stay out of the way!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ ...I see. You can\'t help...\nIt\'s not a good idea to go alone…
+ I wrote down the location where\nit was stolen in a Job Letter.\nI\'m depending on you!
+ Please listen. When I was\nwalking through a dungeon the other day,\nsomeone stole an item from me…
+ Huh? What did you say?\nYou\'ll really get my item back for me,\nTeam [team:]?
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you so much!\nI know it causes some inconvenience to you,\nso I\'m glad you\'re kind enough to accept it!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ Oh... It looks like we can\'t quite\nreach an agreement.
+ I know you can get back my\nitem, Team [team:]! I\'m counting on you!
+ Haaa... What\'ll I do…
+ Oh! Team [team:]!\nI\'ve got something I wanted to ask you!
+ [c_name:RANDOM_REQUEST_NPC02] took something of\nmine, and I\'d really like it if you could track\nthem down and get it back for me?
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you so very much!\nI am so grateful for your help!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ That puts me in a difficult spot.\nHmm... What should I do...?
+ ZZZT! I\'ll meet you inside the\ndungeon entrance, and we can apprehend\nthem together! ZZZT!
+ ZZZT! Good day, Team\n[team:]. I have something I wish to\ndiscuss with you... ZZZT!
+ ZZZT! No matter how hard I\'ve\ntried, I cannot seem to catch [c_name:RANDOM_REQUEST_NPC02]\nalone. Will you assist me? ZZZT!
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ ZZZT! Thank you very much!\nI appreciate your assistance! ZZZT!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ ZZZT! I see...\nIf Team [team:] is too busy, then I\'ll\nhave to ask someone else... ZZZT!
+ ZZZT! Thank you for your\ncontinued assistance! ZZZT!
+ ZZZT! Hello, Team [team:].\nThank you for your continuing assistance in\ncapturing outlaws. ZZZT!
+ ZZZT! Today, I would like you\nto search for and apprehend [c_name:RANDOM_REQUEST_NPC02]...\nCan you assist me? ZZZT!
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ ZZZT! Thank you for your\ncontinued assistance! ZZZT!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ ZZZT! I see... There\'s no way\naround it. Team [team:] is busy too.\nZZZT!
+ Please, for my friend, bring me\na [CS:I]Gabite Scale[CR]!\nPlease!
+ Hey, Team [team:]!\nDo you think you could lend me a hand?
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you so very much!\nYou\'ve made me very happy!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ WHAAAAT?!
+ I really thought that if anyone\nwould help me, it would definitely be\nTeam [team:]!
+ That\'s too bad...\nMaybe a different exploration team will help…
+ Hey, Team [team:]!\nDo you think you could lend me a hand?
+ I am in need of one more\n[CS:I]Gabite Scale[CR] to save my sick friend.
+ It\'s said that when [CS:N]Gabite[CR] admits\nthe strength of a team, it spares a [CS:I]Gabite\nScale[CR] as a token of appreciation.
+ [CS:N]Gabite[CR] can be found in the\ndepths of [CS:P]Labyrinth Cave[CR]! Please get a\n[CS:I]Gabite Scale[CR] for me!
+ You know, everyone talks about\nhow Team [team:] is an incredible\nexploration team.
+ I heard that Team [team:]\nis a great exploration team. Is it true?
+ If it is, I\'d like you to retrieve\nan item for me…
+[CN]Would you like to accept this job request?
+Yes
+[CN][hero] accepted\n[CN]the job request!
+ Thank you!\nI knew the rumors about the superb Team\n[team:] had to be true!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+ Hmm...\nI knew you were that kind of exploration team.
+ Team [team:] must be an\nincredible team to take on a challenge like that.
+ Are you Team [team:]?
+Yes
+ I was previously asked to give\nthis to you by [c_name:RANDOM_REQUEST_NPC01].
+[CN]Wha--[K] This! No matter how you look at it,\n[CN]it\'s a Challenge Letter!
+[CN]Would you like to accept this challenge?
+Yes
+[CN][hero] accepted\n[CN]the challenge!
+ So we\'re clear. I\'ve definitely\ndelivered the letter.
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+ Huh? Oh no!\nYou have to take it! What would I do with it?
+No
+ Oh? I must\'ve been mistaken…
+ Huh? You want to know who the\nMission came from?
+ I don\'t really know who it was,\nbut he was a Pokémon who had a very odd\nmanner of speaking.
+ Why couldn\'t he hand it over on\nhis own? It\'s really strange.
+ Earlier, a strange Pokémon\nappeared and asked me to give this to\nTeam [team:].
+ It won\'t do any good in my\npossession. You should take it.
+[CN][hero] read the\n[CN]paper.
+[CN]To Team [team:],\n[CN]From Exploration Team Federation!
+[CN]This is a Special Mission\n[CN]assigned only to Secret Rank\n[CN]exploration teams!
+[CN]Act promptly!\n[CN]That\'s all!
+[CN].....................[K]\n[CN]Would you like to accept this Mission?
+Yes
+[CN][hero]\n[CN]accepted the Special Mission!
+[CN]Your Job List is full,\n[CN]so you cannot accept it.
+No
+[CN][hero]\n[CN]declined the Special Mission.
+ Huh?\nYou won\'t take it?!
+ So, what am I supposed to do\nwith this, then?!
+ Hey, Team [team:]!\nYou\'ve arrived at just the right time.
+ Earlier, a strange Pokémon\nappeared and asked me to give this to\nTeam [team:].
+
+ Прошу, поторопитесь и помогите\nПокемону [c_name:RANDOM_REQUEST_NPC02]. Я рассчитываю на\nвас.
+ Это же Команда [team:]!\nЯ хочу у вас кое-что спросить!
+ Нужно помочь Покемону\n[c_name:RANDOM_REQUEST_NPC02].
+ Самостоятельно я не\nуправляюсь... Прошу, я рассчитываю на\nвас!
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо большое! Прошу,\nпомогите Покемону [c_name:RANDOM_REQUEST_NPC02]!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ О, нет...\nМне казалось, что Команда [team:]\nможет помочь Покемону [c_name:RANDOM_REQUEST_NPC02]...
+ Прошу, поторопитесь и найдите\nПокемона [c_name:RANDOM_REQUEST_NPC02]! Я рассчитываю на\nвас!
+ Ох, Команда [team:]!\nКак раз вовремя!
+ Я хочу попросить вас поискать\nПокемона [c_name:RANDOM_REQUEST_NPC02]! Он не так давно\nпропал! Можете ему помочь?
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо большое! Прошу,\nпомогите Покемону [c_name:RANDOM_REQUEST_NPC02]!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ Чтоооо?! Ну, ничего не\nподелать... Тогда размещу задание на\nДоске Объявлений.
+ Я присоединюсь к вам в\nподземелье. Я рассчитываю на вас!
+ Мне нужно пойти в подземелье\nи встретить Покемона [c_name:RANDOM_REQUEST_NPC02], но мне\nстрашно идти в одиночку.
+ Команда [team:]! Можете\nмне помочь и сопроводить меня к Покемону\n[c_name:RANDOM_REQUEST_NPC02]?
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо вам огромное! Я тоже\nбуду стараться изо всех сил!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ Ооох...\nМне так страшно, но, похоже, у меня нет\nиного выбора, только идти в одиночку...
+ Ура! Ура! Я пойду на вылазку\nвместе с Командой [team:]! Сделаем\nвсё возможное!
+ Команда [team:]!\nВозьмёте меня с собой на вылазку?
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Вы и правда пойдёте со мной?\nХорошо. Выложимся на полную!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ Ах... Я очень хотел пойти с\nвами на вылазку, Команда [team:].
+ Мне так радостно...\nТеперь я смогу пойти туда...
+ Есть одно место, которое я\nочень хочу посетить.
+ Но я очень боюсь идти в\nодиночку.
+ Будет здорово, если вы сможете\nпойти со мной, Команда [team:]...
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Правда?! Спасибо огромное!\nЯ буду очень стараться не лезть вперёд\nвас!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ ...Понятно. Вы не поможете...\nИдти в одиночку плохая мысль...
+ Я записал место, где это\nукрали, в Письме с Заданием. Я на вас\nрассчитываю!
+ Прошу, послушайте. Я бродил\nпо подземелью и кто-то украл у меня\nодну вещь...
+ А? Что вы сказали? Вы правда\nвернёте мне мою вещь, Команда\n[team:]?
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо огромное! Я знаю, вам\nне очень удобно, но я рад, что вы приняли\nэто дело!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ Ох...\nПохоже, мы не договоримся.
+ Я уверен, вы сможете вернуть\nмне мою вещь, Команда [team:]!\nЯ рассчитываю на вас!
+ Хааа... Что мне делать...
+ Ой! Команда [team:]!\nЯ хочу вас кое о чём попросить!
+ [c_name:RANDOM_REQUEST_NPC02] украл кое-что у\nменя и я хочу узнать, сможете ли вы\nвернуть его мне?
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо огромное!\nЯ благодарен за вашу помощь!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ Это проблематично.\nХмм... Что же мне делать?..
+ БЗЗЗ! Я встречу вас в\nпоздемелье и мы вместе его арестуем!\nБЗЗЗ!
+ БЗЗЗ! Доброго дня, Команда\n[team:]. Я хочу с вами кое-что\nобсудить... БЗЗЗ!
+ БЗЗЗ! Как бы я ни старался,\nно я не могу поймать Покемона [c_name:RANDOM_REQUEST_NPC02].\nВы мне поможете? БЗЗЗ!
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ БЗЗЗ! Спасибо огромное!\nЯ ценю вашу помощь! БЗЗЗ!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ БЗЗЗ! Понятно... Если вы так\nзаняты, то я попрошу других о помощи...\nБЗЗЗ!
+ БЗЗЗ! Благодарю вас за\nсотрудничество! БЗЗЗ!
+ БЗЗЗ! Доброго дня, Команда\n[team:]. Спасибо за вашу помощь в\nпоимке негодяев. БЗЗЗ!
+ БЗЗЗ! Сегодня, я хочу\nпопросить вас найти и арестовать негодяя\n[c_name:RANDOM_REQUEST_NPC02]... Можете мне помочь? БЗЗЗ!
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ БЗЗЗ! Спасибо за вашу помощь!\nБЗЗЗ!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ БЗЗЗ! Понятно... Ничего не\nподелать. У Команды [team:] тоже\nесть дела. БЗЗЗ!
+ Прошу, ради моего друга,\nпринести мне [CS:I]Чешуйку Габайта[CR]! Пожалуйста!
+ Привет, Команда\n[team:]! Можете мне помочь?
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо вам большое!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ ЧТОООО?!
+ Если кто мне и поможет, то это\nтолько Команда [team:]!
+ Очень жаль...\nМожет, мне поможет другая команда\nисследователей...
+ Привет, Команда\n[team:]! Сможете мне помочь?
+ Чтобы спасти своего больного\nдруга, мне нужна ещё одна [CS:I]Чешуйка\nГабайта[CR].
+ Говорят, что если [CS:N]Габайт[CR]\nпризнает силу команды, то он даст ей\n[CS:I]Чешуйку Габайта[CR] в знак уважения.
+ [CS:N]Габайта[CR] можно найти в глубинах\n[CS:P]Пещеры-Лабиринта[CR]! Прошу, принесите мне\n[CS:I]Чешуйку Габайта[CR]!
+ В округе только и разговоров\nо том, насколько Команда [team:]\nзамечательные исследователи.
+ Говорят, что Команда\n[team:] - отличная команда\nисследователей. Это правда?
+ Если да, то я хочу, чтобы вы\nнашли мне одну вещь...
+[CN]Взять это задание?
+Да
+[CN][hero] берёт задание!
+ Спасибо! Слухи о невероятной\nКоманде [team:] оказались правдой!
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+ Хмм...\nЗначит, вы одни из тех самых команд\nисследователей.
+ Должно быть, члены Команды\n[team:] очень храбры, раз вы\nрешились на такое испытание.
+ Вы Команда [team:]?
+Да
+ [c_name:RANDOM_REQUEST_NPC01] просит передать\nвам это письмо.
+[CN]Что... Это же! С какой стороны ни\n[CN]посмотри, но это Письмо с Вызовом!
+[CN]Хотите принять вызов?
+Да
+[CN][hero] принимает вызов!
+ Вот и славно. Письмо\nдоставлено.
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+ Что? О нет! Вы должны были\nпринять его! Что мне теперь с этим\nделать?
+Нет
+ Что? Должно быть, я ошибся...
+ А? Вы хотите знать, кто дал\nмне эту Миссию?
+ Я не знаю, кто это был, но у\nэтого Покемона очень странная манера\nобщения.
+ Почему он сам не передал\nпослание? Странно всё это.
+ Недавно появился странный\nПокемон и попросил меня передать это\nКоманде [team:].
+ Нет смысла оставлять это у\nменя. Возьмите.
+[CN][hero] читает послание.
+[CN]Команде [team:],\n[CN]от Федерации Команд Исследователей!
+[CN]Это Особая Миссия,\n[CN]доступная только для\n[CN]Команд Исследователей Секретного Ранга!
+[CN]Действуйте быстро!\n[CN]На этом всё!
+[CN].....................[K]\n[CN]Хотите принять эту Миссию?
+Да
+[CN][hero] принимает Особую Миссию.
+[CN]Ваш Список Заданий полон.\n[CN]Вы не можете принять задание.
+Нет
+[CN][hero] отклоняет Особую Миссию.
+ А? Вы не возмьёте?!
+ Ну и что мне теперь с этим\nделать?!
+ Привет, Команда [team:]!\nВы как раз вовремя.
+ Недавно появился странный\nПокемон и попросил меня передать это\nКоманде [team:].
++++
+ Do you know of the IQ Skill\n\"Acute Sniffer\"?
+ It\'s a skill that allows you to\ninstantly know how many treasures are left\non the floor!
+ You\'ll even know how much\ntreasure is hidden in the walls! Isn\'t it great?
+ Вы знали про навык IQ\n\"Острый Нюхач\"?
+ Это навык, позволяющий\nмнгновенно узнать, сколько ценностей есть\nна этаже!
+ Вы даже сможете узнать, какие\nценности спрятаны в стенах! Разве это не\nздорово!
++++
+ I heard that they even have\n\"Offers\" at the Recycle Shop.
+ They seem to only be available\nfor a limited time. Be sure to check them out!
+ Я узнал, что в Центре\nПереработки есть некие \"Предложения\".
+ Они доступны только\nограниченное время. Не забудьте их\nпосмотреть!
++++
+ I absolutely love drinks made\nwith [CS:I]Apples[CR]. I can\'t get enough of them!
+ They\'re just delicious drinks, but\nthat\'s enough for me![K] Or so I thought.\nI keep drinking them…
+ But! Spinda said he had \"a\ngood feeling\" about this one drink, and when\nI drank it, my attack power increased!
+ I thought that drinks made using\nan [CS:I]Apple[CR] or an [CS:I]Oran Berry[CR] wouldn\'t have any\neffect, but it looks like I was wrong!
+ The Juice Bar is really\nwonderful.
+ Я очень люблю напитки из\n[CS:I]Яблок[CR]. Я не могу ими напиться!
+ Они вкусные и этого мне\nдостаточно! Так я думала... Я продолжала\nих пить...
+ Но! В какой-то момент, [CS:N]Спинда[CR]\nсказал о "хорошем предчувствии" и подал\nмне напиток.\nЯ его выпила и моя сила атаки увеличилась!
+ Я думала, что напитки из [CS:I]Яблок[CR]\nили [CS:I]Пельси Ягод[CR] не окажут никакого\nэффекта, но, похоже, я ошиблась!
+ Бар Напитков действительно\nчудесен.
++++
+ Hey, listen, listen.
+ I ordered a drink here before,\nand I got this \"amazing miracle drink\" or\nsomething!
+ I heard it rarely gets made, but\nit was incredibly delicious.
+ Эй, слушай, слушай.
+ Как то раз я заказал напиток\nи получился "удивительно чудесный напиток"\nили что-то вроде того.
+ Такие редко получаются, но они\nневероятно вкусные.
++++
+ Hey, hey! It\'s no time to be\nlosing motivation! What\'s a little stink?
+ There\'s an expedition coming up,\nhey, hey!
+ Эй, эй! Сейчас не время терять\nмотивацию! Что нам этот запах?
+ Скоро начнётся экспедиция, эй,\nэй!
++++
+ Yo![K] Hey, I\'m advertising another\nshop today!
+ See![K] See that shop there?
+ That place\'s called the [CS:K]Electivire[CR]\nLink Shop.
+ That shop can link two moves\ntogether for you!
+ You see, linked moves are used\none after the other in the same turn.
+ Put a smart combo together and\nyou can make awesome strikes!
+ Why not pay the shop a visit and\nsee what I mean about linking moves?
+ Йо![K] Сегодня я рекламирую ещё\nодно место!
+ Вот![K] Видите эту лавку?
+ Это Связь-Лавка [CS:K]Элективайра[CR].
+ Там можно связать вместе два\nприёма!
+ Связанные приёмы применяются\nв один ход, друг за другом.
+ Собери идеальную комбинацию и\nсможешь наносить удары чудовищной силы!
+ Почему бы не посетить Лавку и\nузнать больше о связывании приёмов?
++++
+ Everyone\'s quite excited about\nthe upcoming expedition. Eek!
+ We all should work hard so we\nget chosen for the expedition!
+ Все очень рады новой экспедиции.\nИии!
+ Мы все должны постараться, чтобы\nнас взяли в экспедицию!
++++
+ My son.
+ Yes, Dad?
+ Why did you call me out here?
+ See?[K] The sea is vast.
+ Um, yes... But why are you\ntelling me this?
+ I\'m supposed to be working, Dad.
+ If I don\'t go back soon, I\'ll get\nan earful from [CS:N]Loudred[CR].
+ You\'ll be scolded?
+ Why let such a paltry matter\ncloud your thoughts?
+ Broaden your perspective...[K]\nLike the sea before you.
+ I don\'t know what that means!
+ I\'m going back to the guild.[K]\nI want to be chosen for the expedition.
+ Dad, you should quit wasting\ntime here and get back to work.[K] See you.
+ Team [CS:X]Skull[CR] is kind of scary…
+ Сын мой.
+ Да, Пап?
+ Зачем ты меня сюда позвал?
+ Видишь?[K] Море широко.
+ Эм, да... Но почему ты мне это\nговоришь?
+ Пап, мне нужно работать.
+ Если я не вернусь, на меня\nнаорёт [CS:N]Лаудред[CR].
+ Тебя накажут?
+ Зачем вообще беспокоиться о\nтаких мелочах?
+ Смотри на мир шире...[K] Как море,\nчто находится перед тобой.
+ Я не знаю что это значит!
+ Я отправляюсь обратно в гильдию.[K]\nЯ хочу, чтобы меня взяли в экспедицию.
+ Пап, хватит тратить время\nвпустую и давай тоже за работу.[K] Увидимся.
+ Команда [CS:X]Череп[CR] страшная...
++++
+ Oh, for crying out loud...[K] I wish\nyou hadn\'t seen that.
+ Raising a child is the hardest\nthing I\'ve ever done...[K] Aha-ha-ha…
+ But I\'d like to imagine that my\nson will one day understand.
+ The way that we have chosen\nto live…
+ О, ради всего святого...[K]\nХотел бы я, чтобы вы этого не видели.
+ Растить ребёнка это самое\nсложное, что я когда-либо делал...[K]\nХа-ха-ха...
+ Но я надеюсь, что однажды мой\nсын всё поймёт.
+ То, как мы выбираем наш путь...
++++
+ This is the way into\n[CS:P]Apple Woods[CR].
+ This must be the way into\n[CS:P]Apple Woods[CR].
+ This must be the entrance to\n[CS:P]Apple Woods[CR].
+ [CS:N]Chatot[CR] said we need to go to the\ndeepest part of these woods.
+ According to [CS:N]Chatot[CR], we need to\ngo to the deepest part of the woods.
+ According to [CS:N]Chatot[CR]\'s story, we\nneed to get to the deepest part of the woods.
+ That\'s where we\'ll find the\nPerfect Apples, he said.
+ That\'s where the Perfect Apples\nare supposed to be.
+ That\'s where the Perfect Apples\nshould be.
+ Let\'s give it our best,\n[hero]!
+ Whoa-ho-ho! Looks like they\'re\noff and running.
+ Heh-heh. We\'ll go after them.\nCome on.
+ Это дорога в [CS:P]Яблоневый Лес[CR].
+ Должно быть, это дорога в\n[CS:P]Яблоневый Лес[CR].
+ Должно быть, это вход в\n[CS:P]Яблоневый Лес[CR].
+ [CS:N]Чатот[CR] сказал, что мы должны\nидти в самые дебри этого леса.
+ Как говорит [CS:N]Чатот[CR], нам\nнужно добраться до дебрей этого леса.
+ По рассказу [CS:N]Чатота[CR], нам\nнужно идти в самые дебри этого леса.
+ Там мы найдём Идеальные\nЯблоки.
+ Там должны быть Идеальные\nЯблоки.
+ Там должны находиться\nИдеальные Яблоки.
+ Постараемся изо всех сил,\n[hero]!
+ Хоа-хо-хо! Кажется, они\nубежали.
+ Хе-хе. Мы пойдём за ними.\nВперед.
++++
+ Whoa-ho! What\'s with them?[K]\nThey went down before they even got near the\nPerfect Apples.
+ Heh-heh. And they did it all\nthemselves without us helping.
+ Хоа-хо! Что это с ними?[K] Они\nдаже не добрались до Идеальных Яблок.
+ Хе-хе. Нам даже не пришлось\nим \"помогать\".
++++
+ Let\'s get some Perfect Apples\nfor sure this time.
+ Let\'s give it our best,\n[hero]!
+ They\'re persistent, I\'ll give\nthem that.
+ Chaw-haw-haw! You could say\nthe same about us.
+ But so what? We\'re going\nafter them.
+ На этот раз, мы должны\nдобраться до Идеальных Яблок.
+ Постараемся изо всех сил,\n[hero]!
+ А они настырные, должен\nпризнать.
+ Кха-ха-ха! О нас можно сказать\nто же самое.
+ Что с того? Мы всё равно\nпойдём за ними.
++++
+ You two!
+ You two! I hope you will finally\nbring back some Perfect Apples today.
+ Perfect Apples can be found\ndeep in [CS:P]Apple Woods[CR].
+ If you don\'t come back soon with\nsome Perfect Apples, the Guildmaster will…
+ Anyway! We\'re counting on you!
+ Uh... All right.
+ Let\'s give it our best try,\n[hero]!
+ Вы двое!
+ Я очень надеюсь, что сегодня\nвы наконец-то принесёте Идеальных Яблок.
+ Идеальные Яблоки можно найти\nв дебрях [CS:P]Яблоневого Леса[CR].
+ Если вы не принесёте Идеальные\nЯблоки, то Гильдмастер...
+ В общем так!\nМы на вас рассчитываем!
+ Ух... Хорошо.
+ Постараемся изо всех сил,\n[hero]!
++++
+ This is the deepest point in\n[CS:P]Apple Woods[CR], right?
+ This is the farthest you can go\nin [CS:P]Apple Woods[CR], isn\'t it?
+ This is the deepest point in\n[CS:P]Apple Woods[CR], isn\'t it?
+ According to [CS:N]Chatot[CR], the Perfect\nApples should be around here somewhere…
+ Oh! [hero], look there!
+ Hanging on that humongous\ntree…
+ Those must be Perfect Apples.
+ All right, then... How should we\nget those Perfect Apples?
+ Chaw-haw-haw! Easily done!
+ Who said that?!
+ Chaw-haw-haw!
+ What?! You!
+ Chaw-haw-haw! Team [CS:X]Skull[CR] at\nyour service!
+ Heh-heh. Hey, it\'s wimpy and\ncompany. What took you so long?
+ We\'ve been having us a picnic\nof Perfect Apples while waiting for you\nto show.
+ What took you so long?
+ Whaaaat?!
+ Whoa-ho-ho! You took so long, I\nstuffed myself![K] Buuurp!
+ They\'re saying they ate the\nPerfect Apples, [hero].
+ But there are still a few left up\non the tree.
+ Let\'s knock those creeps out and\ntake home some Perfect Apples.
+ Chaw-haw-haw. Knock us out?\nThat\'s very rude of you!
+ Why, I was even going to offer\nmy help for your mission.
+ Huh?!
+ You were wondering how you\ncould get the Perfect Apples?
+ Nothing could be easier.\nWatch.
+ Oh! Some Perfect Apples!
+ See? What\'d I tell you?
+ Go on, now. Scoop up those\nPerfect Apples and scuttle back to the guild.\nChaw-haw-haw.
+ Whoa-ho-ho.
+ Heh-heh.
+ Hm? What\'s the matter? Aren\'t\nyou going to pick them up?
+ And after I was so nice and\nhelped you out! Chaw-haw-haw.
+ You\'re going to pull another dirty\ntrick, aren\'t you!
+ You can\'t fool me again!
+ Color me surprised! They didn\'t\nfall for it at all!
+ Aww. How boring is that.
+ I knew it!
+ I knew it!
+ Chaw-haw-haw. It\'s a little\ndisappointing you didn\'t fall for our act…
+ But so what? What are you\ngonna do about it?
+ The only thing we can!
+ We\'ll knock out your team and\ntake the Perfect Apples back to the guild!
+ We\'re going to knock out your\nteam. Then we\'re taking the Perfect Apples\nback to the guild!
+ We\'ll knock out your team. Then\nwe\'re taking the Perfect Apples back to\nour guild!
+ Well now. Aren\'t we feeling\npeppy today!
+ When we first met, you were\nshaking like a leaf too. Chaw-haw-haw.
+ When we first met, you were\nshaking like a leaf too. Chaw-haw-haw.
+ It\'s true... That time, I did\nback down…
+ It\'s true... That time, I did\nback down…
+ Even now I\'m a little scared…
+ But I won\'t lose again!
+ I won\'t ever back down again!
+ So be it.
+ In recognition of your courage…
+ We\'ll be honored to take you on\nfair and square. Chaw-haw-haw!
+ W-watch out, [hero]!
+ They\'re going to try something!
+ Chaw-haw-haw!
+ Let\'s see if you can withstand\nthis attack.
+ [CS:N]Koffing[CR] and I will use our…
+ noxious gas combo!
+ Waaaah! WAAAAH!
+ Ugh... That was awful…
+ Oh, [hero]!
+ Are you OK, [hero]?
+ Whew!
+ I\'m glad!
+ Thank goodness!
+ Urrgh…
+ Aaaaah!
+ Waaah! They left without me!
+ Urf... We both got knocked out…
+ But what a horrible stench.
+ It still reeks a little…
+ The stench is still lingering…
+ It still reeks a little... Ewww…
+ Oh! Where are the\nPerfect Apples?!
+ Aw! They\'re gone!
+ Did those bullies eat them all?
+ If they\'re all gone, there\'s\nnothing we can do.
+ There\'s nothing we can do.\nLet\'s go back to the guild.
+ Это самая дальняя точка\n[CS:P]Яблоневого Леса[CR], так?
+ Это самая отдалённая точка\n[CS:P]Яблоневого Леса[CR], так ведь?
+ Это самые дебри [CS:P]Яблоневого\nЛеса[CR], верно?
+ Судя по тому, что говорил\n[CS:N]Чатот[CR], здесь должны быть Идеальные\nЯблоки...
+ О! [hero], посмотри!
+ Висят на огромном дереве...
+ Должно быть, это Идеальные\nЯблоки.
+ Хорошо... И как нам достать\nэти Идеальные Яблоки?
+ Кха-ха-ха! Очень легко!
+ Кто это сказал?!
+ Кха-ха-ха!
+ Что?! Вы!
+ Кха-ха-ха! Команда [CS:X]Череп[CR] к\nвашим услугам!
+ Хе-хе. Эй, это же трусишка и\nкомпания. Почему так долго?
+ Пока мы вас ждали, мы пировали\nИдеальными Яблоками.
+ Почему вы шли так долго?
+ Чтоооо?!
+ Хоа-хо-хо! Вы шли так долго,\nчто я обожрался![K] Рыыыыг!
+ Они говорят, что они съели\nИдеальные Яблоки, [hero].
+ Но они всё ещё остались на\nдереве.
+ Вырубим этих гадин и\nзаберём Идеальные Яблоки.
+ Кха-ха-ха. Вырубить нас?\nКак грубо!
+ Ну и ну, а я то хотел вам\nпомочь их достать.
+ А?!
+ Вы думали над тем, как достать\nИдеальные Яблоки?
+ Нет ничего проще. Смотрите.
+ Ох! Идеальные Яблоки!
+ Видите? Что я вам говорил?
+ Вперёд. Хватайте Идеальные\nЯблоки и бегите в гильдию. Кха-ха-ха.
+ Хоа-хо-хо.
+ Хе-хе.
+ Хм? Что случилось?\nВы не будете их подбирать?
+ И это после того, как я сделал\nдоброе дело и помог вам! Кха-ха-ха.
+ Вы снова сделаете что-то\nдурное, не так ли!
+ Вы меня не обманете!
+ Вот так новость! Они на это\nне купились!
+ Ай. Какая скука.
+ Я так и знал!
+ Я так и знала!
+ Кха-ха-ха. Жаль, что вы не\nпопались на нашу удочку...
+ Но что теперь? Что вы будете\nс этим делать?
+ Только одно!
+ Мы вырубим вас и заберём\nИдеальные Яблоки в гильдию!
+ Мы победим твою команду.\nЗатем, мы заберём Идеальные Яблоки в\nгильдию!
+ Мы вырубим твою команду.\nЗатем, мы заберём Идеальные Яблоки в\nгильдию!
+ Вот как. Кажется, у кого-то\nсегодня полно энергии!
+ В нашу первую встречу, ты\nдрожал как осиновый лист. Кха-ха-ха.
+ В нашу первую встречу, ты\nдрожала как осиновый лист. Кха-ха-ха.
+ Это правда... Тогда, я\nструсил...
+ Это правда... Тогда, я\nструсила...
+ И даже сейчас мне\nнемножечко страшно...
+ Но я больше не проиграю!
+ Я больше никогда не\nподдамся страху!
+ Да будет так.
+ В знак признания твоей\nсмелости...
+ Мы сразимся в честном бою.\nКха-ха-ха!
+ Б-берегись, [hero]!
+ Они что-то замышляют!
+ Кха-ха-ха!
+ Посмотрим, сможете ли вы\nвыстоять эту атаку.
+ [CS:N]Коффинг[CR] и я применим наше...
+ Тлетворное газовое комбо!
+ Уааааа! ААААААА!
+ Ух... Это было ужасно...
+ Ой, [hero]!
+ Ты в порядке, [hero]?
+ Фух!
+ Всё хорошо!
+ Хвала небесам!
+ Уууххх...
+ Ааааа!
+ Ааааа! Они ушли без меня!
+ Уф... Нас обоих победили...
+ Но какой ужасный запах.
+ Он всё ещё не выветрился...
+ Он всё ещё чувствуется...
+ Он всё ещё не выветрился...\nФуу...
+ Ой!\nА где Идеальные Яблоки?!
+ Ай! Они пропали!
+ Неужели эти негодяи их\nсъели?
+ Если их нет, то мы ничего не сделаем.
+ Ничего не поделать.\nИдём назад в гильдию.
++++
+ Whaaaat? You failed?!
+ Are you serious?[K] Oh no! What\nam I going to do?!
+ Seriously! What am I to do?!
+ We couldn\'t help it. I mean,\n[CS:N]Skuntank[CR] and his…
+ There was nothing we could do.\nYou see, [CS:N]Skuntank[CR] and his…
+ It\'s not our fault. It\'s because\n[CS:N]Skuntank[CR] and his…
+ Quiet![K] I don\'t want to hear\nany excuses!
+ Urk…
+ You leave me no choice.
+ For the time being, you\'ll go\nwithout dinner tonight!
+ What?! B-but…
+ You failed to complete an\nimportant job.
+ Your punishment could be much\nmore severe!
+ Ugh…
+ I don\'t want to hear anything\nfrom you!
+ You\'ve saddled me with this\nterrible task!
+ I\'ve got to report this to the\nGuildmaster now!
+ Upon hearing my report, the\nGuildmaster is sure to…
+ Waaaaaaah!
+ I will report this to the\nGuildmaster after dinner.
+ You two will come with me when\nI do so.
+ If I had to face the\nGuildmaster\'s wrath all by myself, well, that\nwould hardly be fair.
+ Therefore, you two will come\nwith me!
+ That\'s an order!
+ Чтоооо? Вы не справились?!
+ Вы серьёзно?[K] О нет! Что мне\nтеперь делать?!
+ Нет, серьёзно! Что мне\nделать?!
+ Мы ничего не могли сделать.\nВидите ли, [CS:N]Скунтанк[CR] и его...
+ Мы ничего не могли сделать.\n[CS:N]Скунтанк[CR] и его...
+ Это не наша вина. Всё из-за\n[CS:N]Скунтанка[CR] и его...
+ Тихо! Я не желаю слушать\nкаких-либо оправданий!
+ Ой...
+ Вы не оставили мне иного\nвыбора.
+ На этот раз, вы пойдёте спать\nбез ужина!
+ Что?! Н-но...
+ Вы не смогли выполнить очень\nважное задание.
+ Ваше наказание могло бы быть\nболее суровым!
+ Ух...
+ Я не хочу слышать от вас и слова!
+ Вы взвалили на меня эту ужасную\nношу!
+ Мне нужно сообщить об этом\nГильдмастеру!
+ Выслушав меня, Гильдмастер\nточно...
+ Аааааааа!
+ Я сообщу Гильдмастеру после\nужина.
+ Вы двое, пойдёте со мной.
+ Если мне одному придётся принять\nна себя гнев Гильдмастера, это будет,[K] ну,[K]\nне совсем честно.
+ Поэтому, вы двое, пойдёте со\nмной.
+ И это приказ!
++++
+ Hiya!
+ You brought me some Perfect\nApples, didn\'t you?
+ Thank you!
+ Uh... There\'s, uh, a slight…
+ Uh... It\'s awfully hard to say\nthis, but…
+ Huh? What\'s wrong?
+ You see, uh, truth be told…
+ These apprentices... Well, they\nfailed in their mission to bring back any\nPerfect Apples, and…
+ So, uh, to put it another way…
+ It\'s OK. I understand. ♪
+ It\'s all right![K]\nNobody wins all the time. ♪
+ Don\'t feel blue, don\'t feel\nblue. ♪
+ Where are the other Perfect\nApples?
+ As I\'d explained... Um... They\nfailed to get them, so, uh…
+ In other words, uh...the Perfect\nApples…
+ The number of Perfect Apples\nharvested...would be, uh...[K]zero.
+ ...[K]Oh.
+ Therefore...not even one\nPerfect Apple was obtained…
+ That means, Guildmaster…
+ You will have to make do\nwithout Perfect Apples for a little bit.
+ Yep, that\'s what it means!
+ Hee! ♪[K] Hee! ♪[K] Hee-heeee!\nHee-heeee! Hee-heeee! Hee-heeee! ♪\nHee-heeee! Hee-heeee! Hee-heeee! ♪
+ Hee-heeee! Hee-heeee! ♪[K]\nHee-heeee...[K] Hee…
+ Um, Guildmaster? Guildmaster?
+ Sniffle…
+ Sob…
+ (Whoa! He\'s going to cry!)
+ Sniffle-snivel-snivel-snivel…
+ Waaaah! N-no!
+ Urrrrffff...[K] Urrrrrrrrrr…
+ Yow! The whole place\nis shaking!
+ Waa...[K] Waaaaaaaaahhh…
+ Cover your ears!
+ W-why?!
+ Don\'t argue! Do it now!
+ WAAAAAAAAAAAAAAAAH!
+ Eeeeeeh!
+ BWEEEEEEEEEAAAAAHHHHH!
+ Aiyeeeeee!
+ Sorry to disturb you! We\'ve come to\ndeliver a Perfect Apple!
+ Huh?
+ Here you go. A genuine\nPerfect Apple.
+ Please accept it as our token\nof friendship.
+ Oh, wow! You went and got it\njust for me?!
+ Yay! Thank you! Friends!\nFriends!
+ Th-thank you so very,\nvery kindly!
+ Thanks to you, we\'ve all been\nspared a catastrophe!
+ Hey! You two! Quit dozing and\nshow your respect and appreciation!
+ Ungggh…
+ Chaw-haw-haw. No, no, it\'s quite\nall right. After all, your guild has been very\ngenerous and hospitable to us.
+ It\'s only right that we try to\nrepay that favor in our own way.
+ Ah! I see that you\'re the most\nadmirable of Pokémon. ♪
+ To be able to embark on an\nexpedition with someone so noble as you…
+ It will be truly inspiring!
+ Chaw-haw-haw. No, no! You will\nbe the ones who inspire us.
+ Truly, we look forward to our\nexpedition.
+ It\'s late now, so we\'ll be off\nto bed.
+ Until tomorrow then.\nChaw-haw-haw!
+ Thank you! Good night! Friends!\nFriends!
+ Приветик!
+ Вы принесли мне Идеальных\nЯблок, да?
+ Спасибочки!
+ Эм... Тут, эм, небольшая...
+ Эм... Об этом трудно говорить,\nно...
+ А? Что случилось?
+ Видите ли, правда в том, что...
+ Эти ученики... Дело в том, что\nони не смогли принести Идеальных Яблок...
+ И, другими словами...
+ Ничего. Я понимаю. ♪
+ Всё хорошо![K] Не всегда у всех\nвсё получается. ♪
+ Не грустите, не грустите. ♪
+ А где другие Идеальные Яблоки?
+ Как я объяснял... Эм... Они не\nсмогли принести их, поэтому, эм...
+ Другими словами, эм...\nИдеальные Яблоки...
+ Количество собранных Идеальных\nЯблок...[K]равняется, эм...[K]нулю.
+ ...[K]Ох.
+ Поэтому...[K]у нас нет ни единого\nИдеального Яблока...
+ И это значит, Гильдмастер...
+ Что вам придётся чуточку побыть\nбез Идеальных Яблок.
+ Да, именно так!
+ Хии! ♪[K] Хии! ♪[K] Хии-хииии!\nХии-хииии! Хии-хииии! Хии-хииии! ♪\nХии-хииии! Хии-хииии! Хии-хииии! ♪
+ Хии-хииии! Хии-хииии! ♪[K]\nХии-хииии...[K] Хии...
+ Эм, Гильдмастер? Гильдмастер?
+ Шмыг...
+ Хнык...
+ (Ой! Он сейчас заплачет!)
+ Шмыг-хнык-хнык-хнык...
+ Уааааа! Н-нет!
+ Урррфффф...[K] Уррррррррр...
+ Ого! Всё трясётся!
+ Уаа...[K] Уаааааааааааа...
+ Закройте уши!
+ З-зачем?!
+ Не спорьте! Быстро!
+ УААААААААААААА!
+ Ииииииии!
+ УИИИИИАААААААААААА!
+ Аааааааай!
+ Извините, что тревожим вас!\nМы принесли Идеальное Яблоко!
+ Что?
+ Прошу. Самое Идеальное Яблоко.
+ Примите его в знак дружбы.
+ Ох, вау! Вы принесли его ради\nменя?!
+ Ура! Спасибочки! Друзья!\nДрузья!
+ О-огромное, огромное вам спасибо!
+ Благодаря вам, мы избежали\nкатастрофы!
+ Эй! Вы двое! Хватит глазеть и\nпокажите свое уважение и признательность!
+ Оооох...
+ Кха-ха-ха. Нет, нет, всё в\nпорядке. В конце-концов, в вашей гильдии\nочень гостеприимно нас приняли.
+ Мы всего лишь пытаемся\nпоказать, как мы вам за это благодарны.
+ Ах! Вижу, вы одни из самых\nзамечательных Покемонов. ♪
+ Побывать в экспедиции со столь\nблагородными, как вы...
+ Будет по настоящему\nвоодушевляюще!
+ Кха-ха-ха. Нет, нет! Нас\nвдохновляете только вы.
+ Мы очень ждём начала\nэкспедиции.
+ Уже поздно, поэтому мы пойдём\nспать.
+ До завтра. Кха-ха-ха!
+ Спасибо! Доброй ночи! Друзья!\nДрузья!
++++
+ But, Chief... Why\'d you bother\nhelping out that chicken?
+ Like giving away that Perfect\nApple right then…
+ We should\'ve just watched\nwhat\'d happen to them after.
+ That would\'ve been hilarious.
+ Yeah, my thoughts exactly.
+ Chaw-haw-haw! You\'re not\nthinking strategically, you two.
+ Why\'d we come here in the\nfirst place?[K] The expedition, right?
+ Right now, the trick is for us to\nwin the trust of [CS:N]Wigglytuff[CR].
+ I get it now.
+ But…
+ This being a famous guild and\nall, I was playing it cautious at first, but it\'s\nbeen ridiculously easy.
+ [CS:N]Wigglytuff[CR]\'s been nothing more\nthan a big baby.
+ He\'s no big deal.
+ Why everyone\'s so terrified of\n[CS:N]Wigglytuff[CR], I don\'t know. I\'m clueless.
+ Anyway, if we find a treasure\nwhile on the expedition…
+ We knock out the guild\'s crew.
+ Then we snatch the treasure and\nskedaddle on out!
+ Whoa-ho-ho! This plan is a\nsure thing.
+ Heh-heh.
+ Chaw-haw-haw.
+ Но, Босс... Почему ты вообще\nпомог этим трусишкам?
+ В такой момент отдавать\nИдеальное Яблоко...
+ Нам нужно было просто\nпосмотреть, что случится.
+ Это было бы уморительно.
+ Да, я об этом же думал.
+ Кха-ха-ха! Вы двое совершенно\nне думаете наперёд.
+ Мы сюда зачем пришли?[K] Чтобы\nпойти в экспедицию, так?
+ Сейчас, нам важно втереться\nв доверие к [CS:N]Виглитаффу[CR].
+ Теперь я понял.
+ Но...
+ Это очень известная гильдия и\nвсё такое, но действовать здесь аккуратно\nдо смешного просто.
+ [CS:N]Виглитафф[CR] оказался не более\nчем большим ребёнком.
+ Он нам не угроза.
+ Я не знаю, почему все так\nбоятся [CS:N]Виглитаффа[CR]. Я без понятия.
+ В общем, если мы найдём в\nэкспедиции сокровище...
+ Мы вырубим всех членов\nгильдии.
+ После чего схватим сокровище\nи сбежим с ним!
+ Хоа-хо-хо! Великолепный план.
+ Хе-хе.
+ Кха-ха-ха.
++++
+ Sigh... [CS:N]Skuntank[CR] and his\nsidekicks really stuck it to us again…
+ Sigh... [CS:N]Skuntank[CR]\'s team showed\nus up over and over again…
+ Sigh... [CS:N]Skuntank[CR]\'s team bested us\nagain, didn\'t they…
+ We\'re lucky that [CS:N]Wigglytuff[CR]\ndidn\'t blow up at us.
+ Urf... But we didn\'t get to eat\ndinner after all…
+ I\'m just starving now…
+ I feel horribly hungry…
+ I\'m famished…
+ Sorry, I know you\'re hungry too,\n[hero].
+ Sorry, I know you\'re hungry too,\n[hero].
+ Staying up doesn\'t make it\nbetter. Let\'s get some sleep.
+ Good night, [hero].
+ Let\'s keep at it tomorrow.
+ Эх... [CS:N]Скунтанк[CR] и его\nприхвостни от нас никак не отстанут...
+ Эх... Команда [CS:N]Скунтанка[CR]\nпостоянно нас обставляет...
+ Эх... Команда [CS:N]Скунтанка[CR]\nснова одержала верх, да...
+ Нам повезло, что [CS:N]Виглитафф[CR]\nне сорвался на нас.
+ Уф... Но мы так и не\nпоужинали...
+ Я так голоден...
+ Я ужасно хочу есть...
+ Я умираю с голоду...
+ Прости, я знаю, что ты тоже\nголоден, [hero].
+ Прости, я знаю, что ты тоже\nголодна, [hero].
+ Если мы не будем спать,\nлучше не станет. Давай поспим.
+ Доброй ночи, [hero].
+ Завтра мы наверстаем\nупущенное.
++++
+ Ahem. One last item.
+ Tomorrow or the day after...\nOr perhaps in several days\' time…
+ We plan to announce the\nmembers of the expedition party. ♪
+ Wow!
+ By golly, the members are\nfinally going to be picked!
+ Oh my gosh! It will be so fun!
+ Everyone, this is your last\nchance to make an impression. ♪
+ Work hard and impress us if you\nwant to be chosen. ♪
+ All right, everyone. ♪ Let\'s get\ndown to work as usual. ♪
+[CS:N]Everyone[CR]: HOORAY!
+ I\'m so hungry, [hero]…
+ I\'m so hungry, [hero]…
+ Ah, you two.
+ You two should take care of\nlisted jobs today.
+ We\'re counting on you. ♪
+ There\'s one other thing. About\nthe expedition…
+ You should give up on being\nchosen as expedition members.
+ Huh?! Wh-why?!
+ Your failure yesterday\nweighs heavily.
+ As you know, it is difficult to\ntell what our Guildmaster is thinking from his\ndemeanor…
+ But there\'s no doubt that he\nmust be seething with anger inside.
+ It\'s unlikely that he would\nbother to choose you for the expedition.
+ So when the time comes to\nannounce the members, don\'t get your\nhopes up.
+ That\'s all.
+ I was already weak\nfrom hunger…
+ I was already weak\nfrom hunger…
+ And then to be told something\nlike that... There\'s no way I can get\nmotivated now…
+ Psst! Listen up!
+ Huh? I heard a voice\nsomewhere…
+ Shhh! Over here!
+ Hey! [CS:N]Bidoof[CR]!
+ Shhh! By golly, not so loud!
+ Come this way!
+ Кхм. И последнее.
+ Завтра, послезавтра... Или,\nвозможно, через несколько дней...
+ Мы планируем объявить список\nтех, кто пойдёт в экспедицию. ♪
+ Вау!
+ Ура, наконец-то мы узнаем,\nкого выберут!
+ О боже мой! Это будет весело!
+ Запомните, это ваш последний\nшанс показать себя. ♪
+ Поработайте как следует и,\nвозможно, вас выберут. ♪
+ Хорошо, ребята. ♪ Пора снова\nприниматься за работу. ♪
+[CS:N]Все[CR]: УРААА!
+ Я так голоден,\n[hero]...
+ Я так голодна,\n[hero]...
+ А, вы двое.
+ Сегодня вам нужно выполнять\nзадания с Досок.
+ Мы рассчитываем на вас. ♪
+ И ещё кое-что. Про экспедицию...
+ Вы должны оставить надежду на\nто, что вас выберут в качестве участников\nэкспедиции.
+ Что?! П-почему?!
+ Ваш вчерашний провал всё сильно\nусугубил.
+ Как вы уже поняли из поведения\nГильдмастера, трудно сказать, что он\nдумает об этом.
+ Но нет никаких сомнений, что он\nочень зол на вас.
+ Маловероятно, что он потрудится\nвыбрать вас для экспедиции.
+ Поэтому, когда придёт время\nобъявлять участников, не надейтесь на\nэто.
+ На этом всё.
+ Я уже и так слаб от\nголода...
+ Я уже и так слаба от\nголода...
+ И теперь он нам такое\nсказал... Как я вообще теперь буду\nчто-либо делать...
+ Псс! Послушайте!
+ А? Откуда этот голос...
+ Шшшш! Сюда!
+ Эй! [CS:N]Бидуф[CR]!
+ Шшшш! Ей-богу, не так громко!
+ Идите сюда!
++++
+ Whew! No one saw anything,\nexcept maybe [CS:N]Croagunk[CR]…
+ What\'s up? Why\'d you call us\nin here?
+ Well...here you go.
+ Oh! [CS:I]Apples[CR]!
+ You must be very hungry.
+ We all set aside a little bit of\nour dinners last night for you.
+ Now, eat up!
+ Th-thanks, everyone!
+Crunch munch! Chomp chomp! Gobble gulp![K]\nCrunch munch! Chomp chomp! Gobble gulp!
+ Whoa! Thanks! I\'m revitalized!
+ Great!
+ We can all use help when\nwe\'re down.
+ Every one of us needs to be able\nto work hard in order to be picked for the\nexpedition. Yup yup!
+ Sniffle... Thanks, everyone…
+ But about the expedition...\n[CS:N]Chatot[CR] just came and told us…
+ We\'re probably not going to\nbe chosen…
+ How could you say that?! There\'s\nno telling what might happen! No sirree!
+ The members haven\'t been\npicked yet!
+ Everyone... Thanks for trying to\ncheer us up, but…
+ Doesn\'t everybody want to go on\nthe expedition?
+ What if we were chosen to go?
+ If that happens, someone here\nmight not get to go.
+ Would you all be OK with that?
+ No, I wouldn\'t like that…
+ But, of course, if someone\nis chosen…
+ Then someone else can\'t go.
+ That\'s just the way it is!
+ If you don\'t get picked for the\nexpedition, you should cheer for those who did.
+ Yup yup! And everyone wants to\ngo on the expedition with you, [partner]\nand [hero].
+ Sniffle... Everyone, honestly,\nthank you.
+ OK! Then we\'ll keep trying our\nbest to get picked for the expedition.
+ We\'ll keep on trying to the end!
+ Yup yup! That\'s the spirit!
+ Yes! Let\'s all do our best!
+ We\'ve got to try hard so\nwe all can go!
+ Yes!
+ Фух! Никто нас не видел. Ну,\nкроме [CS:N]Кроганка[CR]...
+ Что такое? Зачем вы нас\nсюда позвали?
+ Вот... Держите.
+ Ой! [CS:I]Яблоки[CR]!
+ Вы, наверное, очень голодные.
+ Прошлой ночью, мы оставили\nнемного своего ужина для вас.
+ Давайте, ешьте!
+ С-спасибо вам!
+ Хрум-хрум! Ням-ням! Хлюп-хлюп![K]\nХрум-хрум! Ням-ням! Хлюп-хлюп!
+ Ух! Спасибо! Я чувствую\nсебя лучше!
+ Отлично!
+ Мы всегда должны помогать друг\nдругу в трудную минуту.
+ Каждому из нас нужно усердно\nтрудиться, чтобы нас выбрали в экспедицию.\nДа-да!
+ Шмыг... Спасибо вам всем...
+ Но, про экспедицию... Нас\nпозвал [CS:N]Чатот[CR] и сказал нам...
+ Что нас скорее всего не\nвыберут...
+ Как вы можете такое говорить?!\nНикто ничего ещё не знает! Нет, сэрррр!
+ Членов экспедиции ещё не\nвыбрали!
+ Ребята... Спасибо, что\nпытаетесь нас поддержать, но...
+ Разве не все хотят в\nэкспедицию?
+ Что если выберут нас?
+ Если такое случится, кого\nто из вас не выберут...
+ Вас бы это устроило?
+ Нет, мне бы это не понравилось...
+ Но, конечно, если кого-то\nвыберут...
+ То кто-то не пойдёт.
+ Так оно и есть!
+ Если вас не выбрали в экспедицию,\nвам нужно поддержать тех, кого взяли.
+ Да-да! А все хотят пойти в\nэкспедицию с вами, [partner] и [hero].
+ Шмыг... Ребята, честно,\nспасибо вам всем.
+ Хорошо! Тогда, мы будем\nстараться, чтобы нас выбрали в\nэкспедицию.
+ Мы будем пытаться изо всех\nсил!
+ Да-да! Вот это настрой!
+ Да! Постараемся!
+ Мы выложимся на полную и нас\nвсех выберут!
+ Да!
++++
+ Meh-heh-heh! Hey, you two\nover there…
+ Oh, it\'s [CS:N]Croagunk[CR]!
+ Meh-heh-heh.[K] What are you up\nto with [CS:N]Bidoof[CR] and the others? It all looks\nso sneaky.
+ I suppose it\'s got nothing to do\nwith me, but... Meh-heh-heh.
+ Anyway, that\'s not why I called\nyou here.[K] Meh-heh-heh! The waiting\'s over!
+ It\'s about my shop.[K] Meh-heh-heh!\nThe [CS:K]Croagunk[CR] Swap Shop is back in business!
+ [CS:K]Croagunk[CR]...[K]Swap Shop?
+ Meh-heh-heh! You heard right.
+ I finally finished repairing my\nSwap Cauldron, which means that I\'m finally\nback in business again! Meh-heh-heh!
+ You put certain kinds of items in\nthis here Swap Cauldron…
+ And those items get swapped for\nan item offered up by another Pokémon\nsomewhere around Treasure Town.
+ There are some Pokémon around\nthat have pretty rare items for swapping.
+ So you could end up with a\nstupendously great swap. Get it?\nMeh-heh-heh!
+ So if you two feel like swapping\nitems, you bring them to me, all right?\nMeh-heh-heh!
+ Хе-хе-хе! Эй, вы там...
+ Ой, это [CS:N]Кроганк[CR]!
+ Хе-хе-хе. Что вы там с [CS:N]Бидуфом[CR]\nи другими задумали? Всё так секретно.
+ Полагаю, дело не моё, но...\nХе-хе-хе.
+ Всё таки, это не то зачем я вас\nсюда позвал. Хе-хе-хе! Ожидание окончено!
+ Дело касается моей лавки.[K]\nХе-хе-хе! Обменная Лавка [CS:N]Кроганка[CR]\nначинает работу!
+ Обменная...[K] Лавка [CS:N]Кроганка[CR]?
+ Хе-хе-хе! Всё верно.
+ Я наконец-то закончил чинить\nсвой Обменный Котёл, что значит, что я\nначинаю работать! Хе-хе-хе!
+ Вы можете положить предметы в\nОбменный Котёл...
+ И эти предметы будут обменены\nна другой предмет, предлагаемый другим\nПокемоном из Города Сокровищ.
+ У некоторых Покемонов есть\nдовольно редкие вещи на обмен.
+ Поэтому вы можете получить\nневероятно хороший обмен. Поняли?\nХе-хе-хе!
+ Поэтому, если вы захотите\nобменять предметов, приносите их мне,\nладно? Хе-хе-хе!
++++
+ Pssst... Yeah, I\'d say you two\nlucked out, getting us to share those [CS:I]Apples[CR]…
+ ...I was worried about you two…
+ ...Anyway, here\'s to all of us!\nLet\'s work on being picked for the expedition…
+ Пссс... Да, я бы сказал, что\nвам двоим повезло, что мы договорились\nподелиться [CS:I]Яблоками[CR]...
+ ...Я о вас беспокоился...
+ ...Тем не менее, это для вас!\nПоработаем над тем, чтобы нас выбрали в\nэкспедицию...
++++
+ Hey, hey! I\'m not about to lose!
+ We all want to win a place on\nthe expedition, hey, hey!
+ Эй, эй! Я не собираюсь\nсдаваться!
+ Мы все хотим получить место в\nэкспедиции, эй, эй!
++++
+ The members haven\'t been\nchosen yet!
+ We must never give up! ♪
+ Членов экспедиции ещё не\nвыбирали!
+ Мы не должны сдаваться! ♪
++++
+ I want to go on that expedition\nwith your team, [hero]. Yup yup!
+ Let\'s get it done!
+ Я хочу пойти в экспедицию вместе\nс твоей командой, [hero]. Да-да!
+ Мы добьемся этого!
++++
+ The expedition is coming up\nsoon!
+ I hope everyone does their best!
+ Скоро начнётся экспедиция!
+ Я надеюсь, что каждый делает\nвсё, что в его силах!
++++
+ Hey, there\'s someone at the\ncafé entrance.
+ I wonder what\'s going on.
+ Hey, is something going on?\nSomething at the café?
+ Yeah. It seems like there\'s some\nwonderful news for all the explorers.
+ I wonder what kind of\nwonderful news.
+ Now I\'m really interested.[K]\nI\'m going to go find out.
+ I\'m going too.
+ Wonderful news, huh?
+ Hey, [hero]. Let\'s go too.
+ Hey, [hero], we should\ngo too.
+ Hey, [hero], I think we\nshould go and see too.
+ Смотри, кто-то стоит возле\nвхода в кафе.
+ Интересно, что происходит.
+ Привет, что здесь\nпроисходит? В кафе что-то случилось?
+ Да. Похоже, пришли какие-то\nхорошие вести для всех исследователей.
+ Интересно, что это за хорошие\nвести.
+ Я заинтересована. Нужно узнать.
+ Я тоже спущусь и узнаю.
+ Хорошие вести, да?
+ [hero].\nДавай тоже послушаем.
+ [hero].\nДавай тоже спустимся.
+ [hero].\nЯ думаю, что нам тоже нужно их послушать.
++++
+ Wow, there\'s a crowd.
+ May I have everyone\'s attention,\nplease! First of all, I\'d like to thank you for\ntaking time out of your busy schedules!
+ Today I would like to give you\nsome wonderful news of hopes\nand dreams!
+ Ahem.
+ Thanks to your kind patronage,\nthis café has been quite popular…
+ We\'ve been fortunate to have so\nmany wonderful customers!
+ This shop\'s pride and joy, the\nRecycle Shop, is fully operational and has\ncollected many items.
+ We would like to thank you for\nyour kind patronage…
+ By opening a new service!
+ We\'re calling it Project P!
+ Project P?
+ What\'s that?
+ This project aims to use the\nitems gathered at the Recycle Shop in order to\nexplore unexplored places.
+ Allow me to explain.
+ Ого, вот это толпа.
+ Я прошу вашего внимания,\nпожалуйста! Сперва, я хочу поблагодарить\nвас за уделённое для нас время!
+ Сегодня, я хочу сообщить вам\nхорошие вести о надеждах и мечтах!
+ Кхм.
+ Благодаря вам, это кафе стало\nвесьма популярным...
+ Мы рады, что у нас есть столько\nчудесных клиентов!
+ Гордость нашего места, Центр\nПереработки, работает как часы и собрал\nмножество предметов.
+ Мы хотели бы отблагодарить вас\nза вашу преданность...
+ Открытием новой услуги!
+ Мы назвали её Проект П!
+ Проект П?
+ Что это?
+ Этот проект нацелен на\nизвлечение выгоды из собранных предметов\nи применения их для изучения новых земель.
+ Позвольте мне вам объяснить.
++++
+ Right now at the Recycle Shop,\nyou trade several items in exchange for one of\nthe shop\'s items.
+ Thanks to everyone\'s continued\nrecycling efforts, we have gathered a lot of\nitems here at the shop.
+ The service will continue to\noperate in the same manner…
+ And now with Project P\nestablished…
+ You might be wondering how\nProject P fits into all this…
+ We\'ll use the accumulated items\nto explore unexplored areas!
+ There are still so many places\naround the world that are waiting to be\nfound and explored.
+ So many secret treasures\nand challenging puzzles waiting to\nbe discovered…
+ So let\'s go out and find them!\nThat\'s what Project P is about!
+ Ah, the pursuit of knowledge…
+ And continuing exploration…
+ We\'ll find dazzling treasures\nand new exploration areas! (Probably...)
+ And if you bring your\ndiscoveries back to the café…
+ You\'ll get a special deal at the\nRecycle Shop!
+ This should keep items\ncirculating through the Recycle Shop.
+ The items at the Recycle Shop\nwill become more and more amazing!
+ What do you think?\nDo you understand?
+Yes
+No
+ OK, I\'ll explain again from the\nbeginning.
+ Сейчас в Центре Переработки вы\nобмениваете несколько предметов на один\nиз тех, что предлагает Центр.
+ Благодаря вашим усилиям, мы\nсобрали очень много предметов.
+ Эта услуга останется\nнеизменной...
+ И теперь, мы создаём Проект П...
+ Вы наверное думаете, причём\nздесь Проект П...
+ Мы будем использовать собранные\nпредметы, чтобы исследовать новые места!
+ В мире есть ещё очень много\nнеоткрытых мест, которые только и ждут\nнас.
+ Столько спрятанных сокровищ и\nтрудных испытаний остались скрыты от\nнас...
+ Поэтому, их нужно раскрыть!\nИменно этим и займётся Проект П!
+ Ах, погоня за знаниями...
+ И долгие экспедиции...
+ Мы найдём уникальные сокровища\nи новые места для вылазок! (Возможно...)
+ И если вы принесёте свои\nнаходки в кафе...
+ Вы получите особое предложение\nв Центре Переработки!
+ Это должно поддержать поток\nпредметов через Центр Переработки.
+ Кроме того, предметы в Центре\nПереработки станут более высокого\nкачества!
+ Что думаете? Вам всё понятно?
+Да
+Нет
+ Хорошо, я объясню всё с самого\nначала.
++++
+ Use the recycled items to\nexplore the world!
+ Don\'t you think it\'s a magnificent\nproject, full of hopes and dreams?
+ Whoa! This is genius!
+ It seems so economical!
+ We\'ve already sent out an\nexploration team to find unexplored areas!
+ There should be new discoveries\nbefore long!
+ So, everyone!\nPlease keep recycling,\nmore and more every day!
+ Let\'s all work together and find\nunexplored areas!
+[CS:N]Everyone[CR]: HOORAY!
+ Wow! So amazing!
+ Recycling leftover items, trading\nthem around... They\'re bound to turn into\nunbelievable treasures!
+ And being able to go to\nunexplored places!
+ Wahoo! I\'m so excited!
+ Wahoo! I\'m so excited!
+ We should recycle more!
+ Использовать переработанные\nпредметы, чтобы исследовать мир!
+ Разве это не прекрасный проект,\nполный надежд и мечтаний?
+ Ого! Это гениально!
+ Звучит экономично!
+ Мы уже отправили команду\nисследователей на поиск неоткрытых мест!
+ Скоро вы услышите о новых\nоткрытиях!
+ Поэтому! Прошу, продолжайте\nперерабатывать предметы, побольше и\nпобольше!
+ Мы потрудимся и найдём\nнеизведанные места!
+[CS:N]Все[CR]: УРААА!
+ Вау! Так здорово!
+ Переработка ненужных вещей,\nих обмен... В будущем они станут\nневероятными сокровищами!
+ И возможность найти\nнеизведанные места!
+ Урааа! Я так рад!
+ Урааа! Я так рада!
+ Нам стоит перерабатывать\nбольше вещей!
++++
+ If we make a new discovery,\nwe\'ll make sure to let everyone know.
+ Please look forward to it!
+ Если мы совершим новое открытие,\nмы всем об этом расскажем.
+ Следите за новыми новостями!
++++
+ Whoa! Hoooopes and dreams!!
+ Вау! Надеееежды и мечты!!
++++
+ Recycling is a trend of the time.
+ Переработка - это новый тренд.
++++
+ All right! I\'m going to recycle a\nbunch from here on out!
+ Хорошо! С этого момента, я\nтоже буду перерабатывать предметы!
++++
+ Well, as long as they\'re paying...\nHa ha ha!
+ Ну, пока нам за это платят...\nХа-ха-ха!
++++
+ Isn\'t it great that this recycling\nopens up a doorway to unexplored dungeons?
+ I bet [CS:N]Spinda[CR] spent some time on\nthis wonderful idea…
+ Разве не здорово, что\nперерабатывая предметы, мы будем узнавать\nо новых подземельях?
+ Полагаю, что [CS:N]Спинда[CR] очень долго\nдумал об этой чудесной затее...
++++
+ Project P is cool, but I think\nthe Juice Bar is as cool.
+ The last time I had one of the\ndrinks here, I made a new friend.
+ It\'s like \"juice-drink harmony\" or\nsomething.[K] Pretty cool, huh? Drinks, I mean.
+ Проект П прекрасен, но я думаю,\nчто Бар Напитков тоже замечательный.
+ В прошлый раз, когда я пил\nздесь напиток, я познакомился с новым\nдругом.
+ Это нечто вроде \"гармонии\nнапитков\" или что-то вроде того.[K] Довольно\nнеплохо, а? Я про напитки.
++++
+ I wonder if there\'s something\nspecial if you recycle a lot…
+ Интересно, если переработать\nмного вещей, произойдёт ли что-то\nособенное?
++++
+ Знаете ли вы, что это полезно\nдля экологии?
++++
+ Project P is a dream I\'ve had\nfor many years…
+ Someday, I know I\'ll make a huge\ndiscovery that will amaze everyone, all over\nthe world.
+ Проект П это то, о чём я\nмечтал долгие годы...
+ Когда-нибудь, я сделаю великое\nоткрытие, которое восхитит каждого в этом\nмире.
++++
+ It\'s a bit different from being\neco-friendly, isn\'t it?
+ Это не совсем про экологию,\nверно?
++++
+ I don\'t really get it, but it\nsounds great, I guess! ♪
+ Я ни слова не понимаю, но,\nнаверное, это здорово! ♪
++++
+ I\'ve heard.[K] [CS:N]Wigglytuff[CR]\'s Guild is\ngoing on an expedition soon?
+ Good luck with that!
+ I hope you get picked for\nthe expedition!
+ Я всё слышал.[K] Гильдия\n[CS:N]Виглитаффа[CR] снаряжает экспедицию?
+ Я желаю вам удачи!
+ Надеюсь, вас возьмут в\nэкспедицию!
++++
+ ...[K]The expedition is coming up\nquickly.
+ It would be nice to see you two\nchosen as members too.
+ ...[K]Oh?[K] As for us?
+ It goes without saying that we\'ll\nbe among the chosen!
+ What...[K] What do you take us\nfor? Grr-rumble…
+ How very insulting of you![K]\nGrrr-rumble…
+ ...[K]Скоро начнётся экспедиция.
+ Будет здорово, если вас двоих\nвозьмут туда.
+ ...[K]Что?[K] Возьмут ли нас?
+ Нас выберут без всяких\nразговоров!
+ Что...[K] За кого вы нас\nпринимаете?[K] Бу-бу-бу...
+ Как оскорбительно![K] Бу-бу-бу...
++++
+ Ah, you two! ♪[K] Let me give you\nyour assignment for today…
+ Sentry duty! That\'s what we\'ll\nhave you do today.
+ I\'ll leave you to it! ♪
+ А, вы двое! ♪[K] Вот что вы\nсегодня будете делать...
+ Работать стражами! Вот чем\nвы будете заниматься.
+ Не буду вам мешать! ♪
++++
+ Project P is cool, but what\nI\'m interested in most are the [CS:I]Prize Ticket[CR]\ndrawings going on at the Recycle Shop.
+ I should try and see what\nI can win…
+ Проект П звучит прекрасно, но\nменя больше интересуют лотереи за\n[CS:I]Призовые Билеты[CR].
+ Надо попробовать и узнать, что\nя смогу выиграть.
++++
+ There\'s an exclusive survey\nteam called Team [CS:X]Frontier[CR] within Project P.
+ Whoa! So cooool!!\nI really want to join the teeeeam!!
+ В Проекте П действует особая\nкоманда исследователей под названием\nКоманда [CS:X]Рубеж[CR].
+ Вау! Тааак круууто!! Я очень\nхочу вступить в эту комааааанду!!
++++
+ Recycle! Recycle!
+ Переработка! Переработка!
++++
+ Now that I know the story of\nProject P, I can\'t help using the Recycle Shop.
+ Теперь, когда я знаю о Проекте П,\nя чаще пользуюсь Центром Переработки.
++++
+ Oh? What are we doing in here?
+ Nothing! Nothing at all!\nHeh-heh-heh! 
+ А? Что мы здесь делаем?
+ Ничего! Совершенно ничего!\nХе-хе-хе!
++++
+ Whoa-ho! Gonna whine again?
+ You gonna say that you don\'t\nwant us around? Whoa-ho-ho!
+ Хоа-хо! Пришли поныть?
+ Будете плакаться, как вы не\nхотите нас видеть? Хоа-хо-хо!
++++
+ Oh, come on! You\'re suspicious\nabout us guests? Chaw-haw-haw!
+ You\'re not suggesting that we\nraided your stock, are you? Chaw-haw-haw!
+ О, да ладно! Вы шпионите за\nгостями? Кха-ха-ха!
+ Вы хотите сказать, что это мы\nсъели ваши припасы, да? Кха-ха-ха!
++++
+ Everyone! It\'s time for\ndinner! ♪
+[CS:N]Everyone[CR]: Yeah!
+[CS:N]Everyone[CR]: Let\'s get…
+ Everyone![K] Hold up!
+ Ahem! Before we begin dinner\ntonight…
+ I wish to make an announcement.
+ Hey, hey, heeeeeey!
+ Well, spit it out already!\nLet\'s eat!
+ You prevent us from eating\nwhat\'s in front of us? This is an outrage!
+ Eek! This is so unfair! I feel\nfaint from hunger!
+ Boooo! Boooo!
+ Order![K] I must have order!
+ Ahem! I\'m sure the selection\nof the expedition members has been on\neveryone\'s minds.
+ Our Guildmaster has apparently\nmade his final decisions. ♪
+[CS:N]Everyone[CR]: WHOA!
+ By golly, it\'s finally settled.
+ The members will be announced\nat tomorrow morning\'s briefing.
+ It\'s something to look\nforward to. ♪
+ Now, sorry to have kept\nyou waiting.
+ Without further ado... On your\nmarks…
+[CS:N]Everyone[CR]: LET\'S EAT!
+ Ребята! Пора ужинать! ♪
+[CS:N]Все[CR]: Ура!
+[CS:N]Все[CR]: Пора...
+ Подождите![K] Прошу внимания!
+ Кхм! Прежде чем мы начнём\nужинать...
+ Я хочу сделать объявление.
+ Эй, эй, ээээээээй!
+ Так выкладывай! Мы есть хотим!
+ Ты не не даёшь нам есть в такой\nмомент? Это возмутительно!
+ Иии! Это несправедливо! Я так\nослабла от голода!
+ Буууу! Буууу!
+ Порядок![K] Я прошу порядка!
+ Кхем! Я уверен, что всех вас\nволнует вопрос списка участников\nэкспедиции.
+ Наш Гильдмастер наконец-то\nпринял своё окончательное решение. ♪
+[CS:N]Все[CR]: ОГО!
+ Ей богу, наконец-то всё\nрешено.
+ Участники экспедиции будут\nоглашены на утреннем построении.
+ Рекомендую не опаздывать. ♪
+ Прошу прощения, что заставил вас\nждать.
+ Без лишних слов... По команде...
+[CS:N]Все[CR]: ПОРА ПОЕСТЬ!
++++
+ Tomorrow they\'re finally going\nto announce the members of the expedition.
+ I\'m feeling sort of nervous.
+ Yeah, I know [CS:N]Chatot[CR] said we\ndon\'t have much of a chance.
+ After all, we didn\'t bring back\nany of those Perfect Apples that [CS:N]Wigglytuff[CR]\nloves so much.
+ But... After that, we did work\nreally hard, didn\'t we?
+ We\'ve done the best we could.\nEven if we don\'t get picked, I don\'t regret\na thing.
+ Yaaaaawn... I\'m getting drowsy.\nLet\'s get some sleep.
+ I\'m looking forward to\ntomorrow\'s announcement. OK, good night.
+(No regrets. Right...)
+(But...)
+(If we\'re not chosen for the exploration\nparty...)
+([partner] will be crushed.)
+([partner] will be crushed.)
+([partner] is trying so hard... I hope\n[partner] gets to go on the exploration...)
+([partner] is trying so hard... I hope\n[partner] gets to go on the exploration...)
+(If we both get chosen for the expedition...)
+(That special ability I have may be\nuseful then...)
+(Come to think of it, I haven\'t had any of\nthose dizzy spells recently.)
+(I think it\'s a useful ability.)
+(But not being able to see those visions when\nI want to is frustrating.)
+(Thinking about everything too much will\nkeep me from sleeping. I\'d better get to sleep\nnow too.)
+(Good night, [partner]. I hope you get\nchosen tomorrow...)
+ There it is! Another Time Gear!
+ Завтра наконец-то объявят\nсписок участников экспедиции.
+ Я несколько волнуюсь.
+ Да, я знаю, что [CS:N]Чатот[CR]\nсказал нам, что шансов у нас мало.
+ Всё таки, мы так и не\nпринесли [CS:N]Виглитаффу[CR] его любимых Идеальных\nЯблок.
+ Но... После этого мы\nдовольно усердно трудились, верно?
+ Мы сделали всё что могли.\nДаже если нас не выберут, я ни о чём не\nбуду жалеть.
+ Уааааах... Я чувствую себя\nсонно. Давай спать.
+ Я буду ждать завтрашнего\nобъявления. Доброй ночи.
+(Ни о чём не жалеть. Да...)
+(Но...)
+(Если нас не возьмут в экспедицию...)
+([partner] будет убит горем.)
+([partner] будет убита горем.)
+([partner] так старается... Я надеюсь,\nчто его всё же выберут...)
+([partner] так старается... Я надеюсь,\nчто её всё же выберут...)
+(Если нас обоих возьмут в экспедицию...)
+(Моя особая способность может мне очень\nпомочь...)
+(Если так подумать, то в последнее время\nу меня не было ни одного наваждения.)
+(Я думаю, это полезная способность.)
+(Но то, что я не могу ей пользоваться\nкогда угодно, меня раздражает.)
+(Если я буду обо всём этом думать, я не\nусну. Лучше буду спать.)
+(Доброй ночи, [partner].\nНадеюсь, завтра назовут твоё имя...)
+ Вот она! Ещё одна Шестерня Времени!
++++
+ This is the second one!
+ Это вторая!
++++
+ Three more Time Gears remain. I must\nhave them…
+ Осталось три Шестерни Времени.\nЯ обязан их получить...
++++
+ Ahem! Now then.
+ I shall announce the expedition\nmembers at this time.
+ Guildmaster, the memo, please.
+[CN][CS:N]Chatot[CR] accepted the memo\n[CN]bearing the names of the expedition\n[CN]members from [CS:N]Wigglytuff[CR].
+ The chosen members are written\non this memo.
+ Step forward if your name\nis called.
+ Ooh... It\'s finally happening.
+ My heart\'s a-pounding, by golly.
+ Without further ado, I will\nannounce those who\'ve been chosen.
+ Our first member...[K][CS:N]Loudred[CR]! ♪
+ Y-yes! I DID IT!
+ But if you really think about it,\nit\'s only NATURAL that I would get picked!
+ WOO-HOOOO!
+ (Says you...)
+ (Big talker, yup yup.)
+ (Is he saying that he wasn\'t\neven nervous?)
+ Next up is...[K][CS:N]Corphish[CR]! ♪
+ Hey, hey, hey! Got it!
+ I got picked! Hey, hey![K]\n(Whew, that\'s a relief...)
+ Next is...[K] Oh, what\'s this?
+ Well this is a surprise![K]\nOur next member is [CS:N]Bidoof[CR]! ♪
+ Really?![K] Really and truly?!
+ Golly...[K] Me?! I\'m going on the\nexpedition?!
+ Hm?[K] Is anything the matter,\n[CS:N]Bidoof[CR]?
+ Come on, step forward.
+ Urf...[K] I sure want to step up,\nI truly do, but…
+ I\'m feeling a might overwhelmed\nhere. My legs aren\'t moving…
+ So be it. We\'ll ignore it and\nmove on.
+ Next we have [CS:N]Sunflora[CR] and\n[CS:N]Chimecho[CR]! ♪
+ Oh? Us too?
+ Eeek! Oh my gosh!
+ Erm, yes... And there we have\nthe expedition party members!
+ Urf…
+ (Chaw-haw-haw! Looks like\nthose losers are out.)
+ (Heh-heh. Serves them right!)
+ (Whoa-ho-ho! They had\nit coming.)
+ So that\'s it for the expedition\nmembers...[K] Erm... What\'s this...?
+ (There\'s something scribbled on\nthe margins of this memo...)
+ (The Guildmaster\'s writing is\nsuch a messy scrawl...)
+ (This is so hard to decipher...)
+ (Erk! If I said that aloud, the\nconsequences wouldn\'t be pretty. Best to keep\na stiff upper beak and swallow those words.)
+ Erm... It appears that there are\nmore expedition members.
+ The others are...[K][CS:N]Diglett[CR], [CS:N]Dugtrio[CR],\nand [CS:N]Croagunk[CR].[K] Oh, and [partner] and\n[hero]. ♪
+ That is all.[K] Wait a second!\nWhat?!
+ What?![K] Whaaaat?!
+ Guildmaster! This list seems\nto include…
+ Every member of the guild!
+ Yup! That\'s right!
+ Well then! It seems that the\nwhole selection process was meaningless.
+ Moreover, if we were to all go,\nwe would be leaving the guild empty!
+ Are you sure it will be all right\nto leave with no one to look after the guild?
+ It\'ll be fine. We\'ll lock\nup properly. ♪
+ Guildmaster, I also have\nsome misgivings.
+ Do you think perhaps we may\nhave too many members for an expedition?
+ Hmm... When a friend asks\nsomething like that, I have to wonder why…
+ I mean, first of all, why does\neveryone have to go?
+ What\'s the point in having\neveryone participate?
+ Huh?! Of course there\'s a point!
+ That is…
+ If everyone went, it would be\nmore fun!
+ What?!
+ We\'ll be noisy and excited and\nhaving fun! I started thinking about it, and it\nmade me so excited, I couldn\'t sleep! ♪
+ What...?
+ So that\'s how it is, everyone!\nWe\'re all going on the expedition, and it will\nbe fun, fun, fun! ♪
+ Let\'s all do our best! ♪
+[CS:N]Everyone[CR]: HOORAY!
+ Urrgh... Well, that\'s settled.
+ Fine. Let me explain the\nschedule.
+ Right after this, I will hold a\nbriefing on the expedition.
+ As such, the chosen members\n(that is, everyone)…
+ Each of you should get prepared\nto embark on the expedition.
+ Let me remind you that this is a\nguild-exclusive expedition.[K] You may not bring\nnonguild members of your teams.
+ As such, you won\'t be able to\nadd members at [CS:K]Chimecho[CR] Assembly. They\nsimply aren\'t allowed to join the expedition.
+ Keep that in mind while you are\nmaking preparations.
+ When you are prepared for the\nupcoming journey, you should return here.
+ Then, inform me of your\nreadiness.
+ That is all. Dismissed!
+ I could scream, I\'m so happy!\nEveryone is going on the expedition!
+ Our Guildmaster has done it\nagain. I\'m so shocked, I\'m tingling!
+ I didn\'t think we\'d get picked,\nso that came as a total shock!
+ I didn\'t think we\'d get picked,\nso that came as a total shock!
+ I\'m glad we never gave up!
+ I\'m glad we never gave up!
+ Hey, hey!
+ Sniff... By golly, I\'m mighty\nhappy that they\'re even letting me go on this\nhere expedition…
+ Oh, but not just me! Why,\neveryone gets to go…
+ Sniff... It\'s like I\'m dreaming.\nIt\'s making me feel mighty emotional...[K] Sob…
+ It\'s no dream. This is really\nhappening.
+ Anyway, since we are all going,\nit means that we\'re all going to be put\nto the test as well.
+ That\'s why I would like to\npropose that all of us apprentices work\nas one.
+ And let\'s make this expedition\na success!
+ Yippee! That\'s the spirit!
+ Yeah! THAT\'S the spirit!
+ Let\'s do our best!
+ Sniff... Sniff…
+ Let\'s band together and do it!
+[CN]The Exploration Team Federation\n[CN]has sent a message...[W:30]
+[CN][hero]\'s team was rewarded\n[CN]with a bigger Treasure Bag![W:100]
+[CN]You can now carry more\n[CN]items than you could before!
+ Кхм! Итак.
+ Сейчас я оглашу список тех, кто\nотправится в экспедицию.
+ Гильдмастер, список, пожалуйста.
+[CN][CS:N]Чатот[CR] берёт список с именами членов\n[CN]экспедиции у [CS:N]Виглитаффа[CR].
+ Имена членов гильдии написаны в\nэтом списке.
+ Если вы услышите своё имя,\nвыйдите вперёд.
+ Оох... Наконец-то начинается.
+ Моё сердце так сильно бьётся,\nей богу.
+ Без лишних слов, я начинаю\nобъявлять выбранных членов экспедиции.
+ И первый в списке... [CS:N]Лаудред[CR]! ♪
+ Д-да! У МЕНЯ ПОЛУЧИЛОСЬ!
+ Но если так подумать,\nНЕУДИВИТЕЛЬНО, что меня выбрали!
+ УУ-ХУУУУ!
+ (Кто бы говорил...)
+ (Зануда, да-да.)
+ (И это он говорил, что даже не\nбеспокоится об этом?)
+ Следующий... [CS:N]Корфиш[CR]! ♪
+ Эй, эй, эй! Вас понял!
+ Меня выбрали! Эй, эй![K]\n(Фух, какое облегчение...)
+ Следующий...[K] Ох, что это?
+ Какой сюрприз![K] Следующим пойдёт\n[CS:N]Бидуф[CR]!
+ Правда?![K] Правда и точно?!
+ Ей богу...[K] Я?! Я пойду в\nэкспедицию?!
+ Хм?[K] Что такое, [CS:N]Бидуф[CR]?
+ Давай, выходи вперёд.
+ Уф...[K] Я очень хочу выйти, но...
+ Я в сильном шоке. Я не могу\nпошевелить ногами...
+ Ну и ладно. Пропустим этот шаг\nи продолжим.
+ Далее по списку [CS:N]Санфлора[CR] и\n[CS:N]Чаймеко[CR]! ♪
+ Ой? Мы тоже?
+ Иии! О боже мой!
+ Эм, да... И это все члены\nэкспедиции!
+ Уф...
+ (Кха-ха-ха! Похоже, эти\nнеудачники вне вопроса.)
+ (Хе-хе. Так им и надо!)
+ (Хоа-хо-хо! Всё прошло по\nплану.)
+ Так, значит, это все...[K] Эм...\nЧто это?..
+ (На полях этого списка что-то\nнакорябано...)
+ (У Гильдмастера такие каракаули,\nа не слова...)
+ (Как трудно разобрать...)
+ (Ой! Сказал бы это вслух и\nпоследствия были бы неприятными. Лучше\nпридержу язык за клювом.)
+ Эм... Похоже, в экспедицию пойдут\nбольше членов гильдии.
+ Это... [CS:N]Диглетт[CR], [CS:N]Дагтрио[CR] и\n[CS:N]Кроганк[CR].[K] О, и ещё...[K]\n[partner] и [hero]. ♪
+ На этом всё.[K] Секундочку! Что?!
+ Что?![K] Чтооооооо?!
+ Гильдмастер! Но в этом списке...
+ Все члены гильдии!
+ Агась! Всё верно!
+ Но в таком случае! Весь\nотборочный этап не имел никакого смысла.
+ И ещё, если мы все уйдём, то\nкто будет присматривать за гильдией?
+ Вы уверены, что стоит уходить,\nникого не оставляя в гильдии?
+ Всё будет в порядке. Мы всё\nплотно закроем. ♪
+ Гильдмастер. У меня тоже есть\nвозражения.
+ Вы не думаете, что у нас\nслишком много членов экспедиции?
+ Хмм... Когда такое говорит\nдруг, я хочу знать почему...
+ Я хочу сказать, что прежде\nвсего, почему все должны туда идти?
+ В чём смысл того, что все\nучавствуют?
+ А?! Ну конечно же, смысл есть!
+ Это...
+ Если все пойдут, то нам будет\nвеселее!
+ Что?!
+ Мы пойдём шумной и весёлой\nкомпанией! Я ночью думал об этом и так\nувлёкся, что не смог уснуть! ♪
+ Что?..
+ Поэтому я решил так! Мы все\nпойдём в экспедицию и нам будет весело,\nвесело, весело! ♪
+ Давайте хорошенько\nпостараемся! ♪
+[CS:N]Все[CR]: УРААА!
+ Урххх... Что-ж, решено.
+ Хорошо. Я объясню вам распорядок.
+ Сразу после этого, я проведу\nкраткий инструктаж по экспедиции.
+ Поэтому, выбранные члены\nэкспедиции (я говорю про всех)...
+ Каждый из вас должен\nподготовиться к походу.
+ Я также напомню, что в этой\nэкспедиции могут учавствовать только члены\nгильдии.[K]\nТе, кто ими не являются, не смогут\nучавствовать.
+ Поэтому, вы не сможете брать\nучастников у Сборного Пункта [CS:K]Чаймеко[CR].\nИх попросту не возьмут в экспедицию.
+ Держите это в уме.
+ Когда вы подготовитесь к походу,\nвернитесь сюда.
+ И сообщите мне о своей\nготовности.
+ На этом всё. Свободны!
+ Я так рада, что сейчас закричу!\nВсе пойдут в экспедицию!
+ Наш Гильдмастер снова это\nсделал. Я в шоке, я вся звеню!
+ Я и не думал, что нас\nвыберут, меня это застало врасплох!
+ Я и не думала, что нас\nвыберут, меня это застало врасплох!
+ Я рад, что мы не сдались!
+ Я рада, что мы не сдались!
+ Эй, эй!
+ Шмыг... Ей богу, я так счастлив,\nчто даже мне позволили участвовать в\nэкспедиции...
+ Ой, да не только мне! Всем\nсразу...
+ Шмыг... Я словно сплю.\nМеня так переполняют эмоции...[K] Хнык...
+ Это не сон. Всё наяву.
+ В любом случае, если мы все\nидём, это значит что нас также подвергнут\nиспытанию.
+ Именно поэтому всем нам нужно\nдействовать сообща.
+ И пусть наша экспедиция пройдёт\nгладко!
+ Дааааа! Вот это настрой!
+ Да! ВОТ ЭТО настрой!
+ Сделаем всё, что в наших\nсилах!
+ Шмыг... Шмыг...
+ Давайте объединимся и\nсделаем это!
+[CN]Федерация Команд Исследователей\n[CN]отправила послание...[W:30]
+[CN]Ваша команда получает\n[CN]увеличенную Сумку для Ценностей![W:100]
+[CN]Теперь вы сможете нести ещё больше\n[CN]вещей, чем прежде!
++++
+ We\'re closing up the guild while\nwe\'re on the expedition. I have to leave my\nSwap Cauldron behind. Meh-heh-heh.
+ I can\'t do this while on the\nexpedition, so if you have anything to swap,\ndo it now. Meh-heh-heh.
+ Во время экспедиции гильдия\nбудет закрыта. Мне придётся оставить\nздесь свой Обменный Котёл. Хе-хе-хе.
+ В экспедиции я ничего не смогу\nобменять, поэтому если вам есть что\nменять, делайте это сейчас. Хе-хе-хе.
++++
+ We\'re going on an expedition![K]\nFun, fun, fun! ♪ Ooooh! ♪
+ I\'d better not forget my precious\nPerfect Apple! ♪[K] La-la-la! ♪
+ Мы собираемся в экспедицию![K]\nВесело, весело, весело! ♪ Оооооой! ♪
+ Нужно не забыть моё прелестное\nИдеальное Яблоко! ♪[K] Ла-ла-ла! ♪
++++
+ It\'s wonderful! It\'s so nice that\nwe can all go on the expedition together!
+ Это так чудесно! Как хорошо,\nчто мы все можем пойти в экспедицию!
++++
+ An expedition! ♪[K] I envy you! ♪
+ Экспедиция! ♪[K] Я вам завидую! ♪
++++
+ Going out with the whole gang\nis really what fun\'s all about! ♪
+ Исследовать вместе со всеми - вот\nнастоящее веселье! ♪
++++
+ Everyone in the guild is going\nout on an expedition?
+ Ooh, that\'s so cool! ♪
+ Все в гильдии отправляются в\nэкспедицию?
+ Оой, это так здорово! ♪
++++
+ We did it, [hero]![K]\nWe\'re going on the expedition!
+ We\'d better get equipped for an\nextended expedition!
+ When we\'re all ready for\nthe expedition…
+ We have to report to [CS:N]Chatot[CR].
+ Let\'s work hard, [hero]!
+ Ура, [hero]![K]\nМы отправляемся в экспедицию!
+ Нам нужно тщательно\nподготовиться к долгому походу!
+ Когда мы будем готовы идти\nв экспедицию...
+ Нужно сообщить об этом\n[CS:N]Чатоту[CR].
+ Потрудимся как следует,\n[hero]!
++++
+ I haven\'t seen it either, but...[K]\nA rumor tells me that the Secret Bazaar is…
+ A mysterious facility that\nappears occasionally in dungeons…
+ You can heal your wounds and\neven buy a Grab Bag there, so I hear…
+ Several kinds of shops\nare there.
+ I wonder what other shops can\nbe found there...[K] I\'d love to find out\nfor myself…
+ Maybe there\'s a chance we can\nfind the Secret Bazaar on our expedition?
+ Ooh, I\'m so excited!
+ If you happen to find the\nSecret Bazaar, [hero], be sure to tell\nme all about it!
+ Привет![K] [hero]!\n[partner]!
+ Это моя первая экспедиция и я\nнемного переживаю.
+ Но я уверен, у нас всё\nполучится!
+ Кстати...
+ [hero], ты знаешь\nчто-нибудь о Секретном Базаре?
+ Я его ни разу не видел, но...[K]\nПо слухам, Секретный Базар это...
+ Таинственное место, которое\nслучайно появляется в подземельях...
+ Как я слышал, там можно\nзалечить раны и даже купить Мешочек...
+ Там есть несколько лавочек.
+ Интересно, что там ещё есть...[K]\nЯ бы с радостью посмотрел...
+ Может быть, мы сможем найти\nСекретный Базар во время экспедиции?
+ Ух, мне так интересно!
+ Если ты найдешь Секретный Базар,\n[hero], то расскажи мне о нём!
++++
+ Now, I decided to join the\nexpedition, too!
+ But I\'m all by myself…
+ Я тоже решил пойти в экспедицию!
+ Но в одиночку...
++++
+ Where are you headed?
+ А куда вы пойдёте?
++++
+ Everyone in [CS:N]Wigglytuff[CR]\'s Guild is\nout on an expedition right now.
+ Must be fun...\nI wish I could have gone along…
+ Все в гильдии [CS:N]Виглитаффа[CR]\nготовятся к экспедиции.
+ Наверное будет весело...\nВот бы и мне с вами пойти...
++++
+ Are you going on the expedition?
+ Go find lots of treasure!
+ Вы собираетесь в экспедицию?
+ Найдите горы сокровищ!
++++
+ I went out exploring with a\nfriend once, long ago. It was a lot of fun.
+ It\'s a wonderful memory.
+ Когда то давно я ходила с\nдругом на вылазки. Было очень весело.
+ Это чудесное воспоминание.
++++
+ Oh, [hero] and\n[partner]!
+ I hope you get lots of treasure!
+ Ой, [hero] и\n[partner]!
+ Надеюсь, вы найдёте много\nсокровищ!
++++
+ Берегите себя в экспедиции!
++++
+ Oooh...[K] It\'s my first expedition!\nI don\'t have a clue what items I should take.
+ Ооох...[K] Это моя первая экспедиция!\nЯ понятия не имею, что мне нужно с собой\nвзять.
++++
+ No time to chat! Have to get\nready for the expedition, hey, hey!
+ Нет времени на болтовню! Нужно\nготовиться к экспедиции, эй, эй!
++++
+ I\'ve heard! You were picked for\nthe expedition!
+ Congratulations!
+ Я всё знаю! Вас взяли в\nэкспедицию!
+ Поздравляю!
++++
+ I hear the whole guild\'s going\noff on the expedition now.
+ After the last expedition, they\ncame back with loads of treasure.
+ We expect big things from your\nupcoming expedition!
+ Я слышал, что вся гильдия\nуходит в экспедицию.
+ В прошлый раз они принесли\nмного сокровищ.
+ Надеюсь что и эта экспедиция\nбудет такой же успешной!
++++
+ I wish you the best of fortunes\non your expedition. Hee-hee!
+ Желаю вам всего самого\nнаилучшего в экспедиции. Хи-хи!
++++
+ Show them you\'ve got the power\non the expedition!
+ I\'ll be happy to keep the power\ngoing until we\'ve done all the linking you need.
+ Покажите, что у вас есть\nэнергия на экспедицию!
+ Я буду рад поделиться энергией,\nчтобы помочь вам связать любые ваши\nприёмы.
++++
+ Yo! Congrats for making the\nexpedition party!
+ Come back with lots of\nsouvenirs!
+ Йо! Поздравляю с принятием в\nэкспедицию!
+ Принесите оттуда гору\nсувениров!
++++
+ Oh, [hero] and\n[partner]!
+ It\'s been much too long! It\'s me,\n[CS:N]Spoink[CR]!
+ You\'re going on an expedition!\nI heard! How fabulous!
+ Oh, please do come back with\nlots of treasures! ♪
+ О, [hero] и\n[partner]!
+ Давненько не виделись! Это я,\n[CS:N]Споинк[CR]!
+ Я уже знаю! Вы пойдёте в\nэкспедицию! Как чудесно!
+ Ох, я надеюсь вы вернётесь\nс горой сокровищ! ♪
++++
+ Good for YOU![K] I\'m glad you two\ngot picked for the expedition too!
+ The expedition is no walk in the\npark![K] So don\'t GOOF UP and get in my way!
+ GOT THAT?!
+ МОЛОДЦЫ![K] Я рад, что вас тоже\nвзяли в экспедицию!
+ Экспедиция это не лёгкая\nпрогулка![K] Поэтому не ОБЛАЖАЙТЕСЬ и не\nпутайтесь у меня под ногами!
+ ПОНЯТНО?!
++++
+ Whoa-ho! We\'re fellow members\nwith you in the expedition, remember?
+ We have to be more open and\ntrusting of one another, whoa-ho-ho!
+ Хоа-хо! Вы ведь помните, что\nмы тоже члены экспедиции?
+ Мы должны доверять друг другу\nи быть более открытыми, хоа-хо-хо!
++++
+ We\'re only stocking up.
+ Oh, come on! Don\'t make nasty\nfaces at me. Heh-heh-heh!
+ Мы всего лишь запасаемся в\nдорогу.
+ О, ну что это! Хватит на меня\nтак смотреть.
++++
+ The expedition will be rough.[K]\nWe\'d all better be...well stocked with food.\nChaw-haw-haw!
+ Экспедиция будет непростой.[K]\nНам всем стоит... Как следует запастись\nедой. Кха-ха-ха!
++++
+ The expedition will be a very\nlong journey.
+ It will be even harder if you\ndon\'t take the right supplies.
+ We all should get properly\nstocked up before we go see [CS:N]Chatot[CR].
+ Экспедиция будет очень долгой.
+ Если не взять нужных припасов,\nона станет только сложнее.
+ Поэтому, прежде чем идти к\n[CS:N]Чатоту[CR], нам всем нужно запастись вещами.
++++
+ I hope you enjoy yourselves on\nthe guild\'s expedition! ♪
+ Я надеюсь, вам понравится\nэкспедиция! ♪
++++
+ You were chosen for the\nexpedition?!
+ Congratulations! I so hope you\ndo very well! ♪
+ Вас взяли в экспедицию?!
+ Поздравляю! Я очень надеюсь,\nчто всё пройдёт хорошо! ♪
++++
+ You\'re going on an expedition?\nWell, doesn\'t that sound fun!
+ I\'ll be thinking of you, my dears!\nHave a good time!
+ Вы пойдёте в экспедицию?\nНу, это же весело!
+ Я буду помнить о вас, мои\nдорогуши! Желаю вам хорошо провести время!
++++
+ O sea![K] We\'ve come to bid you\na brief farewell!
+ We have been chosen for the\nexpedition! (Though that was a given.)
+ We therefore must take leave\nof this place for a short while!
+ However...[K] When we return…
+ You will see that we have grown\nin every way!
+ Look forward to that day!
+ O sea![K] O sea!!![K]\nO vaaaast sea!
+ ...[K]Gasp-gasp…
++++
+ Oh? Are you all ready for the\nexpedition?
+ The expedition will be a long\njourney. You should be stocked up on items.\nAre you all ready to go?
+Yes
+ Incidentally…
+ You may not bring members of\nyour team that aren\'t members of the guild.\nUnderstood?
+I know!
+ What, not yet?[K] Get moving and\nget ready.
+ The other apprentices should be\ngetting their stocks of items ready too.
+ When you\'re done preparing for\nthe expedition, report to me. ♪
+I didn\'t know…
+ It\'s quite apparent that someone\nfailed to pay attention to me…
+ The situation being what it is,\nI shall explain again.
+ You may not bring members of\nyour team that are not members of the guild.
+ Keeping that in mind, you should\ncomplete your preparations.
+ Understood. ♪
+No
+ О? Вы готовы к экспедиции?
+ Это будет долгое путешествие.\nВам нужно запастись припасами. Вы точно\nготовы идти?
+Да
+ Кстати...
+ Вы не можете взять с собой членов\nкоманды, которые не являются членами\nгильдии. Всё ясно?
+Все ясно!
+ Что, вы не готовы?[K] Тогда вперёд,\nначинайте приготовления.
+ Другие члены гильдии тоже\nзанимаются подготовкой.
+ Если вы закончите приготовления,\nсообщите мне. ♪
+Мы не знали...
+ Кажется, кое-кто меня совсем\nне слушал...
+ Хорошо, так и быть, я объясню\nзаново.
+ Вы не можете взять с собой членов\nкоманды, которые не являются членами\nгильдии.
+ Держите это в уме, пока\nготовитесь к экспедиции.
+ Всё ясно. ♪
+Нет
++++
+ Good. ♪ You appear to be in full\nreadiness. ♪
+ When the other apprentices\nassemble, I shall commence the briefing.\nUntil then, just wait. ♪
+ All accounted for, it appears.
+ Well then. Let me explain \nabout this expedition. ♪
+ First, the objective: exploration\nof [CS:P]Fogbound Lake[CR].
+ [CS:P]Fogbound Lake[CR]?
+ Correct. It is a lake that is said\nto be located far to the east.
+ However, it is perpetually\nenshrouded by a dense fog. As such, its actual\nexistence has never been confirmed…
+ It is merely the foggy mirage of\na spot that lives to this day on rumor alone.
+ It is also rumored…
+ A treasure of exquisite beauty\nis hidden there! ♪
+ Wow! Treasure?! We\'re going\non a treasure hunt!
+ This is so exciting!
+ Yup! It will be fun, fun, fun! ♪
+ (Chaw-haw-haw.)
+ Everyone, open your Wonder\nMaps, please.
+ Хорошо. ♪\nВы в полной готовности. ♪
+ Когда сюда придут все ученики, я\nначну инструктаж. А пока, просто\nподождите. ♪
+ Похоже, все в сборе.
+ Хорошо. В таком случае, я\nрасскажу об экспедиции. ♪
+ Сперва, наша задача: исследовать\n[CS:P]Затуманенное Озеро[CR].
+ [CS:P]Затуманенное Озеро[CR]?
+ Именно. Говорят, что это озеро\nнаходится далеко на востоке.
+ Однако, оно постоянно покрыто\nгустым туманом. Поэтому, существование\nэтого места не подтверждено...
+ Об этом месте ходят исключительно\nтуманные слухи.
+ Кроме того, по слухам...
+ Там спрятано невероятно красивое\nсокровище! ♪
+ Вау! Сокровище?! Мы пойдём\nохотиться на сокровища!
+ Это так здорово!
+ Агась! Будет весело, весело,\nвесело! ♪
+ (Кха-ха-ха.)
+ Прошу всех открыть свои\nЧудо-Карты.
++++
+ First off... This is where\n[CS:P]Fogbound Lake[CR] is said to be.
+ As an uncharted territory, the\narea is shown under a cloud cover.
+ Our guild is here.
+ As you can see, the lake is at a\nconsiderable distance from the guild.
+ Therefore, we will encamp\nat the foot of the highlands here. That will\nserve as our base camp.
+ If we were to travel all at once\nin a single group to the base camp, our\nmobility would be restricted.
+ The strategy is to split up into\nseveral groups to travel to the base camp. ♪
+ Итак... По слухам, здесь\nнаходится [CS:P]Затуманенное Озеро[CR].
+ Это неизведанная территория,\nпоэтому это место скрыто рисунком облаков.
+ Наша гильдия находится здесь.
+ Как вы можете заметить, озеро\nнаходится в приличном от нас расстоянии.
+ Поэтому, мы разобьем лагерь у\nподножия высокогорья. Это будет наш\nосновной лагерь.
+ Если мы будем идти до\nместорасположения лагеря одной группой,\nнаша скорость перемещения будет снижена.
+ Стратегия состоит в том, чтобы\nразделиться на несколько групп и быстрее\nдостичь точки основного лагеря. ♪
++++
+ I shall announce those groups\nnow.
+ The first group is [CS:N]Sunflora[CR],\n[CS:N]Loudred[CR], [CS:N]Diglett[CR], and [CS:N]Croagunk[CR].
+ You guys! You\'d better NOT hold\nme back!
+ You should talk!
+ The next group is [CS:N]Dugtrio[CR],\n[CS:N]Chimecho[CR], and [CS:N]Corphish[CR].
+ We\'re a solid group!
+ I promise to try my best!
+ Hey, hey, likewise!
+ Erm... Let\'s see…
+ The Guildmaster and I shall\ntravel as a pair...[K] That is acceptable, yes?
+ Awwwww?! I have to go with\n[CS:N]Chatot[CR]?!
+ That\'s so boooooring!
+ Please don\'t be difficult. This is\na key element of our strategy.
+ ...[K]Meanie.
+ Our guests, Team [CS:X]Skull[CR], should\ntravel independent of us as their own group.
+ Understood. Chaw-haw-haw!
+ And the final group is\n[partner], [hero], and [CS:N]Bidoof[CR].
+ We\'re in the same group! I hope\nI can keep up. Yup yup!
+ Hey, same here, [CS:N]Bidoof[CR]!
+ Ha ha ha! Same here, [CS:N]Bidoof[CR]!
+ Same here, [CS:N]Bidoof[CR]!
+ Well then…
+ Everyone, let\'s get to it and\nmove out! ♪
+[CS:N]Everyone[CR]: HOORAY!
+[CN] And thus…
+[CN]The guild\'s expedition party began\n[CN]making its way toward [CS:P]Fogbound Lake[CR].
+[CN]According to plan, the party was\n[CN]split into the designated groups.
+[CN]And [hero], [partner], and\n[CN][CS:N]Bidoof[CR]\'s group plotted its course.
+[CN]The group settled on a route along the\n[CN]seacoast to reach the base camp.
+ Сейчас я объявлю состав групп.
+ Первая группа: [CS:N]Санфлора[CR], [CS:N]Лаудред[CR],\n[CS:N]Диглетт[CR] и [CS:N]Кроганк[CR].
+ Ребята! Вам НЕ СТОИТ меня\nсдерживать!
+ Поговори ещё!
+ Следующая группа: [CS:N]Дагтрио[CR],\n[CS:N]Чаймеко[CR] и [CS:N]Корфиш[CR].
+ Мы отличная группа!
+ Обещаю делать всё, что в моих\nсилах!
+ Эй, эй, и я тоже!
+ Эм... Далее...
+ Я и Гильдмастер пойдем вместе...\nЭто ведь приемлимо, да?
+ Ооооуу?! Мне нужно идти с\n[CS:N]Чатотом[CR]?!
+ Это так скууууучно!
+ Прошу, не усложняй. Это ключевой\nэлемент нашей стратегии.
+ ...Вредина.
+ Наши гости из Команды [CS:X]Череп[CR]\nпойдут независимой от нас группой.
+ Вас понял. Кха-ха-ха!
+ И последняя группа:\n[partner], [hero], и [CS:N]Бидуф[CR].
+ Мы в одной группе! Надеюсь, я\nвас не подведу. Да-да!
+ Эй, и я тоже, [CS:N]Бидуф[CR]!
+ Ха-ха-ха! И я тоже, [CS:N]Бидуф[CR]!
+ И я тоже, [CS:N]Бидуф[CR]!
+ Итак...
+ Пора собираться и выдвигаться! ♪
+[CS:N]Все[CR]: УРААА!
+[CN]И так...
+[CN]Члены экспедиции начали свой\n[CN]путь к [CS:P]Затуманенному Озеру[CR].
+[CN]Следуя плану, они разделились\n[CN]на обозначенные группы.
+[CN][hero], [partner] и [CS:N]Бидуф[CR]\n[CN]стали планировать свой маршрут.
+[CN]Группа направилась к основному\n[CN]лагерю вдоль морского берега.
++++
