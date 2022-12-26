@@ -111120,3 +111120,2513 @@ No
 [CN][hero], [partner] и [CS:N]Бидуф[CR]\n[CN]стали планировать свой маршрут.
 [CN]Группа направилась к основному\n[CN]лагерю вдоль морского берега.
 +++
+The Guild\'s\nBig Expedition
+ Wow! The sea is right up this\nway, [hero]!
+ And just look at this cliff!
+ Yup yup! I reckon this is looking\nmore and more like a true expedition!
+ The path ahead surely will get\ntricky, just what real explorers like to see!
+ And this...[K]this here is\nsomething well known to all us explorers…
+ It\'s a Kangaskhan Rock.
+ Kangaskhan Rock?
+ Yes sirree, you heard right. That\nthere\'s a Kangaskhan Rock.
+ A Kangaskhan Rock lets you stow\nand take out items, and it lets you save a\nrecord of your progress.
+ It\'s a real help to travelers.
+ ...Well, I haven\'t had much of\na chance to use Kangaskhan Rocks…
+ Reckon I shouldn\'t oughta talk\nlike a big shot…
+ Gulp...![K] I just want to say again\nthat this here\'s my first expedition!
+ I\'m feeling kind of nervous,\nby golly.
+ Ha ha ha. That goes for us too.
+ We\'re all beginners at this.\nLet\'s just do our best.
+ Let\'s have a look at the\nWonder Map.
+Большая\nГильдейская Экспедиция
+ Вау! Море прямо под нами,\n[hero]!
+ Только взгляните на эти\nскалы!
+ Да-да! Это все больше и больше\nстало походить на настоящую экспедицию!
+ Наш путь наверняка станет труден,\nпрямо как у настоящих исследователей!
+ Это...[K] То, о чём знает каждый\nисследователь...
+ Это Статуя Кангасхана.
+ Статуя Кангасхана?
+ Да, сэрррр, всё верно.\nЭто Статуя Кангасхана.
+ Статуя Кангасхана позволяет\nперемещать предметы в хранилище и обратно.\nИ сохранять свой прогресс.
+ Это очень полезная вещь для\nпутешественников.
+ ...Мне вот как-то не довелось\nпользоваться Статуями Кангасхана...
+ Наверное, не стоит мне говорить,\nсловно я какая-то большая шишка...
+ Глык!..[K] Я просто хочу снова\nсказать, что это моя первая экспедиция!
+ Ей богу, я очень волнусь.
+ Ха-ха-ха. Мы тоже.
+ Мы все занимаемся этим\nвпервые. Нужно просто делать всё, что от\nнас зависит.
+ Давайте взглянем на нашу\nЧудо Карту.
++++
+ This is where we are now.
+ Our present location is here.
+ The base camp is way over\nhere. That\'s where we have to meet up\nwith everyone.
+ We\'re supposed to link up with\neveryone at the base camp. That\'s way\nover here.
+ We\'re supposed to join up with\neveryone at the base camp. That\'s way\nover here.
+ So, as a first step, we could try\nreaching this spot.
+ Want to try reaching here as\nour first objective?
+ Yup yup! I agree with that.
+ Вот где мы сейчас.
+ Здесь наше текущее\nместоположение.
+ Основной лагерь находится\nвот здесь. Там мы должны встретиться со\nвсеми остальными.
+ Нам нужно встретиться со\nвсеми в основном лагере. Он вот тут.
+ Мы должны встретиться со\nвсеми в основном лагере. Он вот тут.
+ Поэтому, для начала, мы\nможем дойти до этого места.
+ Хотите попробуем сперва\nдойти сюда?
+ Да-да! Я согласен.
++++
+([partner] is acting like a leader. I didn\'t\nnotice it before...)
+([partner] is acting like a leader. I didn\'t\nnotice it before...)
+(It must be the excitement from exploring\nthat\'s bringing it out...)
+(But [partner], who was so timid before,\nis trying so much harder...)
+(But [partner], who was so timid before,\nis trying so much harder...)
+(Yes, [partner] is getting stronger and\nmore confident bit by bit...)
+ Oh... Huh?
+ Huh? Problem?
+ If you look closely here, there\nare two entrances.
+ Huh? Now, that is mighty vexing.
+ What\'ll we do, [hero]?
+ Which way should we go?
+[CS:P]Craggy Coast[CR]
+ OK. [CS:P]Craggy Coast[CR] it is.
+ All right. Now…
+ Let\'s all three work as one and\nget this done!
+[CS:P]Side Path[CR]
+ OK. [CS:P]Side Path[CR] it is.
+([partner] действует как настоящий\nлидер. Раньше я этого не замечал...)
+([partner] действует как настоящий\nлидер. Раньше я этого не замечала...)
+(Наверное это из-за радости от\nэкспедиции...)
+([partner]... Он был таким пугливым,\nно сейчас он очень старается себя\nпересилить...)
+([partner]... Она была такой пугливой,\nно сейчас она очень старается себя\nпересилить...)
+(Да, [partner] понемногу начинает\nчувствовать себя сильнее и увереннее...)
+ Ой... А?
+ Что? Какая-то проблема?
+ Если посмотреть\nповнимательнее, здесь два прохода.
+ Что? Какая досада.
+ Что нам делать, [hero]?
+ По какому пути нам идти?
+[CS:P]Скалистый Берег[CR]
+ Хорошо. Значит, идём в\n[CS:P]Скалистый Берег[CR].
+ Итак. Теперь...
+ Давайте дружно потрудимся\nи пройдём дальше!
+[CS:P]Обходной Путь[CR]
+ Хорошо. Значит, идём по\n[CS:P]Обходному Пути[CR].
++++
+ Oof... By gosh, we couldn\'t get\nthrough there…
+ I guess we got a little careless.
+ It\'s because I\'m not pulling my\nown weight here, isn\'t it…
+ No, [CS:N]Bidoof[CR], it\'s not your fault.\nWe\'re a team, and that\'s what\'s important.
+ We need to hurry so we can\nmeet up with the others at the base camp.
+ Let\'s get it done!
+ Уф... Ей богу, мы не прошли...
+ Похоже, мы немного\nрасслабились.
+ Это ведь не из-за того, что я\nвсем мешаю, верно...
+ Нет, [CS:N]Бидуф[CR], ты не виноват.\nМы команда и это важно понять.
+ Нам нужно поторопиться и\nвстретиться с остальными в лагере.
+ Попробуем ещё раз!
++++
+ We have to get through so we\ncan meet up with the others at base camp.
+ Let\'s get this done!
+ It\'s not far to base camp.
+ Let\'s keep at it, [hero]!
+ We\'ll reach base camp when we\ncross this mountain.
+ Let\'s keep at it, [hero]!
+ Нам нужно пройти эти\nпещеры, чтобы встретиться с остальными\nв лагере.
+ Вперёд, за дело!
+ До лагеря осталось не так\nдалеко идти.
+ Не сбавляем темп,\n[hero]!
+ Когда мы пересечём эту\nгору, мы достигнем лагеря.
+ Не сбавляем темп,\n[hero]!
++++
+ We\'ll get it done next time!
+ В следующий раз у нас всё\nполучится!
++++
+[CN]What would you like to do?
+Check Storage
+Save
+Cancel
+[CN]Что вы хотите сделать?
+Открыть Хранилище
+Сохранить Игру
+Уйти
++++
+ Are you ready, [hero]?
+ Are you ready, [hero]?
+All set!
+ Which way should we go?
+[CS:P]Craggy Coast[CR]
+ OK. [CS:P]Craggy Coast[CR] it is.
+ All right! Let\'s roll out!
+[CS:P]Side Path[CR]
+ OK. [CS:P]Side Path[CR] it is.
+ All right! Let\'s roll out!
+Not yet...
+ All right. We\'ll go when\nyou\'re ready.
+ All right. We\'ll go when\nyou\'re ready.
+ Ты готов, [hero]?
+ Ты готова, [hero]?
+Идём!
+ По какому пути мы пойдём?
+[CS:P]Скалистый Берег[CR]
+ Хорошо. Значит, идём в\n[CS:P]Скалистый Берег[CR].
+ Итак! Выдвигаемся!
+[CS:P]Обходной Путь[CR]
+ Хорошо. Значит, идём по\n[CS:P]Обходному Пути[CR].
+ Итак! Выдвигаемся!
+Пока нет...
+ Хорошо. Мы пойдём, когда ты\nбудешь готов.
+ Хорошо. Мы пойдём, когда ты\nбудешь готова.
++++
+ What? This place again?!
+ Seems to me that we\'re back out\nwhere we came from. Yup yup!
+ It looks like that path brought us\nright back where we started.
+ If we aim to move on, I reckon\nwe ought to choose [CS:P]Craggy Coast[CR].
+ All right. We\'ll take another\nshot at this.[K] Let\'s get it done!
+ Что? Снова это место?!
+ Похоже мы пришли туда же,\nоткуда и начали путь. Да-да!
+ Да, мы действительно\nвернулись обратно.
+ Полагаю, если мы хотим пройти\nдальше, нам нужно пойти по [CS:P]Скалистому\nБерегу[CR].
+ Хорошо. Мы попробуем ещё\nраз.[K] За дело!
++++
+ Whew... By golly, I reckon we\'re\nfinally through.
+ Yeah, but we\'re still pretty far\nfrom the base camp.
+ Let\'s check the Wonder Map.
+ Фух... Ей богу, наконец-то мы\nпрошли.
+ Да, но до лагеря всё ещё\nдалеко идти.
+ Посмотрим на Чудо-Карту.
++++
+ This is where we are now.
+ The base camp is there.
+ I reckon we\'ve gotten ourselves\na lot closer.
+ Вот где мы сейчас\nнаходимся.
+ Лагерь здесь.
+ Похоже, что мы стали намного\nближе к нему.
++++
+ We\'re nearly there.
+ We just need to cross this\nmountain to reach the base camp.
+ Whoops... That was my belly\ngrowling.
+ Ha ha ha! Us too!
+ If we start climbing the\nmountain now, I think it\'ll be night before\nwe finish.
+ Do you want to call it a day?[K]\nWe can rest here tonight.
+ I agree completely!
+ Then let\'s eat!
+ Yeeeehaw!
+\n[CN]The next morning…
+ All right, gang. We have to\nget moving.
+ Crossing this mountain\'s going\nto take us to the base camp. Yup yup!
+ Let\'s get it done!
+ Мы почти пришли.
+ Нам всего лишь нужно\nпересечь эту гору и мы дойдём до лагеря.
+ Оооой... Это мой живот урчит.
+ Ха-ха-ха! И у нас тоже!
+ Если мы сейчас начнём\nпересекать гору, мы не успеем это сделать\nдо заката.
+ Хотите передохнуть?\nМы можем сделать здесь привал.
+ Я полностью согласен!
+ Тогда, давайте есть!
+ Ууууурааа!
+\n[CN]На следующее утро...
+ Итак, ребята. Нам нужно\nидти.
+ Пересечём эту гору и доберёмся\nдо лагеря. Да-да!
+ Вперёд!
++++
+ It looks like taking that [CS:P]Rock\nPath[CR] brings us right back where we started.
+ If we aim to get across,\nI reckon we ought to choose [CS:P]Mt. Horn[CR].
+ We\'re close to the base\ncamp now.
+ Let\'s get it done, [hero]!
+ Похоже, что Каменистый Путь\nведёт в самое начало.
+ Если мы хотим пройти дальше,\nнам стоит пойти через Гору Хорн.
+ Мы уже очень близки к\nлагерю.
+ Вперёд, [hero]!
++++
+ Ugh... We couldn\'t get through\nthere…
+ Hmm... We were maybe a little\ncareless.
+ But...[K] I\'m not giving up.[K]\nLet\'s get it done!
+ Yup![K] Let\'s get it done!
+ Ух... Мы не смогли пройти\nдальше...
+ Хмм... Возможно, мы были\nне слишком осторожны.
+ Но...[K] Я не сдамся.[K] Мы обязательно\nпройдём!
+ Да![K] Мы добьемся своего!
++++
+[CS:P]Mt. Horn[CR]
+ All right. [CS:P]Mt. Horn[CR] it is.
+ All right! Let\'s roll out!
+[CS:P]Rock Path[CR]
+ OK. [CS:P]Rock Path[CR] it is.
+[CS:P]Г. Хорн[CR]
+ Хорошо. Значит, идём на\n[CS:P]Гору Хорн[CR].
+ Итак! Выдвигаемся!
+[CS:P]Каменистый Путь[CR]
+ Хорошо. Значит, идём по\n[CS:P]Каменистому Пути[CR].
++++
+ All we gotta do now is cross\nover this here mountain. Then we\'ll be at base\ncamp! Yup yup!
+ Let\'s do it!
+ Всё что нам нужно, это пересечь\nгору. И мы окажемся в лагере! Да-да!
+ Сделаем это!
++++
+ We just have to cross this here\nmountain! That\'s all! Then we\'ll be at the base\ncamp, yup yup!
+ Let\'s do it!
+ Нам всего лишь нужно пересечь\nэту гору! И всё! Мы окажемся в лагере!\nДа-да!
+ Сделаем это!
++++
+Groudon\'s\nHeart
+Сердце\nГраудона
++++
+ Huff-huff…
+ W-we did it! We got over\n[CS:P]Mt. Horn[CR]!
+ We finally made it! Yes sirree!\nWe have arrived at the base camp!
+ Howdy, folks! Sorry to keep\nyou all waiting!
+ You all are late! Everyone else\narrived a long time ago!
+ Urgh…
+ Go set your equipment down.\nMake haste!
+ Now that everyone\'s assembled,\nlet\'s get on with our strategy briefing.
+ Yes sirree
+ Hm? What\'s wrong,\n[hero]?
+(What\'s this weird sensation?)
+(I don\'t know why I\'m feeling this way...)
+(I...)
+(Wait a second! I know this place!)
+(Have I been here before?)
+(Have I been here before?)
+(Maybe.)
+(Does it have something to do with me?\nBefore I lost my memory?)
+(Does it have something to do with me?\nBefore I lost my memory?)
+ Come on, come on! We haven\'t\ngot all day!
+ Let\'s go, [hero].
+ Erm... Attention, please.
+ It appears everyone has arrived\nat our base camp safe and sound.
+ We shall now proceed to the\nexploration of [CS:P]Fogbound Lake[CR]! ♪
+ As you can see, we are in a\ndensely forested area.
+ Somewhere within this forest,\n[CS:P]Fogbound Lake[CR] is supposedly concealed…
+ But so far, that has been nothing\nmore than a rumor.
+ Exploration teams of all stripes\nhave mounted many a challenge, but so far\nthe lake has eluded discovery.
+ Hey, hey, hey!
+ Hey, hey! So is it really there or\nwhat?![K] This [CS:P]Fogbound Lake[CR]?!
+ Silly [CS:N]Corphish[CR].
+ You\'ll wreck the dream if you\nsay something like that.
+ Yeah, don\'t spoil things now!
+ Hey, hey…
+ Um, may I?
+ Um, while we were traveling, I\nheard about a certain legend.
+ A legend, you say?
+ Yes. A legend about [CS:P]Fogbound\nLake[CR].
+ According to the legend,\n[CS:P]Fogbound Lake[CR] is home to a Pokémon named\n[CS:N]Uxie[CR].
+ The Pokémon is said to be\nexceedingly rare.
+ [CS:N]Uxie[CR] is said to lock eyes with\nothers and wipe their memories clean.
+(What?![K] Wipe their memories clean?!)
+ That is why, even if travelers\nwere to happen upon [CS:P]Fogbound Lake[CR]…
+ [CS:N]Uxie[CR] would wipe their\nmemories clean…
+ Thereby muzzling the travelers\nfrom revealing the existence of the lake.
+ And that is how [CS:N]Uxie[CR] protects\n[CS:P]Fogbound Lake[CR].
+ I was told such a legend\nremains.
+ Golly, that\'s a pretty hair-raising\ntale…
+ What\'ll I do if my MEMORY is\nwiped clean?
+ I don\'t think you have much to\nworry about.
+ After all, you\'re so forgetful\nanyway, you make me go eek!
+ Ahem.
+ You should realize that places of\nthis sort can be expected to have a folktale\nor a legend attached to them.
+ Our guild has overcome difficult\nchallenges and obstacles when conducting\nsuccessful explorations. ♪
+ Absolutely, eek!
+ That\'s how our guild has earned\nthe reputation for being first class.
+ Ha ha ha! Don\'t worry,\neverything will be all right! ♪
+ Let\'s believe in success for this\nadventure too, and…
+ Let\'s try! ♪ Let\'s try! ♪
+ Let\'s move on with our plan.
+ The Guildmaster and I shall\nremain here to gather intelligence from our\nteams in the field.
+ You are to go off in teams to\nexplore this forest.
+ Be aware that this forest is\nenshrouded in a deep fog. Once you enter it,\nvisibility is severely restricted.
+ We think that [CS:P]Fogbound Lake[CR] has\ndefied discovery because of this fog.
+ Perhaps there is a way of\nlifting this fog.
+ Therefore, your search is\ntwofold. One, search for [CS:P]Fogbound Lake[CR].
+ And two, find a way to lift\nthe fog.
+ If you accomplish either thing,\nreturn to the base camp and tell me or the\nGuildmaster.[K] That is all.
+ All right, everyone. ♪ Let\'s give\nit our best, as always. ♪
+[CS:N]Everyone[CR]: HOORAY!
+ Let\'s all try our best!
+ It\'d be nice if we made a\ndiscovery or two.
+ We\'ll find the lake! I\'m sure\nof it!
+ I\'ll be the FIRST to find it!
+ Dad, do you think maybe\n[CS:P]Fogbound Lake[CR] could be under the ground?
+ I was thinking we should try\nlooking underground.
+ Ah, my son, my pride and joy.\nYou make me proud. Let\'s look underground.
+ OK, everyone, we\'re off.
+ Hey, hey, hey! We can\'t afford\nto dawdle, either!
+ Yup yup! We need to hurry!
+ Well then, we should go too.\nHmm, boys? Chaw-haw-haw!
+ Heh-heh-heh!
+ Whoa-ho-ho!
+ Let\'s go, [hero].
+ We need to hurry.
+(I know this place...)
+(According to the legend, the Pokémon [CS:N]Uxie[CR]\ncan wipe clean the memories of others.)
+(Are these two things really just a\ncoincidence?)
+(Hmm.)
+(Maybe I came here before I lost my memory.)
+(Maybe I came here before I lost my memory.)
+(Then maybe I met [CS:N]Uxie[CR]...[K]and he wiped my\nmemory clean...)
+(Then maybe I met [CS:N]Uxie[CR]...[K]and he wiped my\nmemory clean...)
+(Could that have happened?)
+ Hey, [hero]!
+ Why do you keep drifting off\nlike that? It\'s not like you.
+ Hurry, let\'s get ready and go into\nthe forest!
+ Ухх-ухх...
+ У н-нас получилось! Мы пересекли\n[CS:P]Гору Хорн[CR]!
+ Мы сделали это! Да, сэрррр!\nМы дошли до основного лагеря!
+ Привет, ребята! Простите, что\nзаставили вас ждать!
+ Вы опоздали! Все уже давным-давно\nздесь!
+ Ух...
+ Идите и приготовьте своё\nснаряжение. Побыстрей!
+ Теперь, когда все в сборе, я\nрасскажу план наших действий.
+ Да, сэрррр!
+ Хм? Что случилось,\n[hero]?
+(Что это за странное ощущение?)
+(Я не понимаю почему я так себя\nчувствую...)
+(Я...)
+(Секундочку! Я знаю это место!)
+(Я здесь уже раньше был?)
+(Я здесь уже раньше была?)
+(Возможно.)
+(Это место как-то связано со мной? Что\nбыло здесь до того, как я потерял\nпамять?)
+(Это место как-то связано со мной? Что\nбыло здесь до того, как я потеряла\nпамять?)
+ Идём, быстрее! У нас нет\nвремени!
+ Идём, [hero].
+ Эм... Прошу внимания.
+ Похоже, все добрались до лагеря\nв целости и сохранности.
+ Теперь мы начнём поиски\n[CS:P]Затуманенного Озера[CR]! ♪
+ Как вы можете видеть, мы\nнаходимся в густом лесу.
+ Предположительно где-то в этом\nлесу находится [CS:P]Затуманенное Озеро[CR]...
+ Но пока что, об этом месте\nизвестно только по слухам.
+ Разные команды исследователей\nпытались отыскать озеро, но оно так и не\nбыло обнаружено.
+ Эй, эй, эй!
+ Эй, эй! А оно точно тут или\nчто?! Это [CS:P]Затуманенное Озеро[CR]?!
+ Глупый [CS:N]Корфиш[CR].
+ Ты разрушишь надежду, если\nскажешь что-то подобное.
+ Да, не порть всё!
+ Эй, эй...
+ Эм, можно я скажу?
+ Эм, во время путешествия, я\nслышала об одной легенде.
+ Легенде?
+ Да. Легенде о [CS:P]Затуманенном\nОзере[CR].
+ Легенда гласит, что [CS:P]Затуманенное\nОзеро[CR] является домом Покемону по имени\n[CS:N]Юкси[CR].
+ Говорят, что это очень уникальный\nПокемон.
+ [CS:N]Юкси[CR] способен стирать память\nдругим одним лишь своим взглядом.
+(Что?! Стирать память?!)
+ Именно поэтому, даже если\nпутешественники находят [CS:P]Затуманенное\nОзеро[CR]...
+ [CS:N]Юкси[CR] начисто стирает их память...
+ И таким образом никому не даёт\nобнаружить [CS:P]Затуманенное Озеро[CR].
+ Вот как [CS:N]Юкси[CR] защищает\n[CS:P]Затуманенное Озеро[CR].
+ Вот такая легенда.
+ Ей богу, у меня от этой сказки\nшерсть встаёт дыбом...
+ Что я буду делать если МОЮ\nпамять сотрут?
+ Я не думаю, что тебе стоит за\nэто переживать.
+ В конце концов, ты настолько\nзабывчив, что мне кр-иии-чать охота!
+ Кхм.
+ Вы должны понимать, что о\nподобных местах обязательно будут сочинять\nсказки или легенды.
+ Наша гильдия превозмогает трудные\nпрепятствия и испытания во время\nвылазок. ♪
+ Точно, иии!
+ И именно таким образом наша\nгильдия заслужила право называться\nпервоклассной.
+ Ха-ха-ха! Не беспокойтесь, всё\nбудет в порядке! ♪
+ Давайте верить в успех нашего\nприключения и...
+ Попытаемся! ♪ Попытаемся! ♪
+ Перейдём к сути нашего плана.
+ Гильдмастер и я останемся здесь,\nчтобы собирать информацию от разведывающих\nместность групп.
+ Вы отправитесь группами на\nисследование леса.
+ Примите во внимание, что лес\nпостоянно окутан густым туманом. При входе\nв него, ваша видимость будет снижена.
+ Мы полагаем, что [CS:P]Затуманенное\nОзеро[CR] не может быть обнаружено из-за\nокружающего его тумана.
+ Возможно, есть способ развеять\nтуман.
+ Поэтому, у вас двойная задача.\nПервая: найти [CS:P]Затуманенное Озеро[CR].
+ И вторая: найти способ развеять\nтуман.
+ Если вы сможете выполнить одну\nиз этих задач, вернитесь в лагерь и\nскажите об этом мне или Гильдмастеру.[K] Всё.
+ Итак, ребята. ♪ Давайте сделаем\nвсё в лучшем виде, как и всегда. ♪
+[CS:N]Все[CR]: УРААА!
+ Давайте все постараемся изо\nвсех сил!
+ Будет здорово сделать\nпару-тройку открытий.
+ Мы найдём это озеро! Я уверена\nв этом!
+ Я ПЕРВЫМ его найду!
+ Пап, может быть [CS:P]Затуманенное\nОзеро[CR] находится под землёй?
+ Я подумал, что нам стоит\nзарыться и поискать там.
+ А, сын мой, моя гордость и\nрадость. Я горд тобой. Мы поищем его под\nземлёй.
+ Хорошо, мы зарываемся.
+ Эй, эй, эй! Мы тоже не станем\nбездельничать!
+ Да-да! Поспешим на поиски!
+ Что-ж, тогда и мы пойдём.\nА, парни? Кха-ха-ха!
+ Хе-хе-хе!
+ Хоа-хо-хо!
+ Идём, [hero].
+ Нам надо спешить.
+(Я знаю это место...)
+(Согласно легенде, Покемон [CS:N]Юкси[CR] способен\nстирать память других.)
+(Это простое совпадение?)
+(Хмм.)
+(Возможно, я уже был здесь до потери\nпамяти.)
+(Возможно, я уже была здесь до потери\nпамяти.)
+(И возможно, я встретил [CS:N]Юкси[CR]... И он стёр\nмою память...)
+(И возможно, я встретила [CS:N]Юкси[CR]... И он стёр\nмою память...)
+(Так ли всё было?)
+ Эй, [hero]!
+ Почему ты продолжаешь вот\nтак уходить в свои мысли? Это на тебя не\nпохоже.
+ Скорее, приготовимся и\nотправимся в лес!
++++
+ Ugh... We can\'t let this get us\ndown though, [hero].
+ Let\'s get ready and go into the\nforest, [hero]!
+ Ух... Мы не можем позволить\nэтому сбить нас с пути, [hero].
+ Давай подготовимся и\nотправимся в лес, [hero]!
++++
+ Ah, you two! You have yet\nto leave?
+ Get ready quickly! Then be on\nyour way!
+ Ah, by the way…
+ You can use the Kangaskhan Rock\nto store and take out your items. And to save\nyour progress.
+ So you should try using the\nKangaskhan Rock to sort out your inventory.
+ No matter how you choose to do\nthat, just get ready quickly, then head out!
+ А, вы двое! Ещё не ушли?
+ Тогда подготовьтесь! Затем\nидите в лес!
+ А, кстати...
+ Вы можете воспользоваться этой\nСтатуей Кангасхана, чтобы открыть\nхранилище. И сохранить прогресс.
+ Поэтому, пользуйтесь Статуей\nКангасхана, чтобы распределить предметы.
+ Не важно как вы это сделаете,\nпросто подготовьтесь и идите!
++++
+ Oh, I wish the gang would report\nin soon! ♪ Ooooh, this is exciting! ♪
+ Ой, я так хочу, чтобы ребята\nвернулись с хорошими вестями! ♪\nОоооо, это так интересно! ♪
++++
+ Are you ready, [hero]?
+ Are you ready, [hero]?
+Yes
+ Which way should we go?
+[CS:P]Foggy Forest[CR]
+ All right. [CS:P]Foggy Forest[CR] it is.
+ All right! Let\'s roll out!
+(Anyway...)
+(Maybe the keys to unlocking my memory\nare here...)
+([CS:P]Fogbound Lake[CR]...)
+(I may find some answers if [CS:P]Fogbound Lake[CR]\ncan be found...)
+ Huh? What is this?
+ It looks like some kind of stone,\nI guess.
+ It\'s red and pretty. It\'s kind of\nlike a gem, actually.
+[CN][partner] picked\n[CN]up the red stone.
+ Wow! It feels warm!
+ It\'s like heat is coming from\ninside the stone. It\'s weird.
+ It doesn\'t seem to be lava. What\ncould it be?
+ It might be rare. I\'ll keep it.
+ All right, let\'s roll,\n[hero]!
+[CS:P]Forest Path[CR]
+ All right. [CS:P]Forest Path[CR] it is.
+ All right! Let\'s roll out!
+Not yet
+ Tell me when you\'re\nready.
+ Tell me when you\'re\nready.
+ Ты готов, [hero]?
+ Ты готова, [hero]?
+Да
+ Куда мы направимся?
+[CS:P]Туманный Лес[CR]
+ Хорошо. Идём в [CS:P]Туманный Лес[CR].
+ Итак! Выдвигаемся!
+(И всё же...)
+(Может быть, ключ к моим воспоминаниям\nнаходится здесь...)
+([CS:P]Затуманенное Озеро[CR]...)
+(Если мы найдём [CS:P]Затуманенное Озеро[CR], то я\nвозможно найду ответы на свои вопросы...)
+ А? Что это?
+ Похоже, какой-то камень.
+ Он красный и красивый.\nНа самом деле, напоминает самоцвет.
+[CN][partner] подбирает\n[CN]красный камень.
+ Вау! Он тёплый на ощупь!
+ Словно изнутри камня\nисходит жар. Как странно.
+ На лаву не похоже. Что это\nможет быть?
+ Возможно, он редкий. Заберу\nего себе.
+ Хорошо, идём [hero]!
+[CS:P]Лесной Путь[CR]
+ Хорошо. Идём по [CS:P]Лесному\nПути[CR].
+ Итак! Выдвигаемся!
+Ещё нет
+ Скажи мне, как будешь\nготов.
+ Скажи мне, как будешь\nготова.
++++
+ What? This is…
+ Welcome back! ♪
+ But this is the base camp!
+ Precisely! ♪ You\'re back at the\nbase camp! ♪
+ So how did it go? Have you\nanything to report?
+ Uh... No, nothing.
+ Oh?! Nothing?!
+ What is this?! You had my\nhopes up!
+ Get going!
+ Gulp... Let\'s get going,\n[hero].
+ Что? Это...
+ С возвращением! ♪
+ Но это же лагерь!
+ Именно! ♪ Вы вернулись в\nлагерь! ♪
+ Ну, как всё прошло? У вас есть\nчто сообщить?
+ Эм... Нет, ничего.
+ Что?! Ничего?!
+ Что это такое?! Мы на вас\nрассчитывали!
+ Идите обратно!
+ Эх... Пойдём, [hero].
++++
+ Ugh, we blew it…
+ What are you doing?
+ ...Huh?!
+ Wh-where is this?
+ This is the base camp. It\nappears that your exploration has suffered\na setback.
+ Do it again! Get going!
+ Urk! Let\'s get going,\n[hero].
+ Ух, мы не справились...
+ Что вы делаете?
+ ...А?!
+ Г-где это мы?
+ Вы в лагере. Похоже, ваша\nвылазка окончилась неудачей.
+ Идите снова! Вперёд!
+ Ух! Идём, [hero].
++++
+ All right. We\'ll get moving when\nyou\'re ready.
+ All right. We\'ll get moving when\nyou\'re ready.
+ Хорошо. Мы пойдем, как\nтолько ты будешь готов.
+ Хорошо. Мы пойдем, как\nтолько ты будешь готова.
++++
+ Oh? You haven\'t seen our\nGuildmaster? You\'re wondering where he is?
+ The Guildmaster has...[K]wandered\noff somewhere.
+ It\'s amazing, really, how little\npatience he has.
+ I would imagine he\'s taking a\nstroll in the forest without a care in\nthe world.
+ I imagine he\'ll come back\nsoon enough.
+ А? Вы не видите Гильдмастера?\nХотите знать, где он?
+ Гильдмастер...[K] Куда-то ушёл.
+ Вообще, поражаюсь тому, насколько\nу него мало терпения.
+ Я полагаю, что он сейчас\nбеззаботно гуляет по лесу.
+ Думаю, он скоро вернётся.
++++
+ It\'s incredible! The water\'s\ncoming down in waterfalls all over the place!
+ But... Where are we?
+ Is this the deepest part of\nthe forest?
+ Hmm... The fog is so thick, I\ncan\'t tell which way we can go.
+ Hey, hey, hey!
+ Look, it\'s [CS:N]Corphish[CR]!
+ Hey, hey! You two find\nany clues?
+ No, nothing yet…
+ How about you, [CS:N]Corphish[CR]?
+ I\'ve got nothing here, either.\nDon\'t let it get you down.
+ But... There is something here\nthat\'s kind of interesting.
+ Interesting?
+ There. Have a look for yourself.
+ Wh-what?! What is this?!
+ I don\'t know.
+ It seems to be a statue of\na Pokémon.
+ But what kind of Pokémon\nis that?
+ I\'ve never seen a Pokémon like\nthat before.
+ Huh? Is this an inscription here?
+ It\'s in footprint runes. Let me\nread it…
+ Umm…
+ \"Reignite the life that burned\nwithin Groudon...\"
+ \"Then the sky shall blaze with\nthe sun\'s heat...\"
+ \"The path to treasure shall be\nrevealed.\"
+ \"The path to treasure\"? That\'s\nincredible!
+ Oh, [hero]!
+ Treasure?! Could this mean the\ntreasure of [CS:P]Fogbound Lake[CR]?!
+ \"The path to treasure shall be\nrevealed.\"[K] So this means…
+ The secret to finding [CS:P]Fogbound\nLake[CR] could be hidden right here!
+ Hey, hey, hey! Y-you think so?
+ Hey, hey! Now that\'s a mystery\nwe\'ve got to solve!
+ This part of the footprint\nrunes…
+ This part about \"life that burned\nwithin Groudon.\" What\'s this about?
+ So this \"Groudon,\" is it\nthis statue?
+ Hey, hey! So we\'re supposed\nto what, ignite the life that was in\nthis statue?
+ Yeah, but ignite the life? How do\nwe do that?
+ Hmm…
+ Huh?[K] Wait!
+ I know![K] Touch this statue,\n[hero]!
+ Maybe you\'ll see something,\n[hero]!
+(I was thinking that too.)
+(I was thinking that too.)
+(If it means finding the path to [CS:P]Fogbound\nLake[CR]...)
+(If it means finding the key to my own past...)
+ You\'re going to do it!
+[CN][hero] touched the\n[CN]statue of Groudon.
+ Feeling anything, [hero]?
+(It\'s coming...)
+(That dizzy feeling...)
+ Как здорово! Здесь повсюду\nводопадами стекает вода!
+ Но... Где это мы?
+ Это самая глубокая часть\nлеса?
+ Хмм... Туман настолько\nгустой, что я не могу понять куда нам\nидти.
+ Эй, эй, эй!
+ Гляди, это [CS:N]Корфиш[CR]!
+ Эй, эй! Вы что-нибудь нашли?
+ Нет, пока ничего...
+ А у тебя что, [CS:N]Корфиш[CR]?
+ И у меня ничего такого.
+ Но... Есть кое-что интересное.
+ Интересное?
+ Сюда. Взгляните сами.
+ Ч-что?! Что это?!
+ Я не знаю.
+ Похоже на статую Покемона.
+ Но что это за Покемон?
+ Я никогда раньше не видел\nтакого Покемона.
+ А? Здесь какое-то\nначертание?
+ Оно написано на рунах\nследов. Сейчас прочту...
+ Эмм...
+ "Зажгите жизнь, что горела\nвнутри Граудона..."
+ "И небо возгорится\nсолнечным теплом..." 
+ "Открывая путь к\nсокровищу."
+ "Путь к сокровищу"? Как\nздорово!
+ О, [hero]!
+ Сокровище?! Может, это\nсокровище [CS:P]Затуманенного Озера[CR]?!
+ "Открывая путь к\nсокровищу."[K] Это значит, что...
+ Тайна местоположения\n[CS:P]Затуманенного Озера[CR] скрыта здесь!
+ Эй, эй, эй! Т-ты так думаешь?
+ Эй, эй! Нам нужно решить эту\nзагадку!
+ Эта часть рун следов...
+ Та, что гласит "жизнь, что\nгорела внутри Граудона." Что она значит?
+ Этот "Граудон" - статуя?
+ Эй, эй! Так мы что, должны\nзажечь жизнь внутри этой статуи?
+ Да, но зажечь жизнь?\nКак мы это сделаем?
+ Хмм...
+ А?[K] Погодите!
+ Я знаю![K] Коснись этой\nстатуи, [hero]!
+ Возможно, ты что-нибудь\nувидишь!
+(Я тоже об этом подумал.)
+(Я тоже об этом подумала.)
+(Если так мы сможем найти\n[CS:P]Затуманенное Озеро[CR]...)
+(И если так мы сможем\nразгадать загадку моего прошлого...)
+ Давай, коснись!
+[CN][hero] касается\n[CN]статуи Граудона.
+ Чувствуешь что-нибудь,\n[hero]?
+(Начинается...)
+(Снова это чувство...)
++++
+[CN]That\'s it!
+[CN]It\'s here!
+[CN]It\'s here!
+[CN]Вот оно!
+[CN]Оно здесь!
+[CN]Оно здесь!
++++
+(Wh-what was that?)
+(Whose voice was that?)
+(Wh-what, again?)
+(So soon after the first one...)
+(Ч-что это было?)
+(Чей это был голос?)
+(Ч-что, опять?)
+(Сразу после первого...)
++++
+[CN]I see!
+[CN]Place the Drought Stone\n[CN]in Groudon\'s heart.
+[CN]That lifts the fog!
+[CN]Very well done!\n[CN]Good job, partner!
+[CN]Всё ясно!
+[CN]Помести Камень Засухи\n[CN]в сердце Граудона.
+[CN]Это развеет туман!
+[CN]Отлично!\n[CN]Хорошая работа, друг мой!
++++
+(What did I just pick up on?)
+(What did I just pick up on?)
+(That was different from what I\'ve\ngotten before.)
+(This time, I only heard a voice...)
+(This time, I only heard a voice...)
+(And I don\'t know whose voice that was.)
+(That voice...)
+(Whose voice was that?)
+(I didn\'t even get a sense of what the voice\nreally sounds like...)
+(I didn\'t even get a sense of what the voice\nreally sounds like...)
+(But it still bugs me for some reason...)
+ Are you all right, [hero]?
+ Did you see something?
+ Did you see something?
+(What did that voice say?[K] Remember...)
+(That voice said...)
+(It said, \"Place the Drought Stone in Groudon\'s\nheart,\" then said...)
+(\"That lifts the fog!\")
+(Wait a second![K] Drought Stone?!)
+(Is that maybe...)
+(Что я только что услышал?)
+(Что я только что услышала?)
+(Это отличается от того, что было\nраньше.)
+(На этот раз, я услышал только голос...)
+(На этот раз, я услышала только голос...)
+(И я не знаю чей это голос.)
+(Этот голос...)
+(Чей он?)
+(Я даже не совсем понял, как он\nзвучит...)
+(Я даже не совсем поняла, как он\nзвучит...)
+(Но почему-то он меня смущает...)
+ Всё хорошо, [hero]?
+ Что ты видел?
+ Что ты видела?
+(Что говорил голос? Вспоминай...)
+(Голос сказал...)
+(Сказал: \"Помести Камень Засухи в сердце\nГраудона\". И затем...)
+(\"Это развеет туман!\")
+(Секундочку! Камень Засухи?!)
+(Может, это...)
++++
+ Hey, hey! The fog is gone!
+ The sky cleared…
+ The sunlight\'s harsh!
+ Hey! Look!
+ B-both of you![K] Up! Look up!
+ Hey, hey! What is that?!
+ That\'s what the fog was hiding.
+ No wonder no one could ever\nfind [CS:P]Fogbound Lake[CR].
+ We were just wandering around\nin circles ourselves.
+ Hey, hey! So you\'re saying…
+ You\'re saying [CS:P]Fogbound Lake[CR] is\nup there? Hey, hey, hey?!
+ Yes, that\'s what I think.
+ [CS:P]Fogbound Lake[CR] has to be\nup there!
+ Эй, эй! Туман рассеялся!
+ Небо прояснилось...
+ Светит солнце!
+ Эй! Смотрите!
+ В-вы, оба![K] Наверх!\nПосмотрите наверх!
+ Эй, эй! Что это?!
+ Это то, что скрывал туман.
+ Неудивительно, что никто\nтак и не нашёл [CS:P]Затуманенное Озеро[CR].
+ Мы и сами ходили кругами.
+ Эй, эй! Так ты хочешь\nсказать...
+ Что [CS:P]Затуманенное Озеро[CR] на\nвершине этого места? Эй, эй, эй?!
+ Да, именно так.
+ [CS:P]Затуманенное Озеро[CR]\nнаверняка находится там!
++++
+ Hey, hey! This is no time to\nbe gawking!
+ I\'ll let everyone in the\nguild know!
+ You two go on ahead!
+ All right! Let\'s move on,\n[hero].
+ Onward to [CS:P]Fogbound Lake[CR]!
+ Hold it!
+ Y-you brutes?!
+ Good job! Chaw-haw-haw!
+ Whoa-ho-ho! You solved the\nmystery. You\'re no longer of use to us!
+ Heh-heh-heh. We\'ll swipe the\ntreasure, thanks to you!
+ You fiends!
+ So that\'s why you joined the\nexpedition! You planned this all along!
+ Whoa-ho-ho! You expected\nanything less?!
+ Chaw-haw-haw! Sorry to say it,\nbut…
+ We\'ll have to get rid of you\nright here.
+ We\'ll make you eat those words!
+ We won\'t let you go to [CS:P]Fogbound\nLake[CR]!
+ Chaw-haw-haw! You\'ve already\nforgotten our last showdown?
+ Let me remind you how you lost\nto [CS:N]Koffing[CR] and me…
+ You were destroyed by our\nnoxious gas special combo!
+ Gulp…
+ You\'re destined to fail again!\nChaw-haw-haw!
+ Enough talking![K] Take this!
+ Me and [CS:N]Koffing[CR]\'s noxious gas\nspecial com--
+ Waah! Wait! Wait for me!
+ Wh-what?
+ Perfect Apple! ♪ Perfect Apple! ♪
+ I finally caught you! ♪\nMy Perfect Apple! ♪
+ If my Perfect Apple went\naway, I would...[K] I would... Sniffle…
+ Oh? Oh-oh?
+ Oh, you two!
+ And my friends too! ♪
+ Everyone\'s all together! ♪\nYay, yay!
+ G-Guildmaster... Wh-what are\nyou doing here?
+ Huh? What am I doing?
+ I was taking a walk in the\nforest.[K] Then my Perfect Apple went rolling\nand rolling away from me.
+ So I ran and ran and ran,\nand here I am. ♪
+ Oh, yes!
+ You two shouldn\'t be dawdling\nhere, should you?
+ Huh?
+ You two have a job, don\'t you?\nTo explore the forest, right? Go on then,\noff you go. ♪
+ But…
+ You don\'t want to listen to your\nGuildmaster? Boooo! Boooo!
+ Hurry, get exploring! ♪
+ Um... OK.
+ L-let\'s go, [hero].
+ Good luck. ♪
+ Oh, I hope we get some good\nnews soon! ♪[K] La la la la! ♪
+ La la la! ♪ La la! ♪[K] La la la!\nLa la! ♪
+ Um. Guildmaster…
+ Hm? What\'s the matter,\nfriend? ♪
+ We were thinking that we should\ngo explore as well…
+ Oh?!
+ That\'s all right! I can\'t trouble\nmy friends like that!
+ We\'ll let those two do\nthe exploring.
+ Let\'s wait for their report. ♪
+ La la la! ♪ La la! ♪[K] La la la!\nLa la! ♪
+ Whisper, whisper...\n(Chief, this is getting really weird...)
+ Mutter, mutter...\n(Team [team:]\'s going to beat us to the\nprize if we don\'t do something.)
+ Mutter, mutter...\n(What\'ll we do?)
+ Grumble, grumble...\n(We have to do something.)
+ Grumble, grumble...\n(We have no choice. We\'ll take down\n[CS:N]Wigglytuff[CR] right now.)
+ Grumble, grumble...\n(Then, we\'ll chase down Team [team:]!)
+ Whisper, whisper...\n(But do you think it\'ll be all right?)
+ Whisper, whisper...\n([CS:N]Wigglytuff[CR] is, like, creepy.)
+ Mumble, mumble...\n(Don\'t worry about it. He\'s no big deal.[K]\nBesides...)
+ Mumble, mumble...\n(Rumor has it [CS:N]Wigglytuff[CR] has an unbelievably\nprecious treasure.)
+ Whisper, whisper...\n(Oh, really?! Treasure?)
+ Mumble, mumble...\n(That\'s right. I was planning on mugging him\nfor it anyway, so this is a good opportunity.)
+ Mumble, mumble...\n(Hey, [CS:N]Koffing[CR]. Prepare for the noxious gas\nspecial combo.)
+ La la la! ♪ La la! ♪[K] La la la!\nLa la! ♪
+ Mumble, mumble...\n([CS:N]Wigglytuff[CR] is really going to get it!)
+ No hard feelings…
+ But the great, famous explorer\n[CS:N]Wigglytuff[CR]…
+ Is finished! Chaw-haw!
+ Эй, эй! Не время расслабляться!
+ Я сообщу всем об этом месте в\nгильдии!
+ Вы двое, идите вперёд!
+ Хорошо! Идём,\n[hero].
+ Вперёд, к [CS:P]Затуманенному\nОзеру[CR]!
+ Стоять!
+ В-вы, негодяи?!
+ Хорошая работа! Кха-ха-ха!
+ Хоа-хо-хо! Вы разгадали загадку.\nБольше вы нам не нужны!
+ Хе-хе-хе. Благодаря вам, мы\nзаберём сокровище!
+ Вы, злодеи!
+ Так вот почему вы пошли в\nэкспедицию! Вы всё это спланировали!
+ Хоа-хо-хо! А чего от нас ещё\nожидать?
+ Кха-ха-ха! Жаль это говорить,\nно...
+ Придётся нам от вас избавиться.
+ Ты пожалеешь, что сказал\nтакое!
+ Мы не пропустим вас к\n[CS:P]Затуманенному Озеру[CR]!
+ Кха-ха-ха! Что, уже забыли,\nчто мы сделали в прошлый раз?
+ Я напомню вам, как вы проиграли\n[CS:N]Коффингу[CR] и мне...
+ Мы уничтожили вас своим\nтлетворным газовым комбо!
+ (Глоть...)
+ И сейчас вы снова проиграете!\nКха-ха-ха!
+ Хватит болтовни![K] Получайте!
+ Моё с [CS:N]Коффингом[CR] тлетворное\nгазовое ком--
+ Аааа! Постой! Подожди меня!
+ Ч-что?
+ Идеальное Яблоко! ♪\nИдеальное Яблоко! ♪
+ Наконец-то я тебя поймал!\nМоё Идеальное Яблоко! ♪
+ Если бы моё Идеальное Яблочко\nукатилось, я бы...[K] Я бы... Шмыг...
+ Ой? Ой-ой?
+ Ой, вы двое!
+ И друзья! ♪
+ Все собрались вместе! ♪ Ура!\nУра!
+ Г-Гильдмастер... Ч-что вы\nздесь делаете?
+ А? Что я здесь делаю?
+ Я гулял по лесу.[K] И тут моё\nИдеальное Яблоко стало от меня\nукатываться.
+ Я бежал, бежал, бежал и\nприбежал сюда. ♪
+ Ох, да!
+ Вы двое не должны стоять без\nдела, так?
+ А?
+ У вас ведь есть задание, да?\nИсследовать лес, верно? Так идите,\nвперёд. ♪
+ Но...
+ Вы не хотите слушаться\nГильдмастера? Буууу! Буууу!
+ Скорее, исследуйте! ♪
+ Эм... Хорошо.
+ П-пойдём, [hero].
+ Удачи. ♪
+ Ох, надеюсь мы скоро услышим\nдобрые вести![K] ♪ Ла-ла-ла-ла! ♪
+ Ла-ла-ла! ♪ Ла-ла! ♪ Ла-ла-ла!\nЛа-ла! ♪
+ Эм. Гильдмастер...
+ Хм? Что случилось, друг? ♪
+ Мы тут хотели тоже\nпоисследовать...
+ Ой?!
+ Не нужно! Я не хочу тревожить\nсвоих друзей!
+ Пусть эти двое поисследуют.
+ Подождём, что они скажут. ♪
+ Ла-ла-ла! ♪ Ла-ла! ♪[K] Ла-ла-ла!\nЛа-ла! ♪
+ Шу-шу, шу-шу...\n(Босс, становится странновато...)
+ Пс-ст...\n(Команда [team:] перегонит нас,\nесли мы ничего не сделаем.)
+ Пс-ст...\n(Что делать будем?)
+ Бу-бу, бу-бу...\n(Придётся кое-что сделать.)
+ Бу-бу, бу-бу...\n(У нас нет выбора. Нам нужно разобраться\nс [CS:N]Виглитаффом[CR] прямо сейчас.)
+ Бу-бу, бу-бу...\n(После этого, мы догоним Команду \n[team:]!)
+ Шу-шу, шу-шу...\n(Ты уверен, что всё пройдет как надо?)
+ Шу-шу, шу-шу...\n([CS:N]Виглитафф[CR], ну, жуткий.)
+ Бу-бу, бу-бу...\n(Не переживай так. Он ничтожество.\nКроме того...)
+ Бу-бу, бу-бу...\n(Говорят, что [CS:N]Виглитафф[CR] имеет какое-то\nневероятно ценное сокровище.)
+ Шу-шу, шу-шу...\n(О, правда?! Сокровище?)
+ Бу-бу, бу-бу...\n(Именно. Я всё равно планировал его\nограбить, поэтому сейчас самое время.)
+ Бу-бу, бу-бу...\n(Эй, [CS:N]Коффинг[CR]. Готовься исполнить\nтлетворное газовое комбо.)
+ Ла-ла-ла! ♪ Ла-ла! ♪ Ла-ла-ла!\nЛа-ла! ♪
+ Бу-бу, бу-бу...\n(Сейчас [CS:N]Виглитафф[CR] у нас получит!)
+ Без обид...
+ Но величайшему, известнейшему\nисследователю [CS:N]Виглитаффу[CR]...
+ Пришёл конец! Кха-ха!
++++
+The Mystery of\nFogbound Lake
+ Hey![K] There it is, [hero]!
+ See? There\'s a big fissure.
+ It looks like we can go in\nthrough here.
+ I guess we can enter\nthrough here.
+ We can go in through here,\nI think.
+ Is that steam?
+ I bet that it\'s going to be really\nhot in there!
+ But it\'s too late for second\nthoughts.
+ I\'m shaking with anticipation,\n[hero]!
+ What awaits inside?
+ And what awaits us on the top?\nI can\'t even imagine what\'s in store for us.
+ We\'re heading into a place where\nno one has ever gone before!
+ That gets my pulse pounding!
+ Let\'s go, [hero]![K] Let\'s go\ninside and climb upward!
+Тайна\nЗатуманенного Озера
+ Смотри![K] Вот оно,\n[hero]!
+ Видишь? Здесь огромная\nрасселина.
+ Похоже, мы сможем пройти\nздесь.
+ Думаю, мы пойдём здесь.
+ Я думаю, что мы можем пойти\nздесь.
+ Это пар?
+ Похоже, там будет очень\nжарко!
+ Но слишком поздно думать о\nчём-либо ещё.
+ Я трясусь от нетерпения,\n[hero]!
+ Что же внутри?
+ И что ждёт нас на вершине?\nЯ даже представить не могу, что там\nнаходится.
+ Мы отправимся в место, где\nникто ещё не бывал!
+ От этих слов у меня чаще\nбьётся сердце!
+ Идём, [hero]![K]\nЗайдём внутрь и будем взбираться наверх!
++++
+ Ready to head in, [hero]?
+Yes
+ Let\'s do our best, [hero]!
+Not yet
+ OK, then!
+ Let\'s go when you\'re ready.
+ Let\'s go when you\'re ready.
+ Ну что, идём, [hero]?
+Да
+ Постараемся изо всех сил,\n[hero]!
+Ещё нет
+ Тогда ладно!
+ Как будешь готов, мы\nпойдём.
+ Как будешь готова, мы\nпойдём.
++++
+ Ugh![K] We couldn\'t get through!
+ Ouch![K] We didn\'t make it through!
+ Ouchie![K] We didn\'t get through!
+ I guess we got a little careless.
+ But there\'s no time to feel sorry\nfor ourselves.
+ [hero], let\'s keep at it!
+ Угх![K] Мы не справились!
+ Ой![K] Мы не справились!
+ Ой-ёй![K] Мы не справились!
+ Похоже, мы немножко\nрасслабились.
+ Но нет времени жалеть себя.
+ [hero], продолжим наши\nпопытки!
++++
+ We can\'t give up, [hero]!
+ Let\'s go, [hero]![K] We have\nto reach the top!
+ We have to get out of here,\n[hero]!
+ We need to run.
+ Let\'s go as soon as\nyou\'re ready.
+ Let\'s go as soon as\nyou\'re ready.
+ Мы не можем сдаться,\n[hero]!
+ Идём, [hero]![K]\nНам нужно достичь вершины!
+ Нам нужно выбираться\nотсюда, [hero]!
+ Нам надо бежать.
+ Мы пойдём, как только ты\nбудешь готов.
+ Мы пойдём, как только ты\nбудешь готова.
++++
+[CN]Meanwhile…
+[CN]back at the Groudon statue…
+ Psst... Hey, Chief![K] What\'s going\non? Something wrong?
+ Chief... Hey, Chief... You\'ve been\nstaring him down for how long now...?
+ C\'mon...let\'s you and I give him\na double dose of the ol\' noxious gas…
+ Shhh! Shut your yap!
+ Dear friends! What\'s wrong?[K]\nYou\'ve been making such scary faces at me!
+ Bah...[K]this guy\'s tough...[K]\nreally tough…
+ I get it![K] You\'re trying to make\nme laugh with silly faces!
+ I bet I can make you laugh too!
+ Blabba! ♪ Blabba! ♪ Blapp! ♪
+ Blobba! ♪ Blobba! ♪ Blopp! ♪
+ C\'mon, Chief...!"
+ I can\'t take this...this whole\nweird scene is freaking me out…
+ OK, then...this isn\'t working, and\nwe\'re out of options…
+ Hey, [CS:N]Wigglytuff[CR]!
+ Whatiswhatiswhatis...what is it?
+ Hey, no hard feelings, but...[K]\nYou\'re going down!
+ Take this![K] A noxious-gas special!\nStraight from me and [CS:N]Koffing[CR]!
+[CN]Тем временем...
+[CN]У статуи Граудона...
+ Пс-ст... Эй, Босс![K]\nЧто случилось? Что-то не так?
+ Босс... Эй, Босс... Сколько\nты на него уже смотришь?..
+ Давай же... Напичкаем его\nдвойной порцией нашего старого доброго\nгаза...
+ Шшшш! Заткните пасти!
+ Друзья мои! Что случилось?[K]\nВы на меня так грозно смотрите!
+ Ха...[K] Он силён...[K]\nОчень силён...
+ Я всё понял![K] Вы пытаетесь меня\nрассмешить своими глупыми мордами!
+ Я уверен, я тоже смогу вас\nрассмешить!
+ Блабба! ♪ Блабба! ♪ Блапп! ♪
+ Блобба! ♪ Блобба! ♪ Блопп! ♪
+ Ну же, Босс!..
+ Я так больше не могу...\nВесь этот спектакль меня бесит...
+ Ладно... Вариантов у нас нет...
+ Эй, [CS:N]Виглитафф[CR]!
+ Чточточточто... Что такое?
+ Эй, без обид, но...[K]\nТебе конец!
+ Получай![K]\nОсобое тлетворно-газовое комбо!\nПрямиком от меня и [CS:N]Коффинга[CR]!
++++
+ We\'ve climbed a long way up!
+ Can\'t be too much farther to\nthe top!
+GRROOOOOOH...!
+ Hey![K] What was that?
+GRROOOOOOH...!
+ Just now...[K] Did you hear that?
+ Did I just imagine that...[K]or not?
+ Well, anyway...[K] We\'re almost\nthere, so let\'s keep going.
+ Мы уже высоко забрались!
+ До вершины осталось\nнедолго!
+ГРАААААААА!..
+ Эй![K] Что это было?
+ГРАААААААА!..
+ Что за...[K] Ты слышишь?
+ Мне ведь не послышалось...[K]\nДа?
+ Ну, что-ж...[K] Мы почти\nпришли, поэтому идём дальше.
++++
+[CN]Would you like to go on?
+Yes
+No
+[CN]Хотите пойти дальше?
+Да
+Нет
++++
+GRROOOOOOH...!
+ Did you hear that,\n[hero]?!
+ Did you hear that,\n[hero]?!
+ So, I didn\'t imagine that sound\nafter all!
+ It was like some sort of roar!
+ But I wonder what it could be!
+ Who knows what\'s ahead?
+ But we have to tough it out!\nWe have to keep moving!
+ But let\'s be brave! And let\'s\nkeep going on!
+ Oooh, we have to be brave!\nWe need to keep going on!
+ We\'re nearly there.[K] Let\'s go!
+(Yes.[K] We are nearly there.)
+(And when we reach the top...)
+(We may meet [CS:N]Uxie[CR] at last.)
+(It may answer my big question! Who am I?)
+(That is, who was I...before I lost my\nmemory?)
+(That is, who was I...before I lost my\nmemory?)
+ Huh?[K] What is it, [hero]?
+ You want to tell me something?
+ Yeah? Go ahead!
+[CN][hero] confessed what happened\n[CN]since arriving at base camp…
+ You...[K]you what?
+ Ever since we reached\nbase camp…
+ You\'ve had the strange feeling\nthat you know this place?!
+ And you also learned about the\nPokémon that lives at [CS:P]Fogbound Lake[CR]?
+ [CS:N]Uxie[CR], huh? So the legends say\nthat it wipes the memory of those who visit?
+ So, you think you\'ve been here\nbefore, [hero]?
+ So, you think you\'ve been here\nbefore, [hero]?
+ You think you encountered [CS:N]Uxie[CR],\nwho then took your memory?
+ You think you encountered [CS:N]Uxie[CR],\nwho then took your memory?
+ I see![K] So that\'s what has been\nbothering you, [hero]!
+ Hmmm...[K] [hero]!
+ Well, now we have just one\nmore reason to get to the top!
+ We have to meet [CS:N]Uxie[CR] and get at\nthe truth!
+ I wonder what you were like\nbefore you lost your memory, [hero]…
+ I wonder what you were like\nbefore you lost your memory, [hero]…
+ Maybe [CS:N]Uxie[CR] can answer\nsome questions.
+ Let\'s go! Let\'s make our way to\nthe top, [hero]!
+ГРААААААА!..
+ Ты слышал, [hero]?!
+ Ты слышала, [hero]?!
+ Значит, мне этот звук вовсе\nне послышался!
+ Звучит словно какой-то рёв!
+ Но мне интересно, что это!
+ Кто знает, что нас ждёт\nвпереди?
+ Но мы справимся! Нам нужно\nпродолжать идти!
+ Нам нужно быть храбрыми!\nИ продолжать идти!
+ Ооо, нам нужно быть храбрее!\nМы должны идти дальше!
+ Мы почти пришли.[K] Идём!
+(Да.[K] Мы почти пришли.)
+(И когда мы достигнем вершины...)
+(Мы наконец-то сможем встретиться с\n[CS:N]Юкси[CR].)
+(Он сможет ответить на мой главный\nвопрос! Кто я?)
+(Вернее, кем я был... До того, как\nпотерял свою память?)
+(Вернее, кем я была... До того, как\nпотерял свою память?)
+ А?[K] Что такое, [hero]?
+ Ты хочешь мне что-то\nсказать?
+ Да? Говори!
+[CN][hero] признаётся о том, что\n[CN]происходило после прибытия в лагерь...
+ Ты...[K] Ты что?
+ С тех пор, как мы прибыли в\nлагерь...
+ У тебя были странные\nощущения, что ты знаешь это место?!
+ И ещё ты знаешь о Покемоне,\nчто живёт у [CS:P]Затуманенного Озера[CR]?
+ [CS:N]Юкси[CR], да? Легенда гласила,\nчто он способен начисто стирать память\nтех, кто придёт к нему?
+ И ты считаешь, что уже был\nтам, [hero]?
+ И ты считаешь, что уже была\nтам, [hero]?
+ Ты думаешь, что встретил\n[CS:N]Юкси[CR] и он стёр твою память?
+ Ты думаешь, что встретила\n[CS:N]Юкси[CR] и он стёр твою память?
+ Ясно![K] Так вот что тебя\nтревожило, [hero]!
+ Хммм...[K] [hero]!
+ Значит, у нас есть ещё одна\nпричина дойти наверх!
+ Мы встретимся с [CS:N]Юкси[CR] и\nузнаем всю правду!
+ Интересно, каким ты был,\nпрежде чем ты потерял память,\n[hero]...
+ Интересно, каким ты была,\nпрежде чем ты потеряла память,\n[hero]...
+ Возможно [CS:N]Юкси[CR] сможет\nответить на этот вопрос.
+ Вперёд! Доберёмся до\nвершины, [hero]!
++++
+ We\'re getting close.[K]\nLet\'s keep going!
+ Мы почти на месте.[K]\nИдём дальше!
+ Not much farther to go...[K]\nWe have to hold on!
+ Нам осталось недалеко...[K]\nНам нужно продержаться!
++++
+ Ugh...[K] That didn\'t go well!
+ The going\'s really rough here.
+ It\'s really tough.
+ Wow, that was really tough!
+ But we\'re not far now![K] We can\'t\ngive up. Let\'s keep going!
+ But we don\'t have far to go.[K]\nWe can\'t give up. We have to keep trying!
+ But we\'re so close![K] We just\ncan\'t give up now! Let\'s keep trying!
+ Ух...[K] Всё пошло не по\nплану!
+ Здесь не так то просто\nпройти.
+ Как же трудно.
+ Вау, как же это трудно!
+ Но нам осталось недолго\nидти![K] Мы не сдадимся. Продолжим путь!
+ Но нам осталось не так\nдалеко.[K] Мы не сдадимся. Продолжим наши\nпопытки!
+ Но мы ведь так близко![K]\nМы просто не можем сдаться!\nПродолжим наши попытки!
++++
+ We\'ve climbed far up!
+ This place...[K] It feels...[K] It feels\nstrange somehow…
+ The very air is charged\nwith tension!
+ It\'s making my skin crawl...[K]\nall over...
+ I feel like I\'m being crushed...[K]\nby a terrible sense of danger…
+GRROOOOOOH...GRROOOOOOH...!
+ Eep!
+ It\'s that sound we heard earlier,\n[hero]!
+ I knew it![K] It was roaring!
+ Just as I thought![K] It was the\nsound of roaring!
+ I thought it might...[K]be roaring!\nAnd it is!
+GRROOOOOOH...!
+ S-s-something is…
+ ...is...[K]coming!
+ Мы уже далеко забрались!
+ Это место...[K] Оно...[K]\nОно создаёт странное ощущение...
+ Воздух словно искрит от\nнапряжения!
+ У меня мурашки...[K]\nПо всему телу...
+ Словно на меня давит...[K]\nУжасное ощущение опасности...
+ГРАААААА... ГРАААААА!..
+ Оой!
+ Мы уже слышали этот звук,\n[hero]!
+ Я так и знал![K] Это был рёв!
+ Как и думал![K] Это звук\nчьего-то рёва!
+ Я думала это...[K] рёв!\nТак и оказалось!
+ГРАААААА!..
+ Ч-ч-что-то...
+ ...идёт...[K]прямо к нам!
++++
+ Hey, hey, hey![K] Check this out,\neveryone!
+ This is it?[K] The Groudon statue?
+ Oh! But there\'s no one else here!
+ Are you really sure that you saw\nthe Guildmaster, [CS:N]Corphish[CR]?
+ Sure, I\'m sure!
+ I saw him when I was scuttling\nback to base camp.
+ The Guildmaster dashed past, all\nwilly-nilly, in hot pursuit of a Perfect Apple!
+ I gave him a shout and a wave,\nbut he seemed too occupied to holler back.
+ But I\'d guess that [hero]\'s\nteam went ahead.
+ So I\'d bet that the Guildmaster\nwent up after them, don\'t you think?
+ Hmm?[K] The ground…
+ Uh-what...? It\'s shaking!
+GRROOOOOOH...!
+ What...[K]whatever could that be?!
+ What an uproar![K] Is it maybe...?
+ Something is going on up there!
+ Let\'s head up! Hurry!
+ Hmm?
+ Hey, Dad! Did you hear something\nright over there?
+ Like moaning and groaning?
+ Oh, you just imagined it![K]\nNow, let\'s hurry!
+ Yep!
+ Ouchee-wow-wow!
+ I\'m d-d-[K]deflated! I can\'t move!
+ Hork-ork-[K]how did that happen?
+ How did [CS:N]Wigglytuff[CR] shrug off\nour noxious-gas special like it was nothing?
+ And h-h-how did [CS:N]Wigglytuff[CR]\nstrike back at us…
+ It\'s un-[K]believable…
+ Ack…
+ Erk…
+ Ork…
+ Эй, эй, эй![K] Все сюда!
+ Это она?[K] Статуя Граудона?
+ Ой! Но тут больше никого нет!
+ [CS:N]Корфиш[CR], ты точно уверен,\nчто видел здесь Гильдмастера?
+ Уверен, я точно уверен!
+ Я увидел его во время\nвозвращения в лагерь.
+ Гильдмастер пробежал мимо меня,\nвесь на взводе и гнался за Идеальным\nЯблоком!
+ Я крикнул и помахал ему, но он\nдаже не заметил меня.
+ Но я думаю, что [hero]\nи [partner] ушли вперёд.
+ И похоже, Гильдмастер ушёл\nвместе с ними, верно?
+ Хмм?[K] Земля...
+ Ух-что?.. Она трясётся!
+ГРАААААА!..
+ Что...[K] Что бы это могло быть?!
+ Вот это рёв![K] Может это?..
+ Что-то происходит наверху!
+ Поспешим наверх! Скорее!
+ Хмм?
+ Эй, пап! Ты слышал какие-то\nзвуки?
+ Кряхтение и стоны?
+ О, тебе просто послышалось![K]\nДавай, поспешим!
+ Ага!
+ Ойой-ой-ой!
+ Я с-с-[K]сдулся! Не могу\nпошевелиться!
+ Кха-кха...[K] Как же так вышло?
+ Как [CS:N]Виглитаффу[CR] удалось\nвыстоять нашу тлетворную газовую атаку и\nбез каких-либо усилий?
+ И к-к-как [CS:N]Виглитафф[CR] дал нам\nсдачи...
+ Это не-[K]вероятно...
+ Арх...
+ Эрх...
+ Орх...
++++
+GRROOOOOOH...GRROOOOOOH...!
+ Waaah! Wh-what is that?!
+ It looks like the statue!
+ Th-that Pokémon...[K]really exists?
+ GRROOOOOOH...GRROOOOOOH...!
+ Eep!
+ GRROOOOOOH...!
+ YOU! HAVE YOU COME TO DESECRATE\nTHIS PLACE?
+ DEPART NOW!
+ B-but...[K] We just want to go to\n[CS:P]Fogbound Lake[CR]!
+ B-b-but...[K] W-w-we only want to\ngo to [CS:P]Fogbound Lake[CR]!
+ WHAT?! [CS:P]FOGBOUND LAKE[CR]?!
+ I AM THE GUARDIAN OF [CS:P]FOGBOUND\nLAKE[CR]![K] I AM [CS:N]GROUDON[CR]!
+ YOU WILL NEVER LEAVE HERE\nALIVE, INTRUDERS!
+ Whaaat?!
+ГРАААААА... ГРАААААА!..
+ Ааааа! Ч-что это?!
+ Он похож на ту статую!
+ Э-этот Покемон...[K]\nНа самом деле существует?
+ ГРАААААА... ГРАААААА!...
+ Иии!
+ ГРАААААА!..
+ ВЫ! ВЫ ПРИШЛИ ОСКВЕРНИТЬ\nЭТО МЕСТО?
+ НЕМЕДЛЕННО УХОДИТЕ!
+ Н-но...[K] Мы всего лишь хотим\nпопасть к [CS:P]Затуманенному Озеру[CR]!
+ Н-н-но...[K] М-м-мы всего лишь\nхотим попасть к [CS:P]Затуманенному Озеру[CR]!
+ ЧТО?! К [CS:P]ЗАТУМАНЕННОМУ\nОЗЕРУ[CR]?!
+ Я СТРАЖ [CS:P]ЗАТУМАНЕННОГО\nОЗЕРА[CR]![K] Я [CS:N]ГРАУДОН[CR]!
+ ЖИВЫМИ ВЫ ОТСЮДА НЕ УЙДЁТЕ,\nЧУЖАКИ!
+ Чтоооо?!
++++
+ Hey, hey! There\'s the way in!
+ We can go up through here!
+ Let\'s HURRY!
+ H...h...hey…
+ H...hey...[CS:N]Chatot[CR]![K] Can I ask you\nsomething while we\'re running?
+ [CS:N]Chatot[CR], do you know about a\nPokémon called [CS:N]Groudon[CR]?
+ Well, of course! Just what do\nyou take me for? I\'m only the head of\nintelligence for our guild![K] Squawk!
+ [CS:N]Groudon[CR] is a legendary\nPokémon spoken of in myths passed down\nthrough generations.
+ A legendary Pokémon?
+ Correct.
+ The myths say that he raised\nland from the sea. And that he built up the\ncontinents!
+ Hoo-boy! That sounds like a\ncolossal Pokémon!
+ Эй, эй! Вот путь наверх!
+ Мы можем пройти здесь!
+ ПОСПЕШИМ!
+ Э...э... Эй...
+ Э...эй... [CS:N]Чатот[CR]![K] Пока мы бежим,\nмогу ли я кое-что у тебя спросить?
+ [CS:N]Чатот[CR], ты знаешь что-нибудь о\nПокемоне по имени [CS:N]Граудон[CR]?
+ Ну конечно же! За кого ты меня\nпринимаешь? Я ведь самый главный знающий\nнашей гильдии![K] Пик!
+ [CS:N]Граудон[CR] - это легендарный\nПокемон, известный по мифам, передающимся\nиз поколения в поколение.
+ Легендарный Покемон?
+ Именно.
+ В мифах сказано, что он воздвиг\nсушу из моря. После этого, он создал все\nконтиненты!
+ Ооо-гоо! Похоже, это огромный\nПокемон!
++++
+ What if you were to face\n[CS:N]Groudon[CR] in battle?
+ What would happen?
+ Battle?! Out of the question![K]\nSquawk!
+ If anyone were foolish enough to\nface [CS:N]Groudon[CR] in a battle…
+ Well, it would be like throwing\nyour life away!
+ He is that strong![K] Like all\nlegendary Pokémon!
+ GRROOOOOOH!
+ Urk... Scary stuff!
+ Urk... This is scary…
+ Urk... I\'m scared!
+ But we gotta be brave!
+ And I gotta face up to this!
+ No stopping now, [hero]!
+ There\'s no giving up now,\n[hero]!
+ We can\'t just run away now,\n[hero]!
+ PREPARE FOR MY WRATH!\nGRROOOOOOH!
+ А что если кто-либо станет\nсражаться с [CS:N]Граудоном[CR]?
+ Что тогда произойдёт?
+ Сражаться?! Исключено![K] Пик!
+ Если хоть у кого-то не хватит\nмозгов и он станет сражаться с\n[CS:N]Граудоном[CR]...
+ Ну, он попросту подпишет себе\nсмертный приговор!
+ Он невероятно силён![K] Как и все\nлегендарные Покемоны!
+ ГРАААААААА!
+ Ух... Какая жуть!
+ Ух... Как же страшно...
+ Ух... Мне страшно!
+ Но мне нужно быть храбрее!
+ И я смирюсь с этим!
+ Мы не остановимся,\n[hero]!
+ Мы не можем сдаться,\n[hero]!
+ Мы не можем просто так\nудрать, [hero]!
+ ПРОЧУВСТВУЙТЕ МОЮ ЯРОСТЬ!\nГРААААААААА!
++++
+ GRR...GRR...OOOOOOOOOH!
+ YOU AGAIN!
+ NO MATTER HOW MANY TIMES\nYOU TRY...[K]YOU WILL NOT PASS THROUGH TO\n[CS:P]FOGBOUND LAKE[CR]!
+ NEVER!
+ ГРР...ГРР...АААААААА!
+ СНОВА ВЫ!
+ НЕ ВАЖНО СКОЛЬКО РАЗ ВЫ\nБУДЕТЕ ПЫТАТЬСЯ...[K] ВЫ НИКОГДА НЕ\nПРОЙДЁТЕ К [CS:P]ЗАТУМАНЕННОМУ ОЗЕРУ[CR]!
+ НИКОГДА!
++++
+ GRROOOoooh...[K]oooooh…
+ GRROOOOOOH!
+ We did it! We defeated [CS:N]Groudon[CR]!
+ But...[K]is it really...?
+ Waaah!
+ Huh?[K] Where did [CS:N]Groudon[CR] go?!
+ Huh?[K] [CS:N]Groudon[CR] disappeared?!
+ Huh?[K] [CS:N]Groudon[CR] vanished?!
+ That was…
+ That was not [CS:N]Groudon[CR].
+ That [CS:N]Groudon[CR] was nothing more than an\nillusion that I conjured.
+ Who said that?
+ Who...who said that?
+ Like I said earlier, I am the guardian here.
+ And I cannot allow you to pass.
+ Wait!
+ Wait, please!
+ W-wait, please!
+ We don\'t mean to cause\nany trouble!
+ We came only to get some\ninformation! That\'s all!
+ We came only to get a little\ninformation! Th-that\'s all!
+ Information, you say?
+ Yes! That\'s the honest truth!
+ Well, we admit that we\'re an\nexploration team…
+ And we really would love to\nleave with a treasure after all this work!
+ But we don\'t want any if that\'s\ngoing to cause trouble!
+ We\'ll have to be satisfied with\njust making it this far!
+ Please! Please believe us!
+ Hmm…
+ Well...[K]OK, I believe you.
+ Let me welcome you, then.
+ I am [CS:N]Uxie[CR], the guardian of\n[CS:P]Fogbound Lake[CR].
+ What?![K] Did you say [CS:N]Uxie[CR]?!
+ Yes, truly.
+ I stand guard over something\nspecial...[K]that lies in [CS:P]Fogbound Lake[CR].
+ Now, let me escort you to\n[CS:P]Fogbound Lake[CR].
+ Please, come this way.
+ ГРАААааааа...[K]ааааа...
+ ГРАААААААА!
+ У нас получилось!\nМы одолели [CS:N]Граудона[CR]!
+ Но...[K] Он и правда?..
+ Аааа!
+ А? Куда делся [CS:N]Граудон[CR]?!
+ А? [CS:N]Граудон[CR] исчез?!
+ А? [CS:N]Граудон[CR] растворился?!
+ Это был...
+ Это был не [CS:N]Граудон[CR].
+ Этот [CS:N]Граудон[CR] - не более чем иллюзия,\nсотворённая мной.
+ Кто это сказал?
+ Кто... Кто это сказал?
+ Как я уже сказал, я страж этого\nместа.
+ И я не позволю вам пройти.
+ Постой!
+ Прошу, постойте!
+ П-постойте, прошу!
+ Мы не хотели доставлять вам\nнеприятностей!
+ Мы только пришли за\nинформацией! И всё!
+ Мы пришли, чтобы получить\nнемножечко информации! Т-только и всего!
+ Информации, говорите?
+ Да! Это чистая правда!
+ Да, мы признаём, что\nмы - команда исследователей...
+ И после произошедшего мы бы\nочень хотели уйти с каким-нибудь\nсокровищем!
+ Но если из-за этого будут\nнеприятности, мы не станем его брать!
+ Нам будет достаточно лишь\nтого, что мы смогли дойти сюда!
+ Прошу! Прошу, поверьте нам!
+ Хмм...
+ Что-ж...[K] Хорошо, я вам верю.
+ В таком случае, позвольте мне вам\nпредставиться.
+ Я [CS:N]Юкси[CR], страж [CS:P]Затуманенного Озера[CR].
+ Что?! [CS:N]Юкси[CR]?!
+ Да, воистину.
+ Я охраняю нечто особенное...[K]\nТо, что сокрыто в [CS:P]Затуманенном Озере[CR].
+ А теперь, позвольте мне\nсопроводить вас к [CS:P]Затуманенному Озеру[CR].
+ Прошу, следуйте за мной.
++++
+ Wow, it\'s become dark outside!
+ It may be a little difficult to \nsee at night, but…
+ Behold![K] [CS:P]Fogbound Lake[CR]!
+ Wow!
+ Ого, снаружи уже стемнело!
+ Ночью будет несколько трудно его\nувидеть, но...
+ Узрите![K] [CS:P]Затуманенное Озеро[CR]!
+ Вау!
++++
+ That\'s incredible!
+ Such a big lake! Who\'d ever\nexpect it way up here on this plateau!
+ And just look at those fluttering\n[CS:N]Volbeat[CR] and [CS:N]Illumise[CR]…
+ So beautiful!
+ Water constantly wells up from\nfar below this place.
+ It flows up so heavily that it\nhas long formed this enormous lake.
+ Now cast your eyes to the\nglowing area at the lake\'s center.
+ Yes, I see it!
+ It\'s shining up from beneath\nthe waves!
+ That sorta blue, sorta green\nlight, right?
+ Step forward for a closer look.
+ Это невероятно!
+ Какое большое озеро! Кто бы\nмог подумать, что на этом плато есть\nнечто подобное!
+ И только взгляни на этих\nпорхающих [CS:N]Волбитов[CR] и [CS:N]Иллюмайзов[CR]...
+ Это так красиво!
+ Вода постоянно прибывает из далёких\nглубин под этим местом.
+ Она так быстро сюда стекает, что\nздесь образовалось огромное озеро.
+ Теперь, прикуйте свой взор к\nсветящемуся месту в центре озера.
+ Да, я вижу!
+ Что-то светится из-под\nводы!
+ Каким-то синеватым или\nзеленоватым светом, верно?
+ Подойдите поближе и увидите.
++++
+(What could that be?)
+(I can\'t figure it out...[K]but it\'s making my\nheart race!)
+(But why? Why should it stir me up so much?)
+(Why is my pulse speeding all of a sudden?)
+ That\'s fantastic![K] But…
+ What is that?
+ Oooh...[K]it seems so mystical!
+ That is...[K]a Time Gear.
+ What?![K] Really?![K] A Time Gear?!
+ Yes.
+ I guard the Time Gear.
+ It\'s the sole reason I\'m here.
+(Что это такое?)
+(Не могу понять...[K] Но из-за этого, у меня\nучащается сердцебиение!)
+(Но почему? Почему у меня такая реакция?)
+(Почему меня это так будоражит?)
+ Это чудесно![K] Но...
+ Что это?
+ Ооо...[K] Так таинственно!
+ Это...[K] Шестерня Времени.
+ Что?![K] В самом деле?![K]\nШестерня Времени?!
+ Да.
+ Я оберегаю Шестерню Времени.
+ Это единственная причина, по\nкоторой я здесь.
++++
+ Others before you have tried\nto trespass here.
+ But I used my [CS:N]Groudon[CR] illusion\nto chase most of them off.
+ [CS:N]Groudon[CR]? [K]How\'d you do that?
+ That is something I create using\nmy psychic abilities.
+ Like so…
+ Waah!
+ There is no need to be startled.
+ As I\'ve said, it\'s just an illusion.
+ What you fought was no more\nthan that.
+ There have been others before\nwho defeated my [CS:N]Groudon[CR] illusion.
+ They managed to make their way\nto this spot.
+ But they were trespassers![K]\nSo I took away their memories…
+ And, thus, protected the lake.
+ Took away their memories...?
+ ...Oh, right![K] We need to ask you\nsomething, [CS:N]Uxie[CR]!
+ Let me introduce my partner,\n[hero]!
+ Let me introduce my partner,\n[hero]!
+ At present, a Pokémon! At one\ntime, a human!
+ At present, a Pokémon! At one\ntime, a human!
+ Oh, really?[K] A human?
+ Yes! But [hero] has lost\nall memory of being a human.
+ Yes! But [hero] has lost\nall memory of being a human.
+ So, we just gotta wonder...[K]have\nyou met [hero] here before, [CS:N]Uxie[CR]?
+ And did you wipe [hero]\'s\nmemory clean?
+ Has that ever happened?[K]\nDid a human ever come here?
+ Remember anything like that\nhappening, [CS:N]Uxie[CR]?
+ The answer is...[K]no.[K] No human\nhas ever come here.
+ I should explain further...[K]\nI erase only memories of [CS:P]Fogbound Lake[CR].
+ I cannot fully erase all\nmemories from living beings.
+ I had nothing to do with your\nfriend\'s memory loss.
+ I had nothing to do with your\nfriend\'s memory loss.
+ Nor anything to do with your\nfriend\'s transformation into a Pokémon.
+ Nor anything to do with your\nfriend\'s transformation into a Pokémon.
+ The cause lies elsewhere.
+ Oh, well...thanks anyway.
+ So it doesn\'t look like you\'ve\nbeen here before, [hero].
+ So it doesn\'t look like you\'ve\nbeen here before, [hero].
+ [CS:N]Uxie[CR], we wanted to meet you to\nlearn more about my partner...[K]\nUh, what\'s that?!
+ [CS:N]Uxie[CR], we wanted to meet you to\nlearn more about my partner...[K]\nUh, what\'s that?!
+ A Time Gear! A Time Gear![K]\nWell, too bad!
+ We can\'t take a Time Gear.
+ [CS:N]W-Wigglytuff[CR]!
+ Wow! Fantastic!
+ And who might this be?
+ That\'s our Guildmaster!
+ Glad to meet you, friend! ♪\nFriend! ♪ Friend! ♪ Friend! ♪
+ Gaze upon this amazing view!
+ I\'m delighted we came!\nLa-dee-la! ♪ Dee-la-dee! ♪
+ До вас и другие пытались пройти\nсюда.
+ Но я пользовался своей иллюзией\n[CS:N]Граудона[CR], чтобы отогнать большую их\nчасть.
+ [CS:N]Граудона[CR]?[K] Но как ты это\nделаешь?
+ Я создаю его своими психическими\nспособностями.
+ Вот так...
+ Аааа!
+ Не нужно бояться.
+ Как я уже сказал, он - всего лишь\nиллюзия.
+ Вы сражались именно с ней.
+ Были и другие, те, кому удалось\nпобедить мою иллюзию [CS:N]Граудона[CR].
+ Они смогли добраться сюда.
+ Но это были чужаки![K] Поэтому я\nзабрал их воспоминания...
+ И защитил озеро.
+ Забрал воспоминания?..
+ ...Ох, точно![K] Нам нужно\nтебя кое о чём спросить, [CS:N]Юкси[CR]!
+ Позволь мне представить\nсвоего спутника, [hero]!
+ Позволь мне представить\nсвою спутницу, [hero]!
+ В настоящее время, он\nПокемон! Но ранее, он был человеком!
+ В настоящее время, она\nПокемон! Но ранее, она была человеком!
+ Ох, в самом деле?[K] Человеком?
+ Да! Но [hero] потерял\nвсю свою память о времени, когда он был\nчеловеком.
+ Да! Но [hero] потеряла\nвсю свою память о времени, когда она была\nчеловеком.
+ Поэтому, мы хотели\nспросить...[K] [CS:N]Юкси[CR], встречал ли ты\n[hero] ранее?
+ И стирал ли ты память?
+ Это вообще случалось?[K]\nПриходил ли к тебе человек?
+ Помнишь ли ты такое, [CS:N]Юкси[CR]?
+ Мой ответ...[K] Нет.[K] Здесь не было\nни одного человека.
+ Мне стоит прояснить...[K] Я стираю\nвоспоминания лишь о [CS:P]Затуманенном Озере[CR].
+ Я не могу стереть всю память из\nживого существа.
+ Я никак не связан с потерей памяти\nтвоего друга.
+ Я никак не связан с потерей памяти\nтвоей подруги.
+ И также я никак не связан с\nпревращением его в Покемона.
+ И также я никак не связан с\nпревращением её в Покемона.
+ Причина кроется в чём-то другом.
+ Ох, ну... Всё равно\nспасибо.
+ Получается, что ты никогда\nздесь не был, [hero].
+ Получается, что ты никогда\nздесь не была, [hero].
+ [CS:N]Юкси[CR], мы хотели встретить\nтебя, чтобы узнать больше о моём\nспутнике...[K] Эм, что такое?!
+ [CS:N]Юкси[CR], мы хотели встретить\nтебя, чтобы узнать больше о моей\nспутнице...[K] Эм, что такое?!
+ Шестерня Времени!\nШестерня Времени![K] Что-ж, очень жаль!
+ Нам нельзя брать Шестерню\nВремени.
+ [CS:N]В-Виглитафф[CR]!
+ Вау! Чудесно!
+ А это ещё кто такой?
+ Это наш Гильдмастер!
+ Рад тебя видеть, друг! ♪\nДруг! ♪ Друг! ♪ Друг! ♪
+ Посмотрите на этот потрясающий\nвид!
+ Я так рад, что мы пришли сюда!\nЛа-ди-ла! ♪ Ди-ла-ди! ♪
++++
+ Whew! Here we are at last!
+ No time to catch our breath.[K]\nWe\'ve got to hurry!
+ Hey, hey![K] Someone\'s over there!
+ Let\'s go!
+ Squ-squ-squawk?!
+ [CS:N]Gr[CR]-[CS:N]Gr[CR]-[CS:N]Gr[CR]-
+ It\'s [CS:N]Groudon[CR]! Spit it out!
+ D-d-d-ding!
+ Don\'t eat me! I\'m not tasty!
+ Hello to one and all!\nSo what\'s wrong?
+ G-G-Guildmaster!
+ Oh, never mind that![K]\nEveryone, look out there!
+ It\'s spouting!
+ Pretty! Pretty!
+[CS:N]Everyone[CR]: HUH?
+ Фух! Наконец-то мы здесь!
+ Нет времени отдыхать.[K] Поспешим!
+ Эй, эй![K] Там кто-то стоит!
+ Идём!
+ П-п-пик?!
+ [CS:N]Гр[CR]-[CS:N]Гр[CR]-[CS:N]Гр[CR]-
+ Это [CS:N]Граудон[CR]! Говори нормально!
+ Д-д-д-динь!
+ Не ешь меня! Я невкусный!
+ Всем приветик! Что случилось?
+ Г-Г-Гильдмастер!
+ О, не обращайте внимания![K]\nРебята, посмотрите туда!
+ Там фонтан!
+ Красиво! Красиво!
+[CS:N]Все[CR]: ЧТО?
++++
+ Oh, my! So shimmering!
+ Yup yup! Some kind of pretty!
+ Yes, the lake geyser erupts\nevery now and then.
+ It sends up water, just like a\nfountain…
+ And the Time Gear sends up\nillumination from below…
+ While many [CS:N]Illumise[CR] and [CS:N]Volbeat[CR]\nglow upon the fountain of water…
+ In harmony, they are the very\nvision of beauty!
+ The treasure!
+ The treasure...[K]must be the view\nof [CS:P]Fogbound Lake[CR]!
+ Ого! Он так красиво светится!
+ Да-да! Очень красиво!
+ Да, иногда здесь извергается\nозёрный гейзер.
+ Он выбрасывает воду, словно\nфонтан...
+ И Шестерня Времени сияет в\nозере...
+ В то время как множество\n[CS:N]Иллюмайзов[CR] и [CS:N]Волбитов[CR] светятся над\nфонтаном...
+ В своей гармонии, они - сама\nкрасота!
+ Сокровище!
+ Сокровище...[K] Это вид на\n[CS:P]Затуманенное Озеро[CR]!
++++
+ Are you taking in this view,\n[hero]? This is so magical!
+ Too bad we didn\'t learn anything\nabout your past, [hero].
+ But I\'m glad we came!
+ But I\'m glad we came!
+ I\'m happy that I got to see\nsuch a beautiful scene with everyone!
+ I\'m happy that I was able to\nshare such a beautiful moment with everyone!
+ I\'m truly happy.
+ I just couldn\'t be happier!
+(I\'m glad I came too.)
+(I\'m glad I came too.)
+(Sure, it\'s true we never learned who I am...)
+(Sure, it\'s true we never learned who I am...)
+(Hang on a minute...[K][CS:N]Uxie[CR] said...)
+([CS:N]Uxie[CR] said he didn\'t know me...)
+(But if that\'s true...)
+(How did I know about this place?!)
+(And that Time Gear!)
+ Ты видишь это, [hero]?\nКак завораживает!
+ Жаль, что мы так ничего и\nне узнали о твоём прошлом, [hero].
+ Но я рад, что мы пришли\nсюда!
+ Но я рада, что мы пришли\nсюда!
+ Я очень рад, что увидел\nтакой прекрасный вид!
+ Я так рада, что могу\nразделить этот красивый момент вместе со\nвсеми!
+ Я по настоящему счастлив.
+ Я просто не могу быть более\nсчастливой!
+(Я тоже рад, что пришёл сюда.)
+(Я тоже рада, что пришла сюда.)
+(Конечно, мы так и не узнали, кто я\nтакой...)
+(Конечно, мы так и не узнали, кто я\nтакая...)
+(Минутку...[K] [CS:N]Юкси[CR] сказал...)
+([CS:N]Юкси[CR] сказал, что он меня не знает...)
+(Но если это так...)
+(То откуда я знаю об этом месте?!)
+(И об этой Шестерне Времени!)
++++
+ So sorry! To have disturbed you!
+ Had a fantastic time! ♪[K]\nFriend! ♪ Friend! ♪ Friend! ♪
+ I shall not take away your\nmemories of this place.
+ You have earned my trust.
+ But I must ask that you keep\nthis place a secret.
+ Surely! Thank you! We all know\nwhat we need to do!
+ You know, another Time Gear\nhas been stolen. This one must stay safe!
+ We won\'t ever say a word about\nthis place!
+ I swear it in the name of\n[CS:N]Wigglytuff[CR]\'s Guild!
+ Please hold true to that promise.
+ OK![K] Let\'s be on our way!
+ [CS:N]Chatot[CR], if you will!
+ I\'ll hop to it, Guildmaster!
+ Everyone, we\'re going back to\nthe guild!
+[CS:N]Everyone[CR]: HOORAY!
+[CN]And so…
+[CN]The guild\'s long and challenging\n[CN]expedition finally came to an end…
+[CN][CS:N]Wigglytuff[CR] and the members\n[CN]safely returned to the guild…
+[CN]For [hero] and the apprentices…
+[CN]Going to the guild meant taking up\n[CN]the standard training schedule…
+[CN]It was life as usual back at the guild!
+[CN]The clouds lifted from [CS:P]Fogbound Lake[CR]\n[CN]and its surrounding areas!
+[CN]The Exploration Team Federation\n[CN]has sent a message...[W:30]
+[CN][hero]\'s team was rewarded!\n[CN]Its Treasure Bag is now bigger![W:100]
+[CN]You can now carry more\n[CN]items than you could before!
+[CN]Wait...[K]\n[CN]There\'s one more message.
+[CN]The Special Episode\n[CN]\"Igglybuff the Prodigy\"\n[CN]has been unlocked![W:90]
+[CN]To play a Special Episode,\n[CN]select it from the Episode List\n[CN]on the Top Menu.
+[CN]If you would like to play the Special Episode,\n[CN]save your adventure progress, and\n[CN]return to the Top Menu.
+ Прости! Мы тебя потревожили!
+ Мы чудесно провели здесь\nвремя! ♪[K] Друг! ♪ Друг! ♪ Друг! ♪
+ Я не стану забирать у вас\nвоспоминания об этом месте.
+ Я вам доверяю.
+ Но я хочу попросить вас хранить\nэто место в тайне.
+ Конечно! Спасибо тебе! Мы все\nзнаем, что нам нужно делать!
+ Была украдена ещё одна\nШестерня Времени. А Шестерню озера нужно\nоберегать!
+ Мы никому не расскажем об этом\nместе!
+ Именем Гильдии [CS:N]Виглитаффа[CR], я\nклянусь хранить тайну!
+ Прошу, сдержи свою клятву.
+ Да![K] Нам нужно уходить!
+ [CS:N]Чатот[CR], если позволишь!
+ Хорошо, Гильдмастер!
+ Внимание, мы возвращаемся в\nгильдию!
+[CS:N]Все[CR]: УРАААА!
+[CN]И так...
+[CN]Долгая и трудная экспедиция\n[CN]подошла к концу...
+[CN][CS:N]Виглитафф[CR] и члены экспедиции\n[CN]вернулись в гильдию...
+[CN]Для [hero]\n[CN]и прочих учеников...
+[CN]Возвращение в гильдию означало\n[CN]и возвращение к обыденным тренировкам...
+[CN]Жизнь в гильдии снова\n[CN]идёт своим чередом!
+[CN]Облака над [CS:P]Затуманенным Озером[CR]\n[CN]и его окрестностями рассеялись!
+[CN]Федерация Команд Исследователей\n[CN]отправила послание...[W:30]
+[CN]Ваша команда получает\n[CN]более вместительную Сумку для Ценностей![W:100]
+[CN]Теперь вы сможете носить\n[CN]гораздо больше вещей!
+[CN]Минутку...[K]\n[CN]Есть ещё одно послание.
+[CN]Разблокирован Особый Эпизод\n[CN]"Одарённый Иглибафф"![W:90]
+[CN]Чтобы сыграть в Особый Эпизод, выберите\n[CN]его из Списка Эпизодов в Главном Меню.
+[CN]Если вы хотите сыграть в Особый Эпизод,\n[CN]сохраните своё приключение и вернитесь в\n[CN]Главное Меню.
++++
+Dusknoir
+[CN]The next morning…
+ UP AND AT \'EM![K] IT\'S MORNING!
+ Ugh…
+ It\'s been a while since we were\nwoken up like that…
+Даскнуар
+[CN]На следующее утро...
+ ПРОСЫПАЙТЕСЬ![K] УТРО НАСТУПИЛО!
+ Ух...
+ Давненько мы уже так не\nпросыпались...
++++
+ I guess it\'s time to get back to\nour guild training, [hero]!
+ Let\'s work hard at it!
+ Now that\'s what I like to see! A\nlot of morning pep! Impressive!
+ Let\'s see you put that pep to\ngood use today!
+ WHAT?![K] You can\'t identify the\nfootprint?!
+ What do you MEAN?!
+ I\'m trying to tell you![K] I can\'t\nidentify what I don\'t know…
+ What\'s wrong?
+ We have a Pokémon visitor up\ntop whose footprint we can\'t identify!
+ [CS:N]Diglett[CR] is an outstanding sentry.
+ So it\'s rare for him to be\nstumped by footprints!
+ If THOSE two were doing sentry\nduty, that\'d be no shocker…
+ Yeah, right![K] So [CS:N]Diglett[CR] never\nfails to deliver, huh?
+ Oh, really?[K] Well, if it\'s so rare\nthat [CS:N]Diglett[CR] gets stumped…
+ Who are you kidding?[K] If [CS:N]Diglett[CR]\nhere never gets stumped…
+ What about when we first\narrived at the guild?
+ You guys couldn\'t figure out\n[hero]\'s footprint!
+ Right, [hero]?
+ ...Hmmm?[K] ...Say again?[K]\nYou want to meet our Guildmaster?
+ Your name is...[K] [CS:N]Dusknoir[CR]?![K]\nOh! Please wait just a moment!
+ [CS:N]Dus[CR]...[CS:N]Dusknoir[CR]?!
+ The world-famous [CS:N]Dusknoir[CR]?!
+ Thank you for visiting! What an\nhonor!
+ No, no! Think nothing of it!
+ The honor is all mine!
+ There is no greater pleasure\nthan visiting [CS:N]Wigglytuff[CR]\'s Guild! It\'s famous!
+ Hey, [CS:N]Loudred[CR].
+ What do you want?
+ Who\'s that visitor?
+ WHAT?![K] You haven\'t heard of\n[CS:N]Dusknoir[CR]?!
+ The famous explorer?!
+ Urk... Well, you know, I…
+ I haven\'t heard of him!
+ That\'s not surprising, really!
+ He\'s a new arrival on the scene!
+ He came out of nowhere! Like a\ncomet! He became famous almost overnight!
+ They say his talents as an\nexplorer are superexceptional!
+ So this [CS:N]Dusknoir[CR] is really that\namazing?
+ Yeah! Here\'s some more good\nstuff that I heard!
+ He does things unlike anyone\nelse! First, he doesn\'t work in a team.[K] He does\nall his exploring solo.
+ Alone?
+ That\'s right! He\'s got to be\npretty sure about his skills to do that!
+ But what\'s even more\nincredible?[K] His wealth of knowledge!
+ It seems like there\'s nothing in\nthe world he doesn\'t know![K] That\'s how much\nhe knows!
+ Wow! He\'s that knowledgeable?
+ So the rumor goes!
+ But he has used his knowledge\nto succeed on many explorations so far!
+ So many Pokémon revere\n[CS:N]Dusknoir[CR] for his achievements…
+ That\'s how I know the claims\nabout his mighty knowledge must be true!
+ Does [CS:N]Dusknoir[CR] visit here often?
+ No, this is his first time![K] That\'s\nwhy [CS:N]Diglett[CR] couldn\'t recognize him.
+ I think the Guildmaster just met\nhim for the first time, too.
+ Huh?!
+ Then why is he being that\nfriendly?
+ Well, that\'s just how our\nGuildmaster is.
+ Even if it\'s the first time he\nmeets someone.
+ ...I see.[K] Well, that must have\nbeen quite a disappointment for your guild!
+ Yes, that expedition was a waste\nof time! Didn\'t learn a thing about anything!
+ I had heard that [CS:N]Wigglytuff[CR]\'s\nGuild was mounting an expedition to find\n[CS:P]Fogbound Lake[CR].
+ I came here hoping to hear about\nyour latest triumph…
+ Sorry! We didn\'t learn a thing!
+ Not at all! It\'s no trouble to me!
+ This gave me an opportunity to\nvisit you!
+ I plan to stay in Treasure Town\nfor a short while.
+ May I visit with you occasionally\nduring my stay?
+ Your guild constantly receives\nthe latest news. Good information would be a\nbig help on my explorations!
+ No problem!
+ Other exploration teams visit us\nall the time. You\'re always welcome here!
+ Everyone![K] This is [CS:N]Dusknoir[CR]!
+ He\'s going to stay in Treasure\nTown for a while. Mind yourself around him!
+ [CS:N]Dusknoir[CR] is very famous and\nquite knowledgeable…
+ So I bet everyone would like to\nget advice from him!
+ But let\'s not overdo it! We don\'t\nwant to be a nuisance!
+ Now, everyone, our guest might\nbe famous…
+ But don\'t embarrass us by asking\nhim for autographs!
+ No, no! If it\'s autographs you\nwant, I\'m sure that I can oblige!
+ But...information? I\'m afraid you\nflatter me. I have very little information.
+ However, I would be delighted\nif I may be of service to you.
+ If there is anything you wish to\nask of me, please don\'t hesitate.
+ Yup yup! It\'s a great honor!
+ Oooh! I\'m so very glad to have\nmet you!
+ Come now, everyone![K] You\'re\ndismissed!
+ I think I\'ll go for a stroll in\nTreasure Town.
+ Please do feel free to approach\nme with anything.[K] Good day!
+ Oh! You two!
+ I\'d started saying earlier...[K]about\nyour assignment for today…
+ Today I want you to read over\nthe Job Bulletin Board and the Outlaw\nNotice Board.
+ And take some of the listed jobs!\nThat will do!
+ Похоже, нам пора вернуться\nк нашим тренировкам, [hero]!
+ Поработаем как следует!
+ Вот это мне нравится!\nПрекрасный утренний настрой! Чудесно!
+ Посмотрим, как вы сегодня\nиспользуете этот настрой!
+ ЧТО?![K] Как это ты не можешь\nопределить след?!
+ Ты ВООБЩЕ о чём?!
+ Я пытаюсь тебе сказать![K] Я не\nмогу определить то, что я не знаю...
+ Что случилось?
+ К нам пришёл посетитель, след\nкоторого мы не можем определить!
+ [CS:N]Диглетт[CR] великолепный страж.
+ Поэтому он редко не может\nопределить следы!
+ Но если бы ЭТИ ДВОЕ сегодня\nстояли на страже, я бы не был так\nудивлён...
+ О, в самом деле![K]\nВот [CS:N]Диглетт[CR] то никогда не ошибается, а?
+ О, правда ли?[K] Что-ж, если\n[CS:N]Диглетт[CR] так редко впадает в ступор...
+ Кому ты говоришь эту\nчепуху?[K] Если [CS:N]Диглетт[CR] никогда не\nошибается...
+ Помнишь ли ты момент, когда\nмы впервые прибыли в гильдию?
+ Вы долго не могли\nопределить кое-чей след!
+ Верно, [hero]?
+ ...Хммм?[K] ...Что, ещё раз?[K]\nВы хотите встретиться с нашим\nГильдмастером?
+ Ваше имя...[K] [CS:N]Даскнуар[CR]?! Ой![K]\nПрошу вас, подождите минутку!
+ Дас... [CS:N]Даскнуар[CR]?!
+ Всемирно известный [CS:N]Даскнуар[CR]?!
+ Спасибо вам за визит!\nЭто большая честь для нас!
+ Нет, нет!\nНе нужно преклоняться!
+ Встретить вас - для меня честь!
+ Нет большего удовольствия, чем\nпосещение известнейшей Гильдии [CS:N]Виглитаффа[CR]!
+ Эй, [CS:N]Лаудред[CR].
+ Что такое?
+ Кто он такой?
+ ЧТО?![K] Ты не знаешь о [CS:N]Даскнуаре[CR]?!
+ Об известном исследователе?!
+ Ух... Ну, знаешь, я...
+ Я ничего о нём не знаю!
+ Ну, это и не удивительно!
+ Он появился совсем недавно!
+ Он пришёл словно из ниоткуда!\nПрямо как комета! Он почти сразу же стал\nизвестным!
+ Говорят, что у него\nсверхневероятный талант исследователя!
+ Разве [CS:N]Даскнуар[CR] настолько\nхорош?
+ Да! Вот что я ещё о нём\nслышал!
+ Он работает так, как никто\nдругой! Для начала, он не состоит в\nкоманде.[K] Он исследует всё в одиночку.
+ В одиночку?
+ Именно! Он абсолютно уверен в\nсвоих возможностях, раз он делает всё\nтаким образом!
+ Но знаешь, что ещё более\nневероятно?[K] То, сколько всего он знает!
+ Кажется, что в мире нет ничего,\nо чём он бы не знал![K] Вот сколько всего\nему известно!
+ Вау! Он настолько много всё\nзнает?
+ Как говорят!
+ Но его знания помогли ему\nпреуспеть во многих вылазках!
+ Достижениями [CS:N]Даскнуара[CR]\nвосхищаются многие Покемоны...
+ Вот откуда я знаю о всех его\nневероятных знаниях!
+ А [CS:N]Даскнуар[CR] часто здесь\nбывает?
+ Нет, он здесь впервые![K] Именно\nпоэтому [CS:N]Диглетт[CR] не узнал его.
+ Я думаю что и Гильдмастер видит\nего в первый раз.
+ А?!
+ Тогда почему он так с ним\nутчив?
+ Ну, таков наш Гильдмастер.
+ Он так общается, даже если\nвидит кого-либо впервые.
+ ...Понятно.[K] Похоже, все в\nгильдии были ужасно разочарованы!
+ Да, эта экспедиция была пустой\nтратой времени! Мы совершенно ни о чём\nне узнали!
+ Я услышал, что Гильдия\n[CS:N]Виглитаффа[CR] готовит экспедицию, чтобы найти\n[CS:P]Затуманенное Озеро[CR].
+ Я прибыл в надежде узнать о\nваших успехах...
+ Просим прощения! Мы ни о чём\nне узнали!
+ Ничего! Не стоит извиняться!
+ Я просто нашёл повод, чтобы\nвас посетить!
+ Я хочу ненадолго побыть в\nГороде Сокровищ.
+ Могу ли я иногда вас посещать?
+ Вашей гильдии известны все\nнедавние события. Хороший источник\nинформации мне очень поможет на вылазках!
+ Без проблем!
+ Нас часто посещают другие\nкоманды исследователей. Вам всегда здесь\nрады!
+ Всем внимание![K] Это [CS:N]Даскнуар[CR]!
+ Он ненадолго останется в Городе\nСокровищ. Ведите себя с ним учтиво!
+ Даскнуар очень известный и\nвесьма сведущий...
+ Поэтому, я уверен, что вы все\nзахотите услышать от него какой-нибудь\nполезный совет!
+ Но не перестарайтесь! Мы не\nхотим ему докучать!
+ И ещё, ребята, наш гость хоть\nи известен...
+ Но не позорьте нас, пытаясь\nвыпросить у него автограф!
+ Нет, нет! Если вы захотите\nвзять у меня автограф, я вам не откажу!
+ Но... Информация? Боюсь, вы мне\nльстите. У меня не так много информации.
+ Однако, я буду рад, если смогу\nвам чем-нибудь помочь.
+ Если вы захотите у меня\nчто-нибудь узнать, обращайтесь.
+ Да-да! Да нас это честь!
+ Оооо! Я так рада, что встретила\nвас!
+ Так, ребята![K] Вы можете идти!
+ Думаю, я прогуляюсь в Городе\nСокровищ.
+ Не стесняйтесь, подходите ко\nмне, если потребуется.[K] Хорошего вам дня!
+ Ох! Вы двое!
+ Ранее я хотел сказать...[K] О том,\nчто вы сегодня будете делать...
+ Сегодня я хочу, чтобы вы\nпосмотрели задания на Доске Объявлений и\nДоске Разыскиваемых.
+ И выполнили несколько из них!\nЭтого хватит!
++++
+ HEY, [CS:N]Diglett[CR]![K] We\'ve been away\nfrom this! We\'d better FOCUS!
+ ЭЙ, [CS:N]Диглетт[CR]![K] Что-то мы\nотвлеклись! Нам нужно СОСРЕДОТОЧИТЬСЯ!
++++
+ Meh-heh-heh. Now that the\nexpedition is over, I\'m back in business.
+ Back to doing swaps! My\nfavorite thing! Meh-heh-heh.
+ Хе-хе-хе. Экспедиция кончилась\nи я снова в деле.
+ Я снова меняю вещи! Это моё\nлюбимое занятие! Хе-хе-хе.
++++
+ Today you two should look up the\nJob Bulletin Board and the Outlaw Notice\nBoard.
+ Handle the jobs listed there.[K]\nI\'ll leave you to it! ♪
+ Сегодня вам нужно осмотреть\nДоску Объявлений и Доску Разыскиваемых.
+ Выполните несколько заданий.[K]\nНе буду вам мешать! ♪
++++
+ We\'re back to working on the\nguild\'s regular training, [hero].
+ Let\'s do more jobs from the\nJob Bulletin Board and Outlaw Notice Board.
+ Мы снова начинаем наши\nгильдейские тренировки, [hero].
+ Нам нужно выполнять задания\nс Доски Объявлений и Доски Разыскиваемых.
++++
+ Hiya!
+ The expedition was fun! ♪[K]\nLet\'s do it again soon! ♪ La-la-la! ♪
+ Приветик!
+ В экспедиции было весело! ♪\nНадо бы сходить туда ещё разок! ♪\nЛа-ла-ла! ♪
++++
+ It isssss rare to come by\nnewssssss on [CS:P]Zero Isle[CR]. Right, bossssssss?
+ Ссссс [CS:P]Нуль-Оссссстровов[CR] нет\nпочти никаких вессссстей. Верно, боссссс?
++++
+ Then we failed to find clues\nhere too…
+ И здесь мы ничего не нашли...
++++
+ Hey, you two.[K] Do you have any\nnews on [CS:P]Zero Isle[CR]?
+ [CS:P]Zero Isle[CR]?
+ Yeah. Rumor has it that the\ngreatest treasures are there…
+ But the treasures aren\'t the\nmost fascinating thing about that place.
+ When you go in the dungeon...[K]\neveryone is temporarily dropped to Level 1 and\ntheir learned abilities are zeroed out.
+ From what we\'ve heard, you\ncan\'t even take in items.
+ Basically, you walk in alone as if\nyou\'re a rank amateur again.
+ No exploration team\'s made it to\nthe end yet.
+ They\'re calling it the ultimate\ndungeon for good reason.
+ [CS:N]Drapion[CR]![K] You talk too much!
+ Urk![K] I\'m sorry, my lady [CS:N]Weavile[CR].
+ Эй, вы двое.[K] Вы знаете\nчто-нибудь о [CS:P]Нуль-Острове[CR]?
+ [CS:P]Нуль-Острове[CR]?
+ Да. Ходят слухи, что там есть\nсамые ценные сокровища...
+ Но сокровища это не самое\nинтересное, что там есть.
+ Если там пойти в подземелье...[K]\nУровень всей группы временно станет 1 и\nизученные способности будут обнулены.
+ Из того, что известно, туда\nдаже нельзя взять предметы.
+ По сути, вы снова становитесь\nзелёными новичками.
+ Ещё ни одной команде\nисследователей не удалось покорить остров.
+ Не зря эти подземелья называют\nтруднейшими.
+ [CS:N]Драпион[CR]![K] Ты слишком много\nболтаешь!
+ Ух![K] Прости, моя леди [CS:N]Вивайл[CR].
++++
+ We\'ve been away a while,\nand we just got back.
+ While we were gone, I hear\n[CS:N]Wigglytuff[CR]\'s Guild went on an expedition?
+ Tch! That\'s disappointing.[K]\nIf we would have known about it, we would\nhave asked to tag along.
+ Нас не было некоторое время\nи мы только что вернулись.
+ Пока нас не было, Гильдия\n[CS:N]Виглитаффа[CR] отправлялась в экспедицию?
+ Эх! Какая жалость.[K] Если бы мы\nо ней знали, мы бы напросились к вам.
++++
+ How was your expedition?
+ Did you happen to find\nany treasures?
+ Как прошла экспедиция?
+ Вы нашли какие-нибудь\nсокровища?
++++
+ Wasn\'t the expedition fun?!
+ Well, we\'re back to the regular\nguild routine! It\'s time to work again!
+ Разве в нашей экспедиции не\nбыло весело?!
+ Что-ж, теперь мы снова\nзанимаемся нашими гильдейскими делами!\nПора снова поработать!
++++
+ I\'ve got a bad feeling about the\n[CS:N]Sneasel[CR] at the other table for some reason.
+ As soon as he came into the\nstore, he yelled at me, \"Don\'t just loiter!\"
+ It\'s OK to take your time and\nbrowse a bit, though.[K] Isn\'t it?
+ Я не знаю почему, но мне не\nнравится [CS:N]Снизел[CR] за соседним столиком.
+ Он зашёл сюда и тут же начал\nна меня кричать: \"Хватит слоняться без\nдела!\"
+ Но в том, чтобы побродить\nтуда-сюда нет ничего такого.[K] Так ведь?
++++
+ [CS:N]Murkrow[CR]\'s been over there\nfor a while now.
+ It looks like she\'s having a hard\ntime deciding what to order.
+ [CS:N]Маркроу[CR] здесь уже долго стоит.
+ Похоже, она не может решить,\nчто ей заказать.
++++
+ Gummi? [CS:I]Apple[CR]?\nOh, I can\'t decide…
+ Желе? [CS:I]Яблоко[CR]? Ох, не могу\nрешить...
++++
+ This must be the Juice Bar\neveryone\'s been talking about…
+ Должно быть это тот Бар Напитков,\nо котором столько говорят...
++++
+ I\'m [CS:N]Sneasel[CR].\nI\'m a one-Pokémon exploration team.
+ I won\'t let anyone get in my\nway, ever.
+ Я [CS:N]Снизел[CR].\nЯ Покемон исследователь-одиночка.
+ Я никому не позволю встать у\nменя на пути.
++++
+ Did you know that recycling\nsometimes gives you a [CS:I]Prize Ticket[CR]?
+ When you\'re recycling,\nsometimes you\'ll receive a bonus [CS:I]Prize Ticket[CR].
+ Знаешь ли ты, что иногда при\nпереработке можно получить [CS:I]Призовой\nБилет[CR]?
+ Когда ты перерабатываешь\nпредметы, ты можешь получить [CS:I]Призовой\nБилет[CR].
++++
+ Oooh...[K] The great [CS:N]Dusknoir[CR] shook\nmy hand! By gosh and by golly…
+ It\'s like...[K] Like a dream...[K] Wow…
+ Оооо...[K] Великий [CS:N]Даскнуар[CR] пожал\nмне лапу! Вот это да, ей богу...
+ Я словно...[K] Во сне...[K] Вау...
++++
+ Oh my gosh! I got to meet the\nfamous [CS:N]Dusknoir[CR]!
+ It\'s such an honor! Yippee!
+ О боже мой! Я встретилась с\nизвестным [CS:N]Даскнуаром[CR]!
+ Это такая честь! Ураааа!
++++
+ Oh, [hero] and\n[partner]!
+ I\'ve come into an interesting bit\nof news I can\'t wait to share with you.
+ Have you heard about Eggs,\n[hero]?
+ Eggs are quite rare, I hear.[K] And\nI hear you may get them as rewards for jobs.
+ But as precious as Eggs can be,\nthey can be a burden to look after.
+ But...[K]worry no more!
+ There\'s a new shop in town that\nwill take care of your Eggs!
+ See that shop in the lower left?
+ A Pokémon named [CS:N]Chansey[CR] runs\nthe shop.
+ If you ever get an Egg, [CS:N]Chansey[CR]\nwill take care of it for you, [hero].
+ О, [hero] и [partner]!
+ Я тут узнал кое-что очень\nинтересное и хочу вам это рассказать.
+ Ты знаешь о Яйцах, [hero]?
+ Яйца довольно редко попадаются.\nГоворят, что их можно получить как\nнаграду за задание.
+ Яйца конечно ценны, но за ними\nочень трудно следить.
+ Но... Нет волненью!
+ В городе появилось новое место,\nгде могут позаботиться о твоих Яйцах!
+ Видите его слева внизу?
+ Этим место управляет Покемон\nпо имени Ченси.
+ Если ты получишь Яйцо, Ченси\nбудет о нём заботиться, [hero].
++++
+ Welcome back![K] Was the\nexpedition fun?
+ Oh? You never discovered\nanything?[K] Oh... That\'s too bad.
+ С возвращением![K] Ну, что было\nв экспедиции?
+ Ой? Вы ничего не нашли?[K]\nОх... Очень жаль.
++++
+ Oh, what?[K] Nothing turned up on\nthe expedition?
+ The guild normally comes back\nwith lots of treasure after an expedition...[K]\nThat\'s not like you all to fail.
+ Ох, что?[K] Вы ничего не нашли?
+ Обычно гильдия приносит гору\nсокровищ из экспедиций...[K] На вас это\nсовершенно не похоже.
++++
+ How was the expedition? Was it\nfun enough for you? Ha ha ha!
+ Как прошла экспедиция? Вам\nбыло весело? Ха-ха-ха!
++++
+ Ah, welcome back.
+ The money earned on your\nexpedition... Please allow me to hoard it for\nyou in my bank.
+ А, с возвращением.
+ Те деньги, что получены в\nэкспедиции... Позволь мне хранить их в\nмоём банке.
++++
+ Yo![K] Hey, I\'m advertising yet\nanother shop today!\n
+ It\'s a shop down from here...[K]\n[CS:K]Xatu[CR] Appraisal is the place.
+ Have you two picked up any\nstrange treasure boxes in dungeons?\nYou know, ones you can\'t open?
+ [CS:N]Xatu[CR] has the ability to pop open\nboxes like that and take out whatever\'s inside.
+ There\'s just one thing. He\'s...[K]\na little weird.
+ Anyway, if you find a treasure\nbox you can\'t open, [CS:N]Xatu[CR] is the one to visit!
+ Йо![K] Сегодня я рекламирую новое\nместо!
+ Оно находится внизу...[K] Там\nработает Оценщик [CS:K]Ксату[CR].
+ Вы когда-либо находили странные\nшкатулки в подземельях? Ну, те, что\nневозможно открыть?
+ [CS:N]Ксату[CR] может открыть такие\nшкатулки и достать хранящийся в них\nпредмет.
+ Только учтите. Он...[K] Несколько\nстранноват.
+ В общем, если вам попадутся\nшкатулки, заходите к [CS:N]Ксату[CR]!
++++
+ That stink is finally fading…
+ Эта вонь наконец-то\nрассеивается...
++++
+ It still stinks a little…
+ Здесь всё ещё пахнет...
++++
+ Our sense of smell\'s acute.\nWe\'re real sensitive about it.
+ But the stink is mostly gone.\nThat\'s a good thing.
+ У нас великолепный нюх.\nМы очень чувствительны к запахам.
+ Но вонь почти исчезла. Это\nпрекрасно.
++++
+ Ah, welcome back! ♪
+ It sounds very much like it was\na fine expedition for your guild! ♪
+ Ах, с возвращением! ♪
+ Похоже, ваша экспедиция\nувенчалась успехом! ♪
++++
+ Welcome back! ♪[K] Back to your\nguild training, eh?
+ We hope for your continued\npatronage of our humble business! ♪
+ С возвращением! ♪[K] Снова\nтренируетесь в гильдии, да?
+ Мы надеемся, что вы и дальше\nбудете поддерживать наше скромное дело! ♪
++++
+ Welcome back!
+ Oh! After that expedition, you\nboth seem a little different. My dears, you\nhave a new lean, mean look!
+ I can see that!
+ С возвращением!
+ Ой! Вы выглядите иначе после\nэкспедиции. Дорогуши мои, вы совсем\nотощали!
+ Это заметно!
++++
+ Ch-Ch-Chief...[K] We were really\nput in our place on that last expedition...[K] Urk!
+ Chaw-haw-haw... [CS:N]Wigglytuff[CR]\nwrecked us…
+ And I\'m not about to let it go!\nSo humiliating! I need payback...[K]one way\nor another.
+ But, to be brutally honest, we\ndon\'t stand a chance against [CS:N]Wigglytuff[CR].
+ Grrrrr![K] I\'m so furious! It\'s\nburning me up!
+ Whoa-ho-ho! There\'s gotta be\nsome way we can get back at \'em!
+ Heh-heh-heh! I\'d settle for\npicking on wimps. Oh! Hey!
+ Instead of [CS:N]Wigglytuff[CR],\nhow about we take revenge on the wimps in\nthat Team [team:]?
+ Chaw-haw![K] Great idea!
+ Whoa-ho-ho! And we know that\nTeam [team:] is wimpy!
+ Time to do some plotting, boys!\nChaw-haw-haw!
+ Б-Б-Босс...[K] В той экспедиции\nнас здорово отделали...[K] Ух!
+ Кха-ха-ха... [CS:N]Виглитафф[CR] победил\nнас...
+ И я так просто это не оставлю!\nЭто унизительно! Я должен отомстить...[K]\nТак или иначе.
+ Но, совсем честно, против\n[CS:N]Виглитаффа[CR] у нас нет и единого шанса.
+ Грррр![K] Я в бешенстве! Я сгораю\nот злости!
+ Хоа-хо-хо! Должен быть способ\nим отомстить!
+ Хе-хе-хе! Я бы оторвался на\nслабаках. О! Кстати!
+ Как насчёт отомстить Команде\n[team:], а не [CS:N]Виглитаффу[CR]?
+ Кха-ха![K] Прекрасная мысль!
+ Хоа-хо-хо! Мы все прекрасно\nзнаем насколько Команда\n[team:] слаба!
+ Время строить планы, парни!\nКха-ха-ха!
++++
+ Oh! You two!
+ Before you get to work today…
+ I\'d like you to run an errand.
+ An errand?
+ Yes, an errand!
+ Go to [CS:K]Kecleon[CR] Market. Ask the\nowners if they plan to stock Perfect Apples.
+ You want us to ask if they\'ll\nstock Perfect Apples?
+ At [CS:K]Kecleon[CR] Market? We should\nfind out if they plan to sell Perfect Apples?
+ Correct.
+ The guild\'s storage holds many\nPerfect Apples.[K] Or at least it can…
+ But the Guildmaster raids the\nstorage when we\'re not looking and uses up\nour supply.
+ And you know what happens if\nthe Guildmaster is deprived of his Perfect\nApples!
+ But having to search for a fresh\nload of them is always a chore.
+ Sending an exploration team to\n[CS:P]Apple Woods[CR] when the supply runs out is just\ntoo much work.
+ So, if [CS:K]Kecleon[CR] Market started\nstocking Perfect Apples, we could go buy them!
+ Precisely!
+ Gotcha.[K] We\'ll go visit the\n[CS:K]Kecleon[CR] Market.
+ Great! Way to take charge! ♪
+ О! Вы двое!
+ Прежде чем вы возьмётесь за\nработу...
+ Я хочу, чтобы вы выполнили\nпоручение.
+ Поручение?
+ Да, поручение!
+ Отправляйтесь к Лавке [CS:K]Кеклеонов[CR].\nСпросите владельцев, планируют ли они\nпоставки Идеальных Яблок.
+ Хочешь, чтобы мы спросили у\nних о продаже Идеальных Яблок?
+ У [CS:K]Кеклеонов[CR]? Планируют ли\nони продавать Идеальные Яблоки?
+ Верно.
+ Гильдейская кладовка вмещает\nмножество Идеальных Яблок.[K] Может вмещать,\nпо крайней мере...
+ Но когда мы не видим, Гильдмастер\nсовершает свои набеги на кладовку и\nсъедает часть припасов.
+ А вы прекрасно знаете, что\nбывает, если лишить Гильдмастера Идеальных\nЯблок!
+ Но постоянно их искать отнимает\nу нас много времени.
+ Всякий раз, когда запасы подходят\nк концу, мы отправляем команду в [CS:P]Яблоневый\nЛес[CR], что очень утомительно.
+ Поэтому, если в Лавку\n[CS:K]Кеклеонов[CR] будут поставлять Идеальные\nЯблоки, мы могли бы их просто купить!
+ Именно так!
+ Ясно.[K] Мы сходим к Лавке\n[CS:K]Кеклеонов[CR].
+ Отлично! Можете идти! ♪
++++
+ HEY, [CS:N]Diglett[CR]! It\'s a new day!\nLet\'s buckle down and FOCUS!
+ ЭЙ, [CS:N]Диглетт[CR]! Наступил новый\nдень! Пора браться за дело и\nСОСРЕДОТОЧИТЬСЯ!
++++
+ Go to [CS:K]Kecleon[CR] Market and inquire\nif they will be carrying Perfect Apples in\nthe future.
+ I\'ll leave you to it! ♪
+ Отправляйтесь к Лавке [CS:K]Кеклеонов[CR]\nи поинтересуйтесь, станут ли они завозить\nИдеальные Яблоки.
+ Не буду вам мешать! ♪
++++
+ [CS:N]Chatot[CR] was disappointed...[K]\nWe can\'t do anything about it, though.
+ We should deal with jobs from\nthe Job Bulletin Board and Outlaw Notice Board\nfor now.
+ We have to check if [CS:K]Kecleon[CR]\nMarket will be selling Perfect Apples.
+ Let\'s go to [CS:K]Kecleon[CR] Market,\n[hero].
+ [CS:N]Чатот[CR] разочарован...[K] Но мы\nничего с этим не поделаем.
+ Займёмся заданиями с Доски\nОбъявлений и Доски Разыскиваемых.
+ Нам нужно узнать, будет ли\nЛавка [CS:K]Кеклеонов[CR] продавать Идеальные\nЯблоки.
+ Отправимся к Лавке\n[CS:K]Кеклеонов[CR], [hero].
++++
+ I had the chance to chat with\nthe great [CS:N]Dusknoir[CR] the other day.
+ I must say that [CS:N]Dusknoir[CR] is\nincredibly worldly and wise.
+ He\'s a wealth of hints and tips\nfor exploring too.
+ He\'s so very inspiring!
+ Недавно я смогла пообщаться\nс [CS:N]Даскнуаром[CR].
+ Должна сказать, что [CS:N]Даскнуар[CR]\nневероятно открытый и мудрый.
+ Ещё он знает множество моментов,\nполезных для исследований.
+ Он так меня вдохновляет!
++++
+ All right! So which outlaw should\nwe punish today?
+ Итак! Какого негодяя мы сегодня\nбудем наказывать?
++++
+ We\'ve been away from here a\nlong time.
+ The guild was away on an\nexpedition, I heard.
+ Мы сюда уже очень давно не\nзаходили.
+ Говорят, гильдия была на\nэкспедиции.
++++
+ We\'re considering going after\na high-ranking outlaw. We just may go for it.
+ It would be a tough fight. But\nthere\'s only one enemy.
+ With all three of us in on it,\nwe can take one outlaw!
+ Мы собираемся на охоту за\nвысокоранговым негодяем.
+ Это будет нелегкий бой. Но\nвраг только один.
+ Если мы все трое сразимся с\nним, мы сможем справиться с одним\nнегодяем!
++++
+ Oh, hi. How was your\nexpedition?
+ Wasn\'t it too much work?
+ О, привет. Как прошла\nэкспедиция?
+ Вы не перетрудились?
++++
+ Just lying here takes too\nmuch effort…
+ Здесь даже лежать слишком\nутомительно...
++++
+ Huh?[K] Isn\'t that...?
+ Hello there! You\'re from the\nguild, if I\'m not mistaken?
+ Yes. We\'re Team [team:].
+ We work at the guild.[K]\nIt\'s great to meet you!
+ So what are you doing in town,\n[CS:N]Dusknoir[CR], sir? Shopping?
+ No, no. Simply enjoying a chat!
+ I hailed him down! The great\n[CS:N]Dusknoir[CR] is so very famous.
+ We started a conversation![K]\nAnd what a surprising talk!
+ The great [CS:N]Dusknoir[CR] is so worldly\nand wise. I\'m thoroughly impressed!
+ I guess the rumors are true!
+ [CS:N]Dusknoir[CR], sir, you really must be\nas knowledgeable as they say!
+ May I ask, [partner], what I\ncan do for you?
+ Have you come to shop? Oh, yes!\nFine merchandise! ♪ Fine wares! ♪
+ Sorry, no.[K] We came to ask you\nsomething today, not shop.
+ You see…
+ Hmm...[K] I see...[K] Perfect Apples?
+ I am sorry to disappoint you.[K]\nWe have no plans to stock Perfect Apples.
+ Oh, OK. Too bad.
+ [CS:N]Chatot[CR] will be disappointed\nwith this news…
+ [CS:N]Azurill[CR], hurry!
+ Wait for me!
+ The [CS:N]Marill[CR] and [CS:N]Azurill[CR] brothers!\nWell, hello to you both!
+ Oh! Hi, [CS:N]Kecleon[CR] brothers!
+ Oh! And Team [team:] too!
+ What\'s up? What\'s the rush?
+ You know how we\'ve been\nlooking for our lost item?
+ Lost item? Do you mean the\nsame one you were looking for before?
+ Yes! An item called [CS:Z]Water Float[CR]!
+ A [CS:Z]Water Float[CR]? Now that is\nquite the precious item!
+ Yes! That\'s why we\'ve been\nlooking hard for it a long time.
+ And then! Someone said they saw\na [CS:Z]Water Float[CR] on the beach today!
+ We\'re rushing to the beach now!
+ Heh-heh-heh! Juicy tidbit!
+ Whoa-ho-ho! Could be useful for\nour plan!
+ We\'ll bring the Chief up to\nspeed, then get the jump on them.
+ That\'s awesome! It\'s great that\nit\'s finally turned up!
+ Yes!
+ Yep!
+ Come on, [CS:N]Azurill[CR]! Let\'s go quick!
+ Yep!
+ I was wondering how those little\nbrothers were doing with their item search.
+ Good for them. Looks like\nthey\'ve found it.
+ I\'ve never heard of a\n[CS:Z]Water Float[CR].
+ What purpose does it serve?
+ A [CS:Z]Water Float[CR] is an item\nspecifically for [CS:N]Azurill[CR].
+ It can be obtained only by\ntrading precious treasures again and again.
+ As such, it is said to be an\nexceedingly rare item.
+ Gah! Is that so?
+ Our line of work is buying and\nselling! But we have never heard of it.[K] It must\nbe exceedingly rare!
+ To sell such a rare item![K]\nI\'m afraid such a day will never come.
+ To sell...?[K] Oh, I just\nremembered!
+ To sell...?[K] Oh, I just\nremembered!
+ We have to report back to\n[CS:N]Chatot[CR] about the Perfect Apples!
+ Let\'s go back to the guild!
+ А?[K] Это же?..
+ Приветствую! Вы из гильдии,\nесли я не ошибаюсь?
+ Да. Мы Команда [team:].
+ Мы работаем в гильдии.[K]\nРады вас видеть!
+ А что вы делаете в городе,\n[CS:N]Даскнуар[CR], сэр? Закупаетесь?
+ Нет, нет. Просто наслаждаюсь\nбеседой!
+ Я познакомился с ним! Великий\n[CS:N]Даскнуар[CR] очень известен.
+ Мы поговорили![K] И разговор\nбыл удивительным!
+ Великий [CS:N]Даскнуар[CR] очень открыт\nи мудр. Я весьма поражён!
+ Похоже, слухи не врали!
+ [CS:N]Даскнуар[CR], сэр, вы, должно\nбыть, действительно много знаете!
+ [partner], могу ли я спросить,\nчто тебе нужно?
+ Ты здесь, чтобы что-нибудь\nкупить? Ох, да! У нас отличные товары! ♪\nПрекрасное снаряжение! ♪
+ Прости, но нет.[K] Мы пришли,\nчтобы задать один вопрос.
+ Видишь ли...
+ Хмм...[K] Понятно...[K] Идеальные\nЯблоки?
+ Жаль тебя расстраивать.[K] Мы не\nпланируем продавать Идеальные Яблоки.
+ Ох, ясно. Очень жаль.
+ [CS:N]Чатоту[CR] не понравится эта\nвесть...
+ [CS:N]Азурилл[CR], поспеши!
+ Подожди меня!
+ Братья [CS:N]Марилл[CR] и [CS:N]Азурилл[CR]!\nДоброго вам дня!
+ Ой! Здравствуйте, братья\n[CS:N]Кеклеоны[CR]!
+ Ох! И вам, Команда [team:]!
+ Что случилось? Что за спешка?
+ Помните, что мы ищем нашу\nпропавшую вещь?
+ Пропавшую вещь? Ту самую,\nкоторую вы пытались найти ранее?
+ Да! Вещь под названием\n[CS:Z]Поплавок[CR]!
+ [CS:Z]Поплавок[CR]? Это весьма ценный\nпредмет!
+ Да! Именно поэтому мы очень\nхотим его найти.
+ И недавно кто-то сказал нам,\nчто [CS:Z]Поплавок[CR] видели на пляже!
+ Мы очень торопимся на пляж!
+ Хе-хе-хе! Какой лакомый кусочек!
+ Хоа-хо-хо! Очень неплохо для\nнашего плана!
+ Мы быстренько позовём Босса и\nнападём на них.
+ Это замечательно! Хорошо,\nчто так всё обернулось!
+ Да!
+ Ага!
+ Давай, [CS:N]Азурилл[CR]! Бежим быстрее!
+ Ага!
+ Мне было интересно, как там у\nних продвигаются поиски их вещи.
+ Они молодцы. Похоже, они найдут\nего.
+ Я ничего не знаю о [CS:Z]Поплавке[CR].
+ Зачем он нужен?
+ [CS:Z]Поплавок[CR] - это особый предмет\nдля [CS:N]Азуриллов[CR].
+ Его можно получить только\nобменивая ценные сокровища.
+ Поэтому, это невероятно редкий\nпредмет.
+ Ах! Вот как?
+ Мы продаём и покупаем кучу\nвещей! Но мы никогда не слышали об этом.[K]\nДолжно быть, он крайне редкий!
+ Продавать такой редкий предмет![K]\nБоюсь, у нас этого никогда не произойдёт.
+ Продавать?..[K]\nОй, я вспомнил!
+ Продавать?..[K]\nОй, я вспомнила!
+ Нам нужно сообщить [CS:N]Чатоту[CR] о\nИдеальных Яблоках!
+ Вернёмся в гильдию!
++++
+ What?![K] They have no plans to\nstock Perfect Apples?
+ Squawk! What am I supposed to\ndo now?!
+ Um...[K] We could go get some\nPerfect Apples for you at [CS:P]Apple Woods[CR]…
+ What?! You\'re joking!
+ You\'ve previously gone to\n[CS:P]Apple Woods[CR]…
+ You failed utterly!
+ I just can\'t take that![K] I just can\'t\ngo through all that again!
+ ...[K]I\'m sorry.
+ You two were outstanding on our\nrecent expedition. I recognize everything\nthat you\'ve done for us.
+ But the incident...[K]with the\nGuildmaster and the Perfect Apples…
+ It was a slightly traumatic\nincident for me.
+ Squawk![K] I suppose I\'ll have to\nfind the Perfect Apples myself…
+ You two should just look over\nthe Job Bulletin Board and the Outlaw Notice\nBoard as usual.
+ Что?![K] Они не планируют продавать\nИдеальные Яблоки?
+ Пик! Что мне теперь делать?!
+ Эм...[K] Мы могли бы сходить\nв [CS:P]Яблоневый Лес[CR] и принести оттуда\nИдеальных Яблок...
+ Что?! Да ты шутишь!
+ Вы уже ходили в [CS:P]Яблоневый Лес[CR]...
+ Вы совершенно всё испортили!
+ Я этого не вынесу![K] Я не хочу\nопять всё это испытывать!
+ ...[K]Простите меня.
+ Вы хорошо показали себя в\nэкспедиции. Я помню, что вы для нас\nсделали.
+ Но тот случай...[K]\nС Гильдмастером и Идеальными Яблоками...
+ Несколько меня сломал.
+ Пик![K] Похоже, мне придётся самому\nдобывать Идеальные Яблоки...
+ А вам нужно просто выполнить\nзадания с Доски Объявлений и Доски\nРазыскиваемых, как обычно.
++++
+ You two! Oh, just go take some\njobs on the Job Bulletin Board and the Outlaw\nNotice Board…
+ ...Squawk! ...This won\'t do...[K]\nI\'d best go gather the Perfect Apples by\nmyself... Squawk!
+ Вы двое! Ох, просто выполните\nнесколько заданий с Доски Объявлений и\nДоски Разыскиваемых...
+ ...Пик! ...Так не пойдёт...[K]\nМне придётся собирать Идеальные Яблоки\nсамому... Пик!
++++
+ Good day! You\'re from the guild!
+ I\'ve been getting acquainted with\nyour Treasure Town.
+ This is an excellent place.
+ The climate is quite pleasant.\nThe town is well served by shops.
+ The quality of life here must be\ncheery and charming.
+ Why, it\'s so welcoming, I might\nlike to settle here myself... Hoo-hoo-ha!
+ Добрый день! Вы из гильдии!
+ Я ознакамливаюсь с Городом\nСокровищ.
+ Это прекрасное место.
+ Здесь приятный климат. В городе\nполно лавочек.
+ Здесь должно быть очень весело\nи хорошо жить.
+ Здесь настолько хорошо, что я\nвозможно и сам здесь останусь жить...\nХоо-хоо-ха!
++++
+ O sea![K] Hear us!
+ We have met a Pokémon that\ninspires us deeply!
+ A great Pokémon that goes by\nthe name of [CS:N]Dusknoir[CR]!
+ O sea! The world is huge![K]\nAnd there are Pokémon beyond number!
+ Our meager knowledge and\nexperience is no match for the great\n[CS:N]Dusknoir[CR]\'s...[K] However...!
+ We will...[K]one day...[K]be like him…
+ Woooaaah!
+ ...[K]Gasp-gasp…
+ О море![K] Услышь нас!
+ Мы встретили Покемона, дарующего\nвдохновение!
+ Великого Покемона, имя которому\nДаскнуар!
+ О море! Мир огромен![K] И Покемонов\nв нём не счесть!
+ Наши жалкие знания и опыт не\nсравнятся с теми, что есть у Даскнуара...\nОднако!..
+ Однажды...[K] Мы станем...[K]\nКак он...
+ Оооооооо!
+ ...[K]Охх-охх...
++++
+ We need to hear what [CS:N]Torkoal[CR]\nhas to say, [hero].
+ Aaah! This is nice, [hero]!
+ This place is so relaxing.
+ Let\'s lounge for a while before\ngoing back.
+ Нам нужно узнать, что хочет\nсказать нам [CS:N]Торкоал[CR], [hero].
+ Аааах! Как хорошо,\n[hero]!
+ Это место так расслабляет.
+ Давай немного побудем\nздесь, прежде чем возвращаться.
++++
+ Everyone! Time for dinner! ♪
+[CS:N]Everyone[CR]: YEAH!
+[CS:N]Everyone[CR]: Let\'s get…
+ Hold on, everyone!
+ Ahem![K] Before we start dinner…
+ There is something I must\nshare with you.
+ Hey, hey, hey!
+ Come on! Out with it! Let us\neat already!
+ Quiet, please!
+ Ahem.[K] Now we just received\nword of this…
+ Another Time Gear was stolen!
+[CS:N]Everyone[CR]: WHAT?!
+ Another Time Gear?
+ ANOTHER one got stolen?!
+ Uh, is it...[K]maybe...[K]the one in\n[CS:P]Fogbound Lake[CR]?
+ No, it wasn\'t.
+ The stolen Time Gear was not\nfrom [CS:P]Fogbound Lake[CR].
+ It\'s apparently from elsewhere.
+ But that\'s the second Time Gear\nto be stolen.
+ It would be extremely bad if\na third were to be taken.
+ Now, rest assured that I have\nfull confidence in you all.[K] But I must make one\nthing very clear.
+ You must never tell anyone what\nyou witnessed during our expedition!
+ Understood?
+ Of course!
+ I don\'t have a big mouth!
+ Eeek! I would never forget the\npromise we made to [CS:N]Uxie[CR]!
+ OK! OK![K] Quiet, everyone!
+ Sorry to keep you waiting.
+ Without further ado...[K] On your\nmarks...get set…
+[CS:N]Everyone[CR]: CHOW!
+Crunch-munch! Chew-chew! Snuffle-slurp!\nCrunch-munch! Chew-chew! Snuffle-slurp!
+ Ребята! Пора ужинать! ♪
+[CS:N]Все[CR]: ДА!
+[CS:N]Все[CR]: Пора...
+ Постойте!
+ Кхем![K] Прежде чем мы начнём\nужинать...
+ Мне нужно вам кое-что рассказать.
+ Эй, эй, эй!
+ Ну же! Выкладывай! Мы есть\nхотим!
+ Прошу тишины!
+ Кхем.[K] Недавно мы получили\nновость...
+ Украдена ещё одна Шестерня\nВремени!
+[CS:N]Все[CR]: ЧТО?!
+ Ещё одна Шестерня Времени?
+ ЕЩЁ ОДНУ украли?
+ Эм, это ведь...[K] Не та...[K] Что\nнаходится в [CS:P]Затуманенном Озере?
+ Нет, это не она.
+ Украденная Шестерня Времени не\nиз [CS:P]Затуманенного Озера[CR].
+ Она из какого-то другого места.
+ Украли уже вторую Шестерню\nВремени.
+ Но если украдут и третью, то\nбудет очень плохо.
+ Итак, я полагаю, вы знаете, что\nя вам полностью доверяю.[K] Но я должен\nпрояснить одну вещь.
+ Вы никому не должны говорить\nо том, что вы видели во время экспедиции!
+ Всё ясно?
+ Конечно!
+ Я не проболтаюсь!
+ Ииии! Я никогда не нарушу\nобещание, данное [CS:N]Юкси[CR].
+ Так! Так![K] Прошу тишины!
+ Простите, что заставил вас\nждать.
+ Без лишних слов...[K]\nПриготовились...
+[CS:N]Все[CR]: ПОРА ЕСТЬ!
+Хрум-хрум! Ням-ням! Хлюп-хлюп!\nХрум-хрум! Ням-ням! Хлюп-хлюп!
++++
+ Just before dinner, [CS:N]Chatot[CR] said\nanother Time Gear was stolen.
+ That\'s two now! I can\'t imagine\nwho\'d be stealing them!
+ What would anyone want with\nthe Time Gears anyway?
+ I just don\'t understand…
+(I don\'t know either...)
+(But when I was at [CS:P]Fogbound Lake[CR] and saw a\nTime Gear for the first time...)
+(But when I was at [CS:P]Fogbound Lake[CR] and saw a\nTime Gear for the first time...)
+ Перед ужином [CS:N]Чатот[CR] сказал,\nчто украли ещё одну Шестерню Времени.
+ Это уже вторая! Я и\nпредставить не могу, кто их крадёт!
+ Для чего вообще кому-то\nпонадобились Шестерни Времени?
+ Я просто не понимаю...
+(И я не знаю...)
+(Но когда я впервые увидел Шестерню\nВремени в [CS:P]Затуманенном Озере[CR]...)
+(Но когда я впервые увидела Шестерню\nВремени в [CS:P]Затуманенном Озере[CR]...)
++++
+(When I saw the Time Gear...[K] Why did my\nheart start pounding so wildly...?)
+(When I saw the Time Gear...[K] Why did my\nheart start pounding so wildly...?)
+(Когда я увидел Шестерню Времени...[K]\nПочему моё сердце начало биться так\nсильно?..)
+(Когда я увидела Шестерню Времени...[K]\nПочему моё сердце начало биться так\nсильно?..)
++++
+(I must be reading too much into this...)
+(My pulse raced when I saw the Time Gear...)
+(And the Time Gears being stolen...[K] No, there\'s\nno connection at all.)
+ You know, when I think about it,\n[hero]…
+ You know, when I think about it,\n[hero]…
+ I get this feeling that our\nexpedition to [CS:P]Fogbound Lake[CR] took place a long\ntime ago.
+ Wasn\'t the view fantastic?[K]\nIt was like being in a dream!
+ I wonder how [CS:N]Uxie[CR] is doing?
+ I wonder if he\'s well?
+ Hmm…
+ I knew it…
+ I knew I shouldn\'t have\ntrusted them.
+(Возможно, я себя слишком накручиваю...)
+(Моя реакция при виде Шестерни Времени...)
+(И те украденные Шестерни Времени...[K]\nНет, это всё совершенно не связано.)
+ Знаешь, я тут подумал,\n[hero]...
+ Знаешь, я тут подумала,\n[hero]...
+ Такое ощущение, что\nэкспедиция к [CS:P]Затуманенному Озеру[CR] была\nочень давно.
+ Разве там не прекрасный вид?[K]\nМы были словно во сне!
+ Интересно, как поживает\n[CS:N]Юкси[CR]?
+ Всё ли с ним в порядке?
+ Хмм...
+ Я так и знал...
+ Мне не стоило им верить.
++++
+ Soon after they left…
+ Another Pokémon would come…
+ But this one…
+ It stole the Time Gear!
+ После того, как они ушли...
+ Пришёл ещё один Покемон...
+ Но он...
+ Украл Шестерню Времени!
++++
+ I should have done it…
+ I should have taken their\nmemories when I had the chance…
+ I don\'t know exactly what you\'re talking\nabout...[K] But you\'re wrong.
+ No one led me here. No one told me about\nthis place.
+ I\'ve known about the presence of a\nTime Gear here...[K]for a long time.
+ Я должен был это сделать...
+ Я должен был забрать их память,\nпока мог...
+ Я не совсем понимаю о чём ты\nговоришь...[K] Но ты ошибаешься.
+ Никто меня сюда не привёл. И никто\nне говорил мне об этом месте.
+ О том, что здесь есть Шестерня\nВремени...[K] Я знаю уже очень давно.
++++
+ I have no quarrel with you. But I am\ntaking it with me.
+ The third Time Gear!
+ Я тебе не враг.[K] Но я заберу её.
+ Третью Шестерню Времени!
++++
+ When you recycle, you can trade\nup for even more amazing items…
+ I\'m not being deceived, right?\nThis is OK?
+ Предметы для переработки можно\nобменять на ещё более полезные вещи...
+ Меня не обманывают, да?\nВсё именно так?
