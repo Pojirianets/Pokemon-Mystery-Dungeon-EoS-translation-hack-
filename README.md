@@ -1,5 +1,7 @@
 # Pokemon-Mystery-Dungeon-EoS-translation-hack
 
+Ссылка на скачивание последний версии: [alpha-2](https://github.com/Pojirianets/Pokemon-Mystery-Dungeon-EoS-translation-hack-/releases/tag/pmdeos-ru-alpha-2)
+
 ## О проекте
 Изначально был побочным проектом, ответвившимся от [перевода Pokemon HeartGold](https://github.com/Pojirianets/Pokemon-HG-Ru-translation-hack). Работа над побочным переводом велась параллельно с HeartGold, но недолго. Работа была возобновлена спустя некоторое время после выхода релиз-кандидата главного перевода.
 
@@ -31,3 +33,5 @@
 - Основная сюжетная кампания ✓ Готово ✓
 - (Сейчас) - Постгейм
 - (Далее) - Особые Эпизоды 1-5
+
+
