@@ -1,0 +1,414 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link type="text/css" rel="stylesheet" href="css.css"></link>
+	</head>
+	<body>
+	<div style="padding:10px">
+		<textarea rows="10" cols="30" placeholder="Пишите текст здесь" id="ru"></textarea>
+		<textarea rows="10" cols="30" id="conv_eng"></textarea>
+		</br>
+		<button onclick="convert()" >Конвертация (для HeartGold)</button>
+		<button onclick="convert_s()" >Конвертация (для PMD: Explorers of Sky)</button>
+	</div>
+	<p>Предпросмотр</p>
+		<div style="position: relative; float:left;">
+			<img src="Dialogue_upscaled.png" class="no-select"></img>
+			<div style="position:absolute; top:26px; left:56px; width:870px; height:140px; overflow:hidden;">
+				<div id="shdtxt" class="dialoguetext_shade no-select" style="color:darkgray;top:4px;left:0px;"><p class="npm">Конвертированный текст появится здесь. (Его даже можно выделить!)</p></div>
+				<div id="shdtxt1" class="dialoguetext_shade no-select" style="color:darkgray;top:4px;left:4px;"><p class="npm">Конвертированный текст появится здесь. (Его даже можно выделить!)</p></div>
+				<div id="shdtxt2" class="dialoguetext_shade no-select" style="color:darkgray;top:0px;left:4px;"><p class="npm">Конвертированный текст появится здесь. (Его даже можно выделить!)</p></div>
+				<div id="shdtxt3" class="dialoguetext" style="color:#383838;"><p class="npm">Конвертированный текст появится здесь. (Его даже можно выделить!)</p></div>
+			</div>
+		</div>
+		</br>
+		<div style="">
+			<button onclick="TextWayUp()" style="font-size:20px;">//\\</button></br>
+			<button onclick="TextUp()" style="font-size:20px;">/\</button></br>
+			<p class="npm" id="counter" style="font-size:20px;">0/0</p>
+			<button onclick="TextDown()" style="font-size:20px;">\/</button></br>
+			<button onclick="TextWayDown()" style="font-size:20px;">\\//</button>
+		</div>
+	</body>
+	<script>
+	var text_prep;
+	var text_split;
+	var text_split_length;
+	var text_current = 0;
+	
+	function convert_s(){
+		text_current = 0;
+		var text = document.getElementById('ru');
+		var dialogue_style = document.querySelector(".dialoguetext");
+		var dialogue_style_s = document.querySelectorAll(".dialoguetext_shade");
+		console.log(dialogue_style_s);
+		var r = false;
+		
+		text_prep = text.value;
+		var text_eng = document.getElementById('conv_eng');
+		
+		
+		var text_length = text_prep.length;
+		var current_char = "";
+		var converted_str = "";
+		
+		for (i=0; i<text_length; i++){
+			current_char = text_prep.charAt(i)
+			switch(current_char){
+			//А
+				case 'А': converted_str += "À";break;
+				case 'а': converted_str += "à";break;
+			//Б
+				case 'Б': converted_str += "Á";break;
+				case 'б': converted_str += "á";break;
+			//В
+				case 'В': converted_str += "Â";break;
+				case 'в': converted_str += "â";break;
+			//Г
+				case 'Г': converted_str += "Ã";break;
+				case 'г': converted_str += "ã";break;
+			//Д
+				case 'Д': converted_str += "Ä";break;
+				case 'д': converted_str += "ä";break;
+			//Е
+				case 'Е': converted_str += "Å";break;
+				case 'е': converted_str += "å";break;
+			//Ё
+				case 'Ё': converted_str += "Æ";break;
+				case 'ё': converted_str += "æ";break;
+			//Ж
+				case 'Ж': converted_str += "Ç";break;
+				case 'ж': converted_str += "ç";break;
+			//З
+				case 'З': converted_str += "È";break;
+				case 'з': converted_str += "è";break;
+			//И
+				case 'И': converted_str += "É";break;
+				case 'и': converted_str += "é";break;
+			//Й
+				case 'Й': converted_str += "Ê";break;
+				case 'й': converted_str += "ê";break;
+			//К
+				case 'К': converted_str += "Ë";break;
+				case 'к': converted_str += "ë";break;
+			//Л
+				case 'Л': converted_str += "Ì";break;
+				case 'л': converted_str += "ì";break;
+			//М
+				case 'М': converted_str += "Í";break;
+				case 'м': converted_str += "í";break;
+			//Н
+				case 'Н': converted_str += "Î";break;
+				case 'н': converted_str += "î";break;
+			//О
+				case 'О': converted_str += "Ï";break;
+				case 'о': converted_str += "ï";break;
+			//П
+				case 'П': converted_str += "Ð";break;
+				case 'п': converted_str += "ð";break;
+			//Р
+				case 'Р': converted_str += "Ñ";break;
+				case 'р': converted_str += "ñ";break;
+			//С
+				case 'С': converted_str += "Ò";break;
+				case 'с': converted_str += "ò";break;
+			//Т
+				case 'Т': converted_str += "Ó";break;
+				case 'т': converted_str += "ó";break;
+			//У
+				case 'У': converted_str += "Ô";break;
+				case 'у': converted_str += "ô";break;
+			//Ф
+				case 'Ф': converted_str += "Õ";break;
+				case 'ф': converted_str += "õ";break;
+			//Х
+				case 'Х': converted_str += "Ö";break;
+				case 'х': converted_str += "ö";break;
+			//Ц
+				case 'Ц': converted_str += "Ø";break;
+				case 'ц': converted_str += "ø";break;
+			//Ч
+				case 'Ч': converted_str += "Œ";break;
+				case 'ч': converted_str += "œ";break;
+			//Ш
+				case 'Ш': converted_str += "Š";break;
+				case 'ш': converted_str += "š";break;
+			//Щ
+				case 'Щ': converted_str += "Þ";break;
+				case 'щ': converted_str += "þ";break;
+			//Ъ
+				case 'Ъ': converted_str += "Ù";break;
+				case 'ъ': converted_str += "ù";break;
+			//Ы
+				case 'Ы': converted_str += "Ú";break;
+				case 'ы': converted_str += "ú";break;
+			//Ь
+				case 'Ь': converted_str += "Û";break;
+				case 'ь': converted_str += "û";break;
+			//Э
+				case 'Э': converted_str += "Ü";break;
+				case 'э': converted_str += "ü";break;
+			//Ю
+				case 'Ю': converted_str += "Ý";break;
+				case 'ю': converted_str += "ý";break;
+			//Я
+				case 'Я': converted_str += "Ÿ";break;
+				case 'я': converted_str += "ÿ";break;
+			//other
+				case ' ': converted_str += " ";break;
+				case ',': converted_str += ",";break;
+				case '.': converted_str += ".";break;
+				case '?': converted_str += "?";break;
+				case '!': converted_str += "!";break;
+				case '(': converted_str += "(";break;
+				case ')': converted_str += ")";break;
+				
+				case '\\': converted_str += "\\";break;
+				case 'n': converted_str += "n";break;
+				case 'r': converted_str += "r";break;
+				case 'f': converted_str += "f";break;
+			}
+		}
+		document.getElementById("conv_eng").value = converted_str;
+		text_prep = text_prep.replace(/\\n/g, '<br/>');
+		text_prep = text_prep.replace(/\\r/g, '<br/>');
+		text_prep = text_prep.replace(/\\f/g, '<br/>');
+		
+		if (r==false){
+			dialogue_style.classList.add("disablewrap");
+			for(var i = 0;i<dialogue_style_s.length;i++){
+				dialogue_style_s[i].classList.add("disablewrap");
+			}
+			r = true;
+		}
+		
+		RenewText();
+		text_split = text_prep.split('<br/>');
+		text_split_length = text_split.length-2;
+		RenewCounter();
+		
+		for (var i = 0; i < text_split.length; i++){
+			text_split[i] = text_split[i].replace(/\\n/g, '<br/>');
+			text_split[i] = text_split[i].replace(/\\r/g, '<br/>');
+			text_split[i] = text_split[i].replace(/\\f/g, '<br/>');
+			text_split[i] += '<br/>';
+		}
+	}	
+function convert(){
+		text_current = 0;
+		var text = document.getElementById('ru');
+		var dialogue_style = document.querySelector(".dialoguetext");
+		var dialogue_style_s = document.querySelectorAll(".dialoguetext_shade");
+		console.log(dialogue_style_s);
+		var r = false;
+		
+		text_prep = text.value;
+		var text_eng = document.getElementById('conv_eng');
+		
+		
+		var text_length = text_prep.length;
+		var current_char = "";
+		var converted_str = "";
+		
+		for (i=0; i<text_length; i++){
+			current_char = text_prep.charAt(i)
+			switch(current_char){
+			//А
+				case 'А': converted_str += "A";break;
+				case 'а': converted_str += "a";break;
+			//Б
+				case 'Б': converted_str += "B";break;
+				case 'б': converted_str += "b";break;
+			//В
+				case 'В': converted_str += "C";break;
+				case 'в': converted_str += "c";break;
+			//Г
+				case 'Г': converted_str += "D";break;
+				case 'г': converted_str += "d";break;
+			//Д
+				case 'Д': converted_str += "E";break;
+				case 'д': converted_str += "e";break;
+			//Е
+				case 'Е': converted_str += "F";break;
+				case 'е': converted_str += "f";break;
+			//Ё
+				case 'Ё': converted_str += "F";break;
+				case 'ё': converted_str += "f";break;
+			//Ж
+				case 'Ж': converted_str += "G";break;
+				case 'ж': converted_str += "g";break;
+			//З
+				case 'З': converted_str += "H";break;
+				case 'з': converted_str += "h";break;
+			//И
+				case 'И': converted_str += "I";break;
+				case 'и': converted_str += "i";break;
+			//Й
+				case 'Й': converted_str += "J";break;
+				case 'й': converted_str += "j";break;
+			//К
+				case 'К': converted_str += "K";break;
+				case 'к': converted_str += "k";break;
+			//Л
+				case 'Л': converted_str += "L";break;
+				case 'л': converted_str += "l";break;
+			//М
+				case 'М': converted_str += "M";break;
+				case 'м': converted_str += "m";break;
+			//Н
+				case 'Н': converted_str += "N";break;
+				case 'н': converted_str += "n";break;
+			//О
+				case 'О': converted_str += "O";break;
+				case 'о': converted_str += "o";break;
+			//П
+				case 'П': converted_str += "P";break;
+				case 'п': converted_str += "p";break;
+			//Р
+				case 'Р': converted_str += "Q";break;
+				case 'р': converted_str += "q";break;
+			//С
+				case 'С': converted_str += "R";break;
+				case 'с': converted_str += "r";break;
+			//Т
+				case 'Т': converted_str += "S";break;
+				case 'т': converted_str += "s";break;
+			//У
+				case 'У': converted_str += "T";break;
+				case 'у': converted_str += "t";break;
+			//Ф
+				case 'Ф': converted_str += "U";break;
+				case 'ф': converted_str += "u";break;
+			//Х
+				case 'Х': converted_str += "V";break;
+				case 'х': converted_str += "v";break;
+			//Ц
+				case 'Ц': converted_str += "W";break;
+				case 'ц': converted_str += "w";break;
+			//Ч
+				case 'Ч': converted_str += "X";break;
+				case 'ч': converted_str += "x";break;
+			//Ш
+				case 'Ш': converted_str += "Y";break;
+				case 'ш': converted_str += "y";break;
+			//Щ
+				case 'Щ': converted_str += "Z";break;
+				case 'щ': converted_str += "z";break;
+			//Ъ
+				case 'Ъ': converted_str += "À";break;
+				case 'ъ': converted_str += "à";break;
+			//Ы
+				case 'Ы': converted_str += "Á";break;
+				case 'ы': converted_str += "á";break;
+			//Ь
+				case 'Ь': converted_str += "Â";break;
+				case 'ь': converted_str += "â";break;
+			//Э
+				case 'Э': converted_str += "Ã";break;
+				case 'э': converted_str += "ã";break;
+			//Ю
+				case 'Ю': converted_str += "Ä";break;
+				case 'ю': converted_str += "ä";break;
+			//Я
+				case 'Я': converted_str += "Å";break;
+				case 'я': converted_str += "å";break;
+			//other
+				case ' ': converted_str += " ";break;
+				case ',': converted_str += ",";break;
+				case '.': converted_str += ".";break;
+				case '?': converted_str += "?";break;
+				case '!': converted_str += "!";break;
+				case '(': converted_str += "(";break;
+				case ')': converted_str += ")";break;
+				
+				case '\\': converted_str += "\\";break;
+				case 'n': converted_str += "n";break;
+				case 'r': converted_str += "r";break;
+				case 'f': converted_str += "f";break;
+			}
+		}
+		document.getElementById("conv_eng").value = converted_str;
+		text_prep = text_prep.replace(/\\n/g, '<br/>');
+		text_prep = text_prep.replace(/\\r/g, '<br/>');
+		text_prep = text_prep.replace(/\\f/g, '<br/>');
+		
+		if (r==false){
+			dialogue_style.classList.add("disablewrap");
+			for(var i = 0;i<dialogue_style_s.length;i++){
+				dialogue_style_s[i].classList.add("disablewrap");
+			}
+			r = true;
+		}
+		
+		RenewText();
+		text_split = text_prep.split('<br/>');
+		text_split_length = text_split.length-2;
+		RenewCounter();
+		
+		for (var i = 0; i < text_split.length; i++){
+			text_split[i] = text_split[i].replace(/\\n/g, '<br/>');
+			text_split[i] = text_split[i].replace(/\\r/g, '<br/>');
+			text_split[i] = text_split[i].replace(/\\f/g, '<br/>');
+			text_split[i] += '<br/>';
+		}
+	}
+	
+	function TextUp(){
+		if (text_current > 0){
+			text_prep = "";
+			text_current -= 1;
+			text_prep += text_split[text_current];
+			text_prep += text_split[text_current+1];
+		}
+		RenewText();
+		RenewCounter();
+		
+	}
+	function TextWayUp(){
+			text_prep = "";
+			text_current = 0;
+			text_prep += text_split[text_current];
+			text_prep += text_split[text_current+1];
+		RenewText();
+		RenewCounter();
+		
+	}
+	
+	function TextDown(){
+		if (text_current < text_split.length-2){
+			text_prep = "";
+			text_current += 1;
+			text_prep += text_split[text_current];
+			text_prep += text_split[text_current+1];
+		}
+		
+		RenewText();
+		RenewCounter();
+	}
+	function TextWayDown(){
+			text_prep = "";
+			text_current = text_split.length-2;
+			text_prep += text_split[text_current];
+			text_prep += text_split[text_current+1];
+		
+		RenewText();
+		RenewCounter();
+	}
+	
+	function RenewText(){
+		document.getElementById("shdtxt").innerHTML = text_prep;
+		document.getElementById("shdtxt1").innerHTML = text_prep;
+		document.getElementById("shdtxt2").innerHTML = text_prep;
+		document.getElementById("shdtxt3").innerHTML = text_prep;
+	}
+	function RenewCounter(){
+		var counter = text_current;
+		var counter_max = text_split_length;
+		var counter_text = counter + "/" + counter_max;
+		document.getElementById("counter").innerHTML = counter_text;
+	}
+	</script>
+</html>
+
+
+

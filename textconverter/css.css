@@ -1,0 +1,43 @@
+.npm{margin:0;padding:0;}
+
+@font-face{
+	font-family: "PokemonFont";
+	font-style: normal;
+	font-weight:400;
+	src: url(PokemonFont.ttf);
+}
+.no-select{
+	-webkit-touch-callout: none;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+}
+.disablewrap{
+	white-space: nowrap;
+}
+
+.dialoguetext{
+	position:absolute; 
+	top:0px; 
+	left:0px; 
+	width:870px;
+	height:140px;
+	line-height:64px;
+	word-wrap:break-word;
+	word-spacing:0px;
+	font-family:"PokemonFont";
+	font-size:66px;
+	overflow: hidden;
+}
+.dialoguetext_shade{
+	position:absolute;  
+	width:870px;
+	height:140px;
+	line-height:64px;
+	word-wrap:break-word;
+	word-spacing:0px;
+	font-family:"PokemonFont";
+	font-size:66px;
+	overflow: hidden;
+}
