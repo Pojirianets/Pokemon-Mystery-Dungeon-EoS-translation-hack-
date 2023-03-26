@@ -1,6 +1,6 @@
 # Pokemon-Mystery-Dungeon-EoS-translation-hack
 
-Ссылка на скачивание последней версии: [Релиз 1.0](https://github.com/Pojirianets/Pokemon-Mystery-Dungeon-EoS-translation-hack-/releases/tag/release)
+Ссылка на скачивание последней версии: [Релиз 1.01](https://github.com/Pojirianets/Pokemon-Mystery-Dungeon-EoS-translation-hack-/releases/tag/release)
 
 ## О проекте
 Изначально был побочным проектом, ответвившимся от [перевода Pokemon HeartGold](https://github.com/Pojirianets/Pokemon-HG-Ru-translation-hack). Работа над побочным переводом велась параллельно с HeartGold, но недолго. Работа была возобновлена спустя некоторое время после выхода релиз-кандидата главного перевода.
